@@ -1,0 +1,271 @@
+<!doctype html>
+<html>
+<head>
+	<title>【全文】通用工程师学历教育的研究与实践_高等工程教育研究</title>
+	<meta name="keywords" content="高等工程教育,通用工程师,学历教育,认证,国际竞争力,创新," />
+	<meta name="description" content="摘要：具有国际竞争力的卓越工程师人才是衡量一个国家经济实力和发展潜力大小的重要指标。本文基于对国际工程教育发展趋势的分析，解读通用工程师学历教育认证与质量保证体系，归纳出工程师人才的国际竞争力D＋SIETIC要..." >
+	
+	<meta http-equiv="Content-Type" content="text/html; no-transform; charset=utf-8" />
+	<meta name="format-detection" content="telephone=no">
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0" />
+	<script src="https://www.xueshu.com/theme/xueshu.com/touch/static/jquery-1.11.1.min.js"></script>
+	<script src="https://www.xueshu.com/theme/xueshu.com/touch/static/public.js"></script>
+	<link href="https://www.xueshu.com/theme/xueshu.com/touch/static/public.css" rel="stylesheet" type="text/css" />
+	<script>
+	var site_root = 'https://www.xueshu.com';
+	</script>
+
+	<script src="https://www.xueshu.com/theme/xueshu.com/touch/static/jquery.form.min.js"></script>
+	<script src="https://www.xueshu.com/static/jquery/validate/jquery.validate.js"></script>
+</head>
+<body>
+
+<header id="header">
+	<div class="breadcrumbswrap headboxlink1 headboxprev">
+		<div class="head_prev"><a href="javascript:history.back()">&lt;</a></div>
+		<div class="head_tit f18">高等工程教育研究</div>
+		<div class="headlink"><a href="https://www.xueshu.com/s.html" class="toplinkbox">搜索</a></div>
+	</div>
+</header>
+
+<section class="wrapper">	
+
+		<nav class="indexnavwrap">
+			<div class="breadcrumbsbox" id="navwrapper">
+				<ul class="clear indexnav navscroller" id="indexNav">
+					<li><a href="https://www.xueshu.com/">首页</a></li>
+					<li><a href="https://www.xueshu.com/qikan/jiaoyu/">教育</a></li>
+					<li><a href="https://www.xueshu.com/qikan/yixue/">医学</a></li>
+					<li><a href="https://www.xueshu.com/qikan/jingji/">经济</a></li>
+					<li><a href="https://www.xueshu.com/qikan/jinrong/">金融</a></li>
+					<li><a href="https://www.xueshu.com/qikan/guanli/">管理</a></li>
+					<li><a href="https://www.xueshu.com/qikan/keji/">科技</a></li>
+					<li><a href="https://www.xueshu.com/qikan/gongye/">工业</a></li>
+					<li><a href="https://www.xueshu.com/qikan/jixie/">机械</a></li>
+					<li><a href="https://www.xueshu.com/qikan/nongye/">农业</a></li>
+					<li><a href="https://www.xueshu.com/qikan/dianli/">电力</a></li>
+					<li><a href="https://www.xueshu.com/qikan/shuili/">水利</a></li>
+					<li><a href="https://www.xueshu.com/qikan/wenxue/">文学</a></li>
+					<li><a href="https://www.xueshu.com/qikan/yishu/">艺术</a></li>
+					<li><a href="https://www.xueshu.com/qikan/wenhua/">文化</a></li>
+					<li><a href="https://www.xueshu.com/qikan/jianzhu/">建筑</a></li>
+					<li><a href="https://www.xueshu.com/qikan/tushu/">图书</a></li>
+					<li><a href="https://www.xueshu.com/qikan/dangan/">档案</a></li>
+					<li><a href="https://www.xueshu.com/qikan/jiaotong/">交通</a></li>
+					<li><a href="https://www.xueshu.com/qikan/tiyu/">体育</a></li>
+					<li><a href="https://www.xueshu.com/qikan/huanjing/">环境</a></li>
+					<li><a href="https://www.xueshu.com/qikan/zhengfa/">政法</a></li>
+					<li><a href="https://www.xueshu.com/qikan/meikuang/">计算机</a></li>
+					<li><a href="https://www.xueshu.com/qikan/dizhi/">煤矿</a></li>
+					<li><a href="https://www.xueshu.com/qikan/huagong/">地质</a></li>
+					<li><a href="https://www.xueshu.com/qikan/shehui/">化工</a></li>
+					<li><a href="https://www.xueshu.com/qikan/kexue/">社会</a></li>
+					<li><a href="https://www.xueshu.com/qikan/huaxue/">科学</a></li>
+					<li><a href="https://www.xueshu.com/qikan/shengwu/">化学</a></li>
+					<li><a href="https://www.xueshu.com/qikan/xinwen/">生物</a></li>
+					<li><a href="https://www.xueshu.com/qikan/lishi/">新闻</a></li>
+					<li><a href="https://www.xueshu.com/qikan/hangkong/">历史</a></li>
+					<li><a href="https://www.xueshu.com/qikan/lilun/">航空</a></li>
+					<li><a href="https://www.xueshu.com/qikan/dianzi/">理论</a></li>
+					<li><a href="https://www.xueshu.com/qikan/zhengzhi/">电子</a></li>
+					<li><a href="https://www.xueshu.com/qikan/shiyou/">政治</a></li>
+					<li><a href="https://www.xueshu.com/qikan/jisuanji/">石油</a></li>
+				</ul>
+			</div>
+		</nav>
+</section>
+
+<div class="dxn-bck1">
+	<h1>通用工程师学历教育的研究与实践</h1>
+	<div>熊璋 于黎明 徐平 王乐梅 陈辉 殷传涛</div>
+	<p><span>高等工程教育</span><span>通用工程师</span><span>学历教育</span><span>认证</span><span>国际竞争力</span><span>创新</span></p>
+</div>
+
+<p class="dxn-bck2"><b>摘要：</b>具有国际竞争力的卓越工程师人才是衡量一个国家经济实力和发展潜力大小的重要指标。本文基于对国际工程教育发展趋势的分析，解读通用工程师学历教育认证与质量保证体系，归纳出工程师人才的国际竞争力D＋SIETIC要素模型以及国际竞争力的培养环境要素，提出了与之相应的创新培养模式；以北航中法工程师学院为例，系统介绍了根植本土培养具有国际竞争力的高素质通用工程师人才并获得国际认证的探索与实践，为我国高等工程教育更好地服务于“人才强国”战略提供理论与实践相结合的参考模式。</p>
+<p class="tips" style="font-size: 12px;color: #999;margin: 10px 15px;">注：因版权方要求，不能公开全文，如需全文，请咨询杂志社</p>
+<div class="pay-a">
+	 <a href="javascript:;" onclick="openChat();"> <i class="i_learning"></i> 投稿咨询</a>
+	<a href="javascript:;" onclick="openChat();"> <i class="i_consult"></i> 在线咨询</a>
+</div>
+
+<section class="wrapper">
+	<div class="mar_t20 pad_tr10">
+		<h3 class="brand_h3"><i></i>本文期刊信息</h3>
+		<div class="qkxx-box">
+			<div class="box-con">
+				<div class="box-image">
+					<a href="https://gdgcjyyj.xueshu.com/" title="高等工程教育研究"><img src="https://www.xueshu.com/upload/attach/201802/26/5a935fc3_1169d.jpg" /></a>
+				</div>
+				<div class="box-info">
+					<a href="https://gdgcjyyj.xueshu.com/" title="高等工程教育研究">高等工程教育研究</a>
+					<p>《高等工程教育研究》（CN：42-1026/G4）是一本有较高学术价值的大型双月刊，自创刊以来，选题新奇而不失报道广度，服务大众而不失理论高度。颇受业界和广大读者的关注和好评。</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>		
+	</div>
+</section>
+
+<section class="wrapper">
+
+
+<div class="mar_t20 pad_tr10">
+	<h3 class="brand_h3"><i></i>高等工程教育研究相关期刊</h3>
+	<div class="mar_t20 watch_list clear">
+		
+		<dl>
+			<dt><a href="https://gjts.xueshu.com/"><img src="https://www.xueshu.com/upload/attach/201802/26/5a93624a_ed1d.jpg" /></a></dt>
+			<dd class="w_style"><a href="https://gjts.xueshu.com/">高教探索</a></dd>
+			<dd class="w_series">CSSCI南大核心期刊 <span class="red">1.50</span></dd>
+		</dl>
+		
+		<dl>
+			<dt><a href="https://hljgjyj.xueshu.com/"><img src="https://www.xueshu.com/upload/attach/201806/27/5b3341e5_37fb.jpg" /></a></dt>
+			<dd class="w_style"><a href="https://hljgjyj.xueshu.com/">黑龙江高教研究</a></dd>
+			<dd class="w_series">北大核心期刊 <span class="red">1.19</span></dd>
+		</dl>
+		
+		<dl>
+			<dt><a href="https://lxs.xueshu.com/"><img src="https://www.xueshu.com/upload/image/201410/19/54433321_4556.jpg" /></a></dt>
+			<dd class="w_style"><a href="https://lxs.xueshu.com/">留学生</a></dd>
+			<dd class="w_series">国家级期刊 <span class="red"></span></dd>
+		</dl>
+		
+		<dl>
+			<dt><a href="https://xddxjy.xueshu.com/"><img src="https://www.xueshu.com/upload/attach/201802/26/5a936088_103fd.jpg" /></a></dt>
+			<dd class="w_style"><a href="https://xddxjy.xueshu.com/">现代大学教育</a></dd>
+			<dd class="w_series">CSSCI南大核心期刊 <span class="red">1.28</span></dd>
+		</dl>
+		
+	</div>				
+</div>
+</section>
+
+
+<div class="wmportbg">
+	<div class="box wmport">
+		<form action="/?m=wenmi&c=report&a=post" method="post">
+			<input type="hidden" name="uuid" value="gdgcjyyj" />
+			<p>标题 &nbsp; 通用工程师学历教育的研究与实践</p>
+			<p>链接 &nbsp; <a href="javascript:;" class="dxn-url"></a></p>
+			<div class="wmts">
+				<h5>举报类型</h5>
+				
+				<p><input type="radio" name="gid" value="1" /><span>非法(文档涉及政治、宗教、色情或其他违反国家法律法规的内容)</span></p>
+				<p><input type="radio" name="gid" value="2" /><span>侵权</span></p>
+				<p><input type="radio" name="gid" value="3" /><span>其他</span></p>
+				
+			</div>
+			<div>
+				<h5>举报理由</h5>
+				<textarea></textarea>
+			</div>
+			<p><input type="checkbox" class="wmcomf" />我确定以上信息无误</p>
+			<p class="dxn-warn" style="height:20px; color:#f00;"></p>
+			<input type="button" value="举报" class="wmsend" />
+			<input type="reset" value="取消" class="vwcan" />
+		</form>
+	</div>
+</div>
+<script type="text/javascript">
+$(function(){
+	/*举报*/
+		$(".dxn-portbtn").on("click", function(){
+			checkLogin();
+			var surl = window.location.href;
+			$(".dxn-url").html(surl);
+			isWindowShow(true);
+		});		
+
+		$(".vwcan").bind("click", function(){
+			isWindowShow(false);
+		});
+		$(".wmsend").bind("click", function(){	
+			var radio = $(".wmts input:checked").val();
+			var testwe = $(".wmport textarea").val().trim();
+			radio = radio ? radio : 3;				
+
+			if(!(testwe.length>0)){
+				$(".dxn-warn").html('请输入举报理由');
+				return false;
+			}
+			if(!($(".wmcomf").is(':checked'))){
+				$(".dxn-warn").html('请确定以上消息是否无误？');
+				return false;
+			}	
+
+			//数据提交接口
+			$(".wmportbg form").ajaxSubmit(function(result){ 
+				$(".dxn-warn").html('举报成功！');
+				setTimeout(function(){
+					isWindowShow(false);
+				},1000);
+			});
+			
+		});
+	
+	function isWindowShow(status){
+		if(status){
+			$(".wmportbg").show();
+			$(".wmportbg>div").css('max-height', $(window).height()-90-41-20);
+			$("html,body").css({"height":"100%", "overflow":"hidden"});
+			return false;
+		}
+		$(".wmportbg").hide();
+		$(".dxn-warn").html('');
+		$("html,body").css({"height":"auto", "overflow":""});	
+	}
+});
+</script>
+
+<script src="https://www.xueshu.com/theme/xueshu.com/touch/static/jquery.lazyload.js"></script>
+<script src="https://www.xueshu.com/theme/xueshu.com/touch/static/article.js"></script>
+
+	<script>
+	fixedFooter($('#fixedFooter'), 120);
+	</script>
+	<footer id="footer">
+		<link href="https://www.xueshu.com/theme/xueshu.com/touch/static/footer.css" rel="stylesheet" type="text/css" />
+		<div class="goods-detail-foot">
+			<div class="otreh-handle">
+				<a class="index" href="https://www.xueshu.com/"><i></i><p>首页</p></a>
+				<a class="kefu1" href="tel:400-888-7501"><i></i><p>打电话</p></a>
+			</div>
+			<div class="buy-handle ">
+				<a class="animation-up add-cart zxzx"  href="javascript:;" onclick="openChat();return false;">免费咨询服务</a>
+			</div>
+		</div>
+		<nav class="footnav">
+			<ul>
+				<li><a href="https://www.xueshu.com/"><span class="iconfont">&#xe612;</span><p>首页</p></a></li>
+				<li><a href="https://www.xueshu.com/vip/fabiao.html"><span class="iconfont">&#xe617;</span><p>服务</p></a></li>
+				<li><a href="https://www.xueshu.com/vip/dingyue.html"><span class="iconfont">&#xe63f;</span><p>订阅</p></a></li>
+				<li><a href="https://www.xueshu.com/vip/pay.html"><span class="iconfont">&#xe635;</span><p>支付</p></a></li>
+				<li><a href="https://www.xueshu.com/member/"><span class="iconfont">&#xe64f;</span><p>我的</p></a></li>
+			</ul>
+		</nav>
+		<div class="foot">
+			<div class="clear">
+				<div class="telmap mar_t10 pad_b30 ta_c">
+					<a href="tel:400-888-7501" class="telmap_tel"><i></i>拨打电话</a>
+					<a href="javascript:;" onclick="openChat();return false;" class="telmap_talk"><i></i>在线咨询</a><span></span>
+				</div>
+
+				<em class="foot_link">
+					<a href="javascript:;" onclick="location.href='https://www.xueshu.com/theme/default/?url='+encodeURIComponent(location.href);return false;">电脑版</a>|<a href="javascript:void(0);">触屏版</a>
+				</em>
+			</div>
+			<div class="copyright ">Copyright www.xueshu.com</div>
+			
+			</li>
+		</div>
+	</footer>
+
+	<script type="text/javascript" charset="utf-8" src="https://www.xueshu.com/theme/xueshu.com/touch/static/iscroll.min.js"></script>
+	<script type="text/javascript" charset="utf-8" src="https://www.xueshu.com/theme/xueshu.com/touch/static/breadcrumbs2.js"></script>
+	<script type="text/javascript" charset="utf-8" src="https://www.xueshu.com/theme/xueshu.com/touch/static/js/leyuxs_yd.js"></script>
+	<script type="text/javascript" charset="utf-8" src="https://www.xueshu.com/theme/xueshu.com/touch/static/js/tongji.js"></script>
+
+
+</body>
+</html>

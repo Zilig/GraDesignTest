@@ -1,0 +1,255 @@
+ 徐迈 中文主页 北京航空航天大学教师个人主页系统
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 徐迈
+(教授)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 教授
+ 博士生导师
+ 硕士生导师
+
+
+
+ 性别：男
+
+ 出生年月：1981-02-08
+
+ 毕业院校：Imperial College London
+
+
+
+
+ 所在单位：电子信息工程学院
+
+
+
+
+
+
+ 办公地点：北航 IRC 403
+
+ 联系方式：82314663
+
+ Email： 5e4370a3e2570b7736b58bf415f6d381b5dc16a77934cfbb24726fa53d940a17935e7999e3b5ce24f5cdc7e50c0d0f436b194cc145be2c19e45b70908263fd7e1d3212a871e3ad481acd330da38a4007d7a303cf5a02bab956e69171fc4b7575e7bee42c6344e8d741acfe1e84575bddf9b1660a90ce0359b7e8a6da2a8558fa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 访问量：
+
+
+
+
+
+
+
+
+最后更新时间： . .
+
+
+
+
+
+ 同专业博导
+
+ 同专业硕导
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 首页
+
+
+ 研究领域
+
+
+ 开授课程
+
+
+ 科研项目
+
+
+ 论文
+
+
+ 学生信息
+
+ 博士研究生
+ 硕士研究生
+ 本科生
+
+
+
+ 荣誉及奖励
+
+
+ 招生信息
+
+ 研究生招生
+
+
+
+ 研究成果
+
+ Image Saliency Detection
+ Video Saliency Detection
+ Video Coding
+ Video Decoding
+
+
+
+
+
+
+
+
+
+
+ 其他栏目
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ English
+
+
+
+
+
+
+
+ 个人简历
+ 教育部青年长江学者，中国图像图形学学会青工委副主任。2016年获教育部霍英东青年基金资助，2017年获人工智能学会技术发明一等奖（第二完成人），2018年获中国电子学会优秀科技工作者，2019年获国家优秀青年基金、2020年获北京市杰出青年基金、教育部技术发明一等奖（第一完成人），2021年获中国计算机学会杰出演讲者荣誉。研究兴趣为图像处理、计算机视觉与人工智能、及在视频压缩与通信、生物医学工程领域的应用。学术方面：近五年，在IJCV、IEEE TPAMI、JSAC、TIP、TMI、JSTSP、TCSVT等国际顶级期刊及CVPR、ICCV、ECCV、AAAI、DCC、ACM MM等顶级会议上发表论文100余篇（均为SCI/EI检索），其中SCI检索60+篇（JCR1区50+篇，IEEE期刊论文40+篇），谷歌引用2600余次，SCI他引1000余次，多篇论文入选ESI高被引论文/热点论文。获IEEE视频处理领域顶级期刊IEEE TCSVT最佳论文奖提名1次，获IEEE国际会议最佳论文奖3次，会议最佳论文提名1项。作为负责人承担项目10余项，包括国家自然科学基金首批原创探索项目、优青项目、2项面上项目、青年项目，军委科技委创新特区项目、863项目3项。担任图像处理领域顶级期刊IEEE TIP编委（Associate Editor）、IEEE TMM编委（Associate Editor）、信号处理领域权威期刊IEEE J-STSP的首席客座编委（Lead Guest Editor）。2013年起承担本科生“数字图像处理”及研究生“机器学习”、“科技论文写作”教学工作，2014年获北京航空航天大学“我爱我师”十佳教师奖。指导的本科生获北航“金质奖章”/“沈元奖章”2人（北航本科生最高荣誉），北航优秀本科毕业设计3人次。指导的研究生获中国电子学会优秀硕士论文奖2项、提名奖1项，北航“研究生十佳”4人（北航研究生最高荣誉）、提名1人，北航优秀硕士毕业论文3人，国家奖学金9人。主页：http://www.buaamc2.net/ 近三年，二十篇代表性论文（2018年以来） [20] Xin Deng; Wenzhe Yang, Ren Yang, Mai Xu*; Enpeng Liu; Qianhan Feng; Radu Timofte: Deep Homography for Efficient Stereo Image Compression ， the Proceeding of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), oral, 2021. [19] Xin Deng, Yutong Zhang, Mai Xu*, Shuanghang Gu, Yiping Duan, Deep Coupled Feedback Network for Joint Exposure Fusion and Image Super-Resolution, IEEE Transactions on Image Processing , Early Access, 2021. [18] Mai Xu*, Li Yang, Xiaoming Tao, Yiping Duan, Zulin Wang, Saliency Prediction on Omnidirectional Image with Generative Adversarial Imitation Learning, IEEE Transactions on Image Processing , Early Access, 2021. [17] Mai Xu, Lai Jiang, Chen Li, Zulin Wang, Xiaoming Tao*, Viewport-based CNN: A Multi-task Approach for Assessing 360° Video Quality, IEEE Transactions on Pattern Analysis and Machine Intelligence , Early Access, 2020. [16] Lai Jiang, Mai Xu*, Zulin Wang, Leonid Sigal, DeepVS2.0: A Saliency-Structured Deep Learning Method for Predicting Dynamic Visual Attention, International Journal of Computer Vision , Early Access, 2020. [15] Mai Xu, Chen Li, Shanyi Zhang, Patrick Le Callet, State-of-the-Art in 360° Video/Image Processing: Perception, Assessment and Compression, IEEE Journal of Selected Topics on Signal Processing , 14(1), 2020. [14] Zhenyu Guan; Qunliang Xing; Mai Xu*; Ren Yang; Tie Liu; Zulin Wang: MFQE 2.0: A New Approach for Multi-frame Quality Enhancement on Compressed Video, IEEE Transactions on Pattern Analysis and Machine Intelligence, Early Access, 2019. [13] Xiaoming Tao; Zhao Chen; Mai Xu*; Jianhua Lu, Rebuffering Optimization for DASH via Pricing and EEG-Based QoE Modeling, IEEE Journal on Selected Areas in Communications , 37(7), 2019. [12] Liu Li, Mai Xu*, Hanruo Liu, Yang Li, Xiang Fan, Zulin Wang and Lingli Wang, A Large-scale Database and a CNN Model for Attention Based Glaucoma Detection, IEEE Transactions on Medical Imaging, Early Access, 2019. [11] Tianyi Li, Mai Xu*, Ce Zhu, Ren Yang, Zulin Wang and Zhenyu Guan, A Deep Learning Approach for Multi-Frame In-Loop Filter of HEVC, IEEE Transactions on Image Processing, Early Access, 2019. [10] Chen Li; Mai Xu*; Lai Jiang; Shanyi Zhang; Xiaoming Tao: Viewport Proposal CNN for 360 ° Video Quality Assessment ， the Proceeding of IEEE Conference on Computer Vision and Pattern Recognition (CVPR) , 2019. [9] Xu, Mai*; Song, Yuhang; Wang, Jianyi; Qiao, MingLang; Huo, Liangyu; Wang, Zulin, Predicting Head Movement in Panoramic Video: A Deep Reinforcement Learning Approach, IEEE Transactions on Pattern Analysis and Machine Intelligence , 2018. (SCI, Q1) [8] Mai Xu,Yufan Liu; Haoji Hu; Feng He, A Deep Learning Approach Find Who to Look at: Turning from Action to Saliency, IEEE Transactions on Image Processing , 2018. (SCI, Q1) [7] Mai Xu*, Tianyi Li; Zulin Wang; Xin Deng; Zhenyu Guan, Reducing Complexity of HEVC: A Deep Learning Approach, IEEE Transactions on Image Processing , 2018. (SCI, Q1) [6] Mai Xu; Chen Li; Zulin Wang; Zhenyu Guan; Assessing Visual Quality of Omnidirectional Videos, IEEE Transactions on Circuits and Systems for Video Technology, Early Access, 2018. [5] Jingyao Xu, Mai Xu*, Yanan Wei, Zulin Wang and Zhengyu Guan, Fast H.264 to HEVC Transcoding: A Deep Learning Method, IEEE Transactions on Multimedia , 2018. (SCI, Q1) [4] Ren Yang,Mai Xu*,Zulin Wang,Tianyi Li, Multi-Frame Quality Enhancement for Compressed Video, IEEE Conference on Computer Vision and Pattern Recognition (CVPR) , 2018. ( 计算机视觉领域顶级会议， CCF A 类 ) [3] Lai Jiang, Mai Xu*, Tie Liu, Minglang Qiao and Zulin Wang, Deepvs: A deep learning based video saliency prediction approach, European Conference on Computer Vision (ECCV) , 2018. ( 计算机视觉领域顶级会议 ) [2] Shengxi Li, Mai Xu*, Yun Ren and Zulin Wang, Closed-form Optimization on Saliency-guided Image Compression for HEVC-MSP, IEEE Transactions on Multimedia , 2018. (SCI, Q1) [1] Ren Yang; Mai Xu*; Tie Liu; Zhengyu Guan, Enhancing quality for HEVC compressed videos, IEEE Transactions on Circuits and Systems for Video Technology , 2018. (SCI, Q1)
+
+
+
+
+
+ 研究方向
+ [1] 视频编码、视频通信、计算机视觉、机器学习、人工智能
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Mai Xu's Homepage
+
+ 手机版
+
+
+
+ 登录
+
+
+
+

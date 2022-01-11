@@ -1,0 +1,1101 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>课程目录-北京航空航天大学计算机学院</title><META Name="keywords" Content="北京航空航天大学计算机学院,课程目录" />
+
+<link href="../../style/style.css" rel="stylesheet" type="text/css" />
+<link href="../../style/menu.css" rel="stylesheet" media="screen" type="text/css" />
+<link href="../../SpryAssets/SpryTabbedPanels.css" rel="stylesheet" type="text/css" />
+<script src="../../js/bdtxk.js"></script>
+<script src="../../js/cnvp.js" type="text/javascript"></script>
+<script src="../../js/bdtxk.min.js" type="text/javascript"></script>
+  <script src="../../SpryAssets/SpryTabbedPanels.js" type="text/javascript"></script>
+  <script type="text/javascript">
+var timeout         = 500;
+var closetimer		= 0;
+var ddmenuitem      = 0;
+
+function jsddm_open()
+{	jsddm_canceltimer();
+	jsddm_close();
+	ddmenuitem = $(this).find('ul').eq(0).css('visibility', 'visible');}
+
+function jsddm_close()
+{	if(ddmenuitem) ddmenuitem.css('visibility', 'hidden');}
+
+function jsddm_timer()
+{	closetimer = window.setTimeout(jsddm_close, timeout);}
+
+function jsddm_canceltimer()
+{	if(closetimer)
+	{	window.clearTimeout(closetimer);
+		closetimer = null;}}
+
+$(document).ready(function()
+{	$('#jsddm > li').bind('mouseover', jsddm_open);
+	$('#jsddm > li').bind('mouseout',  jsddm_timer);});
+
+document.onclick = jsddm_close;
+  </script>
+  
+
+<script type="text/javascript">
+$(function(){
+$(".subNav").click(function(){
+			$(this).toggleClass("currentDd").siblings(".subNav").removeClass("currentDd")
+			$(this).toggleClass("currentDt").siblings(".subNav").removeClass("currentDt")
+			
+			// 修改数字控制速度， slideUp(500)控制卷起速度
+			$(this).next(".navContent").slideToggle(200).siblings(".navContent").slideUp(200);
+	})	
+})
+</script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e78475c52555742000000034754 -->
+<link rel="stylesheet" type="text/css" href="../../jjy_new.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1063,'/jjy_new.jsp',-1,1494873685)</script>
+</head>
+
+<body>
+<div class="wrapper">
+	<!--头部开始-->
+	<div class="header">
+    	<div class="logo">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+
+
+
+<a href="../../index.htm"><img src="../../images/logo.png" width="520" height="86" alt="北京航天航空大学-计算机学院" /></a></div>
+	<div class="60zn" style="float:left;width:120px;margin-left:50px;margin-top:5px">    <script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+            
+                
+                        <img src="../../images/60znq.png" width="120" height="120">
+                
+        
+</div>
+        <div class="top_right">
+        	<div class="toplink">
+            	<script language="javascript" src="/system/resource/js/openlink.js"></script>
+    <a href="#" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1494873685, 44726)">旧版网站</a>
+|
+                
+<script language="javascript">
+function dosuba212906a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+            else
+            {
+                alert(hotKeysa212906a());
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa212906a() 
+{
+    var ua = navigator.userAgent.toLowerCase(); 
+    var str = "";    
+    var isWebkit = (ua.indexOf('webkit') != - 1); 
+    var isMac = (ua.indexOf('mac') != - 1);     
+    if (ua.indexOf('konqueror') != - 1) 
+    {  
+        str = 'CTRL + B'; // Konqueror   
+    } 
+    else if (window.home || isWebkit || isMac) 
+    {        
+        str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+    }
+    return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea212906a()
+{
+    var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+        }
+    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+    prefs.setCharPref('browser.startup.homepage',url);
+    }
+    else
+    {
+        alert("浏览器不支持自动设为首页，请手动设置");
+    }
+}
+</script>
+
+<a onclick="javascript:dosuba212906a();" href="#">网站收藏</a>
+
+            
+|
+                
+    <a href="http://scse.buaa.edu.cn/English/Home.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1494873685, 44727)">English</a>
+
+            </div>
+          <div class="search">
+          	<script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode212907').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey212907").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey212907").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey212907").value = base64.encode(document.getElementById("lucenenewssearchkey212907").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode212907"));
+        return true;
+    } 
+</script>
+<form action="../../ssjgy_new.jsp?wbtreeid=1063" method="post" id="au5a" name="au5a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkey212907" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype212907" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope212907" name="searchScope" value="0">
+
+<input type="text" name="showkeycode" id="showkeycode212907" maxlength="50" class="keyword font-yh fl" value="请输入关键字" data="请输入关键字">                    
+<input type="submit" name="" value="" class="btn ">
+
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+
+          </div>
+        </div>
+    </div>
+  </div>  
+    
+    <div class="clearboth"></div>
+   <div class="list_nav">
+    <div class="nav">
+                <ul id="jsddm">
+<li class="first"><a href="../../index.htm"><img src="../../images/ico_home.png" /></a></li>
+
+<li><a href="../../index.htm" title="首页">首页</a>
+</li>
+
+
+<li><a href="../../xyjj/xyjs.htm" title="学院简介">学院简介</a>
+	<ul>
+	    <li><a href="../../xyjj/xyjs.htm" title="学院介绍">学院介绍</a></li>
+	    <li><a href="../../xyjj/zzjg/xyld.htm" title="组织机构">组织机构</a></li>
+	    <li><a href="../../xyjj/lsyg.htm" title="历史沿革">历史沿革</a></li>
+	    <li><a href="../../xyjj/lrld.htm" title="历任领导">历任领导</a></li>
+	    <li><a href="../../xyjj/wyh/xswyh.htm" title="委员会">委员会</a></li>
+	</ul>
+</li>
+
+
+<li><a href="pyfa.htm" title="本科生培养">本科生培养</a>
+	<ul>
+	    <li><a href="pyfa.htm" title="本科生培养">本科生培养</a></li>
+	    <li><a href="../mstjyjsglbf.htm" title="免试推荐研究生管理办法">免试推荐研究生管理办法</a></li>
+	    <li><a href="../kkml.htm" title="开课目录">开课目录</a></li>
+	    <li><a href="../kcdg.htm" title="课程大纲">课程大纲</a></li>
+	    <li><a href="http://scse.buaa.edu.cn/bkspy/jxxt/lwgscxxt.htm" title="教学系统">教学系统</a></li>
+	    <li><a href="../jxjl.htm" title="教学交流">教学交流</a></li>
+	    <li><a href="../gjjxyjhyyqkml.htm" title="国际教学研究会议与期刊目录">国际教学研究会议与期刊目录</a></li>
+	    <li><a href="../tjmsglbf.htm" title="推荐免试管理办法">推荐免试管理办法</a></li>
+	</ul>
+</li>
+
+
+<li><a href="../../yjspy/kcml.htm" title="研究生培养">研究生培养</a>
+	<ul>
+	    <li><a href="../../yjspy/kcml.htm" title="课程目录">课程目录</a></li>
+	</ul>
+</li>
+
+
+<li><a href="../../szdw/qtjs.htm" title="师资队伍">师资队伍</a>
+	<ul>
+	    <li><a href="../../szdw/qtjs.htm" title="全体教师">全体教师</a></li>
+	    <li><a href="http://scse.buaa.edu.cn/szdw/zjdw/ys.htm" title="专家队伍">专家队伍</a></li>
+	</ul>
+</li>
+
+
+<li><a href="../../kxyj/xshd.htm" title="科学研究">科学研究</a>
+	<ul>
+	    <li><a href="../../kxyj/xshd.htm" title="学术活动">学术活动</a></li>
+	    <li><a href="../../kxyj/tzgg.htm" title="通知公告">通知公告</a></li>
+	    <li><a href="../../kxyj/yjfx.htm" title="研究方向">研究方向</a></li>
+	    <li><a href="../../kxyj/cylm.htm" title="产业联盟">产业联盟</a></li>
+	    <li><a href="../../kxyj/zcfg.htm" title="政策法规">政策法规</a></li>
+	</ul>
+</li>
+
+
+<li><a href="../../xwgg/xydt.htm" title="新闻公告">新闻公告</a>
+	<ul>
+	    <li><a href="../../xwgg/xydt.htm" title="学院动态">学院动态</a></li>
+	    <li><a href="../../xwgg/xsbg.htm" title="学术报告">学术报告</a></li>
+	    <li><a href="../../xwgg/gggs.htm" title="公告公示">公告公示</a></li>
+	    <li><a href="../../xwgg/tpxw.htm" title="图片新闻">图片新闻</a></li>
+	</ul>
+</li>
+
+
+<li><a href="../../zsjy/bkszs.htm" title="招生就业">招生就业</a>
+	<ul>
+	    <li><a href="../../zsjy/bkszs.htm" title="本科生招生">本科生招生</a></li>
+	    <li><a href="../../zsjy/yjszs.htm" title="研究生招生">研究生招生</a></li>
+	    <li><a href="../../zsjy/jyxx.htm" title="就业信息">就业信息</a></li>
+	</ul>
+</li>
+
+
+<li><a href="../../gjjl/xwgg.htm" title="国际交流">国际交流</a>
+	<ul>
+	    <li><a href="../../gjjl/xwgg.htm" title="新闻公告">新闻公告</a></li>
+	    <li><a href="../../gjjl/xshd.htm" title="学术活动">学术活动</a></li>
+	    <li><a href="../../gjjl/gjhgz/jdjsjh1.htm" title="国际化工作">国际化工作</a></li>
+	</ul>
+</li>
+
+
+<li><a href="../../dflz/dqdt.htm" title="党风廉政">党风廉政</a>
+	<ul>
+	    <li><a href="../../dflz/dqdt.htm" title="党群动态">党群动态</a></li>
+	    <li><a href="../../dflz/gh.htm" title="工会">工会</a></li>
+	    <li><a href="../../dflz/xxzl.htm" title="学习资料">学习资料</a></li>
+	</ul>
+</li>
+
+
+<li><a href="../../cggl/cgglbf.htm" title="采购管理">采购管理</a>
+	<ul>
+	    <li><a href="../../cggl/cgglbf.htm" title="采购管理办法">采购管理办法</a></li>
+	    <li><a href="../../cggl/cggg.htm" title="采购公告">采购公告</a></li>
+	    <li><a href="../../cggl/bj_jjgs.htm" title="比价/竞价公示">比价/竞价公示</a></li>
+	</ul>
+</li>
+
+</ul>
+                <div class="clearboth"> </div>
+    </div>
+   </div>
+    <div class="clearboth"></div>
+    <!--头部完成-->
+    
+    <!--主体开始-->
+    <div class="wrapper">
+    <div id="lm_main">
+    
+        <div id="lm_left">
+      <div class="lm_name">
+
+
+
+本科生培养</div>
+           <!----二级栏目开始--->
+           
+                <div class="subNavBox">
+               		
+<div class="subNav"><a href="pyfa.htm" title="本科生培养">本科生培养</a></div>
+<ul class="navContent " style="display:block">
+    <li><a href="pyfa.htm" title="培养方案">培养方案</a></li>
+    <li><a href="bysd.htm" title="毕业审定">毕业审定</a></li>
+    <li><a href="zzyglbf.htm" title="转专业管理办法">转专业管理办法</a></li>
+    <li><a href="kcml.htm" title="课程目录">课程目录</a></li>
+    <li><a href="S_T_A_Rjftdbps_.htm" title="S.T.A.R教辅团队白皮书 ">S.T.A.R教辅团队白皮书 </a></li>
+    <li><a href="bkzd.htm" title="本科指导">本科指导</a></li>
+    <li><a href="qxbk.htm" title="求学百科">求学百科</a></li>
+</ul>
+
+
+<div class="subNav"><a href="../mstjyjsglbf.htm" title="免试推荐研究生管理办法">免试推荐研究生管理办法</a></div>
+
+
+<div class="subNav"><a href="../kkml.htm" title="开课目录">开课目录</a></div>
+
+
+<div class="subNav"><a href="../kcdg.htm" title="课程大纲">课程大纲</a></div>
+
+
+<div class="subNav"><a href="http://scse.buaa.edu.cn/bkspy/jxxt/lwgscxxt.htm" title="教学系统">教学系统</a></div>
+<ul class="navContent ">
+    <li><a href="../jxxt/lwgscxxt.htm" title="论文格式查修系统">论文格式查修系统</a></li>
+</ul>
+
+
+<div class="subNav"><a href="../jxjl.htm" title="教学交流">教学交流</a></div>
+
+
+<div class="subNav"><a href="../gjjxyjhyyqkml.htm" title="国际教学研究会议与期刊目录">国际教学研究会议与期刊目录</a></div>
+
+
+<div class="subNav"><a href="../tjmsglbf.htm" title="推荐免试管理办法">推荐免试管理办法</a></div>
+
+
+                    <div style="clear:both"></div>
+      
+                </div>
+         
+           <!----二级导航结束--->
+
+      <div class="lm_zspic">    
+            
+                
+                        <img src="../../images/lm_pic001.png" width="245" height="375">
+                
+        
+</div>
+    </div>
+        
+        <div id="lm_right">
+        	<div class="lm_wz">
+            	<h2>
+
+
+
+课程目录</h2>
+                <p>当前位置：
+                        <a href="../../index.htm">首页</a>
+                >
+                <a href="pyfa.htm">本科生培养</a>
+                >
+                <a href="pyfa.htm">本科生培养</a>
+                >
+                <a href="kcml.htm">课程目录</a>
+</p>
+            </div>
+            <div class="lm_nr" style="min-height:650px">
+            	
+
+
+
+
+<script language="javascript" src="/system/resource/js/ajax.js"></script><script language="javascript">_getBatchClickTimes('null',1494873685,'wbnews','u12')</script>
+<script>function seeContenta12(contentid,size,displayid){	document.getElementById(contentid).innerHTML = '[';	for(var i=0;i<=size;i++){		var allcontentid = contentid+(i+1);		if(allcontentid==displayid){			document.getElementById(contentid).innerHTML += " <span id='"+allcontentid+"' name='"+allcontentid+"'  >"+(i+1)+"</span> ";			document.getElementById(displayid).style.display = 'block';		}else{			document.getElementById(contentid).innerHTML += " <span style='cursor:pointer' id='"+allcontentid+"' name='"+allcontentid+"' onclick=seeContenta12('"+contentid+"','"+size+"','"+allcontentid+"')  >"+(i+1)+"</span> ";			document.getElementById(allcontentid).style.display = 'none';		}	}	document.getElementById(contentid).innerHTML += ']';}</script>
+<script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<script>_addDynClicks('wbnews',1494873685,2303)</script>
+<h1 class="title_h1">本科生课程目录</h1>
+<div class="content">
+    <div id="vsb_content_2303_u121"><div id="vsb_content"><p style="padding-top: 7px"> &nbsp;</p> 
+<table class="course_tbl" style="font: 11px/23px simsun;margin: 0px auto;border: 1px solid rgb(85, 85, 170);width: 700px;color: rgb(0, 0, 0);text-transform: none;text-indent: 0px;letter-spacing: normal;word-spacing: 0px;border-collapse: collapse;font-size-adjust: none;font-stretch: normal;background-color: rgb(255, 255, 255);-webkit-text-stroke-width: 0px"> 
+ <colgroup> 
+  <col width="10%"> 
+  <col width="25%"> 
+  <col width="20%"> 
+  <col width="15%"> 
+  <col width="15%"> 
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th class=" selectTdClass" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse;background-color: rgb(238, 238, 238)"><span style="font-size: small"><span style="font-family: times new roman">课程编号</span></span></th> 
+   <th class=" selectTdClass" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse;background-color: rgb(238, 238, 238)"><span style="font-size: small"><span style="font-family: times new roman">课程名称</span></span></th> 
+   <th class=" selectTdClass" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse;background-color: rgb(238, 238, 238)"><span style="font-size: small"><span style="font-family: times new roman">主讲教师</span></span></th> 
+   <th class=" selectTdClass" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse;background-color: rgb(238, 238, 238)"><span style="font-size: small"><span style="font-family: times new roman">历史资源</span></span></th> 
+   <th class=" selectTdClass" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse;background-color: rgb(238, 238, 238)"><span style="font-size: small"><span style="font-family: times new roman">开放课</span></span></th> 
+   <th class=" selectTdClass" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse;background-color: rgb(238, 238, 238)"><span style="font-size: small"><span style="font-family: times new roman">视频公开课</span></span></th> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06B1110</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">计算机导论与计算机论理学</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">熊璋</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06B1210</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">离散数学(1)</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">马殿富<span class="Apple-converted-space"></span>张玉平</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06D1910</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">走进计算机科学系列讲座</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">刘睿</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">G06D1810</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">计算机基础操作</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">曹庆华<span class="Apple-converted-space"></span>李莹<span class="Apple-converted-space"></span>焦福菊<span class="Apple-converted-space"></span>王丽张永鸣</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06B1120</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">高级语言程序设计(1)</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">晏海华<span class="Apple-converted-space"></span>孙自安</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06B2110</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">离散数学(2)</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">李舟军<span class="Apple-converted-space"></span>李欢</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06B2120</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">数字逻辑</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">牛建伟<span class="Apple-converted-space"></span>艾明晶</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06B2130</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">数据结构与算法</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">郝爱民<span class="Apple-converted-space"></span>钱红兵</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06D2910</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">职业规划和职业选择系列讲座</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">刘睿</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D2710</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">Java程序设计</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">李波</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">G06B2810</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">数字逻辑实验</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">刘禹</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06B2140</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">算法设计与分析</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">许可<span class="Apple-converted-space"></span>韩军</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06B2150</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">计算机组成原理和系统结构</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">刘旭东<span class="Apple-converted-space"></span>肖利民</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06B2160</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">面向对象建模方法</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">刘超<span class="Apple-converted-space"></span>吴际</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D2210</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">计算引论</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">马世龙<span class="Apple-converted-space"></span>吕江花</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06C2710</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">高级语言程序设计(2)</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">尹宝林</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06C2720</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">离散数学（3）</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">李建欣<span class="Apple-converted-space"></span>沃天宇</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D2730</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">C++与C#程序设计</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">刘禹<span class="Apple-converted-space"></span>盛浩</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D2740</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">Unix系统</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">吕良双</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">G06B2820</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">计算机组成原理课程设计</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">张亮<span class="Apple-converted-space"></span>高小鹏<span class="Apple-converted-space"></span>万寒</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06B3110</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">编译技术</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">张莉<span class="Apple-converted-space"></span>史晓华</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06B3120</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">软件工程基础</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">刘超<span class="Apple-converted-space"></span>姚淑珍</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06B3130</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">数据库系统原理</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">郎波<span class="Apple-converted-space"></span>刘瑞</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3410</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">信号与系统</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">何兵</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3750</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">计算机工程中最优化的方法</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">冷彪</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3760</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">RUBY语言程序设计</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">沃天宇</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">G06B3810</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">编译技术课程设计</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">杨海燕<span class="Apple-converted-space"></span>张莉<span class="Apple-converted-space"></span>史晓华</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">G06B3820</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">数据库原理课程设计</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">郎波<span class="Apple-converted-space"></span>刘瑞</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3760</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">RUBY语言程序设计</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">沃天宇</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3730</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">具体数学</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">赵启阳</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3770</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">数据密集型计算导论</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">吴文俊</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3700</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">智能手机软件设计</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">姜博</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3780</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">Android平台开发技术</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">张炯</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3790</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">计算机科学研究方法与实践</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">阮利</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06B3140</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">计算机网络</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">刘轶<span class="Apple-converted-space"></span>张辉</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06B3150</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">操作系统</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">任爱华<span class="Apple-converted-space"></span>王雷</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06D3910</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">学科技术前沿讲座</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">小李波</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3210</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">抽象代数</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">李舟军</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3220</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">人机交互</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse;word-break: break-all"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3230</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">人工智能</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">康建初<span class="Apple-converted-space"></span>巢文涵<span class="Apple-converted-space"></span>丁嵘</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3240</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">软件项目管理</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">兰雨晴</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3250</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">信息系统分析与设计</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">刘连忠<span class="Apple-converted-space"></span>陈梦东</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3260</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">软件过程基础</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">吴超英</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06C3310</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">计算机体系结构</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">龙翔<span class="Apple-converted-space"></span>白跃彬</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3310</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">计算机接口与通讯</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">高小鹏<span class="Apple-converted-space"></span>张炯<span class="Apple-converted-space"></span>傅翠娇<span class="Apple-converted-space"></span>刘禹</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3320</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">嵌入式计算机系统设计</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">尚利宏<span class="Apple-converted-space"></span>张炯</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3420</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">计算机图形学</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">杨钦</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3430</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">图象处理与模式识别</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">王蕴红</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3440</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">X86汇编程序设计</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">熊桂喜</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">物联网引论</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">刘睿<span class="Apple-converted-space"></span>欧阳元新</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3470</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">通信技术基础</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">何兵</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3731</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">计算机视觉计算</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">百晓</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3720</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">电子商务</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">胡春明</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3740</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">并行计算程序</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">赵长海</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">G06B3830</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">操作系统课程设计</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">任爱华<span class="Apple-converted-space"></span>王雷</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">G06B3840</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">计算机网络实验</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">张力军<span class="Apple-converted-space"></span>刘艳芳、焦福菊</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">G06D3010</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">生产实习</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">童超</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06D4910</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">求职辅导系列讲座</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">刘睿</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D4210</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">高级语言程序设计方法学</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">诸彤宇</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D4220</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">形式语言与自动机</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">康建初<span class="Apple-converted-space"></span>胡春明<span class="Apple-converted-space"></span>赵永望</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D4230</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">软件测试技术</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">何智涛</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D4240</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">软件工程实践</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">姚淑珍<span class="Apple-converted-space"></span>徐红</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D4250</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">分布式系统原理</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">吴威<span class="Apple-converted-space"></span>胡凯</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D4310</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">计算机EDA设计</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">艾明晶</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D4410</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">虚拟现实技术</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">沈旭昆<span class="Apple-converted-space"></span>梁晓辉</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D4420</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">多媒体技术</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">齐越<span class="Apple-converted-space"></span>周忠</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D4430</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">计算机控制</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">李超</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3710</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">RFID与无线传感器网络</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">刘睿<span class="Apple-converted-space"></span>欧阳元新</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D4440</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">移动计算导论</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">丁嵘</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D4450</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">计算机网络安全技术</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">李云春</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D4710</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">互联网软件新技术（XML和Web）</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">葛声</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D4720</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">集群计算基础</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">胡凯</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">G06D1811</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">大学计算机基础</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">曹庆华<span class="Apple-converted-space"></span>艾明晶<span class="Apple-converted-space"></span>吴秀娟<span class="Apple-converted-space"></span>焦福菊<span class="Apple-converted-space"></span>李莹<span class="Apple-converted-space"></span>王丽<span class="Apple-converted-space"></span>张彦<span class="Apple-converted-space"></span>张永鸣<span class="Apple-converted-space"></span>刘艳芳<span class="Apple-converted-space"></span>傅翠娇</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">F06D3721</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">FPGA多核并行计算</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">张炯</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06B2210</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">密码学基础</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">郭华</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06B2210</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">密码学课程实践</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">郭华</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+  <tr> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">E06B3210</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">网络攻防技术</span></span></td> 
+   <td style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"><span style="font-size: small"><span style="font-family: times new roman">夏春和</span></span></td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+   <td align="center" style="border: 1px solid rgb(85, 85, 170);border-collapse: collapse"> </td> 
+  </tr> 
+ </tbody> 
+</table> 
+<p> &nbsp;</p> 
+<p> &nbsp;</p> 
+<p> &nbsp;</p> 
+<p> &nbsp;</p> 
+<p> &nbsp;</p> 
+<p> &nbsp;</p> 
+<p> &nbsp;</p> 
+<p> &nbsp;</p> 
+<p> &nbsp;</p> 
+<p> &nbsp;</p> 
+<p> &nbsp;</p> 
+<p> &nbsp;</p> 
+<p> &nbsp;</p> 
+<p> &nbsp;</p></div></div>
+    <span id="vsb_content_2303_u12" name="vsb_content_2303_u12"></span>
+    
+</div>
+
+           
+            </div>
+        </div>
+	</div>
+    <!--主体完成-->
+    <!--版权开始-->
+    <div class="clearboth"></div>
+    <div class="footer">
+   <!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<P>通讯地址：北京市海淀区学院路37号&nbsp;&nbsp;&nbsp;&nbsp; 邮政编码：100191&nbsp;&nbsp;&nbsp;&nbsp; 电子邮箱：scse@buaa.edu.cn </P>
+<P>版权所有：北京航空航天大学计算机学院 </P>
+    </div>
+    <!--版权完成-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+ </body>
+</html>

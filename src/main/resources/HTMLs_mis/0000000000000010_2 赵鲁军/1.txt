@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><title>赵鲁军 - 诸暨市清水潭菜馆 - 法定代表人/高管/股东 - 爱企查</title>
+<meta name="keywords" content="2021年最新相关联企业信息查询,诸暨市清水潭菜馆,赵鲁军"/>
+<meta name="description" itemprop="description" content="爱企查为您提供(赵鲁军)2021年最新相关企业信息查询，同时为您提供(赵鲁军)担任股东、法人、高管等相关企业信息查询,还有(赵鲁军)关系图谱信息,(赵鲁军)的合作伙伴关系查询,了解更多(赵鲁军)信息就来爱企查吧!"/>
+<meta itemprop="name" content="赵鲁军 - 诸暨市清水潭菜馆 - 法定代表人/高管/股东 - 爱企查">
+<meta name="aqc-seo" content="false"/>
+<script type="text/javascript">
+        window.timingInfo = {};
+        window.st = +new Date();
+        window.timingInfo.start = window.st - performance.timing.fetchStart; // startTime
+
+    </script><link rel="shortcut icon" href="//xinpub.cdn.bcebos.com/static/favicon.ico" type="image/x-icon"><link rel="stylesheet" href="//xinyong.bdstatic.com/xin/pc/20210817/dist/common/xin-ui/list/index.css" />
+
+    
+<link rel="stylesheet" href="//xinyong.bdstatic.com/xin/pc/20210817/dist/person/index.css" />
+<link rel="stylesheet" href="//xinyong.bdstatic.com/xin/pc/dep/photoswipe/photoswipe.css">
+<link rel="stylesheet" href="//xinyong.bdstatic.com/xin/pc/dep/photoswipe/default-skin/default-skin.css">
+
+
+    
+        <script type="text/javascript">
+        // 白屏时间
+        window.timingInfo.whiteScreenTimeCompare = +new Date() - window.st;
+     </script>
+    
+</head>
+
+<body>
+    
+        <div class="header"><div class="header-content"><a class="header-logo" href="//aiqicha.baidu.com" data-log-an="logo"></a><div class="header-right"><span class="header-login-wrap"><a class="header-login ZX_LOG_LINK" data-click='{"cate": "login", "action": "click"}' data-log-an="login">登录</a></span></div><div class="header-widget">
+        <div class="zx-detail-searchbox"><div class="ui-textbox textbox-autocomplete"><input type="text" class="search-text ZX_LOG_INPUT" value="赵鲁军" placeholder="请输入想查询的内容" autocomplete="off" data-click='{"cate": "input_detail", "action": "click"}'></div><img src="//xinyong.bdstatic.com/xin/pc/20210817/dist/common/css/img/close.png" class="search-close" data-click='{"cate": "close", "action": "click"}' alt="close"><input class="search-btn ZX_LOG_BTN" type="button" value="查一下" data-click='{"cate": "search_detail", "action": "click"}' data-log-an="search"></div>
+</div></div><!--浮层--><div class="login-cover" style="display:none"></div><!-- login --><div class="rl-login-wrap" style="display: none"><div class="rl-login-box"><div class="kb-ma-pass-wrap"><div id="kb-ma-pass-log"><div id="kb-ma-pass-log-main" class="tang-pass-login"></div></div></div></div></div></div>
+    
+    <div class="zx-viewport">
+        
+<div class="zx-content-wrap">
+        <div class="personal-head">
+        <div class="top-wrap">
+            <div class="top-logo">
+                                    <div class="textphoto limit-1 color-3">
+    赵
+</div>                            </div>
+            <div class="top-content">
+                <h3 class="top-title">
+                    赵鲁军
+                </h3>
+                
+                <div class="top-info">
+                                    </div>
+
+                <div class="person-brief">
+                    <h6>人物简介：</h6>
+                                                                    <span>
+                            赵鲁军，
+                                                        担任<a href="/company_detail_24226112183961">诸暨市清水潭菜馆</a>、<a href="/company_detail_28535122501632">浙江建业工程建设有限公司诸暨安华分公司</a>                            等法定代表人，                                                        担任<a href="/company_detail_96446297818397">诸暨市新意合贸易有限公司</a>                            等股东，                                                        担任<a href="/company_detail_24226112183961">诸暨市清水潭菜馆</a>、<a href="/company_detail_96446297818397">诸暨市新意合贸易有限公司</a>等高管。
+                                                    </span>
+                                    </div>
+            </div>
+                    </div>
+    </div>
+    <div class="zx-content">
+        <div class="zx-personal-content">
+            <div class="personal-con personal-info" id="personal-info">
+                <h2 class="zx-personal-title">个人图谱</h2>
+                <div class="full-size">
+                    <a href="/person/personrelational?personId=20230d6ab39d1db7c16cf4702c3c2cb1">查看大图</a>
+                    <img src="//xinyong.bdstatic.com/xin/pc/20210817/dist/common/css/img/aqc-table-logo.png" class="aqc-table-logo" />
+                </div>
+                <div class="personal-relation-container">
+                    <div id="chart-relation" class="chart"></div>
+                </div>
+                <div class="disclaimer-text">以上数据根据互联网公开信息整合而成，该结果仅供参考。如对数据有争议，您可以前往页面底部【联系我们】-【用户反馈】将完整、合法的书面权利证明提交，谢谢。</div>
+            </div>
+                                    <div class="personal-con personal-legalperson" id="personal-legalperson">
+                <h2 class="zx-personal-title">担任法定代表人<span class="title-sum"><!-- 必须使用totalNum这个组件 干预total -->
+
+            2
+    </span><img src="//xinyong.bdstatic.com/xin/pc/20210817/dist/common/css/img/aqc-table-logo.png" class="aqc-table-logo" /></h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <td>序号</td>
+                            <td>企业名称</td>
+                            <td>注册资本</td>
+                            <td>成立时间</td>
+                            <td>地区</td>
+                            <td>状态</td>
+                        </tr>
+                    </thead>
+                    <tbody class="personal-legalperson-content">
+                                                <tr>
+                            <td>1</td>
+                            <td class="left">
+                                                                    <div class="textphoto limit-1 color-7">
+    清
+</div>                                                                                                <a class="personal-comp" href="/company_detail_24226112183961" target="_blank" title="诸暨市清水潭菜馆">
+                                                                            诸暨市清水潭菜馆
+                                                                    </a>
+                                                            </td>
+                            <td>2万(元)</td>
+                            <td>2011-02-21</td>
+                            <td>浙江省绍兴市诸暨市</td>
+                            <td class="close">注销</td>
+                        </tr>
+                                                <tr>
+                            <td>2</td>
+                            <td class="left">
+                                                                    <div class="textphoto limit-4 color-3">
+    建业工程
+</div>                                                                                                <a class="personal-comp" href="/company_detail_28535122501632" target="_blank" title="浙江建业工程建设有限公司诸暨安华分公司">
+                                                                            浙江建业工程建设有限公司诸暨安华分公司
+                                                                    </a>
+                                                            </td>
+                            <td>-</td>
+                            <td>2017-06-01</td>
+                            <td>浙江省绍兴市诸暨市</td>
+                            <td class="open">开业</td>
+                        </tr>
+                                            </tbody>
+                </table>
+                <div class="personal-legalperson-pager"></div>
+            </div>
+                                                <div class="personal-con personal-shareholder" id="personal-isstockholder">
+                <h2 class="zx-personal-title">担任股东<span class="title-sum"><!-- 必须使用totalNum这个组件 干预total -->
+
+            1
+    </span><img src="//xinyong.bdstatic.com/xin/pc/20210817/dist/common/css/img/aqc-table-logo.png" class="aqc-table-logo" /></h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <td>序号</td>
+                            <td>企业名称</td>
+                            <td>持股比例</td>
+                            <td>法定代表人</td>
+                            <td>注册资本</td>
+                            <td>成立时间</td>
+                            <td>地区</td>
+                            <td>状态</td>
+                        </tr>
+                    </thead>
+                    <tbody class="personal-isstockholder-content">
+                                                <tr>
+                            <td>1</td>
+                            <td class="left">
+                                                                    <div class="textphoto limit-3 color-3">
+    新意合
+</div>                                                                                                <a class="personal-comp" href="/company_detail_96446297818397" target="_blank" title="诸暨市新意合贸易有限公司">
+                                                                            诸暨市新意合贸易有限公司
+                                                                    </a>
+                                                            </td>
+                            <td>-</td>
+                            <td>
+                                                                    <a href="/person?personId=a086e69539597e69ee7f1217ab5c9809">赵瑞军</a>
+                                                            </td>
+                            <td>50万(元)</td>
+                            <td>2021-05-20</td>
+                            <td>浙江省绍兴市诸暨市</td>
+                            <td class="open">开业</td>
+                        </tr>
+                                            </tbody>
+                </table>
+                <div class="personal-isstockholder-pager"></div>
+            </div>
+                                                <div class="personal-con personal-executive" id="personal-isdirectors">
+                <h2 class="zx-personal-title">担任高管<span class="title-sum"><!-- 必须使用totalNum这个组件 干预total -->
+
+            2
+    </span><img src="//xinyong.bdstatic.com/xin/pc/20210817/dist/common/css/img/aqc-table-logo.png" class="aqc-table-logo" /></h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <td>序号</td>
+                            <td>企业名称</td>
+                            <td>职务</td>
+                            <td>法定代表人</td>
+                            <td>注册资本</td>
+                            <td>成立时间</td>
+                            <td>地区</td>
+                            <td>状态</td>
+                        </tr>
+                    </thead>
+                    <tbody class="personal-isdirectors-content">
+                                                <tr>
+                            <td>1</td>
+                            <td class="left">
+                                                                    <div class="textphoto limit-1 color-1">
+    清
+</div>                                                                                                <a class="personal-comp" href="/company_detail_24226112183961" target="_blank" title="诸暨市清水潭菜馆">
+                                                                            诸暨市清水潭菜馆
+                                                                    </a>
+                                                            </td>
+                            <td>法定代表人</td>
+                            <td>
+                                                                    <a href="/person?personId=20230d6ab39d1db7c16cf4702c3c2cb1">赵鲁军</a>
+                                                            </td>
+                            <td>2万(元)</td>
+                            <td>2011-02-21</td>
+                            <td>浙江省绍兴市诸暨市</td>
+                            <td class="close">注销</td>
+                        </tr>
+                                                <tr>
+                            <td>2</td>
+                            <td class="left">
+                                                                    <div class="textphoto limit-3 color-7">
+    新意合
+</div>                                                                                                <a class="personal-comp" href="/company_detail_96446297818397" target="_blank" title="诸暨市新意合贸易有限公司">
+                                                                            诸暨市新意合贸易有限公司
+                                                                    </a>
+                                                            </td>
+                            <td>监事</td>
+                            <td>
+                                                                    <a href="/person?personId=a086e69539597e69ee7f1217ab5c9809">赵瑞军</a>
+                                                            </td>
+                            <td>50万(元)</td>
+                            <td>2021-05-20</td>
+                            <td>浙江省绍兴市诸暨市</td>
+                            <td class="open">开业</td>
+                        </tr>
+                                            </tbody>
+                </table>
+                <div class="personal-isdirectors-pager"></div>
+            </div>
+                                                <div class="personal-con personal-companys" id="personal-allenterprises">
+                <h2 class="zx-personal-title">TA的所有企业<span class="title-sum"><!-- 必须使用totalNum这个组件 干预total -->
+
+            3
+    </span><img src="//xinyong.bdstatic.com/xin/pc/20210817/dist/common/css/img/aqc-table-logo.png" class="aqc-table-logo" /></h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <td>序号</td>
+                            <td>企业名称</td>
+                            <td>职务</td>
+                            <td>注册资本</td>
+                            <td>成立时间</td>
+                            <td>地区</td>
+                            <td>状态</td>
+                        </tr>
+                    </thead>
+                    <tbody class="personal-allenterprises-content">
+                                                <tr>
+                            <td>1</td>
+                            <td class="left">
+                                                                    <div class="textphoto limit-1 color-2">
+    清
+</div>                                                                                                <a class="personal-comp" href="/company_detail_24226112183961" target="_blank" title="诸暨市清水潭菜馆">
+                                                                            诸暨市清水潭菜馆
+                                                                    </a>
+                                                            </td>
+                            <td>
+                                                                    <p>法定代表人</p>
+                                                            </td>
+                            <td>2万(元)</td>
+                            <td>2011-02-21</td>
+                            <td>浙江省绍兴市诸暨市</td>
+                            <td class="close">注销</td>
+                        </tr>
+                                                <tr>
+                            <td>2</td>
+                            <td class="left">
+                                                                    <div class="textphoto limit-4 color-8">
+    建业工程
+</div>                                                                                                <a class="personal-comp" href="/company_detail_28535122501632" target="_blank" title="浙江建业工程建设有限公司诸暨安华分公司">
+                                                                            浙江建业工程建设有限公司诸暨安华分公司
+                                                                    </a>
+                                                            </td>
+                            <td>
+                                                                    <p>法定代表人</p>
+                                                            </td>
+                            <td>-</td>
+                            <td>2017-06-01</td>
+                            <td>浙江省绍兴市诸暨市</td>
+                            <td class="open">开业</td>
+                        </tr>
+                                                <tr>
+                            <td>3</td>
+                            <td class="left">
+                                                                    <div class="textphoto limit-3 color-7">
+    新意合
+</div>                                                                                                <a class="personal-comp" href="/company_detail_96446297818397" target="_blank" title="诸暨市新意合贸易有限公司">
+                                                                            诸暨市新意合贸易有限公司
+                                                                    </a>
+                                                            </td>
+                            <td>
+                                                                    <p>股东</p>
+                                                                    <p>监事</p>
+                                                            </td>
+                            <td>50万(元)</td>
+                            <td>2021-05-20</td>
+                            <td>浙江省绍兴市诸暨市</td>
+                            <td class="open">开业</td>
+                        </tr>
+                                            </tbody>
+                </table>
+                <div class="personal-allenterprises-pager"></div>
+            </div>
+                                                
+                <div class="zx-bottom-banner" style="top:-10px; margin-bottom: 0"><a href="/" target="_blank"><img src="//xinyong.bdstatic.com/xin/pc/20210817/dist/common/css/img/bottom-banner.jpg"/></a></div>            
+        </div>
+        <div class="zx-personal-disclaimer">
+            <div class="zx-personal-disclaimer-content">上述信息根据互联网公开信息整合而成，可能存在一定滞后或偏差的情况，若您认为该信息侵犯了您的合法权益，您可以前往页面底部【联系我们】-【用户反馈】将完整、合法的书面权利证明提交，谢谢。</div>
+        </div>
+    </div>
+
+    <div class="zx-side-con">
+        
+                        <div class="zx-personalSide zx-cooperativePartner"><h3 class="zx-personalSide-title">TA的合作伙伴</h3><ul class="zx-personalSide-list ZX_LOG_LINK" data-click='{"cate": "cooperativePartner", "action": "click"}'><div class="zx-personalSide-tip">加载中...</div></ul></div>            <div class="zx-personalSide zx-interestedPeople"><h3 class="zx-personalSide-title">您可能感兴趣的人<span class="panel-change" data-type="interestedPeople">换一换</span></h3><ul class="zx-personalSide-list ZX_LOG_LINK" data-click='{"cate": "interestedPeople", "action": "click"}'><div class="zx-personalSide-tip">加载中...</div></ul></div>        
+    </div>
+    <div class="clear-fix"></div>
+</div>
+
+    </div>
+    
+        <div class="footer"><div class="footer-content"><div class="box company"><h3 class="title">爱企查</h3><p><a href="/fs/about" target="_blank">关于我们</a><a href="/fs/protocol" target="_blank" >用户协议</a><a href="https://www.baidu.com/duty/" target="_blank">免责声明</a></p></div><div class="box ours"><h3 class="title">联系我们</h3><p class="content"><img class="icon" src="/static/pc/photo/ios-mail-outline.png">用户反馈：<span class="user-feedback">点此反馈</span></p><p class="content"><img class="icon icon-cooperation" src="/static/pc/photo/cooperation.png">商务合作：bd-aiqicha@baidu.com</p></div><div class="box source"><h3 class="title">数据来源</h3><p class="content"><span>国家企业信用信息公示系统</span><span>信用中国</span><span>中国裁判文书网</span></p><p class="content"><span>中国执行信息公开网</span><span>国家知识产权局</span><span>商标局</span></p><p class="content"><span>版权局</span><span>上海合合信息科技发展有限公司</span><span>民政部</span></p></div></div><p class="tip"><a href="https://beian.miit.gov.cn" target="_blank">京ICP证030173号</a> 京网文|2013|0934-983号 Copyright ©2021 Baidu</p></div>        <div class="float-banner" id="floatBanner"><div class="mark" id="floatBannerMark" data-log-an="float-banner-unfold" data-log-title="float-banner-unfold" ></div><div class="content" id="floatBannerContent" data-log-an="float-banner-open" data-log-title="float-banner-open" ><div class="qrcode"><img src="https://xinpub.cdn.bcebos.com/mp/enter/app-guide-qrcode-fr.png"><p>手机扫码下载APP</p></div><div class="close" id="floatBannerClose" data-log-an="float-banner-fold" data-log-title="float-banner-fold" ></div></div></div>    
+<script src='//passport.baidu.com/passApi/js/wrapper.js?1630239775'></script><script src="//xinpub.cdn.bcebos.com/static/esl/2-0-6/esl.js"></script><script>require.config({'baseUrl': '//xinyong.bdstatic.com/xin/pc/20210817/dist','paths': {'passDomain': 'https://passport.baidu.com','js': 'common/js'},'packages': [{'name': 'jquery','location': '//xinyong.bdstatic.com/xin/pc/dep/jquery','main': 'jquery1.9.0'},{'name': 'etpl','location': '//xinyong.bdstatic.com/xin/pc/dep/etpl/3.0.1/dist','main': 'main'},{'name': 'moye','location': '//xinyong.bdstatic.com/xin/pc/dep/moye/dist/ui'},{'name': 'saber-emitter','location': '//xinyong.bdstatic.com/xin/pc/dep/saber-emitter/dist','main': 'emitter'},{'name': 'jRotate','location': '//xinyong.bdstatic.com/xin/pc/dep/jRotate','main': 'jRotate'},{'name': 'qrCode','location': '//xinyong.bdstatic.com/xin/pc/dep/jquery-qrcode/dist','main': 'jquery.qrcode'},{'name': 'photoswipe','location': '//xinyong.bdstatic.com/xin/pc/dep/photoswipe','main': 'photoswipe'},{'name': 'preact','location': '//xinyong.bdstatic.com/xin/pc/dep/preact/dist','main': 'preact@10.3.4.umd'},{'name': 'swiper','location': '//xinyong.bdstatic.com/xin/pc/dep/swiper/dist/js','main': 'swiper.min'},{'name': 'babel-runtime','location': '//xinyong.bdstatic.com/xin/pc/dep/babel-runtime/1.0.1/dist','main': 'main'},{'name': 'babel-polyfill','location': '//xinyong.bdstatic.com/xin/pc/dep/babel-polyfill','main': 'polyfill.min'},{'name': 'cyberplayer','location': '//xinyong.bdstatic.com/xin/pc/dep/cyberplayer','main': 'cyberplayer'}],'urlArgs': 20160311});</script><script>define('global/tplData', {"sid":"43725_43638","isLogin":0,"userName":null,"casapi":null,"passapi":"\/\/passport.baidu.com\/passApi\/js\/wrapper.js","logoutUrl":"\/\/aiqicha.baidu.com\/my\/logout","logintype":0,"userPhoto":"https:\/\/himg.bdimg.com\/sys\/portrait\/item\/default.jpg","homePage":"\/\/aiqicha.baidu.com","passDomain":"https:\/\/passport.baidu.com","queryType":[{"name":"\u5168\u90e8","type":"0","placeholder":"\u8bf7\u8f93\u5165\u60f3\u67e5\u8be2\u7684\u5185\u5bb9","logName":"all"},{"name":"\u4f01\u4e1a\u540d\/\u6ce8\u518c\u53f7","type":"1","placeholder":"\u8f93\u5165\u4f01\u4e1a\u540d\u3001\u6ce8\u518c\u53f7","logName":"enterprise_name"},{"name":"\u6cd5\u4eba\u4ee3\u8868","type":"2","placeholder":"\u8f93\u5165\u6cd5\u4eba\u4ee3\u8868","logName":"legal_represent"},{"name":"\u5730\u5740","type":"3","placeholder":"\u8f93\u5165\u5730\u5740","logName":"address"},{"name":"\u7ecf\u8425\u8303\u56f4","type":"4","placeholder":"\u8f93\u5165\u7ecf\u8425\u8303\u56f4","logName":"scope_business"},{"name":"\u80a1\u4e1c","type":"5","placeholder":"\u8f93\u5165\u80a1\u4e1c","logName":"shareholders"},{"name":"\u9ad8\u7ba1","type":"6","placeholder":"\u8f93\u5165\u9ad8\u7ba1","logName":"main_members"},{"name":"\u5546\u6807","type":"7","placeholder":"\u8f93\u5165\u5546\u6807\u540d\u79f0","logName":"mark"}],"queryWord":"","version":"V1.0.33","mLoginUrl":"https:\/\/wappass.baidu.com\/passport\/login?tpl=zhengxin&authsite=0&overseas=1","mLogoutUrl":"https:\/\/wappass.baidu.com\/passport\/?logout&tpl=zhengxin&u=https%3a%2f%2fxin.baidu.com%2fm","mRegUrl":"https:\/\/wappass.baidu.com\/passport\/reg?tpl=zhengxin&authsite=0&overseas=1&u=https%3a%2f%2fxin.baidu.com%2fm","topBarInfo":[{"title":"\u70ed\u95e8\u529f\u80fd","child":[{"name":"\u6279\u91cf\u67e5\u8be2","jumpUrl":"https:\/\/aiqicha.baidu.com\/batchquery","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-plcx.png","isNew":false,"isNeedLogin":false},{"name":"\u4f01\u4e1a\u8ba4\u9886","jumpUrl":"https:\/\/qiye.baidu.com\/usercenter#\/claim\/qualify","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-rl.png","isNew":false,"isNeedLogin":true},{"name":"\u756a\u756a\u5bfb\u5ba2\u5b9d","jumpUrl":"https:\/\/aifanfan.baidu.com\/wise\/aqc\/aqc-static.html","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-xkb.png","isNew":false,"isNeedLogin":false},{"name":"\u9ad8\u7ea7\u641c\u7d22","jumpUrl":"https:\/\/aiqicha.baidu.com\/advancesearch","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-gjss.png","isNew":true,"isNeedLogin":false}]},{"title":"\u4e13\u9879\u67e5\u8be2","child":[{"name":"\u67e5\u5173\u7cfb","jumpUrl":"https:\/\/aiqicha.baidu.com\/relations\/findrelations","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-cgx.png","isNew":false,"isNeedLogin":false},{"name":"\u67e5\u8001\u8d56","jumpUrl":"https:\/\/aiqicha.baidu.com\/discredit","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-cll.png","isNew":false,"isNeedLogin":false},{"name":"\u67e5\u5546\u6807","jumpUrl":"https:\/\/aiqicha.baidu.com\/mark","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-csb.png","isNew":false,"isNeedLogin":false},{"name":"\u5730\u56fe\u67e5\u8be2","jumpUrl":"https:\/\/aiqicha.baidu.com\/map","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-dtcx.png","isNew":false,"isNeedLogin":false}]},{"title":"\u4ea7\u54c1\u4e2d\u5fc3","child":[{"name":"\u79ef\u5206\u5546\u57ce","jumpUrl":"https:\/\/qiye.baidu.com\/usercenter#\/mall","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-jfsc.png","isNew":false,"isNeedLogin":true},{"name":"\u5546\u5bb6\u4e2d\u5fc3","jumpUrl":"https:\/\/qiye.baidu.com\/usercenter#\/claimlist","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-sjzx.png","isNew":false,"isNeedLogin":true},{"name":"\u5bfc\u51fa\u8bb0\u5f55","jumpUrl":"https:\/\/qiye.baidu.com\/usercenter#\/exportdata","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-dcjl.png","isNew":false,"isNeedLogin":true},{"name":"\u6211\u7684\u5173\u6ce8","jumpUrl":"https:\/\/qiye.baidu.com\/usercenter#\/focus","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-wdgz.png","isNew":false,"isNeedLogin":true},{"name":"\u6211\u7684\u7ea0\u9519","jumpUrl":"https:\/\/qiye.baidu.com\/usercenter#\/correct","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-wdjc.png","isNew":false,"isNeedLogin":true},{"name":"\u7528\u6237\u53cd\u9988","jumpUrl":"dialog-feedback","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-yhfk.png","isNew":false,"isNeedLogin":true}]}],"result":{"personhead":{"personName":"\u8d75\u9c81\u519b","birthDate":"-","nationality":"-","introduction":{"legalPerson":[{"name":"\u8bf8\u66a8\u5e02\u6e05\u6c34\u6f6d\u83dc\u9986","pid":"24226112183961"},{"name":"\u6d59\u6c5f\u5efa\u4e1a\u5de5\u7a0b\u5efa\u8bbe\u6709\u9650\u516c\u53f8\u8bf8\u66a8\u5b89\u534e\u5206\u516c\u53f8","pid":"28535122501632"}],"isstockholde":[{"name":"\u8bf8\u66a8\u5e02\u65b0\u610f\u5408\u8d38\u6613\u6709\u9650\u516c\u53f8","pid":"96446297818397"}],"director":[{"name":"\u8bf8\u66a8\u5e02\u6e05\u6c34\u6f6d\u83dc\u9986","pid":"24226112183961"},{"name":"\u8bf8\u66a8\u5e02\u65b0\u610f\u5408\u8d38\u6613\u6709\u9650\u516c\u53f8","pid":"96446297818397"}]},"logo":"","entName":"\u8bf8\u66a8\u5e02\u6e05\u6c34\u6f6d\u83dc\u9986","pid":"24226112183961","detailUrl":"\/company_detail_24226112183961"},"legalperson":{"total":2,"totalNum":2,"pageCount":1,"page":1,"size":10,"list":[{"entName":"\u8bf8\u66a8\u5e02\u6e05\u6c34\u6f6d\u83dc\u9986","logoWord":"\u6e05","logo":"","openStatus":"\u6ce8\u9500","regCap":"2\u4e07(\u5143)","startDate":"2011-02-21","province":"\u6d59\u6c5f\u7701\u7ecd\u5174\u5e02\u8bf8\u66a8\u5e02","pid":"24226112183961","legalPerson":"\u8d75\u9c81\u519b"},{"entName":"\u6d59\u6c5f\u5efa\u4e1a\u5de5\u7a0b\u5efa\u8bbe\u6709\u9650\u516c\u53f8\u8bf8\u66a8\u5b89\u534e\u5206\u516c\u53f8","logoWord":"\u5efa\u4e1a\u5de5\u7a0b","logo":"","openStatus":"\u5f00\u4e1a","regCap":"-","startDate":"2017-06-01","province":"\u6d59\u6c5f\u7701\u7ecd\u5174\u5e02\u8bf8\u66a8\u5e02","pid":"28535122501632","legalPerson":"\u8d75\u9c81\u519b"}]},"isstockholder":{"total":1,"totalNum":1,"pageCount":1,"page":1,"size":10,"list":[{"legalPerson":"\u8d75\u745e\u519b","legalPersonId":"a086e69539597e69ee7f1217ab5c9809","entName":"\u8bf8\u66a8\u5e02\u65b0\u610f\u5408\u8d38\u6613\u6709\u9650\u516c\u53f8","logoWord":"\u65b0\u610f\u5408","logo":"","openStatus":"\u5f00\u4e1a","regCap":"50\u4e07(\u5143)","subRate":"-","startDate":"2021-05-20","province":"\u6d59\u6c5f\u7701\u7ecd\u5174\u5e02\u8bf8\u66a8\u5e02","pid":"96446297818397"}]},"isdirectors":{"total":2,"totalNum":2,"pageCount":1,"page":1,"size":10,"list":[{"legalPerson":"\u8d75\u9c81\u519b","legalPersonId":"20230d6ab39d1db7c16cf4702c3c2cb1","entName":"\u8bf8\u66a8\u5e02\u6e05\u6c34\u6f6d\u83dc\u9986","logoWord":"\u6e05","logo":"","openStatus":"\u6ce8\u9500","regCap":"2\u4e07(\u5143)","startDate":"2011-02-21","province":"\u6d59\u6c5f\u7701\u7ecd\u5174\u5e02\u8bf8\u66a8\u5e02","positionTitle":"\u6cd5\u5b9a\u4ee3\u8868\u4eba","detailUrl":"\/company_detail_24226112183961","pid":"24226112183961"},{"legalPerson":"\u8d75\u745e\u519b","legalPersonId":"a086e69539597e69ee7f1217ab5c9809","entName":"\u8bf8\u66a8\u5e02\u65b0\u610f\u5408\u8d38\u6613\u6709\u9650\u516c\u53f8","logoWord":"\u65b0\u610f\u5408","logo":"","openStatus":"\u5f00\u4e1a","regCap":"50\u4e07(\u5143)","startDate":"2021-05-20","province":"\u6d59\u6c5f\u7701\u7ecd\u5174\u5e02\u8bf8\u66a8\u5e02","positionTitle":"\u76d1\u4e8b","detailUrl":"\/company_detail_96446297818397","pid":"96446297818397"}]},"allenterprises":{"total":3,"totalNum":3,"pageCount":1,"page":1,"size":10,"list":[{"entName":"\u8bf8\u66a8\u5e02\u6e05\u6c34\u6f6d\u83dc\u9986","legalPerson":"\u8d75\u9c81\u519b","logoWord":"\u6e05","openStatus":"\u6ce8\u9500","regCap":"2\u4e07(\u5143)","startDate":"2011-02-21","province":"\u6d59\u6c5f\u7701\u7ecd\u5174\u5e02\u8bf8\u66a8\u5e02","positionTitle":["\u6cd5\u5b9a\u4ee3\u8868\u4eba"],"detailUrl":"\/company_detail_24226112183961","pid":"24226112183961","logo":""},{"entName":"\u6d59\u6c5f\u5efa\u4e1a\u5de5\u7a0b\u5efa\u8bbe\u6709\u9650\u516c\u53f8\u8bf8\u66a8\u5b89\u534e\u5206\u516c\u53f8","legalPerson":"\u8d75\u9c81\u519b","logoWord":"\u5efa\u4e1a\u5de5\u7a0b","openStatus":"\u5f00\u4e1a","startDate":"2017-06-01","province":"\u6d59\u6c5f\u7701\u7ecd\u5174\u5e02\u8bf8\u66a8\u5e02","positionTitle":["\u6cd5\u5b9a\u4ee3\u8868\u4eba"],"detailUrl":"\/company_detail_28535122501632","pid":"28535122501632","logo":"","regCap":"-"},{"entName":"\u8bf8\u66a8\u5e02\u65b0\u610f\u5408\u8d38\u6613\u6709\u9650\u516c\u53f8","legalPerson":"\u8d75\u745e\u519b","logoWord":"\u65b0\u610f\u5408","openStatus":"\u5f00\u4e1a","regCap":"50\u4e07(\u5143)","startDate":"2021-05-20","province":"\u6d59\u6c5f\u7701\u7ecd\u5174\u5e02\u8bf8\u66a8\u5e02","positionTitle":["\u80a1\u4e1c","\u76d1\u4e8b"],"detailUrl":"\/company_detail_96446297818397","pid":"96446297818397","logo":""}]},"holds":{"total":0,"page":1,"size":10,"list":[]},"personId":"20230d6ab39d1db7c16cf4702c3c2cb1","title":"\u8d75\u9c81\u519b - \u8bf8\u66a8\u5e02\u6e05\u6c34\u6f6d\u83dc\u9986 - \u6cd5\u5b9a\u4ee3\u8868\u4eba\/\u9ad8\u7ba1\/\u80a1\u4e1c - \u7231\u4f01\u67e5","keywords":"2021\u5e74\u6700\u65b0\u76f8\u5173\u8054\u4f01\u4e1a\u4fe1\u606f\u67e5\u8be2,\u8bf8\u66a8\u5e02\u6e05\u6c34\u6f6d\u83dc\u9986,\u8d75\u9c81\u519b","description":"\u7231\u4f01\u67e5\u4e3a\u60a8\u63d0\u4f9b(\u8d75\u9c81\u519b)2021\u5e74\u6700\u65b0\u76f8\u5173\u4f01\u4e1a\u4fe1\u606f\u67e5\u8be2\uff0c\u540c\u65f6\u4e3a\u60a8\u63d0\u4f9b(\u8d75\u9c81\u519b)\u62c5\u4efb\u80a1\u4e1c\u3001\u6cd5\u4eba\u3001\u9ad8\u7ba1\u7b49\u76f8\u5173\u4f01\u4e1a\u4fe1\u606f\u67e5\u8be2,\u8fd8\u6709(\u8d75\u9c81\u519b)\u5173\u7cfb\u56fe\u8c31\u4fe1\u606f,(\u8d75\u9c81\u519b)\u7684\u5408\u4f5c\u4f19\u4f34\u5173\u7cfb\u67e5\u8be2,\u4e86\u89e3\u66f4\u591a(\u8d75\u9c81\u519b)\u4fe1\u606f\u5c31\u6765\u7231\u4f01\u67e5\u5427!","personName":"\u8d75\u9c81\u519b"}});(function () {var getCookie = function (name) {var arr, reg = new RegExp('(^| )' + name + '=([^;]*)(;|$)');if (arr = document.cookie.match(reg)) return unescape(arr[2]);else return '';};window._logs = window._logs || [];window._logs.push(['common', 'st', 'xin']);window._logs.push(['common', 'bd', getCookie('BAIDUID')]);window._logs.push(['common', 'ud', getCookie('_j54_6ae_')]);})();</script><!--[if lte IE 8 ]><script>
+        require(['jquery', 'moye/Dialog', 'moye/Button'], function ($, Dialog) {
+            Dialog.alert({
+            title: '提示',
+            content: '您的浏览器版本过低，可能影响使用体验。请升级浏览器',
+            buttons: [{
+                text: '确定'
+            }]
+        })
+    });
+    </script><![endif]-->
+        
+<script>
+    require.config({
+        'baseUrl': '//xinyong.bdstatic.com/xin/pc/20210817/dist',
+        'packages': [{
+                'name': 'd3',
+                'location': '//xinyong.bdstatic.com/xin/pc/dep/d3',
+                'main': 'd3.min.js'
+            }]
+    });
+
+    require(['person/index'], function (index) {
+        var htmlInfo = {"sid":"43725_43638","isLogin":0,"userName":null,"casapi":null,"passapi":"\/\/passport.baidu.com\/passApi\/js\/wrapper.js","logoutUrl":"\/\/aiqicha.baidu.com\/my\/logout","logintype":0,"userPhoto":"https:\/\/himg.bdimg.com\/sys\/portrait\/item\/default.jpg","homePage":"\/\/aiqicha.baidu.com","passDomain":"https:\/\/passport.baidu.com","queryType":[{"name":"\u5168\u90e8","type":"0","placeholder":"\u8bf7\u8f93\u5165\u60f3\u67e5\u8be2\u7684\u5185\u5bb9","logName":"all"},{"name":"\u4f01\u4e1a\u540d\/\u6ce8\u518c\u53f7","type":"1","placeholder":"\u8f93\u5165\u4f01\u4e1a\u540d\u3001\u6ce8\u518c\u53f7","logName":"enterprise_name"},{"name":"\u6cd5\u4eba\u4ee3\u8868","type":"2","placeholder":"\u8f93\u5165\u6cd5\u4eba\u4ee3\u8868","logName":"legal_represent"},{"name":"\u5730\u5740","type":"3","placeholder":"\u8f93\u5165\u5730\u5740","logName":"address"},{"name":"\u7ecf\u8425\u8303\u56f4","type":"4","placeholder":"\u8f93\u5165\u7ecf\u8425\u8303\u56f4","logName":"scope_business"},{"name":"\u80a1\u4e1c","type":"5","placeholder":"\u8f93\u5165\u80a1\u4e1c","logName":"shareholders"},{"name":"\u9ad8\u7ba1","type":"6","placeholder":"\u8f93\u5165\u9ad8\u7ba1","logName":"main_members"},{"name":"\u5546\u6807","type":"7","placeholder":"\u8f93\u5165\u5546\u6807\u540d\u79f0","logName":"mark"}],"queryWord":"","version":"V1.0.33","mLoginUrl":"https:\/\/wappass.baidu.com\/passport\/login?tpl=zhengxin&authsite=0&overseas=1","mLogoutUrl":"https:\/\/wappass.baidu.com\/passport\/?logout&tpl=zhengxin&u=https%3a%2f%2fxin.baidu.com%2fm","mRegUrl":"https:\/\/wappass.baidu.com\/passport\/reg?tpl=zhengxin&authsite=0&overseas=1&u=https%3a%2f%2fxin.baidu.com%2fm","topBarInfo":[{"title":"\u70ed\u95e8\u529f\u80fd","child":[{"name":"\u6279\u91cf\u67e5\u8be2","jumpUrl":"https:\/\/aiqicha.baidu.com\/batchquery","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-plcx.png","isNew":false,"isNeedLogin":false},{"name":"\u4f01\u4e1a\u8ba4\u9886","jumpUrl":"https:\/\/qiye.baidu.com\/usercenter#\/claim\/qualify","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-rl.png","isNew":false,"isNeedLogin":true},{"name":"\u756a\u756a\u5bfb\u5ba2\u5b9d","jumpUrl":"https:\/\/aifanfan.baidu.com\/wise\/aqc\/aqc-static.html","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-xkb.png","isNew":false,"isNeedLogin":false},{"name":"\u9ad8\u7ea7\u641c\u7d22","jumpUrl":"https:\/\/aiqicha.baidu.com\/advancesearch","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-gjss.png","isNew":true,"isNeedLogin":false}]},{"title":"\u4e13\u9879\u67e5\u8be2","child":[{"name":"\u67e5\u5173\u7cfb","jumpUrl":"https:\/\/aiqicha.baidu.com\/relations\/findrelations","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-cgx.png","isNew":false,"isNeedLogin":false},{"name":"\u67e5\u8001\u8d56","jumpUrl":"https:\/\/aiqicha.baidu.com\/discredit","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-cll.png","isNew":false,"isNeedLogin":false},{"name":"\u67e5\u5546\u6807","jumpUrl":"https:\/\/aiqicha.baidu.com\/mark","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-csb.png","isNew":false,"isNeedLogin":false},{"name":"\u5730\u56fe\u67e5\u8be2","jumpUrl":"https:\/\/aiqicha.baidu.com\/map","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-dtcx.png","isNew":false,"isNeedLogin":false}]},{"title":"\u4ea7\u54c1\u4e2d\u5fc3","child":[{"name":"\u79ef\u5206\u5546\u57ce","jumpUrl":"https:\/\/qiye.baidu.com\/usercenter#\/mall","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-jfsc.png","isNew":false,"isNeedLogin":true},{"name":"\u5546\u5bb6\u4e2d\u5fc3","jumpUrl":"https:\/\/qiye.baidu.com\/usercenter#\/claimlist","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-sjzx.png","isNew":false,"isNeedLogin":true},{"name":"\u5bfc\u51fa\u8bb0\u5f55","jumpUrl":"https:\/\/qiye.baidu.com\/usercenter#\/exportdata","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-dcjl.png","isNew":false,"isNeedLogin":true},{"name":"\u6211\u7684\u5173\u6ce8","jumpUrl":"https:\/\/qiye.baidu.com\/usercenter#\/focus","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-wdgz.png","isNew":false,"isNeedLogin":true},{"name":"\u6211\u7684\u7ea0\u9519","jumpUrl":"https:\/\/qiye.baidu.com\/usercenter#\/correct","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-wdjc.png","isNew":false,"isNeedLogin":true},{"name":"\u7528\u6237\u53cd\u9988","jumpUrl":"dialog-feedback","imgUrl":"https:\/\/xinpub.cdn.bcebos.com\/aiqicha\/newmenus\/menu-yhfk.png","isNew":false,"isNeedLogin":true}]}],"result":{"personhead":{"personName":"\u8d75\u9c81\u519b","birthDate":"-","nationality":"-","introduction":{"legalPerson":[{"name":"\u8bf8\u66a8\u5e02\u6e05\u6c34\u6f6d\u83dc\u9986","pid":"24226112183961"},{"name":"\u6d59\u6c5f\u5efa\u4e1a\u5de5\u7a0b\u5efa\u8bbe\u6709\u9650\u516c\u53f8\u8bf8\u66a8\u5b89\u534e\u5206\u516c\u53f8","pid":"28535122501632"}],"isstockholde":[{"name":"\u8bf8\u66a8\u5e02\u65b0\u610f\u5408\u8d38\u6613\u6709\u9650\u516c\u53f8","pid":"96446297818397"}],"director":[{"name":"\u8bf8\u66a8\u5e02\u6e05\u6c34\u6f6d\u83dc\u9986","pid":"24226112183961"},{"name":"\u8bf8\u66a8\u5e02\u65b0\u610f\u5408\u8d38\u6613\u6709\u9650\u516c\u53f8","pid":"96446297818397"}]},"logo":"","entName":"\u8bf8\u66a8\u5e02\u6e05\u6c34\u6f6d\u83dc\u9986","pid":"24226112183961","detailUrl":"\/company_detail_24226112183961"},"legalperson":{"total":2,"totalNum":2,"pageCount":1,"page":1,"size":10,"list":[{"entName":"\u8bf8\u66a8\u5e02\u6e05\u6c34\u6f6d\u83dc\u9986","logoWord":"\u6e05","logo":"","openStatus":"\u6ce8\u9500","regCap":"2\u4e07(\u5143)","startDate":"2011-02-21","province":"\u6d59\u6c5f\u7701\u7ecd\u5174\u5e02\u8bf8\u66a8\u5e02","pid":"24226112183961","legalPerson":"\u8d75\u9c81\u519b"},{"entName":"\u6d59\u6c5f\u5efa\u4e1a\u5de5\u7a0b\u5efa\u8bbe\u6709\u9650\u516c\u53f8\u8bf8\u66a8\u5b89\u534e\u5206\u516c\u53f8","logoWord":"\u5efa\u4e1a\u5de5\u7a0b","logo":"","openStatus":"\u5f00\u4e1a","regCap":"-","startDate":"2017-06-01","province":"\u6d59\u6c5f\u7701\u7ecd\u5174\u5e02\u8bf8\u66a8\u5e02","pid":"28535122501632","legalPerson":"\u8d75\u9c81\u519b"}]},"isstockholder":{"total":1,"totalNum":1,"pageCount":1,"page":1,"size":10,"list":[{"legalPerson":"\u8d75\u745e\u519b","legalPersonId":"a086e69539597e69ee7f1217ab5c9809","entName":"\u8bf8\u66a8\u5e02\u65b0\u610f\u5408\u8d38\u6613\u6709\u9650\u516c\u53f8","logoWord":"\u65b0\u610f\u5408","logo":"","openStatus":"\u5f00\u4e1a","regCap":"50\u4e07(\u5143)","subRate":"-","startDate":"2021-05-20","province":"\u6d59\u6c5f\u7701\u7ecd\u5174\u5e02\u8bf8\u66a8\u5e02","pid":"96446297818397"}]},"isdirectors":{"total":2,"totalNum":2,"pageCount":1,"page":1,"size":10,"list":[{"legalPerson":"\u8d75\u9c81\u519b","legalPersonId":"20230d6ab39d1db7c16cf4702c3c2cb1","entName":"\u8bf8\u66a8\u5e02\u6e05\u6c34\u6f6d\u83dc\u9986","logoWord":"\u6e05","logo":"","openStatus":"\u6ce8\u9500","regCap":"2\u4e07(\u5143)","startDate":"2011-02-21","province":"\u6d59\u6c5f\u7701\u7ecd\u5174\u5e02\u8bf8\u66a8\u5e02","positionTitle":"\u6cd5\u5b9a\u4ee3\u8868\u4eba","detailUrl":"\/company_detail_24226112183961","pid":"24226112183961"},{"legalPerson":"\u8d75\u745e\u519b","legalPersonId":"a086e69539597e69ee7f1217ab5c9809","entName":"\u8bf8\u66a8\u5e02\u65b0\u610f\u5408\u8d38\u6613\u6709\u9650\u516c\u53f8","logoWord":"\u65b0\u610f\u5408","logo":"","openStatus":"\u5f00\u4e1a","regCap":"50\u4e07(\u5143)","startDate":"2021-05-20","province":"\u6d59\u6c5f\u7701\u7ecd\u5174\u5e02\u8bf8\u66a8\u5e02","positionTitle":"\u76d1\u4e8b","detailUrl":"\/company_detail_96446297818397","pid":"96446297818397"}]},"allenterprises":{"total":3,"totalNum":3,"pageCount":1,"page":1,"size":10,"list":[{"entName":"\u8bf8\u66a8\u5e02\u6e05\u6c34\u6f6d\u83dc\u9986","legalPerson":"\u8d75\u9c81\u519b","logoWord":"\u6e05","openStatus":"\u6ce8\u9500","regCap":"2\u4e07(\u5143)","startDate":"2011-02-21","province":"\u6d59\u6c5f\u7701\u7ecd\u5174\u5e02\u8bf8\u66a8\u5e02","positionTitle":["\u6cd5\u5b9a\u4ee3\u8868\u4eba"],"detailUrl":"\/company_detail_24226112183961","pid":"24226112183961","logo":""},{"entName":"\u6d59\u6c5f\u5efa\u4e1a\u5de5\u7a0b\u5efa\u8bbe\u6709\u9650\u516c\u53f8\u8bf8\u66a8\u5b89\u534e\u5206\u516c\u53f8","legalPerson":"\u8d75\u9c81\u519b","logoWord":"\u5efa\u4e1a\u5de5\u7a0b","openStatus":"\u5f00\u4e1a","startDate":"2017-06-01","province":"\u6d59\u6c5f\u7701\u7ecd\u5174\u5e02\u8bf8\u66a8\u5e02","positionTitle":["\u6cd5\u5b9a\u4ee3\u8868\u4eba"],"detailUrl":"\/company_detail_28535122501632","pid":"28535122501632","logo":"","regCap":"-"},{"entName":"\u8bf8\u66a8\u5e02\u65b0\u610f\u5408\u8d38\u6613\u6709\u9650\u516c\u53f8","legalPerson":"\u8d75\u745e\u519b","logoWord":"\u65b0\u610f\u5408","openStatus":"\u5f00\u4e1a","regCap":"50\u4e07(\u5143)","startDate":"2021-05-20","province":"\u6d59\u6c5f\u7701\u7ecd\u5174\u5e02\u8bf8\u66a8\u5e02","positionTitle":["\u80a1\u4e1c","\u76d1\u4e8b"],"detailUrl":"\/company_detail_96446297818397","pid":"96446297818397","logo":""}]},"holds":{"total":0,"page":1,"size":10,"list":[]},"personId":"20230d6ab39d1db7c16cf4702c3c2cb1","title":"\u8d75\u9c81\u519b - \u8bf8\u66a8\u5e02\u6e05\u6c34\u6f6d\u83dc\u9986 - \u6cd5\u5b9a\u4ee3\u8868\u4eba\/\u9ad8\u7ba1\/\u80a1\u4e1c - \u7231\u4f01\u67e5","keywords":"2021\u5e74\u6700\u65b0\u76f8\u5173\u8054\u4f01\u4e1a\u4fe1\u606f\u67e5\u8be2,\u8bf8\u66a8\u5e02\u6e05\u6c34\u6f6d\u83dc\u9986,\u8d75\u9c81\u519b","description":"\u7231\u4f01\u67e5\u4e3a\u60a8\u63d0\u4f9b(\u8d75\u9c81\u519b)2021\u5e74\u6700\u65b0\u76f8\u5173\u4f01\u4e1a\u4fe1\u606f\u67e5\u8be2\uff0c\u540c\u65f6\u4e3a\u60a8\u63d0\u4f9b(\u8d75\u9c81\u519b)\u62c5\u4efb\u80a1\u4e1c\u3001\u6cd5\u4eba\u3001\u9ad8\u7ba1\u7b49\u76f8\u5173\u4f01\u4e1a\u4fe1\u606f\u67e5\u8be2,\u8fd8\u6709(\u8d75\u9c81\u519b)\u5173\u7cfb\u56fe\u8c31\u4fe1\u606f,(\u8d75\u9c81\u519b)\u7684\u5408\u4f5c\u4f19\u4f34\u5173\u7cfb\u67e5\u8be2,\u4e86\u89e3\u66f4\u591a(\u8d75\u9c81\u519b)\u4fe1\u606f\u5c31\u6765\u7231\u4f01\u67e5\u5427!","personName":"\u8d75\u9c81\u519b"}}
+        index.init(htmlInfo);
+    });
+</script>
+
+<script src='//xinpub.bj.bcebos.com/static/trustrcv.min.js?global={"common": {"pg": "pc_personal_detail", "cn": "pc"}}'></script>
+
+    <script>
+        // 验证码校验页不加载百度统计
+        if (window.location.pathname !== '/fs/check') {
+            var _hmt = _hmt || [];
+            (function() {
+                var hm = document.createElement("script");
+                hm.src = "//hm.baidu.com/hm.js?ad52b306e1ae4557f5d3534cce8f8bbf";
+                hm.setAttribute('async', 'async');
+                hm.setAttribute('defer', 'defer');
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(hm, s);
+            })();
+        }
+    </script><script>
+        // 接入识瞳
+        function setCookie(name, value) {
+            var Days = 30;
+            var exp = new Date();
+            exp.setTime(exp.getTime() + Days * 24 * 60 * 60 * 1000);
+            document.cookie = name + "=" + escape(value) + ";expires=" + exp.toGMTString();
+        }
+        window['__abbaidu_2061_cb'] = function (responseData) {
+            // TODO: 返回数据处理，如:写入Cookie，方便传给后端进行解析
+            var {data, key_id, sign} = JSON.parse(responseData);
+            setCookie('_s53_d91_', data);
+            setCookie('_j47_ka8_', key_id);
+            setCookie('_y18_s21_', sign);
+        };
+        (function () {
+            var shitong = document.createElement("script");
+            shitong.src = 'https://dlswbr.baidu.com/heicha/mw/abclite-2061-s.js?v=' + Math.random();
+            shitong.setAttribute('async', 'async');
+            shitong.setAttribute('defer', 'defer');
+            var st = document.getElementsByTagName('script')[0];
+            st.parentNode.insertBefore(shitong, st);
+        })();
+    </script><script>
+        // Baidu 推送
+        (function(){
+            var lo = window.location, r = document.referrer || "", l;
+            if (lo.protocol === 'https:' && lo.host === 'aiqicha.baidu.com') {
+                var i = new Image;
+                l = lo.pathname.indexOf('/company_detail') === 0 ? lo.origin + lo.pathname : lo.href;
+                i.src = "https://sp0.baidu.com/9_Q4simg2RQJ8t7jm9iCKT-xh_/s.gif?l=" + encodeURIComponent(l) + "&r=" + encodeURIComponent(r);
+            }
+        })();
+    </script><script>require(['common/xin-ui/list/index'])</script><script>
+        require(['common/footer'], function (compinfo) {
+            compinfo.init();
+        });
+    </script><script type="text/javascript">
+window['__abbaidu_2008_subidgetf'] = function () {
+    return '51f51d637f02ae084';
+}
+</script>
+<script src="/.well-known/yunjiasu-cgi/scripts/psl.min.js"></script>
+<script type="text/javascript">
+(function(){function h(d){return psl.parse(d).domain||d}window["__abbaidu_2008_cb"]=function(d){try{var g=!1;-1!=document.cookie.indexOf("__yjsv5_shitong")&&(g=!0);-1!=document.cookie.indexOf("__yjs_st")&&(g=!0);var e=new Date;e.setTime(e.getTime()+1728E5);var b=JSON.parse(d);if("undefined"!==typeof b.data&&"undefined"!==typeof b.key_id&&"undefined"!==typeof b.sign){var a=b.data;if("undefined"!==typeof a.ver&&"undefined"!==typeof b.data.lid&&"undefined"!==typeof a.ret_code&&"undefined"!==typeof a.server_time&&
+"undefined"!==typeof a.ip){var c=Array(7);c[0]=a.ver;c[1]=b.key_id;c[2]=a.lid;c[3]=a.ret_code;c[4]=a.server_time;c[5]=a.ip;c[6]=b.sign;var l=";expires="+e.toGMTString()+";path=/;domain="+h(document.domain),m=encodeURIComponent(c.join("_"))+l;document.cookie=encodeURIComponent("__yjsv5_shitong")+"="+m}else{var f=Array(3);f[0]=a;f[1]=b.key_id;f[2]=b.sign;var n="2_"+btoa(encodeURIComponent(f.join("_"))),p=";expires="+e.toGMTString()+";path=/;domain="+h(document.domain);d=n+p;document.cookie=encodeURIComponent("__yjs_st")+
+"="+d}}if(!g){var k=new XMLHttpRequest;k.open("GET","/favicon.ico",!0);k.send(null)}}catch(q){}}})();
+</script>
+<script async=true src="https://dlswbr.baidu.com/heicha/mw/abclite-2008-s.js"></script>
+</body></html>

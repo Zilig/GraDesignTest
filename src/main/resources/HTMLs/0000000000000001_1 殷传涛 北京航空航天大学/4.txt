@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+<head>
+    <!--
+    Customize this policy to fit your own app's needs. For more guidance, see:
+        https://github.com/apache/cordova-plugin-whitelist/blob/master/README.md#content-security-policy
+    Some notes:
+        * gap: is required only on iOS (when using UIWebView) and is needed for JS->native communication
+        * https://ssl.gstatic.com is required only on Android and is needed for TalkBack to function properly
+        * Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:
+            * Enable inline JS: add 'unsafe-inline' to default-src
+    -->
+    <!--<meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">-->
+    <meta charset="UTF-8">
+    <meta http-equiv="expires" content="0">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="description" content="X-MOL 平台"/>
+    <!--百度站长认证-->
+    <meta name="baidu-site-verification" content="PeSWLH2LrB"/>
+    <meta name="viewport"
+          content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+    <title>X-MOL</title>
+    <link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/ratchet/2.0.2/css/ratchet.min.css"/>
+
+    <!-- Start Alexa Certify Javascript -->
+    <script type="text/javascript">
+        _atrk_opts = {atrk_acct: "sLd7o1IWh110i+", domain: "x-mol.com", dynamic: true};
+        (function () {
+            var as = document.createElement('script');
+            as.type = 'text/javascript';
+            as.async = true;
+            as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(as, s);
+        })();
+    </script>
+    <!-- End Alexa Certify Javascript -->
+</head>
+<body>
+
+<div id="root">
+</div>
+<script type="text/javascript" src="https://res.wx.qq.com/open/js/jweixin-1.4.0.js"></script>
+<script src="//cdn.bootcss.com/ratchet/2.0.2/js/ratchet.min.js"></script>
+
+
+<div style="display: none">
+    <script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?543e8bb9e2ec1a0b9400d55857a600b0";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+
+        // _hmt.push(['_requirePlugin', 'UrlChangeTracker', {
+        //     shouldTrackUrlChange: function (newPath, oldPath) {
+        //         return newPath && oldPath;
+        //     }}
+        // ]);
+    </script>
+
+    <script type="text/javascript" src="/bundle.js?date=0512"></script>
+<!--    <script type="text/javascript" src="https://xpic.x-mol.com/js/bundle20210407.js?date=0428"></script>-->
+
+<!--    <img src="/share.jpg" style="width: 400px;height: 400px"/>-->
+</div>
+</body>
+
+</html>

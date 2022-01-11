@@ -1,0 +1,444 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta name="renderer" content="webkit"><meta http-equiv="X-UA-COMPATIBLE" content="IE=edge,chrome=1"/><title>高慧 中文主页 北京航空航天大学教师个人主页系统</title>
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<link rel="stylesheet" type="text/css" href="/_ts/zw3/style/style.css">
+<script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<script language="javascript" type="text/javascript" src="/_ts/zw3/js/select_xuanze.js"></script><script type="text/javascript"> 
+function showDiv()
+{
+    $('#selshow').toggle();
+}
+</script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="/_ts/zw3/_sitegray/_sitegray_d.css" />
+<script language="javascript" src="/_ts/zw3/_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e7847545255554703070002 -->
+<link rel="stylesheet" type="text/css" href="/zw3/index.vsb.css" />
+<META Name="keywords" Content="高慧," />
+<META Name="description" Content="高慧,高慧 中文主页,北京航空航天大学教师个人主页系统,&lt;p&gt;&lt;strong style=&quot;white-space: normal;&quot;&gt;高慧&lt;/strong&gt;, 教授，博士生导师，英国伦敦大学玛丽女王学院获得工学博士学位，利兹大学研究助理，瑞典卡罗琳斯卡学院博士后研究员。主持及参与欧洲EUR、英国EPSRC、国家自然科学基金、浙江省公益基金等多个研究项目。&lt;/p&gt;高慧," />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" ></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1002,'/index.jsp',-1,1265528715)</script>
+</head>
+<body > <div style='display:none;'><img src=""  /></div>
+
+<div class="top370">
+<div class="con1000">
+<div class="qih31"><script language='javascript' src='/system/resource/tsites/tsitesclick.js'></script>
+
+<ul>
+
+
+
+<li><a href="/gaohui/en/index.htm">English</a></li>&nbsp;
+
+</ul>
+
+
+</div>
+<div class="tc">
+<div class="t282">
+<div class="tlog"><script> var _tsites_com_view_mode_type_=8;</script>
+<a target="_blank" href="http://shi.buaa.edu.cn"><img border="0" src="/__local/D/F1/2C/561C259D73BFA346C95A088FAAB_6DBCCF6F_1873.png" title="北京航空航天大学教师个人主页系统" /></a></div>
+<div class="sou"><script language='javascript' src='/system/resource/tsites/com/search/tsitesearch.js'></script><script language='javascript' src='/system/resource/js/base64.js'></script><form action="/gaohui/zh_CN/search/159402/search/result.htm" method="post" id="searchform45837" style="display:inline" onsubmit="return (new TsiteSearch()).checkSearch('searchform45837','keyWord_temp');">
+    <input type="hidden" name="tsites_search_content" id="tsites_search_content" value='' /><input type="hidden" name="_tsites_search_current_language_" id="_tsites_search_current_language_" value='zh_CN' />
+   <div class="souin"><input  type="input" name="keyWord_temp" id="keyWord_temp"    value="输入搜索关键字" onfocus="this.style.color='#fff';if (value =='输入搜索关键字'){value =''}" onblur="this.style.color='#fff';if (value ==''){value='输入搜索关键字'}"/></div>
+       
+   <div class="soubb"> <input name="" type="image"  src="/_ts/zw3/images/sss.png" ></div>
+</form></div>
+<div class="tlogb">
+<ul>
+<li style="font-size:16px; width:auto;margin-left:5px;"><strong style="color:#fff;">高慧</strong>( 
+                            研究生导师
+                    、博士生导师
+              )               
+    </li>
+</ul><script language='javascript' src='/system/resource/tsites/tsitesencrypt.js'></script>
+
+<div style="float:left; height:45px; line-height:45px;margin: 0 15px;"><img src="/_ts/zw3/images/zan.png" id="_parise_imgobj_u4" width="18" height="22" style="cursor:pointer;vertical-align:middle; margin-bottom: 8px;"><span id="_parise_obj_u4" style="color:#fff;padding: 0 0 2px 5px;"></span>
+</div><script language='javascript' src='/system/resource/tsites/TsitesPraiseUtil.js'></script>
+<script> var _TsitesPraiseUtil_u4= new TsitesPraiseUtil();_TsitesPraiseUtil_u4.setParam({'nodeid':'_parise_obj_u4','iscanclickidobj':'iscanclick_parise_obj_u4','pdtype':'0','imageid':'_parise_imgobj_u4','apptype':'index','sid':'9515','homepageid':17335,'limttype':'allpage','limithour':24,'contentid':0});</script>
+
+<ul style="float: left;clear: both;width: 100%;">
+<li style="margin-left:5px;"><strong style="color:#fff;">性别：</strong>女</li>
+
+<li style="margin-left:5px;"><strong style="color:#fff;">学位：</strong>博士</li>
+<li style="margin-left:5px;"><strong style="color:#fff;">所在单位：</strong>航空科学与工程学院</li> 
+
+ 
+</ul><br class="clear"></div></div>
+<div class="xi107">
+<div class="toimg">
+
+
+<div style="width:184px;height:246px;display:table-cell;;text-align: center;vertical-align:middle">
+<img id="u_u6_9515pic" />
+</div><script language='javascript' src='/system/resource/tsites/imagescale.js'></script>
+<script type="text/javascript"> 
+ var u_u6_pic = new ImageScale("u_u6_",184,246,true,true);u_u6_pic.addimg("/__local/9/4F/5E/431AE03640BC4533F54DAD1593B_2A7D5EA5_A39D.jpg","","高慧","9515");
+</script>
+
+</div>
+
+</div>
+<br class="clear"></div><!--增加-->
+
+<ul>
+<div class="djn"><a href="javascript:void(0)" onclick="showDiv()"><img src="/_ts/zw3/images/as1.png"></a></div>
+<div id="selshow" class="tldd" style="display: none">
+<li><strong style="color:#fff;">主要任职：</strong>人机与环境工程系 教授</li>
+ 
+<li ><strong style="color:#fff;">出生年月：</strong>1987-12-15</li>
+<li ><strong style="color:#fff;">毕业院校：</strong>伦敦大学玛丽女王学院</li>  
+
+ 
+   
+
+<li><strong style="color:#fff;">办公地点：</strong>北航工训楼东508</li>  
+<li><strong style="color:#fff;">联系方式：</strong>h.gao@buaa.edu.cn</li>  
+<li><strong style="color:#fff;">Email：</strong><span _tsites_encrypt_field="_tsites_encrypt_field" id="_tsites_encryp_tsteacher_tsemail" style="display:none;">bdfeed0bed37ccb64c9ddeb2afa642c7c6e434e49838e74170399eeb58ec192837162a299c36f58de007858051638b873031502cb0f5465dffbf4e64c1c4a3746577145e76fa6385e0d8fefe671b84c5e27d9b1cd1fbcc4b60ae10d7f68ff8c46f4fd4de6e61742a023589787a5b9e787c3a714f8fc129e9c34b077f25bd54c7</span></li> 
+</div>
+
+</ul>
+<br class="clear">
+<!--增加-->
+<br class="clear">
+</div></div>
+<div class="nav">
+<div class="con1000">
+<div class="menu_dh">
+<div class="w700_dh">
+      <ul id="nav_dh"   style="visibility:hidden;">
+    	   			  <li><a href="/gaohui/zh_CN/index/159402/list/index.htm" style="background-color: #d4a605;">首页 </a>
+			  </li>
+  			  <li><a href="/gaohui/zh_CN/yjgk/159403/list/index.htm" >研究领域 </a>
+			  </li>
+  			  <li><a href="/gaohui/zh_CN/skxx/159404/list/index.htm" >开授课程 </a>
+			  </li>
+  			  <li><a href="/gaohui/zh_CN/kyxm/159405/list/index.htm" >科研项目 </a>
+			  </li>
+  			  <li><a href="/gaohui/zh_CN/lwcg/159406/list/index.htm" >论文 </a>
+			  </li>
+  			  <li><a href="/gaohui/zh_CN/hjxx/159407/list/index.htm" >荣誉及奖励 </a>
+			  </li>
+  			  <li><a href="/gaohui/zh_CN/zhym/159408/list/index.htm" >招生信息 </a>
+                        <ul >
+                                    <li  ><a href="/gaohui/zh_CN/zsxx/159409/list/index.htm">博士生招生 </a></li>    
+                                    <li  ><a href="/gaohui/zh_CN/zsxx/159410/list/index.htm">研究生招生 </a></li>    
+                         </ul>  
+			  </li>
+  			  <li><a href="/gaohui/zh_CN/zhym/159411/list/index.htm" >学生信息 </a>
+                        <ul >
+                                    <li  ><a href="/gaohui/zh_CN/xsxx/159412/list/index.htm">博士研究生 </a></li>    
+                                    <li  ><a href="/gaohui/zh_CN/xsxx/159413/list/index.htm">硕士研究生 </a></li>    
+                                    <li  ><a href="/gaohui/zh_CN/xsxx/159414/list/index.htm">本科生 </a></li>    
+                         </ul>  
+			  </li>
+ 	</ul>
+</div>
+   <script type="text/javascript">
+$(document).ready(function() { 
+ $('#nav_dh li').hover(function() {
+  $('ul', this).slideDown(200);
+  $(this).children('a:first').addClass("hov");
+ }, function() {
+  $('ul', this).slideUp(100);
+  $(this).children('a:first').removeClass("hov");  
+ });
+});
+</script>
+	
+<div class="teach_topR_qh_dh fl" id="MenuBar3">
+        
+            <ul>
+                <li class="select_box_dh fl">
+                  <a href="#" class="leixin_xz_a_dh f_r" onclick="show_f(null, 'son_ul_dh');"></a>
+                    <span>其他栏目</span>
+                    <ul id="MenuBar2"  class="son_ul_dh fl"></ul>
+              </li>
+            </ul>
+</div>
+        <script type="text/javascript">
+$(document).ready(function() { 
+ $('#MenuBar2 li').hover(function() {
+  $('ul', this).slideDown(200);
+  $(this).children('a:first').addClass("hov");
+ }, function() {
+  $('ul', this).slideUp(100);
+  $(this).children('a:first').removeClass("hov");  
+ });
+});
+</script>
+             
+            </div>
+        <script type="text/javascript">
+$(document).ready(function() { 
+ $('#MenuBar2 li').hover(function() {
+  $('ul', this).slideDown(200);
+  $(this).children('a:first').addClass("hov");
+ }, function() {
+  $('ul', this).slideUp(100);
+  $(this).children('a:first').removeClass("hov");  
+ });
+});
+</script>
+ <script type="text/javascript">
+
+jQuery(document).ready(function(){
+    var totalwidth = jQuery("#nav_dh").width();
+    var allliwidth = 0;
+    var othernavary = new Array();
+    var MenuBar2 = jQuery("#MenuBar2")[0];
+    var nav = jQuery("#nav_dh");
+    var navliobjlist =  jQuery("#nav_dh > li");
+    
+    for(var i=0;i<navliobjlist.length;i++)
+    {
+        var liobj = navliobjlist.get(i);
+        if(liobj)
+        {
+            var jliobj = jQuery(liobj);
+            var liwidth = jliobj.width();
+            allliwidth+=liwidth;
+            if(allliwidth>=totalwidth)
+            {
+                var templiobj = jliobj[0];      
+                othernavary.push(templiobj);
+                nav[0].removeChild(jliobj[0]);
+            }
+        }
+    }
+    if(allliwidth<totalwidth)
+    {
+        jQuery("#MenuBar3").css("display","none");
+    }else
+    {
+    for(var i=0;i<othernavary.length;i++)
+    {
+        var tempotherli = jQuery(othernavary[i]);  
+	tempotherli.addClass("MenuBar3_li"); 
+        //tempotherli.find("ul").removeClass("nav_submenu");
+        tempotherli.find(" ul").addClass("MenuBar3_li_ul");
+        
+        //(");
+        MenuBar2.appendChild(tempotherli[0]);
+    }}
+jQuery("#nav_dh").css("visibility","visible");
+
+});
+
+</script> 
+
+</div></div>
+
+
+
+<div class="jian">
+<div class="con1000">
+<div class="jiant">
+<div class="jiantlf"><img src="/_ts/zw3/images/js_11.png"></div>
+<div class="jiantlff">个人简介</div></div>
+<div class="jiancc">
+<p><strong style="white-space: normal;">高慧</strong>, 教授，博士生导师，英国伦敦大学玛丽女王学院获得工学博士学位，利兹大学研究助理，瑞典卡罗琳斯卡学院博士后研究员。主持及参与欧洲EUR、英国EPSRC、国家自然科学基金、浙江省公益基金等多个研究项目。</p>
+
+</div></div></div>
+
+<div class="jz">
+<div class="con1000">
+<div class="jiant">
+<div class="jiantlf"><img src="/_ts/zw3/images/js_14.png"></div>
+<div class="jiantlff">社会兼职</div></div>
+<div class="jzli">
+<ul>
+
+
+   <li >
+                              <div class="lispan">2020.1-至今</div>
+                           
+                           <div class="lie">   &nbsp北航宁波创新研究院 &nbsp; 特聘研究员&nbsp  </div>
+                            <br class="clear" />
+                         </li>
+
+
+
+
+
+
+   <li >
+                              <div class="lispan">2020.2-至今</div>
+                           
+                           <div class="lie">   &nbsp青年科技工作者协会 &nbsp;材料专委副秘书长&nbsp  </div>
+                            <br class="clear" />
+                         </li>
+
+
+
+
+</ul></div></div></div>
+
+
+
+
+
+
+
+    
+
+<div class="jy">
+<div class="con1000">
+<div class="jiant">
+<div class="jiantlf"><img src="/_ts/zw3/images/js_24.png"></div>
+<div class="jiantlff">教育经历</div></div>
+<div class="jzli">
+<ul>
+
+   
+                           <li>
+                               <div class="lispan"> 2013.3-2016.9</div>
+                           
+                           <div class="lie">   &nbsp伦敦大学玛丽女王学院 &nbsp|
+
+&nbsp工程与材料科学 &nbsp|
+
+ 博士学位&nbsp &nbsp|
+
+&nbsp博士研究生毕业</div>
+<br class="clear" />
+
+
+                         </li>
+
+</ul></div></div></div>
+
+
+
+
+
+
+  
+
+<div class="gz">
+<div class="con1000">
+<div class="jiant">
+<div class="jiantlf"><img src="/_ts/zw3/images/js_29.png"></div>
+<div class="jiantlff">工作经历</div></div>
+
+<div class="jzli">
+<ul>
+ 
+                               <li><div class="lispan">2019.8-至今</div>
+<div class="lie">
+                          
+		    
+                    北京航空航天大学&nbsp;|&nbsp;航空科学与工程学院&nbsp;|&nbsp;教授
+
+</div>
+<br class="clear" /></li>
+                       
+ 
+                               <li><div class="lispan">2017.11-2019.8</div>
+<div class="lie">
+                          
+		    
+                    瑞典卡罗琳斯卡学院&nbsp;|&nbsp;博士后研究员
+
+</div>
+<br class="clear" /></li>
+                       
+ 
+                               <li><div class="lispan">2016.9-2017.9</div>
+<div class="lie">
+                          
+		    
+                    英国利兹大学&nbsp;|&nbsp;研究助理
+
+</div>
+<br class="clear" /></li>
+                       
+</ul>
+</div>
+</div>
+
+</div>
+
+
+
+
+
+
+
+<script type="text/javascript"> 
+ var u_u14_pic = new ImageScale("u_u14_",180,200,true,true);
+</script>
+
+
+
+
+<div class="tdd">
+<div class="con1000">
+<div class="tddt">
+<div class="tddtlf"><img src="/_ts/zw3/images/yjfx.jpg"></div>
+<div class="tddtlff">研究方向</div></div>
+<div class="tddcc">
+<ul>
+<li style="word-break: break-word; word-wrap: break-word;border-bottom: 1px dashed #ccc; ">1. &nbsp;高超声速飞行器主动再生冷却技术；</li>
+<li style="word-break: break-word; word-wrap: break-word;border-bottom: 1px dashed #ccc; ">2. 飞行器防/除冰；</li>
+<li style="word-break: break-word; word-wrap: break-word;">3. &nbsp;智能材料及工程应用 。</li>
+</ul>
+</div></div></div>
+
+
+<div class="foot1">
+
+<div class="footc">
+<div class="footclf"><!-- 下面这个div是二维码容器,ID不能变-->
+<div id="outputu17" style="margin-top: 11px;"></div>
+<!-- 下面是生成二维码调用的JS，不要动-->
+
+<script src="/system/resource/qrcode/js/jquery.qrcode.js"></script>
+<script src="/system/resource/qrcode/js/qrcode.js"></script>
+<script>
+var codeInfo = "" ==""? window.location.href:"";
+jQuery(function(){
+    jQuery('#outputu17').qrcode({
+        text:codeInfo,
+        render: !!document.createElement('canvas').getContext?"canvas":"table",//设置渲染方式  
+        width: 120,     //设置宽度  
+        height: 120,     //设置高度  
+        correctLevel: 2,//纠错等级  
+        background: "#ffffff",//背景颜色  
+        foreground: "#000000",//前景颜色  
+        logo:""//图像logo
+    });
+})
+</script></div>
+<div class="footcrr">
+    <div onclick="_vsb_multiscreen.setDevice('mobile')" style="width: 10%;cursor: pointer; float: left;">
+     手机版</div>
+
+
+<div style="width:30%;float:left">
+<p>
+</p>
+</div>
+
+
+
+
+
+<div style="width: 40%;float: right;text-align: -webkit-right;"><p>欢迎您访问我们的网站，您是第<span id="u20_click"></span> 位访客 </p></div><script>(new TsitesClickUtil()).getHomepageClickByType(document.getElementById('u20_click'),0,10,'homepage_total','9515',17335);</script>
+
+<div style="clear: both; float: left; width: 60%;"><p>版权所有 &nbsp; 2018 北京航空航天大学 &nbsp; 京ICP备05004617-3 &nbsp; 文保网安备案号1101080018 &nbsp; 地址：北京市海淀区学院路37号 &nbsp; 邮编：100083</p></div>
+
+
+<script language='javascript' src='/system/resource/tsites/latestupdatetime.js'></script>
+<div style=" float: right;width: 40%;text-align: -webkit-right;">最后更新时间：<span id="u22_latestupdatetime_year"></span>.<span id="u22_latestupdatetime_month"></span>.<span id="u22_latestupdatetime_day"></span></div><script>(new TsitesLatestUpdate()).getHomepageLatestUpdateTime(document.getElementById('u22_latestupdatetime_year'),document.getElementById('u22_latestupdatetime_month'),document.getElementById('u22_latestupdatetime_day'),'','9515',17335,0);</script>
+<script>(new TsitesLatestUpdate()).getTeacherHomepageOpenTime(document.getElementById('u22_opentime_year'),document.getElementById('u22_opentime_month'),document.getElementById('u22_opentime_day'),'','9515',17335,0);</script>
+
+</div></div><br class="clear"></div>
+
+</body></html>

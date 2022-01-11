@@ -1,0 +1,315 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta name="renderer" content="webkit"><meta http-equiv="X-UA-COMPATIBLE" content="IE=edge,chrome=1"/><title>李铁航 中文主页 北京航空航天大学教师个人主页系统</title>
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<link rel="stylesheet" type="text/css" href="/_ts/zw3/style/style.css">
+<script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<script language="javascript" type="text/javascript" src="/_ts/zw3/js/select_xuanze.js"></script><script type="text/javascript"> 
+function showDiv()
+{
+    $('#selshow').toggle();
+}
+</script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="/_ts/zw3/_sitegray/_sitegray_d.css" />
+<script language="javascript" src="/_ts/zw3/_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e7847545255554703070002 -->
+<link rel="stylesheet" type="text/css" href="/zw3/index.vsb.css" />
+<META Name="keywords" Content="李铁航," />
+<META Name="description" Content="李铁航,李铁航 中文主页,北京航空航天大学教师个人主页系统,李铁航," />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" ></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1002,'/index.jsp',-1,1265528715)</script>
+</head>
+<body > <div style='display:none;'><img src=""  /></div>
+
+<div class="top370">
+<div class="con1000">
+<div class="qih31"><script language='javascript' src='/system/resource/tsites/tsitesclick.js'></script>
+
+<ul>
+
+
+
+<li><a href="/litiehang/en/index.htm">English</a></li>&nbsp;
+
+</ul>
+
+
+</div>
+<div class="tc">
+<div class="t282">
+<div class="tlog"><script> var _tsites_com_view_mode_type_=8;</script>
+<a target="_blank" href="http://shi.buaa.edu.cn"><img border="0" src="/__local/D/F1/2C/561C259D73BFA346C95A088FAAB_6DBCCF6F_1873.png" title="北京航空航天大学教师个人主页系统" /></a></div>
+<div class="sou"><script language='javascript' src='/system/resource/tsites/com/search/tsitesearch.js'></script><script language='javascript' src='/system/resource/js/base64.js'></script><form action="/litiehang/zh_CN/search/13441/search/result.htm" method="post" id="searchform45837" style="display:inline" onsubmit="return (new TsiteSearch()).checkSearch('searchform45837','keyWord_temp');">
+    <input type="hidden" name="tsites_search_content" id="tsites_search_content" value='' /><input type="hidden" name="_tsites_search_current_language_" id="_tsites_search_current_language_" value='zh_CN' />
+   <div class="souin"><input  type="input" name="keyWord_temp" id="keyWord_temp"    value="输入搜索关键字" onfocus="this.style.color='#fff';if (value =='输入搜索关键字'){value =''}" onblur="this.style.color='#fff';if (value ==''){value='输入搜索关键字'}"/></div>
+       
+   <div class="soubb"> <input name="" type="image"  src="/_ts/zw3/images/sss.png" ></div>
+</form></div>
+<div class="tlogb">
+<ul>
+<li style="font-size:16px; width:auto;margin-left:5px;"><strong style="color:#fff;">李铁航</strong></li>
+</ul><script language='javascript' src='/system/resource/tsites/tsitesencrypt.js'></script>
+
+<div style="float:left; height:45px; line-height:45px;margin: 0 15px;"><img src="/_ts/zw3/images/zan.png" id="_parise_imgobj_u4" width="18" height="22" style="cursor:pointer;vertical-align:middle; margin-bottom: 8px;"><span id="_parise_obj_u4" style="color:#fff;padding: 0 0 2px 5px;"></span>
+</div><script language='javascript' src='/system/resource/tsites/TsitesPraiseUtil.js'></script>
+<script> var _TsitesPraiseUtil_u4= new TsitesPraiseUtil();_TsitesPraiseUtil_u4.setParam({'nodeid':'_parise_obj_u4','iscanclickidobj':'iscanclick_parise_obj_u4','pdtype':'0','imageid':'_parise_imgobj_u4','apptype':'index','sid':'2166','homepageid':2987,'limttype':'allpage','limithour':24,'contentid':0});</script>
+
+<ul style="float: left;clear: both;width: 100%;">
+<li style="margin-left:5px;"><strong style="color:#fff;">性别：</strong>男</li>
+
+
+<li style="margin-left:5px;"><strong style="color:#fff;">所在单位：</strong>可靠性与系统工程学院</li> 
+
+ 
+</ul><br class="clear"></div></div>
+<div class="xi107">
+<div class="toimg">
+
+
+<div style="width:184px;height:246px;display:table-cell;;text-align: center;vertical-align:middle">
+<img id="u_u6_2166pic" />
+</div><script language='javascript' src='/system/resource/tsites/imagescale.js'></script>
+<script type="text/javascript"> 
+ var u_u6_pic = new ImageScale("u_u6_",184,246,true,true);u_u6_pic.addimg("/system/resource/tsites/images/defaultteacherimg.png","","李铁航","2166");
+</script>
+
+</div>
+
+</div>
+<br class="clear"></div><!--增加-->
+
+<ul>
+<div class="djn"><a href="javascript:void(0)" onclick="showDiv()"><img src="/_ts/zw3/images/as1.png"></a></div>
+<div id="selshow" class="tldd" style="display: none">
+
+ 
+
+  
+
+ 
+   
+
+  
+  
+<li><strong style="color:#fff;">Email：</strong><span _tsites_encrypt_field="_tsites_encrypt_field" id="_tsites_encryp_tsteacher_tsemail" style="display:none;">3abc05c739718895a01139a4127034ceeec225276cf17094e48681f6d4f3a61596d8184cd39f9c854c7722f51e131b0bb1d1a2ec38890c0b32fe15e0ee7d32b62800f2d5628119f25556407eb34f043b9d2676257525797ade270d41e760fd6ad2aa1cc3d85b0324b9f3eb26daa064737a180d10f21d64dab28d27ff8a470282</span></li> 
+</div>
+
+</ul>
+<br class="clear">
+<!--增加-->
+<br class="clear">
+</div></div>
+<div class="nav">
+<div class="con1000">
+<div class="menu_dh">
+<div class="w700_dh">
+      <ul id="nav_dh"   style="visibility:hidden;">
+    	   			  <li><a href="/litiehang/zh_CN/index/13441/list/index.htm" style="background-color: #d4a605;">首页 </a>
+			  </li>
+  			  <li><a href="/litiehang/zh_CN/yjgk/13442/list/index.htm" >研究领域 </a>
+			  </li>
+  			  <li><a href="/litiehang/zh_CN/skxx/13443/list/index.htm" >开授课程 </a>
+			  </li>
+  			  <li><a href="/litiehang/zh_CN/kyxm/13444/list/index.htm" >科研项目 </a>
+			  </li>
+  			  <li><a href="/litiehang/zh_CN/lwcg/13445/list/index.htm" >论文 </a>
+			  </li>
+  			  <li><a href="/litiehang/zh_CN/hjxx/13446/list/index.htm" >荣誉及奖励 </a>
+			  </li>
+  			  <li><a href="/litiehang/zh_CN/zhym/13447/list/index.htm" >招生信息 </a>
+                        <ul >
+                                    <li  ><a href="/litiehang/zh_CN/zsxx/13448/list/index.htm">博士生招生 </a></li>    
+                                    <li  ><a href="/litiehang/zh_CN/zsxx/13449/list/index.htm">研究生招生 </a></li>    
+                         </ul>  
+			  </li>
+  			  <li><a href="/litiehang/zh_CN/zhym/13450/list/index.htm" >学生信息 </a>
+                        <ul >
+                                    <li  ><a href="/litiehang/zh_CN/xsxx/13451/list/index.htm">博士研究生 </a></li>    
+                                    <li  ><a href="/litiehang/zh_CN/xsxx/13452/list/index.htm">硕士研究生 </a></li>    
+                                    <li  ><a href="/litiehang/zh_CN/xsxx/13453/list/index.htm">本科生 </a></li>    
+                         </ul>  
+			  </li>
+ 	</ul>
+</div>
+   <script type="text/javascript">
+$(document).ready(function() { 
+ $('#nav_dh li').hover(function() {
+  $('ul', this).slideDown(200);
+  $(this).children('a:first').addClass("hov");
+ }, function() {
+  $('ul', this).slideUp(100);
+  $(this).children('a:first').removeClass("hov");  
+ });
+});
+</script>
+	
+<div class="teach_topR_qh_dh fl" id="MenuBar3">
+        
+            <ul>
+                <li class="select_box_dh fl">
+                  <a href="#" class="leixin_xz_a_dh f_r" onclick="show_f(null, 'son_ul_dh');"></a>
+                    <span>其他栏目</span>
+                    <ul id="MenuBar2"  class="son_ul_dh fl"></ul>
+              </li>
+            </ul>
+</div>
+        <script type="text/javascript">
+$(document).ready(function() { 
+ $('#MenuBar2 li').hover(function() {
+  $('ul', this).slideDown(200);
+  $(this).children('a:first').addClass("hov");
+ }, function() {
+  $('ul', this).slideUp(100);
+  $(this).children('a:first').removeClass("hov");  
+ });
+});
+</script>
+             
+            </div>
+        <script type="text/javascript">
+$(document).ready(function() { 
+ $('#MenuBar2 li').hover(function() {
+  $('ul', this).slideDown(200);
+  $(this).children('a:first').addClass("hov");
+ }, function() {
+  $('ul', this).slideUp(100);
+  $(this).children('a:first').removeClass("hov");  
+ });
+});
+</script>
+ <script type="text/javascript">
+
+jQuery(document).ready(function(){
+    var totalwidth = jQuery("#nav_dh").width();
+    var allliwidth = 0;
+    var othernavary = new Array();
+    var MenuBar2 = jQuery("#MenuBar2")[0];
+    var nav = jQuery("#nav_dh");
+    var navliobjlist =  jQuery("#nav_dh > li");
+    
+    for(var i=0;i<navliobjlist.length;i++)
+    {
+        var liobj = navliobjlist.get(i);
+        if(liobj)
+        {
+            var jliobj = jQuery(liobj);
+            var liwidth = jliobj.width();
+            allliwidth+=liwidth;
+            if(allliwidth>=totalwidth)
+            {
+                var templiobj = jliobj[0];      
+                othernavary.push(templiobj);
+                nav[0].removeChild(jliobj[0]);
+            }
+        }
+    }
+    if(allliwidth<totalwidth)
+    {
+        jQuery("#MenuBar3").css("display","none");
+    }else
+    {
+    for(var i=0;i<othernavary.length;i++)
+    {
+        var tempotherli = jQuery(othernavary[i]);  
+	tempotherli.addClass("MenuBar3_li"); 
+        //tempotherli.find("ul").removeClass("nav_submenu");
+        tempotherli.find(" ul").addClass("MenuBar3_li_ul");
+        
+        //(");
+        MenuBar2.appendChild(tempotherli[0]);
+    }}
+jQuery("#nav_dh").css("visibility","visible");
+
+});
+
+</script> 
+
+</div></div>
+
+
+
+
+
+
+
+
+
+
+
+    </ul></div></div></div>
+
+
+
+
+
+
+  
+
+
+
+
+
+<script type="text/javascript"> 
+ var u_u14_pic = new ImageScale("u_u14_",180,200,true,true);
+</script>
+
+
+
+
+
+
+<div class="foot1">
+
+<div class="footc">
+<div class="footclf"><!-- 下面这个div是二维码容器,ID不能变-->
+<div id="outputu17" style="margin-top: 11px;"></div>
+<!-- 下面是生成二维码调用的JS，不要动-->
+
+<script src="/system/resource/qrcode/js/jquery.qrcode.js"></script>
+<script src="/system/resource/qrcode/js/qrcode.js"></script>
+<script>
+var codeInfo = "" ==""? window.location.href:"";
+jQuery(function(){
+    jQuery('#outputu17').qrcode({
+        text:codeInfo,
+        render: !!document.createElement('canvas').getContext?"canvas":"table",//设置渲染方式  
+        width: 120,     //设置宽度  
+        height: 120,     //设置高度  
+        correctLevel: 2,//纠错等级  
+        background: "#ffffff",//背景颜色  
+        foreground: "#000000",//前景颜色  
+        logo:""//图像logo
+    });
+})
+</script></div>
+<div class="footcrr">
+    <div onclick="_vsb_multiscreen.setDevice('mobile')" style="width: 10%;cursor: pointer; float: left;">
+     手机版</div>
+
+
+<div style="width:30%;float:left">
+<p>
+</p>
+</div>
+
+
+
+
+
+<div style="width: 40%;float: right;text-align: -webkit-right;"><p>欢迎您访问我们的网站，您是第<span id="u20_click"></span> 位访客 </p></div><script>(new TsitesClickUtil()).getHomepageClickByType(document.getElementById('u20_click'),0,10,'homepage_total','2166',2987);</script>
+
+<div style="clear: both; float: left; width: 60%;"><p>版权所有 &nbsp; 2018 北京航空航天大学 &nbsp; 京ICP备05004617-3 &nbsp; 文保网安备案号1101080018 &nbsp; 地址：北京市海淀区学院路37号 &nbsp; 邮编：100083</p></div>
+
+
+<script language='javascript' src='/system/resource/tsites/latestupdatetime.js'></script>
+<div style=" float: right;width: 40%;text-align: -webkit-right;">最后更新时间：<span id="u22_latestupdatetime_year"></span>.<span id="u22_latestupdatetime_month"></span>.<span id="u22_latestupdatetime_day"></span></div><script>(new TsitesLatestUpdate()).getHomepageLatestUpdateTime(document.getElementById('u22_latestupdatetime_year'),document.getElementById('u22_latestupdatetime_month'),document.getElementById('u22_latestupdatetime_day'),'','2166',2987,0);</script>
+<script>(new TsitesLatestUpdate()).getTeacherHomepageOpenTime(document.getElementById('u22_opentime_year'),document.getElementById('u22_opentime_month'),document.getElementById('u22_opentime_day'),'','2166',2987,0);</script>
+
+</div></div><br class="clear"></div>
+
+</body></html>

@@ -1,0 +1,2699 @@
+
+<!DOCTYPE html>
+<!--STATUS OK-->
+
+
+ 
+ 
+ 
+ 
+
+
+	
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+
+
+    <head>
+        
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta name="Description" content="百度学术搜索，是一个提供海量中英文文献检索的学术资源搜索平台，涵盖了各类学术期刊、学位、会议论文，旨在为国内外学者提供最好的科研体验。">
+
+        
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="icon" sizes="any" mask href="//www.baidu.com/img/baidu.svg">
+
+        
+<title>
+赵义湘 智慧城市 - 百度学术
+</title>
+
+
+        
+<style>
+@font-face {font-family: "iconfont";
+  src: url('/r/www/cache/scholar_mid/static/xueshu/iconfont/icomoon.eot?t=1615482094'); /* IE9*/
+  src: url('/r/www/cache/scholar_mid/static/xueshu/iconfont/icomoon.eot?t=1615482094#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('/r/www/cache/scholar_mid/static/xueshu/iconfont/icomoon.woff?t=1615482094') format('woff'), /* chrome, firefox */
+  url('/r/www/cache/scholar_mid/static/xueshu/iconfont/icomoon.ttf?t=1615482094') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('/r/www/cache/scholar_mid/static/xueshu/iconfont/icomoon.svg?t=1615482094#icomoon') format('svg'); /* iOS 4.1- */
+}
+</style>
+    
+    <link rel="stylesheet" href="http://s1.bdstatic.com/r/www/cache/scholar_mid/static/xueshu/css/page_c2008dd.css">
+    
+
+
+
+
+        
+<script src="http://s1.bdstatic.com/r/www/cache/scholar_mid/static/xueshu/js/env_8b93174.js"></script>
+<script>
+var name,navigate,bdQid="d2f6ab6d002bf823";
+// 新增固定打点
+var plat = "" || 'pc';
+var from = uaMatch(navigator.userAgent);
+from = from.platformid;
+var bds={
+    se:{},
+    util:{},
+    //结果页js通用数据
+    comm : {
+        domain:"http://www.baidu.com",
+        ubsurl : "http://sclick.baidu.com/w.gif",
+        tn:"SE_baiduxueshu_c1gjeupa",
+        queryEnc:"%25D5%25D4%25D2%25E5%25CF%25E6%2B%25D6%25C7%25BB%25DB%25B3%25C7%25CA%25D0",
+        queryId:"d2f6ab6d002bf823",
+        ishome : 0,
+        isTransShow: 0,
+        query : "赵义湘 智慧城市",
+        queryShow : "赵义湘 智慧城市",
+        qid : "d2f6ab6d002bf823",
+        cid : "0",
+        sid : "",
+        f : "0",
+        pn : "0",
+        oq : "",
+        rsp : "",
+        sc_f_para : "",
+        stoken : "",
+        serverTime : "1630239732",
+        user : "",
+        username : "",
+        isLogin : "0",
+        loginAction : [],
+        useFavo : "",
+        pinyin : "zhaoyixiang zhihuichengshi",
+        favoOn : "",
+        personalData : "",
+        curResultNum:"10",
+        rightResultExist:false,
+        protectNum:0,
+        zxlNum:0,
+        pageNum:parseInt('1')||1,
+        pageSize:parseInt('10')||10,
+        taskTipsShow: 1,
+        subpro: 'xueshu_respage',
+        isSchoolShow: 0,
+        schoolEname: "",
+        resultTn:"SE_baiduxueshu_c1gjeupa",
+        scFrom:"",
+        scAsPara:"",
+        isdetailpage: 0,
+        // topBannerInfo: {
+        //     startDate: "2018\/05\/28",
+        //     endDate: "2018\/10\/11",
+        //     width: "260",
+        //     height: "130",
+        //     id: "jiangxuejin",
+        //     imgUrl: "http:\/\/ps-scholar-static.bj.bcebos.com\/homepage%2Fbaidujiangxuejing.jpeg",
+        //     jumpUrl: "http:\/\/scholarship.baidu.com\/"
+        // },
+        pageBannerInfo: {
+            startDate: "2018\/01\/01",
+			endDate: "2099\/01\/01",
+			id: "checkpage"
+        }
+    }
+};
+
+bds.comm.upn = {"browser":"","ie":"","os":"","win":"","browsertype":"other"};
+
+var selfOpen = window.open;
+eval("var open = selfOpen;");
+
+function G(id){
+    return document.getElementById(id);
+}
+
+function TagQ(tag,obj){
+	return obj.getElementsByTagName(tag);
+}
+
+/**
+* @description 增加sclick统计
+* @function
+* @name c
+* @grammar c(1)
+* @param {Object} q 字段集合
+* @return {Boolean} 当发送成功时返回true
+*/
+function c(q){
+    var p = window.document.location.href, sQ = '', sV = '', mu='', img = window["BD_PS_C" + (new Date()).getTime()] = new Image();
+    for (v in q) {
+        switch (v) {
+            case "title":
+                sV = encodeURIComponent(q[v].replace(/<[^<>]+>/g, ""));
+                break;
+            case "url":
+                sV = escape(q[v]);
+                break;
+            default:
+                sV = q[v];
+        }
+        sQ += "&" + v + "=" + sV;
+    }
+    try{
+        if (("p2" in q)&&G(q["p1"]).getAttribute("mu") && q["fm"]!="pl") {
+            mu= "&mu=" + escape(G(q["p1"]).getAttribute("mu"));
+        }
+    }catch(e){};
+	img.src = "http://sclick.baidu.com/w.gif?q=" + bds.comm.queryEnc + sQ + mu + "&rsv_sid=" + bds.comm.sid + "&cid="+bds.comm.cid+"&qid="+bds.comm.qid+"&t="+new Date().getTime()+"&path="+p;
+    return true;
+}
+
+// 百度统计JS-API部署(http://tongji.baidu.com/open/api/more?p=guide_overview)
+var _hmt = _hmt || [];
+
+/**
+* @description 增加nsclick统计
+* @function
+* @name c
+* @grammar ns_c(1)
+* @param {Object} q 字段集合
+* @return {Boolean} 当发送成功时返回true
+*/
+function ns_c(q){
+	ns_c_xs(q);
+}
+
+/**
+* @description 增加xueshu nsclick统计
+* @function
+* @name c
+* @grammar ns_c(1)
+* @param {Object} q 字段集合
+* @return {Boolean} 当发送成功时返回true
+*/
+
+function ns_c_xs(q){
+    var nsclickHost =  '//nsclick.baidu.com';
+    var nsclickUrl = bds && bds.util && bds.util.domain
+        ? bds.util.domain.get('http:' + nsclickHost)
+        : 'http:' + nsclickHost;
+
+    // uda打点新增固定参数
+    q['bid'] = 1;
+    q['from'] = from;
+    q['plat'] = plat;
+
+    var p = encodeURIComponent(window.document.location.href), sQ = '',wd=bds.comm.queryEnc, sV = '', mu='', img = window["BD_PS_C" + (new Date()).getTime()] = new Image();
+    for (v in q) {
+        switch (v) {
+            case "title":
+                sV = encodeURIComponent(q[v].replace(/<[^<>]+>/g, ""));
+                break;
+            case "url":
+                sV = encodeURIComponent(q[v]);
+                break;
+            default:
+                sV = q[v]
+        }
+        sQ += v + "=" + sV + "&";
+    }
+    mu= "&mu=" + p;
+
+    // mod当前搜索是否为图书馆模式
+    var mod = bds.comm.schoolEname ? '&mod=lib_' + bds.comm.schoolEname : '';
+    //fr是否来自详情页
+    var fr = bds.comm.isdetailpage ? '&fr=detailpage' : '';
+    img.src = nsclickUrl
+        + "/v.gif?pid=201&pj=mp_xueshu&qid=" + bds.comm.qid
+        + "&rsv_sid=" + bds.comm.sid
+        + "&wd=" + wd
+        + "&" + sQ + "f=" + bds.comm.f
+        + "&oq=" + bds.comm.oq
+        + "&rsp=" + bds.comm.rsp
+        + "&path=" + p
+        + "&tn=" + bds.comm.tn
+        + "&t=" + new Date().getTime()
+        + '&pn=' + bds.comm.pn
+        + mod
+        + fr
+        + "&ua=" + navigator.userAgent;
+    return true;
+}
+
+/**
+* @description 为搜索请求添加query，并增加ie参数
+* @function
+* @name setHeadUrl
+* @grammar setHeadUrl(el)
+* @param {Object} el 点击的链接对象
+*/
+function setHeadUrl(el){
+    var word = G("kw").value;
+    word = encodeURIComponent(word);
+    var url = el.href;
+    url = url.replace(new RegExp("(" + el.getAttribute('wdfield') + "=)[^&]*"), '\x241' + word+"&ie=utf-8");
+    el.href = url;
+}
+
+bds.util.getWinWidth = function(){
+    return window.document.documentElement.clientWidth;
+};
+//设置页面主体宽度
+//由于此时tangram还没加载，所以不能使用baidu.dom.addClass/removeClass
+bds.util.setContainerWidth = function(){
+    var c = G('container'),w = G('wrapper'),
+    remove = function(r,o){o.className = o.className.replace(r, '');},
+
+    add = function(cls,o){o.className = (o.className+' '+cls).replace(/^\s+/g, "");},
+    has = function(r,o){return r.test(o.className)};
+    if(bds.util.getWinWidth()<1310){
+        remove(/\bcontainer_l\b/g,c);
+        remove(/\bwrapper_l\b/g,w);
+        if(!has(/\bcontainer_s\b/,c)) add('container_s',c);
+        if(!has(/\bwrapper_s\b/,w)) add('wrapper_s',w);
+    bds.comm.containerSize = "s";
+    }else{
+        remove(/\bcontainer_s\b/g,c);
+        remove(/\bwrapper_s\b/g,w);
+        if(!has(/\bcontainer_l\b/,c)) add('container_l',c);
+        if(!has(/\bwrapper_l\b/,w)) add('wrapper_l',w);
+    bds.comm.containerSize = "l";
+    }
+};
+// ie版本
+bds.util.Ieversion = function() {
+    var ua = navigator.userAgent,
+        iereg = /MSIE (\d+).*/,
+        version = ua.match(iereg);
+
+    if (version && version[1]) {
+        return parseInt(version[1]);
+    }
+    return -1;
+};
+
+//阿拉丁命名空间
+window.A =  bds.aladdin = {
+    ids: [],
+    has: true,
+    list: [],
+    logs: [],
+    loadTimes: []
+};
+
+(function(){
+    var fns = [], isReady = false;
+    var exec = function(fn, thisobj){
+        try{
+            fn.call(thisobj);
+        }catch(e){
+            if(window.debugFlag) throw e;
+        }
+    };
+
+    //在js基础库加载完成后执行fn
+    bds.ready = function(fn){
+        if(typeof fn != 'function') return;
+        if(isReady){exec(fn)}
+        else{fns.push(fn);}
+    };
+
+    //手动触发ready
+    bds.doReady = function(){
+        isReady = true;
+        while(fns.length) exec(fns.shift());
+    };
+
+    //通过json字符串获取对象
+    var getJson = function(jsonString){
+        var result = {};
+        if(jsonString){
+            try{
+                var r = new Function("return " + jsonString)();
+                if(r) result = r;
+            }catch(e){}
+        }
+        return result;
+    },
+
+
+    // 获取当前阿拉丁DOM容器
+    getCurrentAladdin = (function(){
+        var scripts = document.getElementsByTagName("script");
+        return function(){
+            var script = scripts[scripts.length - 1], container = script;
+            while(container){
+                if( container.className ){
+                    if( /(?:^|\s)result(?:-op)?(?:$|\s)/.test(container.className)){
+                        if( tplname = container.getAttribute("tpl") ){
+                            return container;
+                        }
+                    }
+                }
+                container = container.parentNode;
+            }
+        };
+    })(),
+
+    // 筛选出阿拉丁结果
+    getResults = function(){
+        var els = $(".result-op").get().concat( $(".result").get() ),
+        alaEls = {};
+
+        for(var i = 0, name, el; el = els[i]; i++ ){
+            if(name = el.getAttribute("tpl")){
+                if( alaEls[name] ){
+                    alaEls[name].push(el);
+                }else{
+                    alaEls[name] = [el];
+                }
+            }
+        }
+        return alaEls;
+    },
+
+    // 入口事件队列
+    readyedHandlers = [],
+
+    //销毁函数列表，每项内容为
+    //{obj:instance, fn: fn}
+    //每项执行fn后即删除
+    disposeOnceHandlers = [],
+
+    //每项格式同disposeOnceHandlers
+    //每项执行后仍保留
+    //即每次销毁实例时都执行一次
+    disposeAlwaysHandlers = [],
+
+    currentSetupContainer = null,
+
+    // merge在bds.ready前的队列
+    mergeHandlers = [],
+
+    // 阿拉丁实例构造函数
+    Ala = A._Aladdin = function(){
+        this.p1 = 0;
+        this.mu = null;
+    };
+
+    A.merge = function(tplname, fn){
+        mergeHandlers.push({tplname: tplname, fn: fn});
+    };
+
+    // 阿拉丁入口函数
+    A.init = A.setup = function(k, v){
+
+        // 页面可能存在的空 init
+        if( k === undefined || k === null){
+            return;
+        }
+
+        var object, container = currentSetupContainer || getCurrentAladdin();
+        if( !container){
+            return;
+        }
+
+        object = {container: container};
+
+        if(typeof k == "function"){
+            object.handler = k;
+
+        }else if(typeof k == 'object'){
+            object.data = k;
+
+        }else{
+            object.data = {};
+            object.data[k] = v;
+        }
+
+        readyedHandlers.push( object );
+    };
+
+    // 注册每次销毁均执行的函数
+    A.addDisposeHandler = function(item){
+        disposeAlwaysHandlers.push(item);
+    };
+
+    //全局阿拉丁销毁函数，在删除阿拉丁dom节点前调用
+    A.dispose = function(){
+        // 执行阿拉丁实例dispose队列
+        while(disposeOnceHandlers.length){
+            var d = disposeOnceHandlers.shift();
+            exec(d.fn, d.obj);
+        }
+        // 顺序执行销毁函数
+        var handlers = disposeAlwaysHandlers;
+        for(var i=0;i<handlers.length;i++){
+            var d = handlers[i];
+            exec(d.fn, d.obj);
+        }
+    };
+
+    // 遍历执行所有阿拉丁实例
+    bds.ready(function(){
+
+        // 将所有的merge队列转换为setup队列
+        if( mergeHandlers.length ){
+            var results = getResults();
+            for(var i = 0, item; item = mergeHandlers[i]; i++){
+                var els = results[item.tplname];
+                if(els){
+                    for(var j = 0, el; el = els[j]; j++){
+                        currentSetupContainer = el;
+                        item.fn();
+                        currentSetupContainer = null;
+                    }
+                }
+            }
+        }
+
+        // 整理出的每个Aladding JS数据
+        var groupData = [],
+        getGroupData = function(el){
+            if(!isNaN(el.initIndex)){
+                return  groupData[ el.initIndex * 1];
+            }
+            var data = { data:{}, handlers: [], container: el };
+            groupData.push(data);
+            el.initIndex = groupData.length - 1;
+            return data;
+        };
+
+        // 整理setup队列顺序
+        for(var i = 0, item; item = readyedHandlers[i]; i++){
+            var elData = getGroupData(item.container);
+
+            if( item.data ){
+                for(var k in item.data){
+                    if(item.data.hasOwnProperty(k)){
+                        elData.data[k] = item.data[k];
+                    }
+                }
+
+            }else if (item.handler){
+                elData.handlers.push( item.handler );
+            }
+        }
+
+        // 遍历所有的setup
+        for(var i = 0, item; item = groupData[i]; i++){
+            var fn,
+            sTime,
+            eTime,
+            obj = {},
+            ala = new Ala();
+
+            ala.data = item.data;
+            ala.container = item.container;
+            ala._init();
+            A.list.push(ala);
+
+            // 执行setup队列
+            sTime = new Date();
+            while( fn = item.handlers.shift() ){
+                exec(fn, ala);
+                //执行完fn后，如果示例上定义了dispose方法
+                //则将其保存到队列中
+                if(typeof ala.dispose == 'function'){
+                    disposeOnceHandlers.push({
+                        obj:ala,
+                        fn: ala.dispose
+                    });
+                    ala.dispose = null;
+                }
+            }
+            eTime = new Date();
+
+            // 统计执行时间
+            obj = { srcid: ala.srcid };
+            obj.tpl  = ala.container.getAttribute('tpl');
+            obj.time = eTime - sTime;
+            A.loadTimes.push( obj );
+
+            $.each( A._Aladdin.fixs, function(i, f){
+                f.call(ala, ala);
+            });
+        }
+
+    });
+
+    Ala.prototype = {
+
+        //初始化实例属性
+        _init: function() {
+            var attrs = getJson(this.container.getAttribute('data-click'));
+            this.p1 = attrs.p1 || this.container.id;
+            this.mu = attrs.mu || this.container.getAttribute('mu');
+            this.srcid = attrs.rsv_srcid || this.container.getAttribute('srcid');
+        }
+    };
+
+
+})();
+</script>
+<script type="text/javascript">
+																					            																											 // ssl_url_r转的dss0.bdstatic.com/9r-1bjml2gcT8tyhnq这个代理下线，换成这个
+
+
+//https域名转换工具
+bds.util = bds.util || {};
+bds.util.domain = (function(){
+	var list = {
+        "graph.baidu.com": "http://graph.baidu.com",
+		"p.qiao.baidu.com":"http://p.qiao.baidu.com",
+		"vse.baidu.com":"http://vse.baidu.com",
+		"hdpreload.baidu.com":"http://hdpreload.baidu.com",
+		"lcr.open.baidu.com":"http://lcr.open.baidu.com",
+		"kankan.baidu.com":"http://kankan.baidu.com",
+		"xapp.baidu.com":"http://xapp.baidu.com",
+		"dr.dh.baidu.com":"http://dr.dh.baidu.com",
+		"xiaodu.baidu.com":"http://xiaodu.baidu.com",
+		"sensearch.baidu.com":"http://sensearch.baidu.com",
+		"s1.bdstatic.com":"http://s1.bdstatic.com",
+		"olime.baidu.com":"http://olime.baidu.com",
+		"app.baidu.com":"http://app.baidu.com",
+		"i.baidu.com":"http://i.baidu.com",
+		"c.baidu.com":"http://c.baidu.com",
+		"sclick.baidu.com":"http://sclick.baidu.com",
+		"nsclick.baidu.com":"http://nsclick.baidu.com",
+		"sestat.baidu.com":"http://sestat.baidu.com",
+		"eclick.baidu.com":"http://eclick.baidu.com",
+		"api.map.baidu.com":"http://api.map.baidu.com",
+		"ecma.bdimg.com":"http://ecma.bdimg.com",
+		"ecmb.bdimg.com":"http://ecmb.bdimg.com",
+        "t1.baidu.com":"http://t1.baidu.com",
+        "t2.baidu.com":"http://t2.baidu.com",
+        "t3.baidu.com":"http://t3.baidu.com",
+		"t10.baidu.com":"http://t10.baidu.com",
+		"t11.baidu.com":"http://t11.baidu.com",
+		"t12.baidu.com":"http://t12.baidu.com",
+		"i7.baidu.com":"http://i7.baidu.com",
+		"i8.baidu.com":"http://i8.baidu.com",
+		"i9.baidu.com":"http://i9.baidu.com",
+		"b1.bdstatic.com":"http://b1.bdstatic.com",
+		"ss.bdimg.com":"http://ss.bdimg.com",
+		"opendata.baidu.com":"http://opendata.baidu.com",
+		"api.open.baidu.com":"http://api.open.baidu.com",
+		"tag.baidu.com":"http://tag.baidu.com",
+		"f3.baidu.com":"http://f3.baidu.com",
+		"s.share.baidu.com":"http://s.share.baidu.com",
+		"bdimg.share.baidu.com":"http://bdimg.share.baidu.com",
+        "1.su.bdimg.com":"http://1.su.bdimg.com",
+        "2.su.bdimg.com":"http://2.su.bdimg.com",
+        "3.su.bdimg.com":"http://3.su.bdimg.com",
+        "4.su.bdimg.com":"http://4.su.bdimg.com",
+        "5.su.bdimg.com":"http://5.su.bdimg.com",
+        "6.su.bdimg.com":"http://6.su.bdimg.com",
+        "7.su.bdimg.com":"http://7.su.bdimg.com",
+        "8.su.bdimg.com":"http://8.su.bdimg.com",
+        "hiphotos.baidu.com":"http://hiphotos.baidu.com",
+        "xueshu.baidu.com":"http://xueshu.baidu.com",
+        "upload.xueshu.baidu.com":"http://upload.xueshu.baidu.com",
+		"a.xueshu.baidu.com":"http://a.xueshu.baidu.com",
+		"bj.bcebos.com": "https://bj.bcebos.com"
+	};
+	var get = function(url) {
+		// 避免线下测试因数据不全产生异常
+		if (url == null || url.indexOf('http') === -1) {
+			return url;
+		}
+		if(location.protocol === "http:") {
+			return url;
+		}
+		var reg = /^(http[s]?:\/\/)?([^\/]+)(.*)/,
+		matches = url.match(reg);
+		//判断传入参数是域名还是地址，分别做处理
+		url = list.hasOwnProperty(matches[2])&&(list[matches[2]] + matches[3]) || url;
+		return url;
+	},
+	set = function(kdomain,vdomain) {
+		list[kdomain] = vdomain;
+	};
+	return {
+		get : get,
+		set : set
+	}
+})();
+</script>
+
+    </head>
+    <body link="#0000cc" class="">
+
+        
+        <div id="wrapper" class="wrapper_l">
+        
+
+            
+
+            
+<div id="head_wr" class="gj">
+
+
+<div id="head" class=" gj">
+    <div class="head_input">
+        <a href="//xueshu.baidu.com/" class="s_logo" onmousedown="return ns_c_xs({'fm':'xueshu','tab':'logo'})">
+                            <div class="s_logo_img" alt="到学术首页" title="到学术首页"></div>
+                    </a>
+        <div class="s_form_wr">
+            <form name="f" id="form" action="/s">
+                <span class="s_ipt_wr gj">
+                    <input name="wd" autocomplete="off" id="kw" class="s_ipt" value="赵义湘 智慧城市" maxlength="255">
+                </span>
+
+                <div class="sc_adv_search_btn">
+                    <input type="submit" value="百度一下">
+                </div>
+
+                                                                <input type="hidden" name="tn" value="SE_baiduxueshu_c1gjeupa">                                <input type="hidden" name="cl" value="3">                                                                                <input type="hidden" name="ie" value="utf-8">                
+                <input type="hidden" name="bs" value="赵义湘 智慧城市">
+                <input type="hidden" name="f" value="8">
+                <input type="hidden" name="rsv_bp" value="1">
+                <input type="hidden" name="rsv_sug2" value="1">
+                <input type="hidden" name="sc_f_para" value="sc_tasktype={firstSimpleSearch}">
+
+                
+                            </form>
+            
+
+
+
+
+
+
+
+<div class="sc_adv_triangle_down gj">
+        <span>高级搜索</span>
+    </div>
+
+<div id="sc_adv">
+<form action="/s" id="sc_adv_frm">
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">包含全部检索词</span>
+        <span><input type="text" placeholder="" data-type="all" data-name="" class="sc_adv_keyword_ipt sc-input sc_adv_keyword1" maxlength="100" value="赵义湘 智慧城市"></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">包含精确检索词</span>
+        <span><input type="text" placeholder="多个检索词以逗号，分隔" data-type="precise" data-name="" class="sc_adv_keyword_ipt sc-input sc_adv_keyword2" maxlength="100" value=""></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">包含至少一个检索词</span>
+        <span><input type="text" placeholder="多个检索词以逗号，分隔" data-type="or" data-name="" class="sc_adv_keyword_ipt sc-input" maxlength="100" value=""></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">不包含检索词</span>
+        <span><input type="text" placeholder="多个检索词以逗号，分隔" data-type="not" data-name="" class="sc_adv_keyword_ipt sc-input" maxlength="100" value=""></span>
+    </div>
+    <div class="sc_adv_hatr" style="margin-bottom:23px;">
+        <span class="sc_adv_label">出现检索词的位置</span>
+        <span class="sc_adv_keyword_pos">
+            <div class="sc_adv_dropdown_btn">
+                <span class="sc_adv_dropdown_text">
+                                    <a href="javascript:;"  data-name="">文章任何位置</a>
+                                </span>
+                <i class="c-icon c-icon-arrow-down-gray"></i>
+                <div class="sc_adv_dropdown_group sc_adv_dropdown_group1 sc_adv_dropgroup_title" data-index="1">
+                                    <a href="javascript:;"  data-name="intitle">位于文章标题</a>
+                                </div>
+            </div>
+        </span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">作者</span>
+        <span><input type="text" placeholder="请输入作者名字" data-name="author" class="sc_adv_txin sc-input sc_adv_author" maxlength="50" value=""></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">机构</span>
+        <span><input type="text" placeholder="请输入机构名称" data-name="affs" class="sc_adv_txin sc-input sc_adv_affs" maxlength="50" value=""></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">出版物</span>
+        <span class="sc_adv_jour_conf">
+            <span class="sc_adv_dropdown_btn">
+                <span class="sc_adv_dropdown_text">
+                                        <a href="javascript:;"  data-name="journal" data-holder="请输入期刊名称">期刊</a>
+                                    </span>
+                <i class="c-icon c-icon-arrow-down-gray"></i>
+                <div class="sc_adv_dropdown_group sc_adv_dropgroup_pub" data-index="2">
+                                        <a href="javascript:;" data-name="conference" data-holder="请输入会议名称">会议</a>
+                                    </div>
+            </span>
+            <input type="text" placeholder="请输入期刊名称" data-name="journal" class="sc-input sc_adv_txin sc_adv_pubipt" maxlength="100" value="">
+        </span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">发表时间</span>
+        <span class="sc_adv_year">
+        <input type="text" data-nolog="1" pattern="[0-9]*" size="4" placeholder="年" maxlength="4" name="" class="sc-input sc-input-xmini sc_adv_input_ylo" value="">&nbsp;-&nbsp;<input type="text" data-nolog="1" pattern="[0-9]*" size="4" placeholder="年" maxlength="4" name="" class="sc-input sc-input-xmini sc_adv_input_yhi" value="">
+        </span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">语言检索范围</span>
+        <span class="sc_adv_dropdown_btn">
+            <span class="sc_adv_dropdown_text sc_adv_lang_sel">
+                <a href="javascript:;" data-id="0">不限</a>
+            </span>
+            <i class="c-icon c-icon-arrow-down-gray"></i>
+            <div class="sc_adv_dropdown_group sc_adv_dropgroup_lang">
+                                <a href="javascript:;" data-id="0" class="sc_adv_lang_hide">不限</a>
+                                <a href="javascript:;" data-id="1">英文</a>
+                                <a href="javascript:;" data-id="2">中文</a>
+                            </div>
+        </span>
+    </div>
+    <span class="sc_adv_wd_hidden"></span>
+    <input type="hidden" name="tn" value="SE_baiduxueshu_c1gjeupa">
+    <input type="hidden" name="cl" value="3">    <input type="hidden" name="bs" value="赵义湘 智慧城市">
+    <input type="hidden" name="ie" value="utf-8">
+    <input type="hidden" name="bcp" value="2">
+    <input type="hidden" name="sc_f_para" value="sc_tasktype={firstAdvancedSearch}">
+    <input type="hidden" name="sc_from" value="">
+    <input type="hidden" name="sc_as_para" value="">
+    <span class="sc_adv_sub s_btn_wr"><input type="submit" value="搜索" class="sc_adv_sub_btn s_btn"></span>
+</form>
+</div>
+
+                    </div>
+                    <div id="u" class=" gj xpath-log">
+<span id="setting"><a class="settingicon" href="javascript:;"><i class="iconfont icon-setup">&#xe608;</i></a><div class="menuarrow"><i class="c-icon c-icon-menu-triangle"></i></div><div id="setMenu" class="menuDropList"><div><a id="setpref" href="javascript:;"  onmousedown="return ns_c_xs({'fm':'behs','tab':'setting'})">搜索设置</a><a href="javascript:;" class="feedback" onmousedown="return ns_c_xs({'fm':'behs','tab':'tj_feedback'})">意见反馈</a></div></div></span><a id="lb" href="https://passport.baidu.com/v2/?login&tpl=xueshu&u=http%3A%2F%2Fxueshu.baidu.com%2F" onclick="return false;"  onmousedown="return user_c({'fm':'set','tab':'login'})">登录</a><a href="https://passport.baidu.com/v2/?reg&regType=1&tpl=xueshu&u=http%3A%2F%2Fxueshu.baidu.com%2F"  onmousedown="return user_c({'fm':'set','tab':'reg'})" target="_blank" class="reg">注册</a></div>
+<div id="s_mod_msg" class="s-mod-msg" style="right: 20px;display:none"></div>
+<div class="s-mod-banner">
+    <span class="iconfont icon-xlight s-mod-banner-close">&#xe609;</span>
+    <a href="https://xueshu.baidu.com/usercenter/papercheck/index?site=index_links" target="_blank">【学术君@你】毕业季查重福利升级啦！首单免费不花钱，更有万方7折券限量抢手慢无！快去看看>>></a>
+</div>
+
+
+            </div>
+</div>
+
+            
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+bds.ready(function() {
+    $('#topnav .msg_itembtn').on('click', function(event) {
+        bds.se.message && bds.se.message.clearMessage();
+    });
+});
+</script>
+    
+</div>
+<div id="left_menu_content" class="LOG_WR gj" data-log="{'actblock':'menu'}">
+    <div class="left_menu_logo">
+        <a href="/">
+                <div class="sologan onlyOn"></div>
+                <i class="iconfont onlyOff logosim">&#xe626;</i>
+        </a>
+    </div>
+    <div class="main_menu_wr">
+        <div class="sch_main_menu">
+                        <div class="menu_listitem">
+                <a href="/" class="active" data-log="{'type':'xueshu_sch'}" target="_blank">
+                    <i class="iconfont i-wx"></i><span>文献</span>
+                </a>
+            </div>
+            <div class="menu_listitem">
+                <a href="https://xueshu.baidu.com/usercenter/data/journal" class="" data-log="{'type':'journal'}">
+                    <i class="iconfont i-qk"></i><span>期刊</span>
+                </a>
+            </div>
+            <div class="menu_listitem dotPromote">
+                <a href="https://xueshu.baidu.com/usercenter/data/authorchannel?cmd=frontpage" data-log="{'type':'authorchannel'}" class="">
+                    <i class="iconfont i-xz"></i><span>学者</span>
+                </a>
+            </div>
+                        <div class="splite-line"></div>
+                        <div class="menu_listitem">
+                <a href="https://xueshu.baidu.com/usercenter/" data-log="{'type':'mymessage'}" class="">
+                    <i class="iconfont i-dy"></i><span>订阅</span><i id="msimsg"></i>
+                </a>
+            </div>
+
+            <div class="menu_listitem">
+                <a href="https://xueshu.baidu.com/usercenter/?tab=collect" data-log="{'type':'mycollect'}" class="">
+                    <i class="iconfont i-sc"></i><span>收藏</span>
+                </a>
+            </div>
+            <div class="menu_listitem dotPapaecheck">
+                <a href="https://xueshu.baidu.com/usercenter/papercheck/index" data-log="{'type':'papaercheck'}" class="">
+                    <i class="iconfont i-lwck"></i><span>论文查重</span>
+                    <em class="dot_tag">优惠</em>
+                    <i class="iconfont redDot">&#xe630;</i>
+                </a>
+            </div>
+            <div class="menu_listitem stanardPapaecheck">
+                <a href="https://xueshu.baidu.com/usercenter/papercheck/index" data-log="{'type':'papaercheck'}" class="">
+                    <i class="iconfont i-lwck"></i><span>论文查重</span>
+                </a>
+            </div>
+
+            <div class="menu_listitem">
+                <a href="https://xueshu.baidu.com/u/biye/?tag=paper" class="" data-log="{'type':'ktfx'}">
+                    <i class="iconfont i-ktfx"></i><span>开题分析</span>
+                </a>
+            </div>
+            <div class="menu_listitem">
+                <a href="https://xueshu.baidu.com/u/ppv" data-log="{'type':'ppv'}" class="">
+                    <i class="iconfont i-dpgm"></i><span>单篇购买</span>
+                </a>
+            </div>
+            <div class="menu_listitem">
+                <a href="https://xueshu.baidu.com/u/paperhelp" data-log="{'type':'paperhelp'}" class="">
+                    <i class="iconfont i-wxhz"></i><span>文献互助</span>
+                </a>
+            </div>
+                        <div class="splite-line"></div>
+                        <div class="menu_listitem">
+                <a href="https://xueshu.baidu.com/u/user" class="" data-log="{'type':'user'}">
+                    <i class="iconfont i-yhzx"></i><span>用户中心</span><i id="ucimsg"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    bds.ready(function() {
+        $('.sch_main_menu a').on('click', function(event) {
+            var btn_tp = $(this).attr('data-log');
+            if (!btn_tp) {
+                return;
+            }
+            btn_tp = btn_tp.replace(/'/g, '"');
+            btn_tp = JSON.parse(btn_tp);
+            ns_c_xs({
+                'fm' : 'as',
+                'act_block': 'left_nav',
+                'button_tp' : btn_tp.type
+            });
+        });
+    });
+</script>
+
+
+
+            
+            <div id="sc_md_s" style="display: none;"></div>
+            <div id="container" class="container_l">
+            <script>
+                bds.util.setContainerWidth();
+                bds.ready(function(){
+                    $(window).on("resize",function(){
+                        bds.util.setContainerWidth();
+                    });
+                    bds.util.setContainerWidth();
+                });
+            </script>
+            
+
+                
+			
+
+<div id="sc_savelink_wr" class="xpath-log" style="display:none;">
+    <a href="javascript:;" class="sc_savelink_cls c-icon-close-hover"><i class="c-icon c-icon-close"></i></a>
+    <div class="sc_savelink_top">
+        <h3 class="sc_savelink_title">免费下载</h3>
+    </div>
+    <div class="sc_savelink_con" data-click="{'fm':'as'}">
+    </div>
+</div>
+
+
+
+<div id="content_right">
+    <div id="con-ar">
+    </div>
+
+    	
+<div class="banner_list xpath-log"></div>
+</div>
+
+
+
+
+<div id="content_left" class="content_left_ls">
+    <div id="content_leftnav">
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="leftnav" class="xpath-log" data-click="{'fm':'beha'}">
+            <div class="leftnav_item">
+            <a href="#" class="leftnav_t" data-click="{'button_tp':'filter_year_t'}"><i class="c-icon c-icon-arrow-up-gray"></i>时间</a>
+            <div class="leftnav_list leftnav_year_list leftnav_list_show">
+        <div class="leftnav_list_cont">
+                
+                                                                                                    <div class="leftnav_ylo">
+                                                                                                                                <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=sc_year%3D%7B2021%2C%2B%7D" class="OP_LOG_BTN leftnav_tag left_list_short_show" data-val="2021以来" data-index="2021,+" data-click="{'button_tp':'filter_year'}"><i>(            0
+    )</i>2021以来</a>
+                                                                                                <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=sc_year%3D%7B2020%2C%2B%7D" class="OP_LOG_BTN leftnav_tag left_list_short_show" data-val="2020以来" data-index="2020,+" data-click="{'button_tp':'filter_year'}"><i>(            1
+    )</i>2020以来</a>
+                                                                                                <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=sc_year%3D%7B2019%2C%2B%7D" class="OP_LOG_BTN leftnav_tag left_list_short_show" data-val="2019以来" data-index="2019,+" data-click="{'button_tp':'filter_year'}"><i>(            1
+    )</i>2019以来</a>
+                            </div>
+            <div class="leftnav_year_in">
+                <form action="/s?" class="leftnav_year_fm"><input type="text" data-nolog="1" pattern="[0-9]*" size="4" placeholder="年" maxlength="4" name="" id="leftnav_input_ylo" class="sc-input" value="">&nbsp;-&nbsp;<input type="text" data-nolog="1" pattern="[0-9]*" size="4" placeholder="年" maxlength="4" name="" id="leftnav_input_yhi" class="sc-input" value=""><input type="hidden" name="wd" value="赵义湘 智慧城市"><input type="hidden" name="ie" value="utf-8"><input type="hidden" name="bcp" value="2"><input type="hidden" name="tn" value="SE_baiduxueshu_c1gjeupa"><span class="leftnav_year_para" data-type="" data-cate="" data-level=""></span><span class="sc-btn leftnav_input_subspan" data-click="{'button_tp':'search_t'}"><input type="submit" value="确认" class="leftnav_input_sub"></span></form>
+            </div>
+        </div>
+        </div>
+    
+    </div>
+            <div class="leftnav_item">
+            <a href="#" class="leftnav_t" data-click="{'button_tp':'filter_cate_t'}"><i class="c-icon c-icon-arrow-up-gray"></i>领域</a>
+            <div class="leftnav_list leftnav_list_show left_list_short">
+        <div class="leftnav_list_cont">
+                                            <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_c0%3A%3D%7B47%7D%29" class="OP_LOG_BTN leftnav_tag left_list_short_show" title="土木工程" data-key="sc_c0" data-index="47" data-click="{'button_tp':'filter_cate'}"><i>(            1
+    )</i>土木工程</a>
+                                                        <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_c0%3A%3D%7B0%7D%29" class="OP_LOG_BTN leftnav_tag left_list_short_show" title="哲学" data-key="sc_c0" data-index="0" data-click="{'button_tp':'filter_cate'}"><i>(            0
+    )</i>哲学</a>
+                                                        <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_c0%3A%3D%7B1%7D%29" class="OP_LOG_BTN leftnav_tag left_list_short_show" title="教育学" data-key="sc_c0" data-index="1" data-click="{'button_tp':'filter_cate'}"><i>(            0
+    )</i>教育学</a>
+            <a href="javascript:;" class="leftnav_showmore">+</a>                                            <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_c0%3A%3D%7B2%7D%29" class="OP_LOG_BTN leftnav_tag " title="心理学" data-key="sc_c0" data-index="2" data-click="{'button_tp':'filter_cate'}"><i>(            0
+    )</i>心理学</a>
+                                                        <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_c0%3A%3D%7B3%7D%29" class="OP_LOG_BTN leftnav_tag " title="体育学" data-key="sc_c0" data-index="3" data-click="{'button_tp':'filter_cate'}"><i>(            0
+    )</i>体育学</a>
+                                                        <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_c0%3A%3D%7B4%7D%29" class="OP_LOG_BTN leftnav_tag " title="理论经济学" data-key="sc_c0" data-index="4" data-click="{'button_tp':'filter_cate'}"><i>(            0
+    )</i>理论经济学</a>
+                                                        <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_c0%3A%3D%7B5%7D%29" class="OP_LOG_BTN leftnav_tag " title="应用经济学" data-key="sc_c0" data-index="5" data-click="{'button_tp':'filter_cate'}"><i>(            0
+    )</i>应用经济学</a>
+                                                        <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_c0%3A%3D%7B6%7D%29" class="OP_LOG_BTN leftnav_tag " title="法学" data-key="sc_c0" data-index="6" data-click="{'button_tp':'filter_cate'}"><i>(            0
+    )</i>法学</a>
+                                                        <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_c0%3A%3D%7B7%7D%29" class="OP_LOG_BTN leftnav_tag " title="政治学" data-key="sc_c0" data-index="7" data-click="{'button_tp':'filter_cate'}"><i>(            0
+    )</i>政治学</a>
+                                                        <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_c0%3A%3D%7B8%7D%29" class="OP_LOG_BTN leftnav_tag " title="社会学" data-key="sc_c0" data-index="8" data-click="{'button_tp':'filter_cate'}"><i>(            0
+    )</i>社会学</a>
+                            <a href="javascript:;" class="leftnav_hidemore">-</a>
+        </div>
+        </div>
+    
+    </div>
+            <div class="leftnav_item">
+            <a href="#" class="leftnav_t" data-click="{'button_tp':'filter_level_t'}"><i class="c-icon  c-icon-arrow-up-gray"></i>核心</a>
+            <div class="leftnav_list leftnav_list_show left_list_short">
+        <div class="leftnav_list_cont">
+                                                         <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_level%3A%3D%7B0%7D%29" class="OP_LOG_BTN sc_nav_tag left_list_short_show" title="北大核心期刊" data-index="0" data-num="0" data-click="{'button_tp':'filter_level'}"><i>(            0
+    )</i>北大核心期刊</a>
+                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_level%3A%3D%7B1%7D%29" class="OP_LOG_BTN sc_nav_tag left_list_short_show" title="SCI索引" data-index="1" data-num="0" data-click="{'button_tp':'filter_level'}"><i>(            0
+    )</i>SCI索引</a>
+                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_level%3A%3D%7B2%7D%29" class="OP_LOG_BTN sc_nav_tag left_list_short_show" title="EI索引" data-index="2" data-num="0" data-click="{'button_tp':'filter_level'}"><i>(            0
+    )</i>EI索引</a>
+                        <a href="javascript:;" class="leftnav_showmore">+</a>                                                        <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_level%3A%3D%7B3%7D%29" class="OP_LOG_BTN sc_nav_tag " title="SCIE索引" data-index="3" data-num="0" data-click="{'button_tp':'filter_level'}"><i>(            0
+    )</i>SCIE索引</a>
+                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_level%3A%3D%7B4%7D%29" class="OP_LOG_BTN sc_nav_tag " title="SSCI索引" data-index="4" data-num="0" data-click="{'button_tp':'filter_level'}"><i>(            0
+    )</i>SSCI索引</a>
+                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_level%3A%3D%7B5%7D%29" class="OP_LOG_BTN sc_nav_tag " title="CSCD 索引" data-index="5" data-num="0" data-click="{'button_tp':'filter_level'}"><i>(            0
+    )</i>CSCD 索引</a>
+                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_level%3A%3D%7B6%7D%29" class="OP_LOG_BTN sc_nav_tag " title="中国科技核心期刊" data-index="6" data-num="0" data-click="{'button_tp':'filter_level'}"><i>(            0
+    )</i>中国科技核心...</a>
+                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_level%3A%3D%7B7%7D%29" class="OP_LOG_BTN sc_nav_tag " title="CSSCI索引" data-index="7" data-num="0" data-click="{'button_tp':'filter_level'}"><i>(            0
+    )</i>CSSCI索引</a>
+                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_level%3A%3D%7B8%7D%29" class="OP_LOG_BTN sc_nav_tag " title="AHCI索引" data-index="8" data-num="0" data-click="{'button_tp':'filter_level'}"><i>(            0
+    )</i>AHCI索引</a>
+                                                                                    <a href="javascript:;" class="leftnav_hidemore">-</a>
+        </div>
+        </div>
+    
+    </div>
+            <div class="leftnav_item">
+            <a href="#" class="leftnav_t" data-click="{'button_tp':'filter_savetype_t'}"><i class="c-icon c-icon-arrow-up-gray"></i>获取方式</a>
+            <div class="leftnav_list leftnav_list_show left_list_short">
+        <div class="leftnav_list_cont">
+                                                         <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_savetype%3D%7B1%7C3%7C5%7C7%7D%29" class="OP_LOG_BTN sc_nav_tag left_list_short_show" title="免费下载" data-index="1|3|5|7" data-num="0" data-click="{'button_tp':'filter_savetype'}"><i>(            0
+    )</i>免费下载</a>
+                                                                                <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_savetype%3D%7B2%7C3%7C6%7C7%7D%29" class="OP_LOG_BTN sc_nav_tag left_list_short_show" title="登录查看" data-index="2|3|6|7" data-num="0" data-click="{'button_tp':'filter_savetype'}"><i>(            0
+    )</i>登录查看</a>
+                                                                                <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=%28sc_savetype%3D%7B4%7C5%7C6%7C7%7D%29" class="OP_LOG_BTN sc_nav_tag left_list_short_show" title="付费下载" data-index="4|5|6|7" data-num="0" data-click="{'button_tp':'filter_savetype'}"><i>(            0
+    )</i>付费下载</a>
+                        <a href="javascript:;" class="leftnav_showmore">+</a>                <a href="javascript:;" class="leftnav_hidemore">-</a>
+        </div>
+        </div>
+    
+    </div>
+            <div class="leftnav_item">
+            <a href="#" class="leftnav_t" data-click="{'button_tp':'filter_keywords'}"><i class="c-icon  c-icon-arrow-up-gray"></i>关键词</a>
+            <div class="leftnav_list leftnav_list_show left_list_short">
+        <div class="leftnav_list_cont">
+                                                                                     <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20keywords%3A%28%E5%AE%89%E4%B9%90%E7%AA%9D%29" class="OP_LOG_BTN sc_nav_tag left_list_short_show" title="安乐窝" data-index="" data-num="3" data-click="{'button_tp':'filter_keywords'}">安乐窝</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20keywords%3A%28%E5%BB%BA%E7%AD%91%E5%B8%88%29" class="OP_LOG_BTN sc_nav_tag left_list_short_show" title="建筑师" data-index="" data-num="3" data-click="{'button_tp':'filter_keywords'}">建筑师</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20keywords%3A%28%E5%BB%BA%E7%AD%91%E7%89%A9%29" class="OP_LOG_BTN sc_nav_tag left_list_short_show" title="建筑物" data-index="" data-num="3" data-click="{'button_tp':'filter_keywords'}">建筑物</a>
+            <a href="javascript:;" class="leftnav_showmore">+</a>                                                                                    <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20keywords%3A%28%E5%90%89%E6%9E%97%E7%9C%81%29" class="OP_LOG_BTN sc_nav_tag " title="吉林省" data-index="" data-num="3" data-click="{'button_tp':'filter_keywords'}">吉林省</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20keywords%3A%28%E5%90%89%E6%9E%97%E5%8C%96%E5%AD%A6%E5%B7%A5%E4%B8%9A%E5%85%AC%E5%8F%B8%29" class="OP_LOG_BTN sc_nav_tag " title="吉林化学工业公司" data-index="" data-num="3" data-click="{'button_tp':'filter_keywords'}">吉林化学工业公司</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20keywords%3A%28%E9%A2%86%E5%AF%BC%E5%B9%B2%E9%83%A8%29" class="OP_LOG_BTN sc_nav_tag " title="领导干部" data-index="" data-num="3" data-click="{'button_tp':'filter_keywords'}">领导干部</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20keywords%3A%28%E5%9F%8E%E5%B8%82%E5%BB%BA%E8%AE%BE%29" class="OP_LOG_BTN sc_nav_tag " title="城市建设" data-index="" data-num="3" data-click="{'button_tp':'filter_keywords'}">城市建设</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20keywords%3A%28%E6%96%87%E5%AD%A6%E4%BD%9C%E5%93%81%29" class="OP_LOG_BTN sc_nav_tag " title="文学作品" data-index="" data-num="3" data-click="{'button_tp':'filter_keywords'}">文学作品</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20keywords%3A%28%E8%81%8C%E5%B7%A5%E4%BB%A3%E8%A1%A8%29" class="OP_LOG_BTN sc_nav_tag " title="职工代表" data-index="" data-num="3" data-click="{'button_tp':'filter_keywords'}">职工代表</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20keywords%3A%28%E6%B0%91%E5%9B%BD%E6%97%B6%E6%9C%9F%29" class="OP_LOG_BTN sc_nav_tag " title="民国时期" data-index="" data-num="2" data-click="{'button_tp':'filter_keywords'}">民国时期</a>
+                            <a href="javascript:;" class="leftnav_hidemore">-</a>
+        </div>
+        </div>
+    
+    </div>
+            <div class="leftnav_item">
+            <a href="#" class="leftnav_t" data-click="{'button_tp':'filter_type'}"><i class="c-icon c-icon-arrow-up-gray"></i>类型</a>
+            <div class="leftnav_list leftnav_list_show left_list_short">
+        <div class="leftnav_list_cont">
+
+                                <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&filter=sc_type%3D%7B1%7D" class="OP_LOG_BTN leftnav_tag left_list_short_show" title="期刊" data-index="1" data-click="{'button_tp':'filter_type'}">期刊</a>
+                            <a href="javascript:;" class="leftnav_hidemore">-</a>
+        </div>
+        </div>
+    
+    </div>
+    
+        <div class="leftnav_item">
+            <a href="#" class="leftnav_t" data-click="{'button_tp':'filter_authors'}"><i class="c-icon  c-icon-arrow-up-gray"></i>作者</a>
+            <div class="leftnav_list leftnav_list_show left_list_short">
+        <div class="leftnav_list_cont">
+                                                                                     <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20authors%3A%28%E8%B5%B5%E4%B9%89%E6%B9%98%29" class="OP_LOG_BTN sc_nav_tag left_list_short_show" title="赵义湘" data-index="" data-num="264" data-click="{'button_tp':'filter_authors'}">赵义湘</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20authors%3A%28%E8%B5%B5%E9%B2%81%E5%86%9B%29" class="OP_LOG_BTN sc_nav_tag left_list_short_show" title="赵鲁军" data-index="" data-num="96" data-click="{'button_tp':'filter_authors'}">赵鲁军</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20authors%3A%28%E8%B5%B5%E4%B9%89%E6%B9%98%E6%91%98%29" class="OP_LOG_BTN sc_nav_tag left_list_short_show" title="赵义湘摘" data-index="" data-num="8" data-click="{'button_tp':'filter_authors'}">赵义湘摘</a>
+            <a href="javascript:;" class="leftnav_showmore">+</a>                                                                                    <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20authors%3A%28%E6%9D%8E%E5%AE%89%E7%AB%A0%29" class="OP_LOG_BTN sc_nav_tag " title="李安章" data-index="" data-num="6" data-click="{'button_tp':'filter_authors'}">李安章</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20authors%3A%28%E5%BC%A0%E5%B7%8D%29" class="OP_LOG_BTN sc_nav_tag " title="张巍" data-index="" data-num="6" data-click="{'button_tp':'filter_authors'}">张巍</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20authors%3A%28%E8%83%A1%E5%BE%81%E5%92%8C%29" class="OP_LOG_BTN sc_nav_tag " title="胡征和" data-index="" data-num="4" data-click="{'button_tp':'filter_authors'}">胡征和</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20authors%3A%28%E6%9C%B1%E6%96%B9%E9%9B%A8%29" class="OP_LOG_BTN sc_nav_tag " title="朱方雨" data-index="" data-num="4" data-click="{'button_tp':'filter_authors'}">朱方雨</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20authors%3A%28%E5%BC%A0%E5%BD%A6%29" class="OP_LOG_BTN sc_nav_tag " title="张彦" data-index="" data-num="4" data-click="{'button_tp':'filter_authors'}">张彦</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20authors%3A%28%E6%9D%A8%E9%AA%8F%29" class="OP_LOG_BTN sc_nav_tag " title="杨骏" data-index="" data-num="4" data-click="{'button_tp':'filter_authors'}">杨骏</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20authors%3A%28%E5%94%90%E5%AE%9D%E6%B0%91%29" class="OP_LOG_BTN sc_nav_tag " title="唐宝民" data-index="" data-num="4" data-click="{'button_tp':'filter_authors'}">唐宝民</a>
+                            <a href="javascript:;" class="leftnav_hidemore">-</a>
+        </div>
+        </div>
+    
+    </div>
+            <div class="leftnav_item">
+            <a href="#" class="leftnav_t" data-click="{'button_tp':'filter_jnls'}"><i class="c-icon  c-icon-arrow-up-gray"></i>期刊</a>
+            <div class="leftnav_list leftnav_list_show left_list_short">
+        <div class="leftnav_list_cont">
+                                                                                     <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20jnls%3A%28%E3%80%8A%E5%BB%BA%E7%AD%91%E5%B7%A5%E4%BA%BA%E3%80%8B%29" class="OP_LOG_BTN sc_nav_tag left_list_short_show" title="《建筑工人》" data-index="" data-num="91" data-click="{'button_tp':'filter_jnls'}">《建筑工人》</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20jnls%3A%28%E3%80%8A%E8%8A%B1%E5%8D%89%E3%80%8B%29" class="OP_LOG_BTN sc_nav_tag left_list_short_show" title="《花卉》" data-index="" data-num="13" data-click="{'button_tp':'filter_jnls'}">《花卉》</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20jnls%3A%28%E3%80%8A%E5%8D%8E%E4%B8%AD%E5%BB%BA%E7%AD%91%E3%80%8B%29" class="OP_LOG_BTN sc_nav_tag left_list_short_show" title="《华中建筑》" data-index="" data-num="8" data-click="{'button_tp':'filter_jnls'}">《华中建筑》</a>
+            <a href="javascript:;" class="leftnav_showmore">+</a>                                                                                    <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20jnls%3A%28%E3%80%8A%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E4%B8%9A%E3%80%8B%29" class="OP_LOG_BTN sc_nav_tag " title="《中国房地产业》" data-index="" data-num="7" data-click="{'button_tp':'filter_jnls'}">《中国房地产业》</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20jnls%3A%28%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BC%9A%E8%B4%A2%E4%BC%9A%E3%80%8B%29" class="OP_LOG_BTN sc_nav_tag " title="《中国工会财会》" data-index="" data-num="6" data-click="{'button_tp':'filter_jnls'}">《中国工会财会》</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20jnls%3A%28%E3%80%8A%E5%9F%8E%E4%B9%A1%E5%BB%BA%E8%AE%BE%E3%80%8B%29" class="OP_LOG_BTN sc_nav_tag " title="《城乡建设》" data-index="" data-num="2" data-click="{'button_tp':'filter_jnls'}">《城乡建设》</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20jnls%3A%28%E3%80%8A%E5%BB%BA%E7%AD%91%E5%AE%89%E5%85%A8%E3%80%8B%29" class="OP_LOG_BTN sc_nav_tag " title="《建筑安全》" data-index="" data-num="2" data-click="{'button_tp':'filter_jnls'}">《建筑安全》</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20jnls%3A%28%E3%80%8A%E4%B8%AD%E5%A4%96%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%AF%BC%E6%8A%A5%E3%80%8B%29" class="OP_LOG_BTN sc_nav_tag " title="《中外房地产导报》" data-index="" data-num="2" data-click="{'button_tp':'filter_jnls'}">《中外房地产导报》</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20jnls%3A%28%E3%80%8A%E7%89%B9%E5%88%AB%E5%81%A5%E5%BA%B7%E3%80%8B%29" class="OP_LOG_BTN sc_nav_tag " title="《特别健康》" data-index="" data-num="2" data-click="{'button_tp':'filter_jnls'}">《特别健康》</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20jnls%3A%28%E3%80%8A%E5%B0%8F%E5%9F%8E%E9%95%87%E5%BB%BA%E8%AE%BE%E3%80%8B%29" class="OP_LOG_BTN sc_nav_tag " title="《小城镇建设》" data-index="" data-num="2" data-click="{'button_tp':'filter_jnls'}">《小城镇建设》</a>
+                            <a href="javascript:;" class="leftnav_hidemore">-</a>
+        </div>
+        </div>
+    
+    </div>
+            <div class="leftnav_item">
+            <a href="#" class="leftnav_t" data-click="{'button_tp':'filter_affs'}"><i class="c-icon  c-icon-arrow-up-gray"></i>机构</a>
+            <div class="leftnav_list leftnav_list_show left_list_short">
+        <div class="leftnav_list_cont">
+                                                                                     <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20affs%3A%28%E4%B8%8D%E8%AF%A6%29" class="OP_LOG_BTN sc_nav_tag left_list_short_show" title="不详" data-index="" data-num="7" data-click="{'button_tp':'filter_affs'}">不详</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20affs%3A%28%E6%97%A0%29" class="OP_LOG_BTN sc_nav_tag left_list_short_show" title="无" data-index="" data-num="6" data-click="{'button_tp':'filter_affs'}">无</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20affs%3A%28%E5%B1%B1%E4%B8%9C%E7%9C%81%E6%9E%A3%E5%BA%84%E5%B8%82%E5%9F%8E%E5%B8%82%E5%BB%BA%E8%AE%BE%E7%BB%BC%E5%90%88%E5%BC%80%E5%8F%91%E5%85%AC%E5%8F%B8%29" class="OP_LOG_BTN sc_nav_tag left_list_short_show" title="山东省枣庄市城市建设综合开发公司" data-index="" data-num="5" data-click="{'button_tp':'filter_affs'}">山东省枣庄市城市...</a>
+            <a href="javascript:;" class="leftnav_showmore">+</a>                                                                                    <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20affs%3A%28%E5%8C%97%E4%BA%AC%E5%95%86%E5%8A%A1%E4%B8%AD%E5%BF%83%E5%8C%BA%E5%B7%A5%E5%95%86%E6%89%80%29" class="OP_LOG_BTN sc_nav_tag " title="北京商务中心区工商所" data-index="" data-num="3" data-click="{'button_tp':'filter_affs'}">北京商务中心区工...</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20affs%3A%28%E5%B1%B1%E4%B8%9C%E6%9E%A3%E5%BA%84%29" class="OP_LOG_BTN sc_nav_tag " title="山东枣庄" data-index="" data-num="3" data-click="{'button_tp':'filter_affs'}">山东枣庄</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20affs%3A%28%E5%B1%B1%E4%B8%9C%E7%9C%81%E6%9E%A3%E5%BA%84%E5%B8%82%E5%9F%8E%E5%B8%82%E5%BB%BA%E8%AE%BE%E5%BC%80%E5%8F%91%E5%85%AC%E5%8F%B8%29" class="OP_LOG_BTN sc_nav_tag " title="山东省枣庄市城市建设开发公司" data-index="" data-num="1" data-click="{'button_tp':'filter_affs'}">山东省枣庄市城市...</a>
+                                                                                                <a  href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&bcp=2&ie=utf-8&tag_filter=%20%20%20affs%3A%28%E6%9E%A3%E5%BA%84%E5%B8%82%E5%9F%8E%E5%B8%82%E5%BB%BA%E8%AE%BE%E5%BC%80%E5%8F%91%E5%85%AC%E5%8F%B8%29" class="OP_LOG_BTN sc_nav_tag " title="枣庄市城市建设开发公司" data-index="" data-num="1" data-click="{'button_tp':'filter_affs'}">枣庄市城市建设开...</a>
+                            <a href="javascript:;" class="leftnav_hidemore">-</a>
+        </div>
+        </div>
+    
+    </div>
+    </div>
+    
+    </div>
+    <div id="content_leftrs">
+    
+        <div id="bdxs_result_lists">
+            
+            
+            
+                    <div id="toolbar">
+
+    <div class="sort_container">
+<div class="sortwr">
+    <div class="sort_select_default"><i class="iconfont">&#xe62e;</i><span>按相关性</span></div><ul class="sort_list"><li class="select"><a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&ie=utf-8" onmousedown="return ns_c_xs({'fm':'beha','button_tp':'asso'})" class="c-icon-down-gray-hover">按相关性</a></li><li ><a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&ie=utf-8&sort=sc_cited" onmousedown="return ns_c_xs({'fm':'beha','button_tp':'refer_num'})" class="c-icon-down-gray-hover">按被引量</a></li><li ><a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&tn=SE_baiduxueshu_c1gjeupa&sc_hit=1&ie=utf-8&sort=sc_time" onmousedown="return ns_c_xs({'fm':'beha','button_tp':'pub_t'})" class="c-icon-down-gray-hover">按时间降序</a></li></ul>
+</div>
+</div>
+<script>
+bds.ready(function() {
+    $sortList = $('.sort_list');
+    $('.sort_select_default').on('mouseover', function(event) {
+        $sortList.show();
+        event.stopPropagation();
+    });
+    $sortList.on('mouseover', function(event) {
+        $sortList.show();
+        event.stopPropagation();
+    });
+    $sortList.on('mouseout', function(event) {
+        $sortList.hide();
+        event.stopPropagation();
+    });
+    $('body').on('mouseover', function(event) {
+        $sortList.hide();
+    });
+});
+</script>
+
+
+
+
+
+
+<span class="nums">
+    找到86条相关结果
+</span>
+
+</div>
+
+
+            
+
+            
+                                    
+
+
+
+
+
+
+
+            
+                                                    
+                
+
+
+
+
+
+
+<!--  -->
+
+<div id="1" class="result sc_default_result xpath-log" srcid="3875" tpl="se_st_sc_default" mu="http://qikan.cqvip.com/Qikan/Article/Detail?id=7101627182">
+<div class="sc_content">
+    <h3 class="t c_font">
+        
+                    <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=196s0x00w3410ty0aq2802y0tj731619&site=xueshu_se" data-click="{'button_tp':'title'}" target="_blank">&quot;<em>智慧城市</em>&quot;绘就生活美好图景</a>
+                    </h3>
+    <div class="c_abstract">
+            &quot;大城市病&quot;让城市居民的幸福感大幅下降.既要顺应城镇化的趋势,又要让城市变得宜居舒适,于是&quot;<em>智慧城市</em>&quot;便成为世界流行的一种解决方案.坐落在天津滨海新区的中新天津...
+    </div>
+    <div class="sc_info">
+                <span>                                
+                                            
+                                            
+                                            
+                        
+        
+                                
+                        
+        <a href="        
+                    
+/s?wd=author%3A%28%E8%B5%B5%E4%B9%89%E6%B9%98%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}"><em>赵义湘</em></a>
+        ，                                    
+                        
+        <a href="        
+                    
+/s?wd=author%3A%28%E8%B5%B5%E9%B2%81%E5%86%9B%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}">赵鲁军</a>
+        ，                                    
+                        
+        <a href="        
+                    
+/s?wd=author%3A%28%E6%AF%9B%E6%8C%AF%E5%8D%8E%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}">毛振华</a>
+        ，                    ...</span>&nbsp;-&nbsp;        
+                <span>
+        
+    <a href="                    /usercenter/data/journal?cmd=jump&wd=journaluri%3A%284933824d1b2fd09%29%20%E3%80%8A%E5%BB%BA%E7%AD%91%E5%B7%A5%E4%BA%BA%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dpublish&sort=sc_cited" target="_blank" data-click="{'button_tp':'publish'}" title="《建筑工人》">
+    《建筑工人》
+</a>
+        </span>
+                
+                &nbsp;-&nbsp;        <span class="">
+            被引量:&nbsp;
+                                    0
+    
+                    </span>
+
+                    &nbsp;-&nbsp;
+            <span class="sc_time" data-year="2020">
+            2020年</span>
+            </div>
+
+    <div class="c_allversion">
+        
+                <div class="sc_allversion">
+        <span>来源：</span>
+                                    
+                <span class="v_item_span">
+            <span class="v_icon">
+                            <img src="https://bj.bcebos.com/v1/ps-scholar-amis-standard/2021-3/1614933860043/9491bd32e47f3c65431f0dc36.png" width="16" height="16">
+                        </span>
+
+                                                                
+            <a class="v_source" title="维普期刊专业版" target="_blank" href="http://qikan.cqvip.com/Qikan/Article/Detail?id=7101627182"
+                                    data-click="{'button_tp':'allversion_link','ch':2,'act_id':'100001','partner_id':'196','pub_name':'qikan.cqvip.com'}"
+                                    data-isclick='2'>
+                                                                                                                            维普期刊专业版
+            </a>
+            
+                    </span>
+                                    
+                <span class="split">&nbsp;/&nbsp;</span>
+                <span class="v_item_span">
+            <span class="v_icon">
+                                            <i class="c-icon gj-icon-link"></i>
+                                        </span>
+
+                                                                
+            <a class="v_source" title="kns.cnki.net" target="_blank" href="//xueshu.baidu.com/s?wd=paperuri%3A%28196s0x00w3410ty0aq2802y0tj731619%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fkns.cnki.net%2FKCMS%2Fdetail%2Fdetail.aspx%3Fdbcode%3DCJFD%26amp%3Bfilename%3DJZGR202002029&ie=utf-8&sc_us=6877486050522639793"
+                                    data-click="{'button_tp':'allversion_link','pub_name':'kns.cnki.net'}"
+                                    data-isclick='2'>
+                                                                                                                            kns.cnki.net
+            </a>
+            
+                    </span>
+                <a id="log-all-sources-init-value" data-isclick='2'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source','pub_name':'qikan.cqvip.com|kns.cnki.net'}"></a>
+        <a id="log-all-sources-more-value" data-isclick='3'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source_more','pub_name':''}"></a>
+        </div>
+            </div>
+</div>
+<div class="sc_ext">
+    <div class="sc_other">
+        <a class="sc_collect c-icon-heart-hover" href="#" target="_blank" data-url="http://qikan.cqvip.com/Qikan/Article/Detail?id=7101627182" data-urlmd="e28cdf130507b58d75f44f5211fe0721" data-click="{'button_tp':'collect'}" title="收藏"><i class="iconfont icon-heart">&#xe601;</i><span>收藏</span></a><a class="sc_q c-icon-shape-hover" href="javascript:;" data-link="http://qikan.cqvip.com/Qikan/Article/Detail?id=7101627182" data-sign="64a861be0d6327ef049aab3ecb0cabdb" data-click="{'button_tp':'cite'}" title="引用"><i class="iconfont icon-cite">&#xe600;</i>引用</a><a target="_blank" class="sc_batch" href="javascript:;" data-click="{'button_tp':'batch'}" title="批量引用"><i class="iconfont icon-piliang">&#xe60a;</i><span class="commType">批量引用&nbsp; </span></a>    </div>
+</div>
+                                <i class="reqdata" style="display:none;" urlmd="e28cdf130507b58d75f44f5211fe0721" url="http://qikan.cqvip.com/Qikan/Article/Detail?id=7101627182" longsign="196s0x00w3410ty0aq2802y0tj731619" diversion="6999476638614290433" allversion="[&quot;http:\/\/qikan.cqvip.com\/Qikan\/Article\/Detail?id=7101627182&quot;,&quot;http:\/\/kns.cnki.net\/KCMS\/detail\/detail.aspx?dbcode=CJFD&amp;amp;filename=JZGR202002029&quot;]"></i>
+</div>
+
+    
+                
+                        
+            
+
+            
+                                    
+
+
+
+
+
+
+
+            
+                                                    
+                
+
+
+
+
+
+
+<!--  -->
+
+<div id="2" class="result sc_default_result xpath-log" srcid="3875" tpl="se_st_sc_default" mu="https://www.cnki.com.cn/Article/CJFDTotal-ZWFD1994Z2020.htm">
+<div class="sc_content">
+    <h3 class="t c_font">
+        
+                    <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=204d617615b4f3cd137551ff72791ba2&site=xueshu_se" data-click="{'button_tp':'title'}" target="_blank">洛杉矶震后重建设想</a>
+                    </h3>
+    <div class="c_abstract">
+            1993年,美国洛杉矶大地震过后,工程技术人员和建筑师们已经把这座<em>城市</em>变为一个巨大的实验所. 建筑设计 建筑工程师们提出了两种简单易行的方案,对于低层
+    </div>
+    <div class="sc_info">
+                <span>                                
+                        
+        
+                                
+                        
+        <a href="        
+                    
+/s?wd=author%3A%28%E8%B5%B5%E4%B9%89%E6%B9%98%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}"><em>赵义湘</em></a>
+                    </span>&nbsp;-&nbsp;        
+                <span>
+        
+    <a href="                    /usercenter/data/journal?cmd=jump&wd=journaluri%3A%2819f93b5b4aee1837%29%20%E3%80%8A%E4%B8%AD%E5%A4%96%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%AF%BC%E6%8A%A5%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dpublish&sort=sc_cited" target="_blank" data-click="{'button_tp':'publish'}" title="《中外房地产导报》">
+    《中外房地产导报》
+</a>
+        </span>
+                
+                &nbsp;-&nbsp;        <span class="">
+            被引量:&nbsp;
+                        <a href="/s?wd=refpaperuri:(204d617615b4f3cd137551ff72791ba2)&sc_f_para=sc_cita%3D%7B%E6%B4%9B%E6%9D%89%E7%9F%B6%E9%9C%87%E5%90%8E%E9%87%8D%E5%BB%BA%E8%AE%BE%E6%83%B3%2C%20%20%20%20%20%20%20%20%20%20%20%2085%0D%0A%20%20%20%20%7D&sort=sc_cited&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank" class="sc_cite_cont" data-click="{'button_tp':'sc_cited'}">
+                                    85
+    
+            </a>        </span>
+
+                    &nbsp;-&nbsp;
+            <span class="sc_time" data-year="1994">
+            1994年</span>
+            </div>
+
+    <div class="c_allversion">
+        
+                <div class="sc_allversion">
+        <span>来源：</span>
+                                    
+                <span class="v_item_span">
+            <span class="v_icon">
+                            <img src="https://bj.bcebos.com/ps-scholar/xueshu/1582281972/72513/ce5cdba2ed92fb593690d8683e2a7402.jpg" width="16" height="16">
+                        </span>
+
+                                                                
+            <a class="v_source" title="维普网" target="_blank" href="//xueshu.baidu.com/s?wd=paperuri%3A%28204d617615b4f3cd137551ff72791ba2%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F97081X%2F1994Z2%2F6908770681994Z2020.html&ie=utf-8&sc_us=8090957875488402924"
+                                    data-click="{'button_tp':'allversion_link','pub_name':'www.cqvip.com'}"
+                                    data-isclick='2'>
+                                                                                                                            维普网
+            </a>
+            
+                    </span>
+                                    
+                <span class="split">&nbsp;/&nbsp;</span>
+                <span class="v_item_span">
+            <span class="v_icon">
+                            <img src="https://bj.bcebos.com/ps-scholar/xueshu/1582281975/47595/a5d78dd13b7d91cd9e47c2e48aa8c07b.jpg" width="16" height="16">
+                        </span>
+
+                                                                
+            <a class="v_source" title="知网" target="_blank" href="http://www.cnki.com.cn/Article/CJFDTotal-ZWFD1994Z2020.htm"
+                                    data-click="{'button_tp':'allversion_link','pub_name':'www.cnki.com.cn'}"
+                                    data-isclick='2'>
+                                                                                                                            知网
+            </a>
+            
+                    </span>
+                                    
+                <span class="split">&nbsp;/&nbsp;</span>
+                <span class="v_item_span">
+            <span class="v_icon">
+                            <img src="https://bj.bcebos.com/v1/ps-scholar-amis/archived/2020-1/1578562692820/zqkj.png" width="16" height="16">
+                        </span>
+
+                                                                
+            <a class="v_source" title="掌桥科研" target="_blank" href="https://www.zhangqiaokeyan.com/academic-journal-cn_chinese-foreign-real-estate-times_thesis/0201225008962.html"
+                                    data-click="{'button_tp':'allversion_link','ch':2,'act_id':'100001','partner_id':'64','pub_name':'www.zhangqiaokeyan.com'}"
+                                    data-isclick='2'>
+                                                                                                                            掌桥科研
+            </a>
+            
+                    </span>
+                <a id="log-all-sources-init-value" data-isclick='2'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source','pub_name':'www.cqvip.com|www.cnki.com.cn|www.zhangqiaokeyan.com'}"></a>
+        <a id="log-all-sources-more-value" data-isclick='3'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source_more','pub_name':''}"></a>
+        </div>
+            </div>
+</div>
+<div class="sc_ext">
+    <div class="sc_other">
+        <a class="sc_collect c-icon-heart-hover" href="#" target="_blank" data-url="http://www.cnki.com.cn/Article/CJFDTotal-ZWFD1994Z2020.htm" data-urlmd="399a5899c828950880849ffb59fc0d71" data-click="{'button_tp':'collect'}" title="收藏"><i class="iconfont icon-heart">&#xe601;</i><span>收藏</span></a><a class="sc_q c-icon-shape-hover" href="javascript:;" data-link="http://www.cnki.com.cn/Article/CJFDTotal-ZWFD1994Z2020.htm" data-sign="a15e0e9aaa19dc0c088f11664e483eed" data-click="{'button_tp':'cite'}" title="引用"><i class="iconfont icon-cite">&#xe600;</i>引用</a><a target="_blank" class="sc_batch" href="javascript:;" data-click="{'button_tp':'batch'}" title="批量引用"><i class="iconfont icon-piliang">&#xe60a;</i><span class="commType">批量引用&nbsp; </span></a>    <a href="javascript:;" class="sc_download c-icon-download-hover" target="_blank" data-click="{'button_tp':'download'}" title="查看2个下载地址" data-type="2"><i class="iconfont icon-download">&#xe615;</i>免费下载&nbsp; </a>
+
+    <div style="display:none;" class="sc_savalink_content">
+                            
+        
+        <div class="sc_savelink_item" data-type="" data-libbuy="0">
+                            <p class="savesize"></p>
+                                    <p class="saveurl">http://epub.cnki.net/grid2008/docdown/docdownload.aspx?filename=ZWFD1994Z2020&amp;dbcode=CJFD&amp;year=1994&amp;dflag=pdfdown</p>
+            <p class="saveanchor">            epub.cnki.net
+    </p>
+            <p class="savefree">全网免费</p>
+        </div>
+                            
+        
+        <div class="sc_savelink_item" data-type="" data-libbuy="0">
+                            <p class="savesize"></p>
+                                    <p class="saveurl">http://www.ixueshu.com/document/0f4e11a6d899539f318947a18e7f9386.html</p>
+            <p class="saveanchor">            爱学术
+    </p>
+            <p class="savefree">全网免费</p>
+        </div>
+        </div>
+    </div>
+</div>
+                                                <i class="reqdata" style="display:none;" urlmd="399a5899c828950880849ffb59fc0d71" url="http://www.cnki.com.cn/Article/CJFDTotal-ZWFD1994Z2020.htm" longsign="204d617615b4f3cd137551ff72791ba2" diversion="6999476638614290433" allversion="[&quot;http:\/\/www.cqvip.com\/QK\/97081X\/1994Z2\/6908770681994Z2020.html&quot;,&quot;http:\/\/www.cnki.com.cn\/Article\/CJFDTotal-ZWFD1994Z2020.htm&quot;,&quot;https:\/\/www.zhangqiaokeyan.com\/academic-journal-cn_chinese-foreign-real-estate-times_thesis\/0201225008962.html&quot;]"></i>
+</div>
+
+    
+                
+                        
+            
+
+            
+                                    
+
+
+
+
+
+
+
+            
+                                                    
+                
+
+
+
+
+
+
+<!--  -->
+
+<div id="3" class="result sc_default_result xpath-log" srcid="3875" tpl="se_st_sc_default" mu="http://www.cqvip.com/QK/81052X/200409/3000535889.html">
+<div class="sc_content">
+    <h3 class="t c_font">
+        
+                    <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=685e62defb4f52bd41b31bdab44dd1cf&site=xueshu_se" data-click="{'button_tp':'title'}" target="_blank">中国工作幸福指数调查</a>
+                    </h3>
+    <div class="c_abstract">
+            工作着是幸福的,曾经是很多人的口头禅。但是在现代社会激烈的市场竞争中,有多少人在幸福地工作呢?中国人力资源开发网联合国内众多知名人力资源管理和心理学专家以...
+    </div>
+    <div class="sc_info">
+                <span>                                
+                        
+        
+                                
+                        
+        <a href="        
+                    
+/s?wd=author%3A%28%E8%B5%B5%E4%B9%89%E6%B9%98%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}"><em>赵义湘</em></a>
+                    </span>&nbsp;-&nbsp;        
+                <span>
+        
+    <a href="                    /usercenter/data/journal?cmd=jump&wd=journaluri%3A%28484e48cdc67550c3%29%20%E3%80%8A%E5%9B%9B%E5%B7%9D%E7%BB%9F%E4%B8%80%E6%88%98%E7%BA%BF%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dpublish&sort=sc_cited" target="_blank" data-click="{'button_tp':'publish'}" title="《四川统一战线》">
+    《四川统一战线》
+</a>
+        </span>
+                
+                &nbsp;-&nbsp;        <span class="">
+            被引量:&nbsp;
+                        <a href="/s?wd=refpaperuri:(685e62defb4f52bd41b31bdab44dd1cf)&sc_f_para=sc_cita%3D%7B%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BD%9C%E5%B9%B8%E7%A6%8F%E6%8C%87%E6%95%B0%E8%B0%83%E6%9F%A5%2C%20%20%20%20%20%20%20%20%20%20%20%209%0D%0A%20%20%20%20%7D&sort=sc_cited&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank" class="sc_cite_cont" data-click="{'button_tp':'sc_cited'}">
+                                    9
+    
+            </a>        </span>
+
+                    &nbsp;-&nbsp;
+            <span class="sc_time" data-year="2004">
+            2004年</span>
+            </div>
+
+    <div class="c_allversion">
+        
+                <div class="sc_allversion">
+        <span>来源：</span>
+                                    
+                <span class="v_item_span">
+            <span class="v_icon">
+                                            <i class="c-icon gj-icon-link"></i>
+                                        </span>
+
+                                                                
+            <a class="v_source" title="爱学术" target="_blank" href="http://www.ixueshu.com/document/11b63947692f2a8daa135c08dbb65a4a318947a18e7f9386.html"
+                                    data-click="{'button_tp':'allversion_link','ch':2,'act_id':'100001','partner_id':'17','pub_name':'www.ixueshu.com'}"
+                                    data-isclick='2'>
+                                                                                                                            爱学术
+            </a>
+                        <span class="v_lib">(全网免费下载)</span>
+            
+                    </span>
+                                    
+                <span class="split">&nbsp;/&nbsp;</span>
+                <span class="v_item_span">
+            <span class="v_icon">
+                            <img src="https://bj.bcebos.com/ps-scholar/xueshu/1582281972/72513/ce5cdba2ed92fb593690d8683e2a7402.jpg" width="16" height="16">
+                        </span>
+
+                                                                
+            <a class="v_source" title="维普网" target="_blank" href="//xueshu.baidu.com/s?wd=paperuri%3A%28685e62defb4f52bd41b31bdab44dd1cf%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F81052X%2F200409%2F3000535889.html&ie=utf-8&sc_us=15701636505948917439"
+                                    data-click="{'button_tp':'allversion_link','pub_name':'www.cqvip.com'}"
+                                    data-isclick='2'>
+                                                                                                                            维普网
+            </a>
+            
+                    </span>
+                                    
+                <span class="split">&nbsp;/&nbsp;</span>
+                <span class="v_item_span">
+            <span class="v_icon">
+                            <img src="https://bj.bcebos.com/ps-scholar/xueshu/1582281974/51489/f8a6d5ebf2c1e45c2133f6613912e290.jpg" width="16" height="16">
+                        </span>
+
+                                                                
+            <a class="v_source" title="万方" target="_blank" href="https://d.wanfangdata.com.cn/periodical/duz200417039"
+                                    data-click="{'button_tp':'allversion_link','pub_name':'d.wanfangdata.com.cn'}"
+                                    data-isclick='2'>
+                                                                                                                            万方
+            </a>
+            
+                    </span>
+                                    
+                <span class="split">&nbsp;/&nbsp;</span>
+                <span class="v_item_span">
+            <span class="v_icon">
+                            <img src="https://bj.bcebos.com/ps-scholar/xueshu/1582281975/47595/a5d78dd13b7d91cd9e47c2e48aa8c07b.jpg" width="16" height="16">
+                        </span>
+
+                                                                
+            <a class="v_source" title="知网" target="_blank" href="http://www.cnki.com.cn/Article/CJFDTotal-SCTY200409036.htm"
+                                    data-click="{'button_tp':'allversion_link','pub_name':'www.cnki.com.cn'}"
+                                    data-isclick='2'>
+                                                                                                                            知网
+            </a>
+            
+                    </span>
+                <a id="log-all-sources-init-value" data-isclick='2'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source','pub_name':'www.ixueshu.com|www.cqvip.com|d.wanfangdata.com.cn|www.cnki.com.cn'}"></a>
+        <a id="log-all-sources-more-value" data-isclick='3'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source_more','pub_name':''}"></a>
+        </div>
+            </div>
+</div>
+<div class="sc_ext">
+    <div class="sc_other">
+        <a class="sc_collect c-icon-heart-hover" href="#" target="_blank" data-url="http://www.cqvip.com/QK/81052X/200409/3000535889.html" data-urlmd="fe8df94432163d7dfa007d7f07af9714" data-click="{'button_tp':'collect'}" title="收藏"><i class="iconfont icon-heart">&#xe601;</i><span>收藏</span></a><a class="sc_q c-icon-shape-hover" href="javascript:;" data-link="http://www.cqvip.com/QK/81052X/200409/3000535889.html" data-sign="3045f84ed391293e86033bbb81cf7e71" data-click="{'button_tp':'cite'}" title="引用"><i class="iconfont icon-cite">&#xe600;</i>引用</a><a target="_blank" class="sc_batch" href="javascript:;" data-click="{'button_tp':'batch'}" title="批量引用"><i class="iconfont icon-piliang">&#xe60a;</i><span class="commType">批量引用&nbsp; </span></a>    </div>
+</div>
+                                                                <i class="reqdata" style="display:none;" urlmd="fe8df94432163d7dfa007d7f07af9714" url="http://www.cqvip.com/QK/81052X/200409/3000535889.html" longsign="685e62defb4f52bd41b31bdab44dd1cf" diversion="6999476638614290433" allversion="[&quot;http:\/\/www.ixueshu.com\/document\/11b63947692f2a8daa135c08dbb65a4a318947a18e7f9386.html&quot;,&quot;http:\/\/www.cqvip.com\/QK\/81052X\/200409\/3000535889.html&quot;,&quot;https:\/\/d.wanfangdata.com.cn\/periodical\/duz200417039&quot;,&quot;http:\/\/www.cnki.com.cn\/Article\/CJFDTotal-SCTY200409036.htm&quot;]"></i>
+</div>
+
+    
+                
+                        
+            
+
+            
+                                    
+
+
+
+
+
+
+
+            
+                                                    
+                
+
+
+
+
+
+
+<!--  -->
+
+<div id="4" class="result sc_default_result xpath-log" srcid="3875" tpl="se_st_sc_default" mu="https://www.cnki.com.cn/Article/CJFDTotal-XUWA200004028.htm">
+<div class="sc_content">
+    <h3 class="t c_font">
+        
+                    <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=f0fa3b7584d1bb224ee1155f3399ca2d&site=xueshu_se" data-click="{'button_tp':'title'}" target="_blank">天津发现580年前的金砖</a>
+                    </h3>
+    <div class="c_abstract">
+            天 津市日前发现 580年前的&quot;金砖&quot;.这块&quot;金块&quot;是在天津市红桥区平房改造中被文物工作者发现的 ,这种砖在天津历史上还没有见过.据天津市红桥区文物保护所副所长王玉...
+    </div>
+    <div class="sc_info">
+                <span>                                
+                                            
+                        
+        
+                                
+                        
+        <a href="        
+                    
+/s?wd=author%3A%28%E8%B5%B5%E4%B9%89%E6%B9%98%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}"><em>赵义湘</em></a>
+        ，                                    
+                        
+        <a href="        
+                    
+/s?wd=author%3A%28%E8%B5%B5%E5%BB%B6%E5%8B%87%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}">赵延勇</a>
+                    </span>&nbsp;-&nbsp;        
+                <span>
+        
+    <a href="                    /usercenter/data/journal?cmd=jump&wd=journaluri%3A%28ab3aedca152eec61%29%20%E3%80%8A%E7%A0%96%E7%93%A6%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dpublish&sort=sc_cited" target="_blank" data-click="{'button_tp':'publish'}" title="《砖瓦》">
+    《砖瓦》
+</a>
+        </span>
+                
+                &nbsp;-&nbsp;        <span class="">
+            被引量:&nbsp;
+                        <a href="/s?wd=refpaperuri:(f0fa3b7584d1bb224ee1155f3399ca2d)&sc_f_para=sc_cita%3D%7B%E5%A4%A9%E6%B4%A5%E5%8F%91%E7%8E%B0580%E5%B9%B4%E5%89%8D%E7%9A%84%E9%87%91%E7%A0%96%2C%20%20%20%20%20%20%20%20%20%20%20%203%0D%0A%20%20%20%20%7D&sort=sc_cited&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank" class="sc_cite_cont" data-click="{'button_tp':'sc_cited'}">
+                                    3
+    
+            </a>        </span>
+
+                    &nbsp;-&nbsp;
+            <span class="sc_time" data-year="2000">
+            2000年</span>
+            </div>
+
+    <div class="c_allversion">
+        
+                <div class="sc_allversion">
+        <span>来源：</span>
+                                    
+                <span class="v_item_span">
+            <span class="v_icon">
+                                            <i class="c-icon gj-icon-link"></i>
+                                        </span>
+
+                                                                
+            <a class="v_source" title="爱学术" target="_blank" href="http://www.ixueshu.com/document/4ee3fc474ee622786dc376c50b5841a7318947a18e7f9386.html"
+                                    data-click="{'button_tp':'allversion_link','ch':2,'act_id':'100001','partner_id':'17','pub_name':'www.ixueshu.com'}"
+                                    data-isclick='2'>
+                                                                                                                            爱学术
+            </a>
+                        <span class="v_lib">(全网免费下载)</span>
+            
+                    </span>
+                                    
+                <span class="split">&nbsp;/&nbsp;</span>
+                <span class="v_item_span">
+            <span class="v_icon">
+                            <img src="https://bj.bcebos.com/ps-scholar/xueshu/1582281975/47595/a5d78dd13b7d91cd9e47c2e48aa8c07b.jpg" width="16" height="16">
+                        </span>
+
+                                                                
+            <a class="v_source" title="知网" target="_blank" href="http://www.cnki.com.cn/Article/CJFDTotal-XUWA200004028.htm"
+                                    data-click="{'button_tp':'allversion_link','pub_name':'www.cnki.com.cn'}"
+                                    data-isclick='2'>
+                                                                                                                            知网
+            </a>
+            
+                    </span>
+                                    
+                <span class="split">&nbsp;/&nbsp;</span>
+                <span class="v_item_span">
+            <span class="v_icon">
+                            <img src="https://bj.bcebos.com/ps-scholar/xueshu/1582281974/51489/f8a6d5ebf2c1e45c2133f6613912e290.jpg" width="16" height="16">
+                        </span>
+
+                                                                
+            <a class="v_source" title="万方" target="_blank" href="https://d.wanfangdata.com.cn/Periodical_zw200004027.aspx"
+                                    data-click="{'button_tp':'allversion_link','pub_name':'d.wanfangdata.com.cn'}"
+                                    data-isclick='2'>
+                                                                                                                            万方
+            </a>
+            
+                    </span>
+                                    
+                <span class="split">&nbsp;/&nbsp;</span>
+                <span class="v_item_span">
+            <span class="v_icon">
+                            <img src="https://bj.bcebos.com/v1/ps-scholar-amis/archived/2020-1/1578562692820/zqkj.png" width="16" height="16">
+                        </span>
+
+                                                                
+            <a class="v_source" title="掌桥科研" target="_blank" href="https://www.zhangqiaokeyan.com/academic-journal-cn_brick-tile_thesis/0201213392298.html"
+                                    data-click="{'button_tp':'allversion_link','ch':2,'act_id':'100001','partner_id':'64','pub_name':'www.zhangqiaokeyan.com'}"
+                                    data-isclick='2'>
+                                                                                                                            掌桥科研
+            </a>
+            
+                    </span>
+                                    
+                <span class="split">&nbsp;/&nbsp;</span>
+                <span class="v_item_span">
+            <span class="v_icon">
+                                            <i class="c-icon gj-icon-link"></i>
+                                        </span>
+
+                                                                
+            <a class="v_source" title="kns.cnki.net" target="_blank" href="//xueshu.baidu.com/s?wd=paperuri%3A%28f0fa3b7584d1bb224ee1155f3399ca2d%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fkns.cnki.net%2FKCMS%2Fdetail%2Fdetail.aspx%3Fdbcode%3DCJFD%26amp%3Bfilename%3DXUWA200004028&ie=utf-8&sc_us=16497693219127466120"
+                                    data-click="{'button_tp':'allversion_link','pub_name':'kns.cnki.net'}"
+                                    data-isclick='2'>
+                                                                                                                            kns.cnki.net
+            </a>
+            
+                    </span>
+                <a id="log-all-sources-init-value" data-isclick='2'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source','pub_name':'www.ixueshu.com|www.cnki.com.cn|d.wanfangdata.com.cn|www.zhangqiaokeyan.com|kns.cnki.net'}"></a>
+        <a id="log-all-sources-more-value" data-isclick='3'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source_more','pub_name':''}"></a>
+        </div>
+            </div>
+</div>
+<div class="sc_ext">
+    <div class="sc_other">
+        <a class="sc_collect c-icon-heart-hover" href="#" target="_blank" data-url="http://www.cnki.com.cn/Article/CJFDTotal-XUWA200004028.htm" data-urlmd="c20c39976cc936fcb09a6416989c4c7b" data-click="{'button_tp':'collect'}" title="收藏"><i class="iconfont icon-heart">&#xe601;</i><span>收藏</span></a><a class="sc_q c-icon-shape-hover" href="javascript:;" data-link="http://www.cnki.com.cn/Article/CJFDTotal-XUWA200004028.htm" data-sign="183bd4faeb51d92ffb1ab3e2182c69e0" data-click="{'button_tp':'cite'}" title="引用"><i class="iconfont icon-cite">&#xe600;</i>引用</a><a target="_blank" class="sc_batch" href="javascript:;" data-click="{'button_tp':'batch'}" title="批量引用"><i class="iconfont icon-piliang">&#xe60a;</i><span class="commType">批量引用&nbsp; </span></a>    <a href="javascript:;" class="sc_download c-icon-download-hover" target="_blank" data-click="{'button_tp':'download'}" title="查看3个下载地址" data-type="2"><i class="iconfont icon-download">&#xe615;</i>免费下载&nbsp; </a>
+
+    <div style="display:none;" class="sc_savalink_content">
+                            
+        
+        <div class="sc_savelink_item" data-type="" data-libbuy="0">
+                            <p class="savesize"></p>
+                                    <p class="saveurl">http://f.wanfangdata.com.cn/download/Periodical_zw200004027.aspx</p>
+            <p class="saveanchor">            f.wanfangdata.com.cn
+    </p>
+            <p class="savefree">全网免费</p>
+        </div>
+                            
+        
+        <div class="sc_savelink_item" data-type="" data-libbuy="0">
+                            <p class="savesize"></p>
+                                    <p class="saveurl">http://www.ixueshu.com/document/4ee3fc474ee622786dc376c50b5841a7318947a18e7f9386.html</p>
+            <p class="saveanchor">            爱学术
+    </p>
+            <p class="savefree">全网免费</p>
+        </div>
+                            
+        
+        <div class="sc_savelink_item" data-type="" data-libbuy="0">
+                            <p class="savesize"></p>
+                                    <p class="saveurl">http://epub.cnki.net/grid2008/docdown/docdownload.aspx?filename=XUWA200004028&amp;dbcode=CJFD&amp;year=2000&amp;dflag=pdfdown</p>
+            <p class="saveanchor">            epub.cnki.net
+    </p>
+            <p class="savefree">全网免费</p>
+        </div>
+        </div>
+    </div>
+</div>
+                                                                                <i class="reqdata" style="display:none;" urlmd="c20c39976cc936fcb09a6416989c4c7b" url="http://www.cnki.com.cn/Article/CJFDTotal-XUWA200004028.htm" longsign="f0fa3b7584d1bb224ee1155f3399ca2d" diversion="6999476638614290433" allversion="[&quot;http:\/\/www.ixueshu.com\/document\/4ee3fc474ee622786dc376c50b5841a7318947a18e7f9386.html&quot;,&quot;http:\/\/www.cnki.com.cn\/Article\/CJFDTotal-XUWA200004028.htm&quot;,&quot;https:\/\/d.wanfangdata.com.cn\/Periodical_zw200004027.aspx&quot;,&quot;https:\/\/www.zhangqiaokeyan.com\/academic-journal-cn_brick-tile_thesis\/0201213392298.html&quot;,&quot;http:\/\/kns.cnki.net\/KCMS\/detail\/detail.aspx?dbcode=CJFD&amp;amp;filename=XUWA200004028&quot;]"></i>
+</div>
+
+    
+                
+                        
+            
+
+            
+                                    
+
+
+
+
+
+
+
+            
+                                                    
+                
+
+
+
+
+
+
+<!--  -->
+
+<div id="5" class="result sc_default_result xpath-log" srcid="3875" tpl="se_st_sc_default" mu="https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&amp;filename=JZGR201901035">
+<div class="sc_content">
+    <h3 class="t c_font">
+        
+                    <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=567c651b439f213aff595dba71b1ffad&site=xueshu_se" data-click="{'button_tp':'title'}" target="_blank">最好的证书</a>
+                    </h3>
+    <div class="c_abstract">
+            很久以前,我在纽约一家矿业公司担任总监助理。一次,总监需要给办公室增加一个文秘,就在报纸上刊登了一则招聘广告。面试那天,大约有20个人来应聘,最后,总监选定了一...
+    </div>
+    <div class="sc_info">
+                <span>                                
+                                            
+                                            
+                        
+        
+                                
+                        
+        <a href="        
+                    
+/s?wd=author%3A%28%E8%B5%B5%E4%B9%89%E6%B9%98%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}"><em>赵义湘</em></a>
+        ，                                    
+                        
+        <a href="        
+                    
+/s?wd=author%3A%28%E8%B5%B5%E9%B2%81%E5%86%9B%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}">赵鲁军</a>
+        ，                                    
+                        
+        <a href="        
+                    
+/s?wd=author%3A%28%E6%9D%8E%E5%AE%89%E7%AB%A0%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}">李安章</a>
+                    </span>&nbsp;-&nbsp;        
+                <span>
+        
+    <a href="                    /usercenter/data/journal?cmd=jump&wd=journaluri%3A%284933824d1b2fd09%29%20%E3%80%8A%E5%BB%BA%E7%AD%91%E5%B7%A5%E4%BA%BA%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dpublish&sort=sc_cited" target="_blank" data-click="{'button_tp':'publish'}" title="《建筑工人》">
+    《建筑工人》
+</a>
+        </span>
+                
+                &nbsp;-&nbsp;        <span class="">
+            被引量:&nbsp;
+                                    0
+    
+                    </span>
+
+                    &nbsp;-&nbsp;
+            <span class="sc_time" data-year="2019">
+            2019年</span>
+            </div>
+
+    <div class="c_allversion">
+        
+                <div class="sc_allversion">
+        <span>来源：</span>
+                                    
+                <span class="v_item_span">
+            <span class="v_icon">
+                            <img src="https://bj.bcebos.com/ps-scholar/xueshu/1582281977/71201/55a36816cddf6a3382d8c9c66d922b48.jpg" width="16" height="16">
+                        </span>
+
+                                                                
+            <a class="v_source" title="百度文库" target="_blank" href="//xueshu.baidu.com/s?wd=paperuri%3A%28567c651b439f213aff595dba71b1ffad%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=https%3A%2F%2Fwenku.baidu.com%2Fview%2F519feacd24fff705cc1755270722192e45365888&ie=utf-8&sc_us=9906536077662290156"
+                                    data-click="{'button_tp':'allversion_link','pub_name':'wenku.baidu.com'}"
+                                    data-isclick='2'>
+                                                                                                                            百度文库
+            </a>
+            
+                    </span>
+                                    
+                <span class="split">&nbsp;/&nbsp;</span>
+                <span class="v_item_span">
+            <span class="v_icon">
+                                            <i class="c-icon gj-icon-link"></i>
+                                        </span>
+
+                                                                
+            <a class="v_source" title="kns.cnki.net" target="_blank" href="//xueshu.baidu.com/s?wd=paperuri%3A%28567c651b439f213aff595dba71b1ffad%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fkns.cnki.net%2FKCMS%2Fdetail%2Fdetail.aspx%3Fdbcode%3DCJFD%26amp%3Bfilename%3DJZGR201901035&ie=utf-8&sc_us=9906536077662290156"
+                                    data-click="{'button_tp':'allversion_link','pub_name':'kns.cnki.net'}"
+                                    data-isclick='2'>
+                                                                                                                            kns.cnki.net
+            </a>
+            
+                    </span>
+                <a id="log-all-sources-init-value" data-isclick='2'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source','pub_name':'wenku.baidu.com|kns.cnki.net'}"></a>
+        <a id="log-all-sources-more-value" data-isclick='3'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source_more','pub_name':''}"></a>
+        </div>
+            </div>
+</div>
+<div class="sc_ext">
+    <div class="sc_other">
+        <a class="sc_collect c-icon-heart-hover" href="#" target="_blank" data-url="http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&filename=JZGR201901035" data-urlmd="b721352e54a1a0359bdf54bb67a11f1f" data-click="{'button_tp':'collect'}" title="收藏"><i class="iconfont icon-heart">&#xe601;</i><span>收藏</span></a><a class="sc_q c-icon-shape-hover" href="javascript:;" data-link="http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&filename=JZGR201901035" data-sign="f04f27b2d7c584f67275819bdb4820d2" data-click="{'button_tp':'cite'}" title="引用"><i class="iconfont icon-cite">&#xe600;</i>引用</a><a target="_blank" class="sc_batch" href="javascript:;" data-click="{'button_tp':'batch'}" title="批量引用"><i class="iconfont icon-piliang">&#xe60a;</i><span class="commType">批量引用&nbsp; </span></a>    </div>
+</div>
+                    <i class="reqdata" style="display:none;" urlmd="b721352e54a1a0359bdf54bb67a11f1f" url="http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&filename=JZGR201901035" longsign="567c651b439f213aff595dba71b1ffad" diversion="6999476638614290433" allversion="[&quot;http:\/\/kns.cnki.net\/KCMS\/detail\/detail.aspx?dbcode=CJFD&amp;amp;filename=JZGR201901035&quot;]"></i>
+</div>
+
+    
+                
+                        
+            
+
+            
+                                    
+
+
+
+
+
+
+
+            
+                                                    
+                
+
+
+
+
+
+
+<!--  -->
+
+<div id="6" class="result sc_default_result xpath-log" srcid="3875" tpl="se_st_sc_default" mu="http://www.cqvip.com/main/zcps.aspx?c=1&amp;id=670648581">
+<div class="sc_content">
+    <h3 class="t c_font">
+        
+                    <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=aaed7b65dd73ea08a6701503174993c2&site=xueshu_se" data-click="{'button_tp':'title'}" target="_blank">《特别健康》美无处不在</a>
+                    </h3>
+    <div class="c_abstract">
+            《特别健康》真的是越办越精致了,收到第九期杂志,在阅读享受文字的同时,还欣赏到和文章内容一致的漫画插图,每幅图都妙趣横生,令人拍案叫绝.《借鼠粮》一文中的小老...
+    </div>
+    <div class="sc_info">
+                <span>                                
+                        
+        
+                                
+                        
+        <a href="        
+                    
+/s?wd=author%3A%28%E8%B5%B5%E4%B9%89%E6%B9%98%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}"><em>赵义湘</em></a>
+                    </span>&nbsp;-&nbsp;        
+                <span>
+        
+    <a href="                    /usercenter/data/journal?cmd=jump&wd=journaluri%3A%2894ec4916ca1e41e5%29%20%E3%80%8A%E7%89%B9%E5%88%AB%E5%81%A5%E5%BA%B7%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dpublish&sort=sc_cited" target="_blank" data-click="{'button_tp':'publish'}" title="《特别健康》">
+    《特别健康》
+</a>
+        </span>
+                
+                &nbsp;-&nbsp;        <span class="">
+            被引量:&nbsp;
+                                    0
+    
+                    </span>
+
+                    &nbsp;-&nbsp;
+            <span class="sc_time" data-year="2016">
+            2016年</span>
+            </div>
+
+    <div class="c_allversion">
+        
+                <div class="sc_allversion">
+        <span>来源：</span>
+                                    
+                <span class="v_item_span">
+            <span class="v_icon">
+                            <img src="https://bj.bcebos.com/ps-scholar/xueshu/1582281972/72513/ce5cdba2ed92fb593690d8683e2a7402.jpg" width="16" height="16">
+                        </span>
+
+                                                                
+            <a class="v_source" title="维普网" target="_blank" href="//xueshu.baidu.com/s?wd=paperuri%3A%28aaed7b65dd73ea08a6701503174993c2%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.cqvip.com%2Fmain%2Fzcps.aspx%3Fc%3D1%26amp%3Bid%3D670648581&ie=utf-8&sc_us=1334258147251875684"
+                                    data-click="{'button_tp':'allversion_link','pub_name':'www.cqvip.com'}"
+                                    data-isclick='2'>
+                                                                                                                            维普网
+            </a>
+            
+                    </span>
+                                    
+                <span class="split">&nbsp;/&nbsp;</span>
+                <span class="v_item_span">
+            <span class="v_icon">
+                            <img src="https://bj.bcebos.com/v1/ps-scholar-amis/archived/2020-1/1578562692820/zqkj.png" width="16" height="16">
+                        </span>
+
+                                                                
+            <a class="v_source" title="掌桥科研" target="_blank" href="https://www.zhangqiaokeyan.com/academic-journal-cn_particularly-healthy_thesis/0201218894840.html"
+                                    data-click="{'button_tp':'allversion_link','ch':2,'act_id':'100001','partner_id':'64','pub_name':'www.zhangqiaokeyan.com'}"
+                                    data-isclick='2'>
+                                                                                                                            掌桥科研
+            </a>
+            
+                    </span>
+                <a id="log-all-sources-init-value" data-isclick='2'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source','pub_name':'www.cqvip.com|www.zhangqiaokeyan.com'}"></a>
+        <a id="log-all-sources-more-value" data-isclick='3'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source_more','pub_name':''}"></a>
+        </div>
+            </div>
+</div>
+<div class="sc_ext">
+    <div class="sc_other">
+        <a class="sc_collect c-icon-heart-hover" href="#" target="_blank" data-url="http://www.cqvip.com/main/zcps.aspx?c=1&id=670648581" data-urlmd="63a18d9c7041ddaa67e39f40232c55cb" data-click="{'button_tp':'collect'}" title="收藏"><i class="iconfont icon-heart">&#xe601;</i><span>收藏</span></a><a class="sc_q c-icon-shape-hover" href="javascript:;" data-link="http://www.cqvip.com/main/zcps.aspx?c=1&id=670648581" data-sign="003f80290487969474da610bc289ed4a" data-click="{'button_tp':'cite'}" title="引用"><i class="iconfont icon-cite">&#xe600;</i>引用</a><a target="_blank" class="sc_batch" href="javascript:;" data-click="{'button_tp':'batch'}" title="批量引用"><i class="iconfont icon-piliang">&#xe60a;</i><span class="commType">批量引用&nbsp; </span></a>    </div>
+</div>
+                                <i class="reqdata" style="display:none;" urlmd="63a18d9c7041ddaa67e39f40232c55cb" url="http://www.cqvip.com/main/zcps.aspx?c=1&id=670648581" longsign="aaed7b65dd73ea08a6701503174993c2" diversion="6999476638614290433" allversion="[&quot;http:\/\/www.cqvip.com\/main\/zcps.aspx?c=1&amp;amp;id=670648581&quot;,&quot;https:\/\/www.zhangqiaokeyan.com\/academic-journal-cn_particularly-healthy_thesis\/0201218894840.html&quot;]"></i>
+</div>
+
+    
+                
+                        
+            
+
+            
+                                    
+
+
+
+
+
+
+
+            
+                                                    
+                
+
+
+
+
+
+
+<!--  -->
+
+<div id="7" class="result sc_default_result xpath-log" srcid="3875" tpl="se_st_sc_default" mu="https://www.zhangqiaokeyan.com/academic-journal-cn_reader_thesis/0201226743087.html">
+<div class="sc_content">
+    <h3 class="t c_font">
+        
+                    <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=103206s09u2d0vd0mm4f063098040914&site=xueshu_se" data-click="{'button_tp':'title'}" target="_blank">中国工作幸福指数调查</a>
+                    </h3>
+    <div class="c_abstract">
+            工作着是幸福的,曾经是很多人的口头禅.但是在现代社会激烈的市场竞争中,有多少人在幸福地工作呢?中国人力资源开发网联合国内众多知名人力资源管理和心理学专家以及...
+    </div>
+    <div class="sc_info">
+                <span>                                
+                        
+        
+                                
+                        
+        <a href="        
+                    
+/s?wd=author%3A%28%E8%B5%B5%E4%B9%89%E6%B9%98%29%20%E6%97%A0&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}"><em>赵义湘</em></a>
+                    </span>&nbsp;-&nbsp;        
+                <span>
+        
+    <a href="                    /usercenter/data/journal?cmd=jump&wd=journaluri%3A%28b19befea14b0f633%29%20%E3%80%8A%E8%AF%BB%E8%80%85%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dpublish&sort=sc_cited" target="_blank" data-click="{'button_tp':'publish'}" title="《读者》">
+    《读者》
+</a>
+        </span>
+                
+                &nbsp;-&nbsp;        <span class="">
+            被引量:&nbsp;
+                                    0
+    
+                    </span>
+
+                    &nbsp;-&nbsp;
+            <span class="sc_time" data-year="2004">
+            2004年</span>
+            </div>
+
+    <div class="c_allversion">
+        
+                <div class="sc_allversion">
+        <span>来源：</span>
+                                    
+                <span class="v_item_span">
+            <span class="v_icon">
+                            <img src="https://bj.bcebos.com/v1/ps-scholar-amis/archived/2020-1/1578562692820/zqkj.png" width="16" height="16">
+                        </span>
+
+                                                                
+            <a class="v_source" title="掌桥科研" target="_blank" href="https://www.zhangqiaokeyan.com/academic-journal-cn_reader_thesis/0201226743087.html"
+                                    data-click="{'button_tp':'allversion_link','ch':2,'act_id':'100001','partner_id':'64','pub_name':'www.zhangqiaokeyan.com'}"
+                                    data-isclick='2'>
+                                                                                                                            掌桥科研
+            </a>
+            
+                    </span>
+                <a id="log-all-sources-init-value" data-isclick='2'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source','pub_name':'www.zhangqiaokeyan.com'}"></a>
+        <a id="log-all-sources-more-value" data-isclick='3'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source_more','pub_name':''}"></a>
+        </div>
+            </div>
+</div>
+<div class="sc_ext">
+    <div class="sc_other">
+        <a class="sc_collect c-icon-heart-hover" href="#" target="_blank" data-url="http://www.zhangqiaokeyan.com/academic-journal-cn_reader_thesis/0201226743087.html" data-urlmd="5449effebdce93f54f035ebc080888a2" data-click="{'button_tp':'collect'}" title="收藏"><i class="iconfont icon-heart">&#xe601;</i><span>收藏</span></a><a class="sc_q c-icon-shape-hover" href="javascript:;" data-link="http://www.zhangqiaokeyan.com/academic-journal-cn_reader_thesis/0201226743087.html" data-sign="be015f68b150c167a91cfcf68b7340ce" data-click="{'button_tp':'cite'}" title="引用"><i class="iconfont icon-cite">&#xe600;</i>引用</a><a target="_blank" class="sc_batch" href="javascript:;" data-click="{'button_tp':'batch'}" title="批量引用"><i class="iconfont icon-piliang">&#xe60a;</i><span class="commType">批量引用&nbsp; </span></a>    </div>
+</div>
+                <i class="reqdata" style="display:none;" urlmd="5449effebdce93f54f035ebc080888a2" url="http://www.zhangqiaokeyan.com/academic-journal-cn_reader_thesis/0201226743087.html" longsign="103206s09u2d0vd0mm4f063098040914" diversion="6999476638614290433" allversion="[&quot;https:\/\/www.zhangqiaokeyan.com\/academic-journal-cn_reader_thesis\/0201226743087.html&quot;]"></i>
+</div>
+
+    
+                
+                        
+            
+
+            
+                                    
+
+
+
+
+
+
+
+            
+                                                    
+                
+
+
+
+
+
+
+<!--  -->
+
+<div id="8" class="result sc_default_result xpath-log" srcid="3875" tpl="se_st_sc_default" mu="https://d.wanfangdata.com.cn/periodical/huah200403056">
+<div class="sc_content">
+    <h3 class="t c_font">
+        
+                    <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=f406bd5f32d4fb3523ce8328c7a94db5&site=xueshu_se" data-click="{'button_tp':'title'}" target="_blank">三峡库区发现奇特飞碟石</a>
+                    </h3>
+    <div class="c_abstract">
+                三峡库区发现奇特飞碟石 <em>赵义湘</em>花卉
+    </div>
+    <div class="sc_info">
+                <span>                                
+                        
+        
+                                
+                        
+        <a href="        
+                    
+/s?wd=author%3A%28%E8%B5%B5%E4%B9%89%E6%B9%98%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}"><em>赵义湘</em></a>
+                    </span>&nbsp;-&nbsp;        
+                <span>
+        
+    <a href="                    /usercenter/data/journal?cmd=jump&wd=journaluri%3A%2896d046db14b6db45%29%20%E3%80%8A%E8%8A%B1%E5%8D%89%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dpublish&sort=sc_cited" target="_blank" data-click="{'button_tp':'publish'}" title="《花卉》">
+    《花卉》
+</a>
+        </span>
+                
+                &nbsp;-&nbsp;        <span class="">
+            被引量:&nbsp;
+                                    0
+    
+                    </span>
+
+                    &nbsp;-&nbsp;
+            <span class="sc_time" data-year="2004">
+            2004年</span>
+            </div>
+
+    <div class="c_allversion">
+        
+                <div class="sc_allversion">
+        <span>来源：</span>
+                                    
+                <span class="v_item_span">
+            <span class="v_icon">
+                            <img src="https://bj.bcebos.com/ps-scholar/xueshu/1582281974/51489/f8a6d5ebf2c1e45c2133f6613912e290.jpg" width="16" height="16">
+                        </span>
+
+                                                                
+            <a class="v_source" title="万方" target="_blank" href="https://d.wanfangdata.com.cn/Periodical/huah200403056"
+                                    data-click="{'button_tp':'allversion_link','pub_name':'d.wanfangdata.com.cn'}"
+                                    data-isclick='2'>
+                                                                                                                            万方
+            </a>
+            
+                    </span>
+                                    
+                <span class="split">&nbsp;/&nbsp;</span>
+                <span class="v_item_span">
+            <span class="v_icon">
+                            <img src="https://bj.bcebos.com/v1/ps-scholar-amis/archived/2020-1/1578562692820/zqkj.png" width="16" height="16">
+                        </span>
+
+                                                                
+            <a class="v_source" title="掌桥科研" target="_blank" href="https://www.zhangqiaokeyan.com/academic-journal-cn_flowers_thesis/0201259991463.html"
+                                    data-click="{'button_tp':'allversion_link','ch':2,'act_id':'100001','partner_id':'64','pub_name':'www.zhangqiaokeyan.com'}"
+                                    data-isclick='2'>
+                                                                                                                            掌桥科研
+            </a>
+            
+                    </span>
+                <a id="log-all-sources-init-value" data-isclick='2'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source','pub_name':'d.wanfangdata.com.cn|www.zhangqiaokeyan.com'}"></a>
+        <a id="log-all-sources-more-value" data-isclick='3'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source_more','pub_name':''}"></a>
+        </div>
+            </div>
+</div>
+<div class="sc_ext">
+    <div class="sc_other">
+        <a class="sc_collect c-icon-heart-hover" href="#" target="_blank" data-url="http://d.wanfangdata.com.cn/Periodical/huah200403056" data-urlmd="8867a87f409d8734579bf544812dd0a8" data-click="{'button_tp':'collect'}" title="收藏"><i class="iconfont icon-heart">&#xe601;</i><span>收藏</span></a><a class="sc_q c-icon-shape-hover" href="javascript:;" data-link="http://d.wanfangdata.com.cn/Periodical/huah200403056" data-sign="a0b8e3cb4040dd70da31446592a73ec8" data-click="{'button_tp':'cite'}" title="引用"><i class="iconfont icon-cite">&#xe600;</i>引用</a><a target="_blank" class="sc_batch" href="javascript:;" data-click="{'button_tp':'batch'}" title="批量引用"><i class="iconfont icon-piliang">&#xe60a;</i><span class="commType">批量引用&nbsp; </span></a>    </div>
+</div>
+                                <i class="reqdata" style="display:none;" urlmd="8867a87f409d8734579bf544812dd0a8" url="http://d.wanfangdata.com.cn/Periodical/huah200403056" longsign="f406bd5f32d4fb3523ce8328c7a94db5" diversion="6999476638614290433" allversion="[&quot;https:\/\/d.wanfangdata.com.cn\/Periodical\/huah200403056&quot;,&quot;https:\/\/www.zhangqiaokeyan.com\/academic-journal-cn_flowers_thesis\/0201259991463.html&quot;]"></i>
+</div>
+
+    
+                
+                        
+            
+
+            
+                                    
+
+
+
+
+
+
+
+            
+                                                    
+                
+
+
+
+
+
+
+<!--  -->
+
+<div id="9" class="result sc_default_result xpath-log" srcid="3875" tpl="se_st_sc_default" mu="https://www.ixueshu.com/document/4da86022a3a979425d1c70de41faf60d318947a18e7f9386.html">
+<div class="sc_content">
+    <h3 class="t c_font">
+        
+                    <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1d3v0440cw4p0880mn1j0g209y425917&site=xueshu_se" data-click="{'button_tp':'title'}" target="_blank">南京首例&quot;覆土建筑&quot;节能省地</a>
+                    </h3>
+    <div class="c_abstract">
+            从小区外的马路一眼望去,满眼是长着青翠草木的山坡,而看不见突兀的房子,原来,建筑师们将会所&quot;嵌&quot;进了山坡,再把整个小区的房子&quot;掩护&quot;起来了.这是东南大学专家在南京
+    </div>
+    <div class="sc_info">
+                <span>                                
+                                            
+                                            
+                        
+        
+                                
+                        
+        <a href="        
+                    
+/s?wd=author%3A%28%E8%B5%B5%E4%B9%89%E6%B9%98%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}"><em>赵义湘</em></a>
+        ，                                    
+                        
+        <a href="        
+                    
+/s?wd=author%3A%28%E8%B5%B5%E9%B2%81%E5%86%9B%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}">赵鲁军</a>
+        ，                                    
+                        
+        <a href="        
+                    
+/s?wd=author%3A%28%E9%99%86%E5%AE%B9%E5%AE%B9%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}">陆容容</a>
+                    </span>&nbsp;-&nbsp;        
+                <span>
+        
+    <a href="                    /usercenter/data/journal?cmd=jump&wd=journaluri%3A%284933824d1b2fd09%29%20%E3%80%8A%E5%BB%BA%E7%AD%91%E5%B7%A5%E4%BA%BA%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dpublish&sort=sc_cited" target="_blank" data-click="{'button_tp':'publish'}" title="《建筑工人》">
+    《建筑工人》
+</a>
+        </span>
+                
+                &nbsp;-&nbsp;        <span class="">
+            被引量:&nbsp;
+                                    0
+    
+                    </span>
+
+                    &nbsp;-&nbsp;
+            <span class="sc_time" data-year="2007">
+            2007年</span>
+            </div>
+
+    <div class="c_allversion">
+        
+                <div class="sc_allversion">
+        <span>来源：</span>
+                                    
+                <span class="v_item_span">
+            <span class="v_icon">
+                                            <i class="c-icon gj-icon-link"></i>
+                                        </span>
+
+                                                                
+            <a class="v_source" title="爱学术" target="_blank" href="http://www.ixueshu.com/document/4da86022a3a979425d1c70de41faf60d318947a18e7f9386.html"
+                                    data-click="{'button_tp':'allversion_link','pub_name':'www.ixueshu.com'}"
+                                    data-isclick='2'>
+                                                                                                                            爱学术
+            </a>
+                        <span class="v_lib">(全网免费下载)</span>
+            
+                    </span>
+                <a id="log-all-sources-init-value" data-isclick='2'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source','pub_name':'www.ixueshu.com'}"></a>
+        <a id="log-all-sources-more-value" data-isclick='3'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source_more','pub_name':''}"></a>
+        </div>
+            </div>
+</div>
+<div class="sc_ext">
+    <div class="sc_other">
+        <a class="sc_collect c-icon-heart-hover" href="#" target="_blank" data-url="http://www.ixueshu.com/document/4da86022a3a979425d1c70de41faf60d318947a18e7f9386.html" data-urlmd="a25f9e63ae62fb0e16b34269c70a3e64" data-click="{'button_tp':'collect'}" title="收藏"><i class="iconfont icon-heart">&#xe601;</i><span>收藏</span></a><a class="sc_q c-icon-shape-hover" href="javascript:;" data-link="http://www.ixueshu.com/document/4da86022a3a979425d1c70de41faf60d318947a18e7f9386.html" data-sign="bf3155ed2459c0b252acb224f398191a" data-click="{'button_tp':'cite'}" title="引用"><i class="iconfont icon-cite">&#xe600;</i>引用</a><a target="_blank" class="sc_batch" href="javascript:;" data-click="{'button_tp':'batch'}" title="批量引用"><i class="iconfont icon-piliang">&#xe60a;</i><span class="commType">批量引用&nbsp; </span></a>    </div>
+</div>
+                <i class="reqdata" style="display:none;" urlmd="a25f9e63ae62fb0e16b34269c70a3e64" url="http://www.ixueshu.com/document/4da86022a3a979425d1c70de41faf60d318947a18e7f9386.html" longsign="1d3v0440cw4p0880mn1j0g209y425917" diversion="6999476638614290433" allversion="[&quot;http:\/\/www.ixueshu.com\/document\/4da86022a3a979425d1c70de41faf60d318947a18e7f9386.html&quot;]"></i>
+</div>
+
+    
+                
+                        
+            
+
+            
+                                    
+
+
+
+
+
+
+
+            
+                                                    
+                
+
+
+
+
+
+
+<!--  -->
+
+<div id="10" class="result sc_default_result xpath-log" srcid="3875" tpl="se_st_sc_default" mu="https://www.cnki.com.cn/Article/CJFDTotal-JZGR200712041.htm">
+<div class="sc_content">
+    <h3 class="t c_font">
+        
+                    <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=28675eb2df5c340a22e89e64e5fd108f&site=xueshu_se" data-click="{'button_tp':'title'}" target="_blank">气凝胶,改变世界的神奇材料</a>
+                    </h3>
+    <div class="c_abstract">
+            它轻得被称为&quot;冻结的烟雾&quot;,却可以抵御炸弹爆炸;它是最好的保温材料,能够隔绝极端温度;它又是&quot;最佳海绵&quot;,可用来过滤污水。它就是气凝胶,几乎可以应用于任何领域。
+    </div>
+    <div class="sc_info">
+                <span>                                
+                                            
+                        
+        
+                                
+                        
+        <a href="        
+                    
+/s?wd=author%3A%28%E8%B5%B5%E4%B9%89%E6%B9%98%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}"><em>赵义湘</em></a>
+        ，                                    
+                        
+        <a href="        
+                    
+/s?wd=author%3A%28%E5%BC%A0%E5%B7%8D%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}">张巍</a>
+                    </span>&nbsp;-&nbsp;        
+                <span>
+        
+    <a href="                    /usercenter/data/journal?cmd=jump&wd=journaluri%3A%284933824d1b2fd09%29%20%E3%80%8A%E5%BB%BA%E7%AD%91%E5%B7%A5%E4%BA%BA%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dpublish&sort=sc_cited" target="_blank" data-click="{'button_tp':'publish'}" title="《建筑工人》">
+    《建筑工人》
+</a>
+        </span>
+                
+                &nbsp;-&nbsp;        <span class="">
+            被引量:&nbsp;
+                        <a href="/s?wd=refpaperuri:(28675eb2df5c340a22e89e64e5fd108f)&sc_f_para=sc_cita%3D%7B%E6%B0%94%E5%87%9D%E8%83%B6%2C%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C%E7%9A%84%E7%A5%9E%E5%A5%87%E6%9D%90%E6%96%99%2C%20%20%20%20%20%20%20%20%20%20%20%201%0D%0A%20%20%20%20%7D&sort=sc_cited&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank" class="sc_cite_cont" data-click="{'button_tp':'sc_cited'}">
+                                    1
+    
+            </a>        </span>
+
+                    &nbsp;-&nbsp;
+            <span class="sc_time" data-year="2007">
+            2007年</span>
+            </div>
+
+    <div class="c_allversion">
+        
+                <div class="sc_allversion">
+        <span>来源：</span>
+                                    
+                <span class="v_item_span">
+            <span class="v_icon">
+                                            <i class="c-icon gj-icon-link"></i>
+                                        </span>
+
+                                                                
+            <a class="v_source" title="爱学术" target="_blank" href="http://www.ixueshu.com/document/4da86022a3a979426d5dd4c684dbd17a318947a18e7f9386.html"
+                                    data-click="{'button_tp':'allversion_link','ch':2,'act_id':'100001','partner_id':'17','pub_name':'www.ixueshu.com'}"
+                                    data-isclick='2'>
+                                                                                                                            爱学术
+            </a>
+                        <span class="v_lib">(全网免费下载)</span>
+            
+                    </span>
+                                    
+                <span class="split">&nbsp;/&nbsp;</span>
+                <span class="v_item_span">
+            <span class="v_icon">
+                            <img src="https://bj.bcebos.com/ps-scholar/xueshu/1582281975/47595/a5d78dd13b7d91cd9e47c2e48aa8c07b.jpg" width="16" height="16">
+                        </span>
+
+                                                                
+            <a class="v_source" title="知网" target="_blank" href="http://www.cnki.com.cn/Article/CJFDTotal-JZGR200712041.htm"
+                                    data-click="{'button_tp':'allversion_link','pub_name':'www.cnki.com.cn'}"
+                                    data-isclick='2'>
+                                                                                                                            知网
+            </a>
+            
+                    </span>
+                                    
+                <span class="split">&nbsp;/&nbsp;</span>
+                <span class="v_item_span">
+            <span class="v_icon">
+                            <img src="https://bj.bcebos.com/ps-scholar/xueshu/1582281972/72513/ce5cdba2ed92fb593690d8683e2a7402.jpg" width="16" height="16">
+                        </span>
+
+                                                                
+            <a class="v_source" title="维普网" target="_blank" href="//xueshu.baidu.com/s?wd=paperuri%3A%2828675eb2df5c340a22e89e64e5fd108f%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FMain%2FDetail.aspx%3Fid%3D26012698&ie=utf-8&sc_us=3177274439468210253"
+                                    data-click="{'button_tp':'allversion_link','pub_name':'www.cqvip.com'}"
+                                    data-isclick='2'>
+                                                                                                                            维普网
+            </a>
+            
+                    </span>
+                <a id="log-all-sources-init-value" data-isclick='2'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source','pub_name':'www.ixueshu.com|www.cnki.com.cn|www.cqvip.com'}"></a>
+        <a id="log-all-sources-more-value" data-isclick='3'
+            data-click="{'act_id':'100024', 'button_tp':'paper_source_more','pub_name':''}"></a>
+        </div>
+            </div>
+</div>
+<div class="sc_ext">
+    <div class="sc_other">
+        <a class="sc_collect c-icon-heart-hover" href="#" target="_blank" data-url="http://www.cnki.com.cn/Article/CJFDTotal-JZGR200712041.htm" data-urlmd="3bb856c27a0c9092a103f681d4ca21a2" data-click="{'button_tp':'collect'}" title="收藏"><i class="iconfont icon-heart">&#xe601;</i><span>收藏</span></a><a class="sc_q c-icon-shape-hover" href="javascript:;" data-link="http://www.cnki.com.cn/Article/CJFDTotal-JZGR200712041.htm" data-sign="2c73e32fec0745ad0bd3d4754e4fca33" data-click="{'button_tp':'cite'}" title="引用"><i class="iconfont icon-cite">&#xe600;</i>引用</a><a target="_blank" class="sc_batch" href="javascript:;" data-click="{'button_tp':'batch'}" title="批量引用"><i class="iconfont icon-piliang">&#xe60a;</i><span class="commType">批量引用&nbsp; </span></a>    <a href="javascript:;" class="sc_download c-icon-download-hover" target="_blank" data-click="{'button_tp':'download'}" title="查看4个下载地址" data-type="2"><i class="iconfont icon-download">&#xe615;</i>免费下载&nbsp; </a>
+
+    <div style="display:none;" class="sc_savalink_content">
+                            
+        
+        <div class="sc_savelink_item" data-type="" data-libbuy="0">
+                            <p class="savesize"></p>
+                                    <p class="saveurl">http://www.ixueshu.com/document/4da86022a3a979426d5dd4c684dbd17a318947a18e7f9386.html</p>
+            <p class="saveanchor">            爱学术
+    </p>
+            <p class="savefree">全网免费</p>
+        </div>
+                            
+        
+        <div class="sc_savelink_item" data-type="" data-libbuy="0">
+                            <p class="savesize"></p>
+                                    <p class="saveurl">http://wenku.baidu.com/view/6c93c275a216147916112811</p>
+            <p class="saveanchor">            百度文库
+    </p>
+            <p class="savefree">全网免费</p>
+        </div>
+                            
+        
+        <div class="sc_savelink_item" data-type="" data-libbuy="0">
+                            <p class="savesize"></p>
+                                    <p class="saveurl">http://epub.cnki.net/grid2008/docdown/docdownload.aspx?filename=JZGR200712041&amp;dbcode=CJFD&amp;year=2007&amp;dflag=pdfdown</p>
+            <p class="saveanchor">            epub.cnki.net
+    </p>
+            <p class="savefree">全网免费</p>
+        </div>
+                            
+        
+        <div class="sc_savelink_item" data-type="" data-libbuy="0">
+                            <p class="savesize"></p>
+                                    <p class="saveurl">http://www.nanuo.cn/others/pdf/aerogel.pdf</p>
+            <p class="saveanchor">            nanuo.cn
+    </p>
+            <p class="savefree">全网免费</p>
+        </div>
+        </div>
+    </div>
+</div>
+                                                <i class="reqdata" style="display:none;" urlmd="3bb856c27a0c9092a103f681d4ca21a2" url="http://www.cnki.com.cn/Article/CJFDTotal-JZGR200712041.htm" longsign="28675eb2df5c340a22e89e64e5fd108f" diversion="6999476638614290433" allversion="[&quot;http:\/\/www.ixueshu.com\/document\/4da86022a3a979426d5dd4c684dbd17a318947a18e7f9386.html&quot;,&quot;http:\/\/www.cnki.com.cn\/Article\/CJFDTotal-JZGR200712041.htm&quot;,&quot;http:\/\/www.cqvip.com\/Main\/Detail.aspx?id=26012698&quot;]"></i>
+</div>
+
+    
+                
+                        
+            
+
+                    </div>
+    
+    </div>
+    <div id="guide-step"></div>
+    
+        <div style="clear:both;"></div>
+        
+                            
+<p id="page">
+        
+                            <strong>
+                <span class="fk fk_cur"><i class="c-icon c-icon-bear-p"></i></span>
+                <span class="pc">1</span>
+            </strong>
+                                        <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&pn=10&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_hit=1">
+                <span class="fk fkd"><i class="c-icon c-icon-bear-pn"></i></span>
+                <span class="pc">2</span>
+            </a>
+                                        <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&pn=20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_hit=1">
+                <span class="fk"><i class="c-icon c-icon-bear-pn"></i></span>
+                <span class="pc">3</span>
+            </a>
+                                        <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&pn=30&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_hit=1">
+                <span class="fk fkd"><i class="c-icon c-icon-bear-pn"></i></span>
+                <span class="pc">4</span>
+            </a>
+                                        <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&pn=40&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_hit=1">
+                <span class="fk"><i class="c-icon c-icon-bear-pn"></i></span>
+                <span class="pc">5</span>
+            </a>
+                                        <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&pn=50&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_hit=1">
+                <span class="fk fkd"><i class="c-icon c-icon-bear-pn"></i></span>
+                <span class="pc">6</span>
+            </a>
+                                        <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&pn=60&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_hit=1">
+                <span class="fk"><i class="c-icon c-icon-bear-pn"></i></span>
+                <span class="pc">7</span>
+            </a>
+                                        <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&pn=70&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_hit=1">
+                <span class="fk fkd"><i class="c-icon c-icon-bear-pn"></i></span>
+                <span class="pc">8</span>
+            </a>
+                    
+        <a href="/s?wd=%E8%B5%B5%E4%B9%89%E6%B9%98%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82&pn=10&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_hit=1&rsv_page=1" class="n" style="margin-right: 19px;"><i class="c-icon-pager-next"></i></a>
+    
+</p>
+
+                    
+    
+</div>
+
+	
+
+            
+            </div>
+            
+        
+        </div>
+        
+
+        
+	<div class="pagefoot gj xpath-log" data-click="{'act_block':'indexfooter','fm':'beha'}"><div class="footcon footcon-page"><span class="lawinfo"><h4>关于我们</h4><p>百度学术集成海量学术资源，融合人工智能、深度学习、大数据分析等技术，为科研工作者提供全面快捷的学术服务。在这里我们保持学习的态度，不忘初心，砥砺前行。<br><a href="//xueshu.baidu.com/usercenter/show/baiducas?cmd=page" target="_blank" style="color: #38f;">了解更多>></a></p></span><span class="yqLink"><h4>友情链接</h4><div class="innerCont"><a href="https://cloud.baidu.com/" target="_blank"><img src="https://bj.bcebos.com/v1/ps-scholar-amis-standard/2020-11/1606363009781/baiduyun.png" alt="百度云"></a><a href="https://fanyi.baidu.com/?hmsr=1&hmpl=&hmcu=&hmkw=&hmci=" target="_blank"><img src="https://bj.bcebos.com/v1/ps-scholar-amis-standard/2021-5/1621326465289/baidufanyi.png" alt="百度翻译"></a></div></span><span class="contact"><h4>联系我们</h4><div class="innerCont"><a href="http://weibo.com/baiduxueshu" target="_blank"><p class="wb"><span class="qrcode webocode"></span></p></a><p class="wx"><span class="qrcode weixincode"></span></p><a href="mailto:xueshu_support@baidu.com" target="_blank"><p class="help"></p></a></div></span><span class="moreinfo moreinfo-page"><h4>合作与服务</h4><span class="moreinfo_item"> <a href="//xueshu.baidu.com/usercenter/show/baiducas?cmd=journal" target="_blank">期刊合作</a></span><span class="moreinfo_item"> <a href="//xueshu.baidu.com/usercenter/show/baiducas?cmd=library" target="_blank">图书馆合作</a></span><span class="moreinfo_item"> <a href="https://bj.bcebos.com/v1/ps-scholar-amis-standard/archived/2021-4/1617263148292/BaiduScholar-20210401.pdf" target="_blank">下载产品手册</a></span><span class="moreinfo_item"><a href="javascript:;" class="feedback">意见反馈</a></span></span></div><p class="foottext">©2021 Baidu 百度学术声明 <a href="https://www.baidu.com/duty/" target="_blank">使用百度前必读</a></p></div>
+	<div class="batch-container">
+	<div id="citeBlock"></div>
+	<div class="batch-btn-wr">
+		<!-- 线下ubs调研，为后续保留
+			<div class="batch-btn btn-dy">有奖调研
+			<a href="https://iwenjuan.baidu.com/?code=d7ru1g">
+				<img src="https://bj.bcebos.com/v1/ps-scholar-amis-standard/2020-11/1605800371695/130.png" />
+			</a>
+		</div> -->
+		<div class="batch-btn btn-collect">
+			<i class="iconfont icon-piliang">&#xe60a;</i><span>0</span>
+			<p>引用</p>
+		</div>
+		<div class="batch-btn btn-up">
+			<i class="gj-icon-uniE604"></i>
+		</div>
+		<div class="batch-btn-tip">
+			<p>文献可以<span>批量引用</span>啦~<br>欢迎点我试用！<p>
+		</div>
+	</div>
+</div>
+	<div class="subscrbe_bg"></div><div class="subscrbe_wrapper"><i class="s_close iconfont icon-xlight">&#xe609;</i><h1 class="s_title">添加订阅</h1><div class="s_meau"><ul><li class="active" ref="keyword">关键词</li><li ref="journal">期刊</li><li ref="author">学者</li></ul></div><div class="s_tab"><div class="s_tab_item s_tab_keyword"><div class="s_k_input"><label>订阅搜索词</label><input type="text" placeholder="请输入订阅搜索词" name="keyword" autocomplete="on"></div><div class="s_k_list"><label>核心收录</label><div class="s_list_content"></div></div></div><div class="s_tab_item s_tab_journal"><div class="s_j_input"><input type="text" placeholder="正题名/ISSN/CN" name="journal" class="s_input"><i class="iconfont icon-searchlight s_search" type="journal">&#xe60e;</i></div><div class="s_j_list"><div class="list_nocontent"><i class="iconfont icon-file">&#xe616;</i><p>抱歉，没有找到与 应用数学 相关的学术期刊</p></div></div><div class="xs_pager"></div></div><div class="s_tab_item s_tab_author"><div class="s_a_input"><div><input type="text" placeholder="请输入姓名(必填)" name="name" class="s_input"></div><div><input type="text" placeholder="请输入机构" name="institution" class="s_input"></div><i class="iconfont icon-searchlight s_search" type="author">&#xe60e;</i></div><div class="s_a_list"><div class="list_nocontent"><i class="iconfont icon-file">&#xe616;</i><p>抱歉，未搜索到任何学者，请尝试其他搜索</p></div></div><div class="xs_pager"></div></div></div><div class="s_footer"><div class="s_btn s_btn_primary">订阅</div><div class="s_btn">重置</div></div></div><script id="subDialogKeyword" type="text/html">{{each data as item}}<div class="s_list_item"><input class="{{if item[0] === '-1'}}s_checkbox_all{{else}}s_checkbox_item{{/if}}"type="checkbox"name="s_checkbox_value"value="{{item[0]}}"checked="checked"><label for="s_checkbox_value"></label><span>{{ item[1] }}</span></div>{{/each}}
+</script>
+
+<script id="subDialogJournal" type="text/html">
+    {{if list && list.length > 0}}{{each list as item}}<div class="s_list_item subscribe_item" type="2" entity_id="{{ item.entity_id }}" query="{{ item.standard_name }}"><img src="{{ item.cover || 'https://bj.bcebos.com/v1/ps-scholar-amis-standard/2021-6/1624983844457/journal_blank.png'}}"><p>{{ item.standard_name }}</p>{{if item.subscription_id === 0}}<span>订阅</span>{{else}}<span class="done" tag_id="{{item.subscription_id}}">已订阅</span>{{/if}}</div>{{/each}}{{else}}<div class="list_nocontent"><i class="iconfont icon-file">&#xe616;</i><p>抱歉，没有找到与<em>{{query}}</em>相关的学术期刊</p></div>{{/if}}
+</script>
+
+<script id="subDialogAuthor" type="text/html">
+    {{if authorList && authorList.length > 0}}{{each authorList as item}}<div class="s_list_item"><div class="item_l">{{if item.pic}}<img src="{{ item.pic }}" alt="">{{else}}<img src="https://xueshu.baidu.com/lib/static/scholar/cache/homepage/img/default_blue_f694ec6.jpg" alt="">{{/if}}</div><div class="item_c"><p><span>{{ item.author }}</span><span>{{ item.affiliate }}</span></p><p>研究领域：{{each item.research_domain as value key}}{{value}}{{/each}}</p></div><div class="item_r subscribe_item" type="3" entity_id="{{ item.entity_id }}" query="{{ item.author }}">{{if item.subscription_id === 0}}<span>订阅</span>{{else}}<span class="done" tag_id="{{item.subscription_id}}">已订阅</span>{{/if}}</div></div>{{/each}}{{else}}<div class="list_nocontent"><i class="iconfont icon-file">&#xe616;</i><p>抱歉，未搜索到任何学者，请尝试其他搜索</p></div>{{/if}}
+</script>
+
+
+
+	<div style="display:none">
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?43115ae30293b511088d3cbe41ec099c";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+
+
+    </body>
+
+    
+	<script src="https://code.bdstatic.com/npm/clipboard@1.7.1/dist/clipboard.min.js"></script>
+			<script src="http://s1.bdstatic.com/r/www/cache/scholar_mid/static/jquery/jquery-1.10.2.min_65682a2.js"></script>
+<script src="https://ts.bdimg.com/libs/blueimp-md5/1-0-1/md5.min.js"></script>
+<script type="text/javascript" src="http://s1.bdstatic.com/r/www/cache/scholar_mid/static/xueshu/js/logic2_3d090a6.js" charset="utf-8"></script>
+	
+
+
+</html>
+

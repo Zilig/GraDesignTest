@@ -1,0 +1,1081 @@
+<link rel="stylesheet" type="text/css" href="/app/static/1.0/css/owl.carousel.css">
+<link rel="stylesheet" href="http://www.paper.edu.cn/app/static/1.0/css/search/normalize.min.css" />
+<!DOCTYPE html>
+<html lang="zh-CN">
+<!--动态-->
+<head>
+    <meta charset="UTF-8">
+    <title>中国科技论文在线</title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="author" content="">
+    <meta http-equiv="X-UA-Compatible" Content="IE=Edge,chrome=1">
+    <meta name="renderer" content="webkit" />
+    <meta name="viewport" content="width=1100, target-densitydpi=device-dpi, user-scalable=no">
+    <link rel="shortcut icon" href="http://www.paper.edu.cn/app/static/1.0/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="http://www.paper.edu.cn/app/static/1.0/img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="http://www.paper.edu.cn/app/static/1.0/css/index.css">
+    <script src="http://www.paper.edu.cn/app/static/1.0/js/jquery.1.12.4.min.js"></script>
+    <script src="http://www.paper.edu.cn/app/static/1.0/js/login.js"></script>
+</head>
+<script>
+    (function(){
+        var headerTop=$(".header").height();
+        $(window).scroll(function(){
+            //头部跟着滚动
+            if($(window).scrollTop()>=headerTop)
+            {
+                $(".header").addClass("fixed");
+
+            }else
+            {
+                $(".header").removeClass("fixed");
+            }
+            var gotop = $("body").scrollTop() || $(document).scrollTop();
+            if(gotop > 400){
+                //var hid = $(document).width()/2+550;
+                $('.goTop').removeClass('hide');
+                $('.goTop').css({
+                    'position':'fixed',
+                    'left':'90%',
+                    'top':'70%'
+                });
+
+        } else {
+            $('.goTop').addClass('hide');
+        }
+    });
+})();
+</script>
+
+<body  class="whitebc">
+    <!--返回顶部-->
+    <div class="goTop hide">
+        <i href="" class="iconfont icon-back-top"></i>
+    </div>
+    <!--头部导航-->
+    <div class="top-nav">
+        <div class="width1100">
+            <ul class="right">
+                <li>
+                    <a href="http://www.paper.edu.cn/user/paper/tougao/"><i class="top-nav01"></i>投稿</a>
+                </li>
+                <li>
+                    <a href="http://www.paper.edu.cn/search/index"><i class="top-nav02"></i>检索</a>
+                </li>
+                <li>
+                    <!--<a href="http://www.paper.edu.cn/releasepaper/subject.shtml"><i class="top-nav03"></i>学科</a>-->
+                    <a href="http://www.paper.edu.cn/subject"><i class="top-nav03"></i>学科</a>
+                </li>
+                <li>
+					<!-- <a href="javascript:alert('全新功能正在建设，敬请期待!');"><i class="top-nav04"></i>机构</a> -->
+                    <a href="http://www.paper.edu.cn/releasepaper/school/index.shtml"><i class="top-nav04"></i>机构</a>
+                </li>
+               
+                <!--<li class="hasuserbox" id="user_login">-->
+                <li id="user_login">
+                    <a class="login" onclick="loginbox()" href="javascript:void(0)">登录</a>
+                </li>
+                <li class="marit10 hassetting" id="user_register">
+                    <a href="http://www.paper.edu.cn/">
+                        <i class="top-nav07"></i>
+                    </a>
+                </li>
+                <li id="user_quit" class="marit10 hassetting">
+                                    </li>
+                <li>
+                    <i class="shu"></i>
+                    <a href="http://en.paper.edu.cn/">
+                        <span class="bule">English</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!--nav导航-->
+    <div class="header width1100">
+        <div class="logo left">
+            <a href="http://www.paper.edu.cn/">
+                <img src="http://www.paper.edu.cn/app/static/1.0/img/lw_logo.png">
+            </a>
+        </div>
+        <div class="header-nav right">
+            <ul>
+                <li  class="active_index">
+                    <a href="http://www.paper.edu.cn/" target="_blank">首页</a>
+                    <i></i>
+                    <b></b>
+                </li>
+                <li class="active"  class="active_releasepaper">
+                    <a href="http://www.paper.edu.cn/releasepaper/index.shtml" target="_blank">首发</a>
+                    <i></i>
+                    <b></b>
+                </li>
+                <li  class="active_journal">
+                    <a href="http://www.paper.edu.cn/journal/index.shtml" target="_blank">期刊</a>
+                    <i></i>
+                    <b></b>
+                </li>
+                <li  class="active_scholar">
+                    <a href="http://www.paper.edu.cn/scholar/" target="_blank">学者</a>
+                    <i></i>
+                    <b></b>
+                </li>
+                <li  class="active_community">
+                    <a href="http://www.paper.edu.cn/information">资讯</a>
+                    <i></i>
+                    <b></b>
+                </li>
+            </ul>
+        </div>
+        <div class="adress">
+            <i></i> 您当前所在位置：
+            <a href="http://www.paper.edu.cn/" class="index_title">首页</a>                              > <a href="http://www.paper.edu.cn/releasepaper/index.shtml">首发论文</a>                       </div>
+    </div>
+    <!--弹出框-->
+    <div class="alerx-box" id="notice" style="display: none;z-index: 99999">
+        <div class="alert">
+            <!-- 提示-->
+            <div class="alert-phone2">
+                <div class="alert-title">
+                    <img src="/app/static/1.0/img/alert_logo.png">提示
+                    <i class="iconfont icon-icon right" id="notclose"></i>
+                </div>
+                <div class="alert-content">
+                    <p class="alert-text" id="alert_text2"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <input id="baseurl" value="http://www.paper.edu.cn/" type="hidden">
+<div class="alerx-box" id="loginbox" style="display: none;z-index: 99998">
+    <div class="alert">
+        <!-- 提示-->
+        <!--登录弹出框-->
+        <div class="alert-login">
+        <script src="http://www.paper.edu.cn/app/static/1.0/js/user/base64.js"></script>
+<script src="http://www.paper.edu.cn/app/static/1.0/js/user/md5.js"></script>
+            <div class="alert-title">
+                <img src="/app/static/1.0/img/alert_logo.png">登录到中国科技论文在线
+                <i class="iconfont icon-icon right" id="loginclose"></i>
+            </div>
+            <div class="alert-login-content">
+                <div class="tab-title">
+                    <span class="active">账号密码登录</span>
+                    <!-- <span class="tab-right">短信快速登录</span> -->
+                </div>
+                <!--账号登录-->
+                <div class="tab-content">
+                    <form id="loginAlert">
+                        <p class="alert-input"><i class="iconfont icon-yonghu1"></i>
+                            <input type="text" placeholder="手机号/邮箱/昵称" name="user_account2" id="user_account2" required="ture"><i class="iconfont icon-icon"></i>
+                            <input type="hidden" placeholder="手机号/邮箱/昵称" name="user_account" id="user_account">
+                        </p>
+                        <p class="alert-input"><i class="iconfont icon-iconfontlock"></i>
+                            <input type="password" placeholder="密码" name="user_pwd2" id="user_pwd2" required="ture"><i class="iconfont icon-keyboard"></i>
+                            <input type="hidden" placeholder="密码" name="user_pwd" id="user_pwd">
+                        </p>
+                        <p class="alert-input" style="position:relative;">
+                          <input style="width:80px" required="ture" class="setting-login-yzm" name="imgcode" type="text" size='4' placeholder="验证码" />
+                          <span class="setting-login-change right" ><a style="font-size: 12px;" onclick="changess();" href="javascript:void(0)">看不清，换一个</a></span>
+                          <span style="position: absolute;left:78px;" class="setting-login-yzmimg right"><img  id="checkcode"  src="http://www.paper.edu.cn/user/login/checkcode/"/></span>
+                        </p>
+                        <input type="hidden" name="lgtype" value="1" id="lgtype" required="ture" />
+                        <p class="alert-check">
+                            <span>
+                          <label for="autoLogin" class="redcheck redchecked"></label> 
+                          <input type="checkbox" id="autoLogin" checked="true" >记住密码
+                          </span>
+                        </p>
+                        <input type="submit" class="loginBtn" value="登录">
+                        <p class="login-help"><a class="right" href="http://www.paper.edu.cn/user/person/forgotPass">无法访问您的账户？</a></p>
+                    </form>
+                </div>
+                <!--短信登录-->
+                <!-- <div class="tab-content tab-content2">
+                    <form id="loginPhone">
+                        <p class="alert-input"><i class="iconfont icon-shouji"></i>
+                            <input type="text" placeholder="手机号" name="user_phone" id="userphone2"  required="ture"><i class="iconfont icon-icon"></i>
+                        </p>
+                        <p class="alert-input alert-code">
+                            <input type="text" placeholder="验证码" name="user_code" required="ture">
+                            <button type="button" class="getCode" onclick="authcode(this,2);return false;" >获取验证码</button>
+                        </p>
+                        <input type="hidden" name="lgtype" value="2" required="ture"/>
+                        <input type="submit" class="loginBtn" value="登录">
+                    </form>
+                </div> -->
+                <p class="login-center" id="zhlg_error"></p>
+            </div>
+            <div class="alert-footer">
+                <a href="">快速登录</a>
+                <a id="qqurl"><i class="iconfont icon-qq"></i></a>
+                <a id="weibourl"><i class="iconfont icon-zliconweibo01"></i></a>
+                <a id="weixinurl"><i class="iconfont icon-disanfangweixin"></i></a>
+                <a class="right" href="http://www.paper.edu.cn/user/register/index">前往注册</a>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="http://www.paper.edu.cn/app/static/1.0/js/user/base64.js" type="text/javascript"></script>
+<script src="http://www.paper.edu.cn/app/static/1.0/js/user/md5.js" type="text/javascript"></script>
+
+
+
+<!--跟随导航栏-->
+<div class="movenav top-nav" style="display: none">
+    <div class="movenav-logo left"><img src="http://www.paper.edu.cn/app/static/1.0/img/lw_logo.png"></div>
+    <div class="movebignav left">
+        <ul>
+            <li  class="active_index">
+                <a href="http://www.paper.edu.cn/">首页</a>
+            </li>
+            <li class="active" class="active_releasepaper">
+                <a href="http://www.paper.edu.cn/releasepaper/index.shtml">首发</a>
+            </li>
+            <li  class="active_journal">
+                <a href="http://www.paper.edu.cn/journal/index.shtml">期刊</a>
+            </li>
+            <li  class="active_scholar">
+                <a href="http://www.paper.edu.cn/scholar">学者</a>
+            </li>
+            <li  class="active_community">
+                <a href="http://www.paper.edu.cn/information">资讯</a>
+            </li>
+        </ul>
+    </div>
+    <ul class="right">
+        <li>
+            <a href="http://www.paper.edu.cn/user/paper/tougao"><i class="top-nav01"></i>投稿</a>
+        </li>
+        <li>
+            <a href="http://www.paper.edu.cn/search/index"><i class="top-nav02"></i>检索</a>
+        </li>
+        <li>
+            <a href="http://www.paper.edu.cn/subject"><i class="top-nav03"></i>学科</a>
+        </li>
+        <li>
+            <a href="http://www.paper.edu.cn/releasepaper/school/index.shtml"><i class="top-nav04"></i>机构</a>
+        </li>
+        <li>
+            <a href="http://oa.paper.edu.cn/"><i class="top-nav05"></i>OA</a>
+        </li>
+        <li class="hasuserbox" id="user_logins">
+            <a class="login" onclick="loginbox()" href="javascript:void(0)">登录</a>
+        </li>
+        <li class="marit10 hassetting" id="user_registers">
+            <a class="quickRegister" href="http://www.paper.edu.cn/user/register/index">快速注册</a>
+        </li>
+        <li id="user_quits" class="marit10 hassetting">
+        </li>
+        <li>
+            <i class="shu"></i>
+            <a href="http://en.paper.edu.cn/">
+                <span class="bule">English</span>
+            </a>
+        </li>
+    </ul>
+</div>
+<script>
+    $(window).scroll(function(){
+        var height = $("body").scrollTop() || $(document).scrollTop();
+        if(height>148){
+            $('.movenav').show();
+        }else{
+            $('.movenav').hide();
+        }
+    });
+</script>
+
+<div class="alerx-box  alerx-box2 hide">
+	<div class="alert lunwimg">
+		<img src="/app/static/1.0/img/article-explain-15.png">
+	</div>
+</div>
+<!--检索-->
+<div class="journal-search lm-search">
+	<div class="width1100">
+		<div class="all-mess left">
+			<p>首发论文在库全文</p>
+			<p class="all-mess-num"><span class="snum snum-white"></span>篇</p>
+			<input type = "hidden" value='102961' name = "count" />
+			<p>最近更新 ：<span>2021-05-18</span></p>
+		</div>
+		<p class="search-nav shoufa-nav lmsearch-nav">
+			<em><a href="javascript:void(0)" class="active" v = 0>全文 </a><b></b></em>
+			<em><a href="javascript:void(0)"  v = 1>作者 </a><b></b></em>
+			<em><a href="javascript:void(0)"  v = 2>机构 </a><b></b></em>
+			<em><a href="javascript:void(0)"  v = 3>基金 </a></em>
+			<input type='hidden' id='searchType' name='searchType' value='0' />
+		</p>
+		<div class="search-box lm-search-box">
+			<div class="search-input lm-search-input">
+				<i class="search-icon"></i>
+				<input type="text" name="searchContent" class="searchContent" value="线上线下"
+				onkeydown="entersearch()" />
+				<!--检索历史+探索发现-->
+				<div class="hide-searchBox">
+										<p class="hide-searchBox-title">探索发现<label class="right"><input type="checkbox" class="mgc-switch mgc-sm" checked /></label></p>
+					<ul class="hide-searchBox-find">
+       												<li style="overflow: hidden;text-overflow:ellipsis;white-space: nowrap;">人工智能</li>
+												<li style="overflow: hidden;text-overflow:ellipsis;white-space: nowrap;">SiC</li>
+												<li style="overflow: hidden;text-overflow:ellipsis;white-space: nowrap;">基因</li>
+												<li style="overflow: hidden;text-overflow:ellipsis;white-space: nowrap;">数值模拟</li>
+												<li style="overflow: hidden;text-overflow:ellipsis;white-space: nowrap;">冠心病</li>
+						
+					</ul>
+				</div>
+				<!--检索相关词-->
+				<div class="hide-searchBoxText">
+					<ul class="searchText-list">
+					</ul>
+				</div>
+			</div>
+			<button class="search-btn" onclick="getUrl(true)">检索</button>
+			<button class="search-btn search-senior" onclick="getSenior()">高级检索</button>
+		</div>
+	</div>
+</div>
+<!--主体内容-->
+<div class="width1100 lmsearch-main">
+	<!--广告位-->
+	<!-- <div class="gkw"></div> -->
+	<!--检索选项-->
+	<div class="lmsearch-options left">
+		<!-- <div class="options-title">一度关系检索词</div> -->
+		<div class="options-title">筛选条件</div>
+		<!--时间-->
+		<div class="lm-time-option lm-long-option">
+			<p class="lm-time-option-title">时间</p>
+			<div class="lm-time-choose">
+				<div class="white-box white-box-left"></div>
+				<input type="text" id="range_1" />
+				<div class="white-box white-box-right"></div>
+			</div>
+		</div>
+		<!--领域-->
+		<div class="lm-field-option lm-one-option">
+			<p class="lm-time-option-title">领域</p>
+			<div class="goubox">
+				<p class="checkP checkedP"><label for="gouall" class="redcheck redchecked"></label><input type="checkbox" id="gouall" checked="true" />全部</p>
+            				            								<p class="checkP"><label for="gou0" class="redcheck "></label><input type="checkbox" id="gou0" name = "subject[]" value ="管理学" />管理学(<span>5</span>)</p>
+				            								            								<p class="checkP"><label for="gou1" class="redcheck "></label><input type="checkbox" id="gou1" name = "subject[]" value ="交通运输工程" />交通运输工程(<span>1</span>)</p>
+				            								            				            								<p class="checkP"><label for="gou2" class="redcheck"></label><input type="checkbox" id="gou2" name = "subject[]" value ="图书馆、情报与文献学" />图书馆、情报与文献学(<span>1</span>)
+								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								            				            								
+				<em class="showmore right">显示更多>></em></p>
+				<div class="hidegoubox">
+            					            										            										            										            										<em class="checkP" title = "教育学(1)"><label for="gou3" class="redcheck"></label><input type="checkbox" id="gou3" name = "subject[]" value ="教育学" />教育学(<span>1</span>)</em>
+										            										<em class="checkP" title = "计算机科学技术(1)"><label for="gou4" class="redcheck"></label><input type="checkbox" id="gou4" name = "subject[]" value ="计算机科学技术" />计算机科学技术(<span>1</span>)</em>
+										            										<em class="checkP" title = "中医学与中药学(0)"><label for="gou5" class="redcheck"></label><input type="checkbox" id="gou5" name = "subject[]" value ="中医学与中药学" />中医学与中药学(<span>0</span>)</em>
+										            										<em class="checkP" title = "临床医学(0)"><label for="gou6" class="redcheck"></label><input type="checkbox" id="gou6" name = "subject[]" value ="临床医学" />临床医学(<span>0</span>)</em>
+										            										<em class="checkP" title = "体育科学(0)"><label for="gou7" class="redcheck"></label><input type="checkbox" id="gou7" name = "subject[]" value ="体育科学" />体育科学(<span>0</span>)</em>
+										            										<em class="checkP" title = "信息科学与系统科学(0)"><label for="gou8" class="redcheck"></label><input type="checkbox" id="gou8" name = "subject[]" value ="信息科学与系统科学" />信息科学与系统科学(<span>0</span>)</em>
+										            										<em class="checkP" title = "农学(0)"><label for="gou9" class="redcheck"></label><input type="checkbox" id="gou9" name = "subject[]" value ="农学" />农学(<span>0</span>)</em>
+										            										<em class="checkP" title = "冶金工程技术(0)"><label for="gou10" class="redcheck"></label><input type="checkbox" id="gou10" name = "subject[]" value ="冶金工程技术" />冶金工程技术(<span>0</span>)</em>
+										            										<em class="checkP" title = "力学(0)"><label for="gou11" class="redcheck"></label><input type="checkbox" id="gou11" name = "subject[]" value ="力学" />力学(<span>0</span>)</em>
+										            										<em class="checkP" title = "动力与电气工程(0)"><label for="gou12" class="redcheck"></label><input type="checkbox" id="gou12" name = "subject[]" value ="动力与电气工程" />动力与电气工程(<span>0</span>)</em>
+										            										<em class="checkP" title = "化学(0)"><label for="gou13" class="redcheck"></label><input type="checkbox" id="gou13" name = "subject[]" value ="化学" />化学(<span>0</span>)</em>
+										            										<em class="checkP" title = "化学工程(0)"><label for="gou14" class="redcheck"></label><input type="checkbox" id="gou14" name = "subject[]" value ="化学工程" />化学工程(<span>0</span>)</em>
+										            										<em class="checkP" title = "土木建筑工程(0)"><label for="gou15" class="redcheck"></label><input type="checkbox" id="gou15" name = "subject[]" value ="土木建筑工程" />土木建筑工程(<span>0</span>)</em>
+										            										<em class="checkP" title = "地球科学(0)"><label for="gou16" class="redcheck"></label><input type="checkbox" id="gou16" name = "subject[]" value ="地球科学" />地球科学(<span>0</span>)</em>
+										            										<em class="checkP" title = "基础医学(0)"><label for="gou17" class="redcheck"></label><input type="checkbox" id="gou17" name = "subject[]" value ="基础医学" />基础医学(<span>0</span>)</em>
+										            										<em class="checkP" title = "天文学(0)"><label for="gou18" class="redcheck"></label><input type="checkbox" id="gou18" name = "subject[]" value ="天文学" />天文学(<span>0</span>)</em>
+										            										<em class="checkP" title = "安全科学技术(0)"><label for="gou19" class="redcheck"></label><input type="checkbox" id="gou19" name = "subject[]" value ="安全科学技术" />安全科学技术(<span>0</span>)</em>
+										            										<em class="checkP" title = "工程与技术科学基础学科(0)"><label for="gou20" class="redcheck"></label><input type="checkbox" id="gou20" name = "subject[]" value ="工程与技术科学基础学科" />工程与技术科学基础学科(<span>0</span>)</em>
+										            										<em class="checkP" title = "心理学(0)"><label for="gou21" class="redcheck"></label><input type="checkbox" id="gou21" name = "subject[]" value ="心理学" />心理学(<span>0</span>)</em>
+										            										<em class="checkP" title = "数学(0)"><label for="gou22" class="redcheck"></label><input type="checkbox" id="gou22" name = "subject[]" value ="数学" />数学(<span>0</span>)</em>
+										            										<em class="checkP" title = "机械工程(0)"><label for="gou23" class="redcheck"></label><input type="checkbox" id="gou23" name = "subject[]" value ="机械工程" />机械工程(<span>0</span>)</em>
+										            										<em class="checkP" title = "材料科学(0)"><label for="gou24" class="redcheck"></label><input type="checkbox" id="gou24" name = "subject[]" value ="材料科学" />材料科学(<span>0</span>)</em>
+										            										<em class="checkP" title = "林学(0)"><label for="gou25" class="redcheck"></label><input type="checkbox" id="gou25" name = "subject[]" value ="林学" />林学(<span>0</span>)</em>
+										            										<em class="checkP" title = "核科学技术(0)"><label for="gou26" class="redcheck"></label><input type="checkbox" id="gou26" name = "subject[]" value ="核科学技术" />核科学技术(<span>0</span>)</em>
+										            										<em class="checkP" title = "水产学(0)"><label for="gou27" class="redcheck"></label><input type="checkbox" id="gou27" name = "subject[]" value ="水产学" />水产学(<span>0</span>)</em>
+										            										<em class="checkP" title = "水利工程(0)"><label for="gou28" class="redcheck"></label><input type="checkbox" id="gou28" name = "subject[]" value ="水利工程" />水利工程(<span>0</span>)</em>
+										            										<em class="checkP" title = "测绘科学技术(0)"><label for="gou29" class="redcheck"></label><input type="checkbox" id="gou29" name = "subject[]" value ="测绘科学技术" />测绘科学技术(<span>0</span>)</em>
+										            										<em class="checkP" title = "物理学(0)"><label for="gou30" class="redcheck"></label><input type="checkbox" id="gou30" name = "subject[]" value ="物理学" />物理学(<span>0</span>)</em>
+										            										<em class="checkP" title = "环境科学技术(0)"><label for="gou31" class="redcheck"></label><input type="checkbox" id="gou31" name = "subject[]" value ="环境科学技术" />环境科学技术(<span>0</span>)</em>
+										            										<em class="checkP" title = "生物学(0)"><label for="gou32" class="redcheck"></label><input type="checkbox" id="gou32" name = "subject[]" value ="生物学" />生物学(<span>0</span>)</em>
+										            										<em class="checkP" title = "电子、通信与自动控制技术(0)"><label for="gou33" class="redcheck"></label><input type="checkbox" id="gou33" name = "subject[]" value ="电子、通信与自动控制技术" />电子、通信与自动控制技术(<span>0</span>)</em>
+										            										<em class="checkP" title = "畜牧科学、动物医学(0)"><label for="gou34" class="redcheck"></label><input type="checkbox" id="gou34" name = "subject[]" value ="畜牧科学、动物医学" />畜牧科学、动物医学(<span>0</span>)</em>
+										            										<em class="checkP" title = "矿山工程技术(0)"><label for="gou35" class="redcheck"></label><input type="checkbox" id="gou35" name = "subject[]" value ="矿山工程技术" />矿山工程技术(<span>0</span>)</em>
+										            										<em class="checkP" title = "纺织科学技术(0)"><label for="gou36" class="redcheck"></label><input type="checkbox" id="gou36" name = "subject[]" value ="纺织科学技术" />纺织科学技术(<span>0</span>)</em>
+										            										<em class="checkP" title = "经济学(0)"><label for="gou37" class="redcheck"></label><input type="checkbox" id="gou37" name = "subject[]" value ="经济学" />经济学(<span>0</span>)</em>
+										            										<em class="checkP" title = "能源科学技术(0)"><label for="gou38" class="redcheck"></label><input type="checkbox" id="gou38" name = "subject[]" value ="能源科学技术" />能源科学技术(<span>0</span>)</em>
+										            										<em class="checkP" title = "航空航天科学技术(0)"><label for="gou39" class="redcheck"></label><input type="checkbox" id="gou39" name = "subject[]" value ="航空航天科学技术" />航空航天科学技术(<span>0</span>)</em>
+										            										<em class="checkP" title = "药学(0)"><label for="gou40" class="redcheck"></label><input type="checkbox" id="gou40" name = "subject[]" value ="药学" />药学(<span>0</span>)</em>
+										            										<em class="checkP" title = "预防医学与卫生学(0)"><label for="gou41" class="redcheck"></label><input type="checkbox" id="gou41" name = "subject[]" value ="预防医学与卫生学" />预防医学与卫生学(<span>0</span>)</em>
+										            										<em class="checkP" title = "食品科学技术(0)"><label for="gou42" class="redcheck"></label><input type="checkbox" id="gou42" name = "subject[]" value ="食品科学技术" />食品科学技术(<span>0</span>)</em>
+										
+				</div>
+			</div>
+		</div>
+		<!--学术评议-->
+		<div class="lm-one-option">
+			<p class="lm-time-option-title">学术评议</p>
+			<div class="yuanhuan">
+				<div id="myChart" style="width: 100%;height: 220px;"></div>
+			</div>
+			<input type = "hidden" name = "rank1" value="1" />
+			<input type = "hidden" name = "rank2" value="1" />
+			<input type = "hidden" name = "rank3" value="2" />
+			<input type = "hidden" name = "rank4" value="2" />
+			<input type = "hidden" name = "rank5" value="0" />
+		</div>
+		<!--实时热搜榜-->
+		<div class="lm-one-option">
+			<p class="lm-time-option-title">实时热搜榜</p>
+			<div class="lm-hot-content">
+								<p class="lm-o-conP"><a herf="javascript:void(0)" title="人工智能">人工智能</a><span>32168</span></p>
+								<p class="lm-o-conP"><a herf="javascript:void(0)" title="SiC">SiC</a><span>22794</span></p>
+								<p class="lm-o-conP"><a herf="javascript:void(0)" title="基因">基因</a><span>18647</span></p>
+								<p class="lm-o-conP"><a herf="javascript:void(0)" title="数值模拟">数值模拟</a><span>10995</span></p>
+								<p class="lm-o-conP"><a herf="javascript:void(0)" title="冠心病">冠心病</a><span>10757</span></p>
+				
+			</div>
+		</div>
+		<!--搜索历史-->
+			</div>
+	<!--检索内容-->
+	<div class="lmsearch-contents left">
+		<!--我的筛选-->
+		<div class="mylmchoose">
+			<b>我的筛选 ></b>
+			<div class="mylmchoose-content right">
+				<em class="slidertime">2003-2021<i class="iconfont icon-icon"></i>	<input type = "hidden" value = "2003-2021" name = "searchDate" class ="searchDate" /></em>
+				<em>全部<i class="iconfont icon-icon"></i><input type = "hidden" value = "全部" name = "searchSubject" class ="searchSubject" /></em>
+				
+			</div>
+		</div>
+		<!--筛选内容-->
+		<div class="mylmchoose-btnBox">
+			<em>为您找到包含“<span>线上线下</span>”的内容共<span>9</span>项</em>
+			<div class="right">
+				<button class="active" onclick="getSort('relevant')">相关性</button><button  onclick="getSort('communication')">网络学术计量</button><button  onclick="getSort('network')">传播力</button>
+				<input type="hidden" name="searchUrl" value="http://www.paper.edu.cn/releasepaper/search?searchType=0&searchContent=%25E7%25BA%25BF%25E4%25B8%258A%25E7%25BA%25BF%25E4%25B8%258B&searchDate=2003-2021&searchRank=0&searchSubject=%25E5%2585%25A8%25E9%2583%25A8&searchSort=relevant" />
+				<input type="hidden" name="searchSort" value="relevant" />
+			</div>
+		</div>
+		<!--文章信息-->
+            				<div class="mylmchooseBox">
+						<div class="mylmchooseBox-title">
+				<a href = "http://www.paper.edu.cn/releasepaper/content/202104-9" target="_blank">探究型教学模式在"免疫学"课程<font color="red">线上线下</font>一体化教学中的应用研究</a><i><img src="/app/static/1.0/img/star0.png"></i>
+			</div>
+			<p class="mylmchooseBox-names"><a href="javascript:void(0)">熊文婷,赵景辉</a></p>
+			<p class="mylmchooseBox-times">2021-04-07</p>
+			<p class="mylmchooseBox-texts">、线下一体化教学方式，从教学方式、探究模式、互动方式三个方面进行设计，对如何有效地跟踪、控制和评价学生的学习过程进行了初步探索。在近年的教学实践中，免疫学课程群的探究型<font color="red">线上线下</font>一体化教学取得了良好的效果</p>
+			<div class="lmimgtext">
+								<div class="left lmimg">
+					<img src="http://www.paper.edu.cn/uploads&#47;releasepaper&#47;paper&#95;pic&#47;4754028&#47;A202103-442-1&#46;jpg">
+				</div>
+				<div class="left mylmchooseBox-mess">
+					
+					<p class="lm-adress"><i class="iconfont icon-icon-yxj-location"></i>School of Life Sciences, Guangzhou Univertsity, Guangzhou, 510006,School of Education, Guangzhou Univertsity, Guangzhou, 510006</p>
+					<p><span class="blue">#<a href = "http://www.paper.edu.cn/releasepaper/subject.shtml" target="_blank">教育学</a>#</span></p>
+									</div>
+							</div>
+						<div class="mylmchooseBox-btns">
+				<em class="hasi" clicknum="1" onclick="setClickNum(this, 'collection','NUDGcF1QNRDVAIyeQOAeQeQ','MUTGEF0QNRzVAI3eQOQeQeQ')"><i class="iconfont icon-xin"></i>（<span class="atex-list-num collect_num">0</span>） </em><em class="active commentbtn"><a class="maopoint" href="http://www.paper.edu.cn/releasepaper/content/202104-9#atexp-comment" target="_blank">评论（<span>0</span>） </a></em><em class="hasi" clicknum="1" onclick="setClickNum(this, 'like' ,'NUDGcF1QNRDVAIyeQOAeQeQ','MUTGEF0QNRzVAI3eQOQeQeQ')"><i class="iconfont icon-dianzan"></i>（<span class="atex-list-num like_num">0</span>） </em>
+				<!-- JiaThis Button BEGIN -->
+				<em class="jiathis_style_32x32">
+					<i class="iconfont icon-fenxiang1"></i>分享<span>(0)</span>
+					<div class="hideBox hideBoxMore">
+					    <div class="childBox">
+						<!-- baiduShare BEGIN -->
+						<div class="fl ml10 bdsharebuttonbox" data-tag="share_1">
+							<a class="bds_weixin" data-cmd="weixin" data-title="探究型教学模式在"免疫学"课程<font color="red">线上线下</font>一体化教学中的应用研究" data-url="http://www.paper.edu.cn/releasepaper/content/202104-9" onclick="setClickNum(this, 'share' ,'NUDGcF1QNRDVAIyeQOAeQeQ','MUTGEF0QNRzVAI3eQOQeQeQ')"></a>
+							<a class="bds_tsina" data-cmd="tsina" data-title="探究型教学模式在"免疫学"课程<font color="red">线上线下</font>一体化教学中的应用研究" data-url="http://www.paper.edu.cn/releasepaper/content/202104-9" onclick="setClickNum(this, 'share' ,'NUDGcF1QNRDVAIyeQOAeQeQ','MUTGEF0QNRzVAI3eQOQeQeQ')"></a>
+							<a class="bds_sqq" data-cmd="sqq" data-title="探究型教学模式在"免疫学"课程<font color="red">线上线下</font>一体化教学中的应用研究" data-url="http://www.paper.edu.cn/releasepaper/content/202104-9" onclick="setClickNum(this, 'share' ,'NUDGcF1QNRDVAIyeQOAeQeQ','MUTGEF0QNRzVAI3eQOQeQeQ')"></a>
+							<a class="bds_more" data-cmd="more" data-title="探究型教学模式在"免疫学"课程<font color="red">线上线下</font>一体化教学中的应用研究" data-url="http://www.paper.edu.cn/releasepaper/content/202104-9" onclick="setClickNum(this, 'share' ,'NUDGcF1QNRDVAIyeQOAeQeQ','MUTGEF0QNRzVAI3eQOQeQeQ')"></a>
+						</div>
+						<!-- baiduShare END -->
+						    <b class="xiesan"></b>
+					    </div>
+					</div>
+				</em>
+				<!-- JiaThis Button END -->
+			</div>
+		</div>
+				<div class="mylmchooseBox">
+						<div class="mylmchooseBox-title">
+				<a href = "http://www.paper.edu.cn/releasepaper/content/201612-363" target="_blank">O2O模式下的零售企业服务系统可靠度研究</a><i><img src="/app/static/1.0/img/star3.png"></i>
+			</div>
+			<p class="mylmchooseBox-names"><a href="javascript:void(0)">陈迟,王勇</a></p>
+			<p class="mylmchooseBox-times">2016-12-19</p>
+			<p class="mylmchooseBox-texts">论文从线上服务和线下服务的区别着手，分别建立排队论模型M/M/n和M/M/1，研究了同时提供线上和线下服务的零售企业服务系统的可靠度，结果表明：随着服务强度的提高，服务系统的可靠度降低，且相比于线下系统而言，线上系统的服务强度对整个服务系统可靠度影响更大；线上系统的物流服务系数对整个系统可靠度的影响十分突出，物流水平的提升能更有效的提高整个服务系统的可靠性；当线下系统服务窗口数大于2时，线下系统可靠度随窗口数的增加变化不大，此时应尽可能提高线上系统的资源投入，以提高整个系统的可靠度。</p>
+			<div class="lmimgtext">
+								<div class="left lmimg">
+					<img src="/app/static/1.0/img/user/580.jpg">
+				</div>
+				<div class="left mylmchooseBox-mess">
+										<p>国家自然科学基金（<span>71672015</span>）</p>
+					
+					<p class="lm-adress"><i class="iconfont icon-icon-yxj-location"></i>重庆大学经济与工商管理学院，重庆市 400044,重庆大学经济与工商管理学院，重庆市 400044</p>
+					<p><span class="blue">#<a href = "http://www.paper.edu.cn/releasepaper/subject.shtml" target="_blank">管理学</a>#</span></p>
+									</div>
+							</div>
+						<div class="mylmchooseBox-btns">
+				<em class="hasi" clicknum="1" onclick="setClickNum(this, 'collection','NUDGcFxQMRTVYIweQOQeQeQ','MUTGEF3QMRjVEI5eQOAeQeQ')"><i class="iconfont icon-xin"></i>（<span class="atex-list-num collect_num">0</span>） </em><em class="active commentbtn"><a class="maopoint" href="http://www.paper.edu.cn/releasepaper/content/201612-363#atexp-comment" target="_blank">评论（<span>0</span>） </a></em><em class="hasi" clicknum="1" onclick="setClickNum(this, 'like' ,'NUDGcFxQMRTVYIweQOQeQeQ','MUTGEF3QMRjVEI5eQOAeQeQ')"><i class="iconfont icon-dianzan"></i>（<span class="atex-list-num like_num">0</span>） </em>
+				<!-- JiaThis Button BEGIN -->
+				<em class="jiathis_style_32x32">
+					<i class="iconfont icon-fenxiang1"></i>分享<span>(0)</span>
+					<div class="hideBox hideBoxMore">
+					    <div class="childBox">
+						<!-- baiduShare BEGIN -->
+						<div class="fl ml10 bdsharebuttonbox" data-tag="share_1">
+							<a class="bds_weixin" data-cmd="weixin" data-title="O2O模式下的零售企业服务系统可靠度研究" data-url="http://www.paper.edu.cn/releasepaper/content/201612-363" onclick="setClickNum(this, 'share' ,'NUDGcFxQMRTVYIweQOQeQeQ','MUTGEF3QMRjVEI5eQOAeQeQ')"></a>
+							<a class="bds_tsina" data-cmd="tsina" data-title="O2O模式下的零售企业服务系统可靠度研究" data-url="http://www.paper.edu.cn/releasepaper/content/201612-363" onclick="setClickNum(this, 'share' ,'NUDGcFxQMRTVYIweQOQeQeQ','MUTGEF3QMRjVEI5eQOAeQeQ')"></a>
+							<a class="bds_sqq" data-cmd="sqq" data-title="O2O模式下的零售企业服务系统可靠度研究" data-url="http://www.paper.edu.cn/releasepaper/content/201612-363" onclick="setClickNum(this, 'share' ,'NUDGcFxQMRTVYIweQOQeQeQ','MUTGEF3QMRjVEI5eQOAeQeQ')"></a>
+							<a class="bds_more" data-cmd="more" data-title="O2O模式下的零售企业服务系统可靠度研究" data-url="http://www.paper.edu.cn/releasepaper/content/201612-363" onclick="setClickNum(this, 'share' ,'NUDGcFxQMRTVYIweQOQeQeQ','MUTGEF3QMRjVEI5eQOAeQeQ')"></a>
+						</div>
+						<!-- baiduShare END -->
+						    <b class="xiesan"></b>
+					    </div>
+					</div>
+				</em>
+				<!-- JiaThis Button END -->
+			</div>
+		</div>
+				<div class="mylmchooseBox">
+						<div class="mylmchooseBox-title">
+				<a href = "http://www.paper.edu.cn/releasepaper/content/201605-411" target="_blank">经典社会资本理论在当代互联网背景下的新发展</a><i><img src="/app/static/1.0/img/star0.png"></i>
+			</div>
+			<p class="mylmchooseBox-names"><a href="javascript:void(0)">孙元</a></p>
+			<p class="mylmchooseBox-times">2016-05-16</p>
+			<p class="mylmchooseBox-texts">本文主要回顾了经典社会资本理论的内涵和背后的维度，以及探讨了在当代互联网背景下社会资本的新内涵、新的维度和新的影响因素的发展。作者发现，在互联网时代，特别是微博、博客、微信、在线维基百科、在线社交网站、即时通信、虚拟社区、在线论坛等这类在线社会网络应用深入到人们生活和工作中后的今天，很值得采用多层次视角（包括个人和集体层次）和多通道视角（线上和线下）来进一步综合分析和检验社会资本在新兴互联网背景下的内涵、维度和影响因素。</p>
+			<div class="lmimgtext">
+								<div class="left lmimg">
+					<img src="/app/static/1.0/img/user/580.jpg">
+				</div>
+				<div class="left mylmchooseBox-mess">
+										<p>国家自然科学基金项目（<span>71302034</span>）</p>
+										<p>高等学校博士学科点专项科研基金（新教师类）（<span>20123326120005</span>）</p>
+					
+					<p class="lm-adress"><i class="iconfont icon-icon-yxj-location"></i>浙江工商大学工商管理学院，浙江杭州 310018；浙江工商大学浙商研究中心，浙江杭州 310018</p>
+					<p><span class="blue">#<a href = "http://www.paper.edu.cn/releasepaper/subject.shtml" target="_blank">管理学</a>#</span></p>
+									</div>
+							</div>
+						<div class="mylmchooseBox-btns">
+				<em class="hasi" clicknum="1" onclick="setClickNum(this, 'collection','NUDGYF4QNRzVYIzeQNAeQeQ','OUDGYF1QNRTVIIxeQ')"><i class="iconfont icon-xin"></i>（<span class="atex-list-num collect_num">0</span>） </em><em class="active commentbtn"><a class="maopoint" href="http://www.paper.edu.cn/releasepaper/content/201605-411#atexp-comment" target="_blank">评论（<span>0</span>） </a></em><em class="hasi" clicknum="1" onclick="setClickNum(this, 'like' ,'NUDGYF4QNRzVYIzeQNAeQeQ','OUDGYF1QNRTVIIxeQ')"><i class="iconfont icon-dianzan"></i>（<span class="atex-list-num like_num">0</span>） </em>
+				<!-- JiaThis Button BEGIN -->
+				<em class="jiathis_style_32x32">
+					<i class="iconfont icon-fenxiang1"></i>分享<span>(0)</span>
+					<div class="hideBox hideBoxMore">
+					    <div class="childBox">
+						<!-- baiduShare BEGIN -->
+						<div class="fl ml10 bdsharebuttonbox" data-tag="share_1">
+							<a class="bds_weixin" data-cmd="weixin" data-title="经典社会资本理论在当代互联网背景下的新发展" data-url="http://www.paper.edu.cn/releasepaper/content/201605-411" onclick="setClickNum(this, 'share' ,'NUDGYF4QNRzVYIzeQNAeQeQ','OUDGYF1QNRTVIIxeQ')"></a>
+							<a class="bds_tsina" data-cmd="tsina" data-title="经典社会资本理论在当代互联网背景下的新发展" data-url="http://www.paper.edu.cn/releasepaper/content/201605-411" onclick="setClickNum(this, 'share' ,'NUDGYF4QNRzVYIzeQNAeQeQ','OUDGYF1QNRTVIIxeQ')"></a>
+							<a class="bds_sqq" data-cmd="sqq" data-title="经典社会资本理论在当代互联网背景下的新发展" data-url="http://www.paper.edu.cn/releasepaper/content/201605-411" onclick="setClickNum(this, 'share' ,'NUDGYF4QNRzVYIzeQNAeQeQ','OUDGYF1QNRTVIIxeQ')"></a>
+							<a class="bds_more" data-cmd="more" data-title="经典社会资本理论在当代互联网背景下的新发展" data-url="http://www.paper.edu.cn/releasepaper/content/201605-411" onclick="setClickNum(this, 'share' ,'NUDGYF4QNRzVYIzeQNAeQeQ','OUDGYF1QNRTVIIxeQ')"></a>
+						</div>
+						<!-- baiduShare END -->
+						    <b class="xiesan"></b>
+					    </div>
+					</div>
+				</em>
+				<!-- JiaThis Button END -->
+			</div>
+		</div>
+				<div class="mylmchooseBox">
+						<div class="mylmchooseBox-title">
+				<a href = "http://www.paper.edu.cn/releasepaper/content/201605-904" target="_blank">基于Felder-Silverman模型的在线学习风格研究</a><i><img src="/app/static/1.0/img/star4.png"></i>
+			</div>
+			<p class="mylmchooseBox-names"><a href="javascript:void(0)">殷传涛,王晨煜,熊璋</a></p>
+			<p class="mylmchooseBox-times">2016-05-20</p>
+			<p class="mylmchooseBox-texts">学习风格是个体在学习过程中表现出来的学习方式，它极大地影响着个体的学习成果。随着在线教育的风靡，使得"因材施教"即融合学习风格的教学的实现得到了可能。由于<font color="red">线上线下</font>学习环境的巨大差异，学习者<font color="red">线上线下</font>的</p>
+			<div class="lmimgtext">
+								<div class="left lmimg">
+					<img src="/app/static/1.0/img/user/580.jpg">
+				</div>
+				<div class="left mylmchooseBox-mess">
+										<p>教育部高等学校博士学科点专项科研基金（<span>20121102110037</span>）</p>
+										<p> 国家自然科学基金（<span>61402028</span>）</p>
+					
+					<p class="lm-adress"><i class="iconfont icon-icon-yxj-location"></i>北京航空航天大学中法工程师学院，北京 100191,北京航空航天大学中法工程师学院，北京 100191,北京航空航天大学计算机学院，北京，100191</p>
+					<p><span class="blue">#<a href = "http://www.paper.edu.cn/releasepaper/subject.shtml" target="_blank">计算机科学技术</a>#</span></p>
+									</div>
+							</div>
+						<div class="mylmchooseBox-btns">
+				<em class="hasi" clicknum="1" onclick="setClickNum(this, 'collection','NUDGYF4QORTVgI2eQMQeQeQ','MUTGAFxQORDVEI5eQOAeQeQ')"><i class="iconfont icon-xin"></i>（<span class="atex-list-num collect_num">0</span>） </em><em class="active commentbtn"><a class="maopoint" href="http://www.paper.edu.cn/releasepaper/content/201605-904#atexp-comment" target="_blank">评论（<span>0</span>） </a></em><em class="hasi" clicknum="1" onclick="setClickNum(this, 'like' ,'NUDGYF4QORTVgI2eQMQeQeQ','MUTGAFxQORDVEI5eQOAeQeQ')"><i class="iconfont icon-dianzan"></i>（<span class="atex-list-num like_num">0</span>） </em>
+				<!-- JiaThis Button BEGIN -->
+				<em class="jiathis_style_32x32">
+					<i class="iconfont icon-fenxiang1"></i>分享<span>(0)</span>
+					<div class="hideBox hideBoxMore">
+					    <div class="childBox">
+						<!-- baiduShare BEGIN -->
+						<div class="fl ml10 bdsharebuttonbox" data-tag="share_1">
+							<a class="bds_weixin" data-cmd="weixin" data-title="基于Felder-Silverman模型的在线学习风格研究" data-url="http://www.paper.edu.cn/releasepaper/content/201605-904" onclick="setClickNum(this, 'share' ,'NUDGYF4QORTVgI2eQMQeQeQ','MUTGAFxQORDVEI5eQOAeQeQ')"></a>
+							<a class="bds_tsina" data-cmd="tsina" data-title="基于Felder-Silverman模型的在线学习风格研究" data-url="http://www.paper.edu.cn/releasepaper/content/201605-904" onclick="setClickNum(this, 'share' ,'NUDGYF4QORTVgI2eQMQeQeQ','MUTGAFxQORDVEI5eQOAeQeQ')"></a>
+							<a class="bds_sqq" data-cmd="sqq" data-title="基于Felder-Silverman模型的在线学习风格研究" data-url="http://www.paper.edu.cn/releasepaper/content/201605-904" onclick="setClickNum(this, 'share' ,'NUDGYF4QORTVgI2eQMQeQeQ','MUTGAFxQORDVEI5eQOAeQeQ')"></a>
+							<a class="bds_more" data-cmd="more" data-title="基于Felder-Silverman模型的在线学习风格研究" data-url="http://www.paper.edu.cn/releasepaper/content/201605-904" onclick="setClickNum(this, 'share' ,'NUDGYF4QORTVgI2eQMQeQeQ','MUTGAFxQORDVEI5eQOAeQeQ')"></a>
+						</div>
+						<!-- baiduShare END -->
+						    <b class="xiesan"></b>
+					    </div>
+					</div>
+				</em>
+				<!-- JiaThis Button END -->
+			</div>
+		</div>
+				<div class="mylmchooseBox">
+						<div class="mylmchooseBox-title">
+				<a href = "http://www.paper.edu.cn/releasepaper/content/201910-15" target="_blank">基于权力结构和定价策略的双渠道协调研究</a><i><img src="/app/static/1.0/img/star4.png"></i>
+			</div>
+			<p class="mylmchooseBox-names"><a href="javascript:void(0)">吴文飞,刘伟华</a></p>
+			<p class="mylmchooseBox-times">2019-10-08</p>
+			<p class="mylmchooseBox-texts">随着电子商务的飞速发展，零售商纷纷开辟<font color="red">线上线下</font>双渠道进行产品分销。在这种零售商双渠道分销的背景下，产品最终定价与两个因素十分相关：权力结构（权力下放或权力集中）和定价策略（统一定价或歧视定价），两个</p>
+			<div class="lmimgtext">
+								<div class="left lmimg">
+					<img src="http://www.paper.edu.cn/uploads&#47;releasepaper&#47;paper&#95;pic&#47;4749717&#47;A201909-641-2&#46;png">
+				</div>
+				<div class="left mylmchooseBox-mess">
+										<p>国家社科基金重大项目（<span>18ZDA060</span>）</p>
+					
+					<p class="lm-adress"><i class="iconfont icon-icon-yxj-location"></i>College of Management and Economics, Tianjin University,Tianjin 300072,College of Management and Economics, Tianjin University,Tianjin 300072</p>
+					<p><span class="blue">#<a href = "http://www.paper.edu.cn/releasepaper/subject.shtml" target="_blank">管理学</a>#</span></p>
+									</div>
+							</div>
+						<div class="mylmchooseBox-btns">
+				<em class="hasi" clicknum="1" onclick="setClickNum(this, 'collection','NUDGcF0QORTVcIxeQNweQeQ','MUTGMFwQMRjVEI0eQNAeQeQ')"><i class="iconfont icon-xin"></i>（<span class="atex-list-num collect_num">0</span>） </em><em class="active commentbtn"><a class="maopoint" href="http://www.paper.edu.cn/releasepaper/content/201910-15#atexp-comment" target="_blank">评论（<span>0</span>） </a></em><em class="hasi" clicknum="1" onclick="setClickNum(this, 'like' ,'NUDGcF0QORTVcIxeQNweQeQ','MUTGMFwQMRjVEI0eQNAeQeQ')"><i class="iconfont icon-dianzan"></i>（<span class="atex-list-num like_num">0</span>） </em>
+				<!-- JiaThis Button BEGIN -->
+				<em class="jiathis_style_32x32">
+					<i class="iconfont icon-fenxiang1"></i>分享<span>(0)</span>
+					<div class="hideBox hideBoxMore">
+					    <div class="childBox">
+						<!-- baiduShare BEGIN -->
+						<div class="fl ml10 bdsharebuttonbox" data-tag="share_1">
+							<a class="bds_weixin" data-cmd="weixin" data-title="基于权力结构和定价策略的双渠道协调研究" data-url="http://www.paper.edu.cn/releasepaper/content/201910-15" onclick="setClickNum(this, 'share' ,'NUDGcF0QORTVcIxeQNweQeQ','MUTGMFwQMRjVEI0eQNAeQeQ')"></a>
+							<a class="bds_tsina" data-cmd="tsina" data-title="基于权力结构和定价策略的双渠道协调研究" data-url="http://www.paper.edu.cn/releasepaper/content/201910-15" onclick="setClickNum(this, 'share' ,'NUDGcF0QORTVcIxeQNweQeQ','MUTGMFwQMRjVEI0eQNAeQeQ')"></a>
+							<a class="bds_sqq" data-cmd="sqq" data-title="基于权力结构和定价策略的双渠道协调研究" data-url="http://www.paper.edu.cn/releasepaper/content/201910-15" onclick="setClickNum(this, 'share' ,'NUDGcF0QORTVcIxeQNweQeQ','MUTGMFwQMRjVEI0eQNAeQeQ')"></a>
+							<a class="bds_more" data-cmd="more" data-title="基于权力结构和定价策略的双渠道协调研究" data-url="http://www.paper.edu.cn/releasepaper/content/201910-15" onclick="setClickNum(this, 'share' ,'NUDGcF0QORTVcIxeQNweQeQ','MUTGMFwQMRjVEI0eQNAeQeQ')"></a>
+						</div>
+						<!-- baiduShare END -->
+						    <b class="xiesan"></b>
+					    </div>
+					</div>
+				</em>
+				<!-- JiaThis Button END -->
+			</div>
+		</div>
+				<div class="mylmchooseBox">
+						<div class="mylmchooseBox-title">
+				<a href = "http://www.paper.edu.cn/releasepaper/content/201603-153" target="_blank">O2O模式下的零售商双渠道促销策略研究</a><i><img src="/app/static/1.0/img/star1.png"></i>
+			</div>
+			<p class="mylmchooseBox-names"><a href="javascript:void(0)">马云峰,粟晨静</a></p>
+			<p class="mylmchooseBox-times">2016-03-11</p>
+			<p class="mylmchooseBox-texts">区别于传统的渠道价格竞争模式，O2O(Online to Offline)模式下的零售商往往采取的是双渠道同价模式。因此，<font color="red">线上线下</font>的联合促销策略成为零售商盈利的关键因素。通过建立同价与促销努力水平</p>
+			<div class="lmimgtext">
+								<div class="left lmimg">
+					<img src="/app/static/1.0/img/user/580.jpg">
+				</div>
+				<div class="left mylmchooseBox-mess">
+					
+					<p class="lm-adress"><i class="iconfont icon-icon-yxj-location"></i>武汉科技大学管理学院，武汉 430081；湖北省产业政策与管理研究中心,武汉科技大学管理学院，武汉 430081</p>
+					<p><span class="blue">#<a href = "http://www.paper.edu.cn/releasepaper/subject.shtml" target="_blank">管理学</a>#</span></p>
+									</div>
+							</div>
+						<div class="mylmchooseBox-btns">
+				<em class="hasi" clicknum="1" onclick="setClickNum(this, 'collection','NUDGYF3QORTVYI3eQMgeQeQ','MUTGAF5QMRDVMIxeQMgeQeQ')"><i class="iconfont icon-xin"></i>（<span class="atex-list-num collect_num">0</span>） </em><em class="active commentbtn"><a class="maopoint" href="http://www.paper.edu.cn/releasepaper/content/201603-153#atexp-comment" target="_blank">评论（<span>0</span>） </a></em><em class="hasi" clicknum="1" onclick="setClickNum(this, 'like' ,'NUDGYF3QORTVYI3eQMgeQeQ','MUTGAF5QMRDVMIxeQMgeQeQ')"><i class="iconfont icon-dianzan"></i>（<span class="atex-list-num like_num">0</span>） </em>
+				<!-- JiaThis Button BEGIN -->
+				<em class="jiathis_style_32x32">
+					<i class="iconfont icon-fenxiang1"></i>分享<span>(0)</span>
+					<div class="hideBox hideBoxMore">
+					    <div class="childBox">
+						<!-- baiduShare BEGIN -->
+						<div class="fl ml10 bdsharebuttonbox" data-tag="share_1">
+							<a class="bds_weixin" data-cmd="weixin" data-title="O2O模式下的零售商双渠道促销策略研究" data-url="http://www.paper.edu.cn/releasepaper/content/201603-153" onclick="setClickNum(this, 'share' ,'NUDGYF3QORTVYI3eQMgeQeQ','MUTGAF5QMRDVMIxeQMgeQeQ')"></a>
+							<a class="bds_tsina" data-cmd="tsina" data-title="O2O模式下的零售商双渠道促销策略研究" data-url="http://www.paper.edu.cn/releasepaper/content/201603-153" onclick="setClickNum(this, 'share' ,'NUDGYF3QORTVYI3eQMgeQeQ','MUTGAF5QMRDVMIxeQMgeQeQ')"></a>
+							<a class="bds_sqq" data-cmd="sqq" data-title="O2O模式下的零售商双渠道促销策略研究" data-url="http://www.paper.edu.cn/releasepaper/content/201603-153" onclick="setClickNum(this, 'share' ,'NUDGYF3QORTVYI3eQMgeQeQ','MUTGAF5QMRDVMIxeQMgeQeQ')"></a>
+							<a class="bds_more" data-cmd="more" data-title="O2O模式下的零售商双渠道促销策略研究" data-url="http://www.paper.edu.cn/releasepaper/content/201603-153" onclick="setClickNum(this, 'share' ,'NUDGYF3QORTVYI3eQMgeQeQ','MUTGAF5QMRDVMIxeQMgeQeQ')"></a>
+						</div>
+						<!-- baiduShare END -->
+						    <b class="xiesan"></b>
+					    </div>
+					</div>
+				</em>
+				<!-- JiaThis Button END -->
+			</div>
+		</div>
+				<div class="mylmchooseBox">
+						<div class="mylmchooseBox-title">
+				<a href = "http://www.paper.edu.cn/releasepaper/content/201605-1140" target="_blank">供应链渠道间信任传递与产品定价研究</a><i><img src="/app/static/1.0/img/star2.png"></i>
+			</div>
+			<p class="mylmchooseBox-names"><a href="javascript:void(0)">张子健,薛传利</a></p>
+			<p class="mylmchooseBox-times">2016-05-25</p>
+			<p class="mylmchooseBox-texts">基于<font color="red">线上线下</font>消费者感知风险的不同，研究了线下到线上渠道间信任传递及其定价问题。以渠道拓展的线上消费者信任为对象，构造了感知风险、线上信任程度影响下的消费者效用函数，建立了Stackelberg博弈</p>
+			<div class="lmimgtext">
+								<div class="left lmimg">
+					<img src="/app/static/1.0/img/user/580.jpg">
+				</div>
+				<div class="left mylmchooseBox-mess">
+										<p>教育部博士点基金（<span>20125522120004</span>）</p>
+					
+					<p class="lm-adress"><i class="iconfont icon-icon-yxj-location"></i>重庆交通大学经济与管理学院,重庆交通大学经济与管理学院</p>
+					<p><span class="blue">#<a href = "http://www.paper.edu.cn/releasepaper/subject.shtml" target="_blank">管理学</a>#</span></p>
+									</div>
+							</div>
+						<div class="mylmchooseBox-btns">
+				<em class="hasi" clicknum="1" onclick="setClickNum(this, 'collection','NUDGYF4QORDVgI0eQMweQeQ','MUTGEF0QORDVMI0eQNweQeQ')"><i class="iconfont icon-xin"></i>（<span class="atex-list-num collect_num">0</span>） </em><em class="active commentbtn"><a class="maopoint" href="http://www.paper.edu.cn/releasepaper/content/201605-1140#atexp-comment" target="_blank">评论（<span>0</span>） </a></em><em class="hasi" clicknum="1" onclick="setClickNum(this, 'like' ,'NUDGYF4QORDVgI0eQMweQeQ','MUTGEF0QORDVMI0eQNweQeQ')"><i class="iconfont icon-dianzan"></i>（<span class="atex-list-num like_num">0</span>） </em>
+				<!-- JiaThis Button BEGIN -->
+				<em class="jiathis_style_32x32">
+					<i class="iconfont icon-fenxiang1"></i>分享<span>(0)</span>
+					<div class="hideBox hideBoxMore">
+					    <div class="childBox">
+						<!-- baiduShare BEGIN -->
+						<div class="fl ml10 bdsharebuttonbox" data-tag="share_1">
+							<a class="bds_weixin" data-cmd="weixin" data-title="供应链渠道间信任传递与产品定价研究" data-url="http://www.paper.edu.cn/releasepaper/content/201605-1140" onclick="setClickNum(this, 'share' ,'NUDGYF4QORDVgI0eQMweQeQ','MUTGEF0QORDVMI0eQNweQeQ')"></a>
+							<a class="bds_tsina" data-cmd="tsina" data-title="供应链渠道间信任传递与产品定价研究" data-url="http://www.paper.edu.cn/releasepaper/content/201605-1140" onclick="setClickNum(this, 'share' ,'NUDGYF4QORDVgI0eQMweQeQ','MUTGEF0QORDVMI0eQNweQeQ')"></a>
+							<a class="bds_sqq" data-cmd="sqq" data-title="供应链渠道间信任传递与产品定价研究" data-url="http://www.paper.edu.cn/releasepaper/content/201605-1140" onclick="setClickNum(this, 'share' ,'NUDGYF4QORDVgI0eQMweQeQ','MUTGEF0QORDVMI0eQNweQeQ')"></a>
+							<a class="bds_more" data-cmd="more" data-title="供应链渠道间信任传递与产品定价研究" data-url="http://www.paper.edu.cn/releasepaper/content/201605-1140" onclick="setClickNum(this, 'share' ,'NUDGYF4QORDVgI0eQMweQeQ','MUTGEF0QORDVMI0eQNweQeQ')"></a>
+						</div>
+						<!-- baiduShare END -->
+						    <b class="xiesan"></b>
+					    </div>
+					</div>
+				</em>
+				<!-- JiaThis Button END -->
+			</div>
+		</div>
+				<div class="mylmchooseBox">
+						<div class="mylmchooseBox-title">
+				<a href = "http://www.paper.edu.cn/releasepaper/content/202003-325" target="_blank">新零售体系生鲜电商线下选址规划研究</a><i><img src="/app/static/1.0/img/star0.png"></i>
+			</div>
+			<p class="mylmchooseBox-names"><a href="javascript:void(0)">刘一明,卢山</a></p>
+			<p class="mylmchooseBox-times">2020-03-30</p>
+			<p class="mylmchooseBox-texts">在2016年底新一轮零售浪潮中，新零售成为热门主题，新零售业是指在传统的生鲜电子商务或生鲜配送模式的基础上发展起来的一种新的生鲜零售业态。强调对促进<font color="red">线上线下</font>消费模式协同融合的智能技术充满信心，新</p>
+			<div class="lmimgtext">
+								<div class="left lmimg">
+					<img src="http://www.paper.edu.cn/uploads/releasepaper/paper_pic/4751265/4751265_1.png">
+				</div>
+				<div class="left mylmchooseBox-mess">
+					
+					<p class="lm-adress"><i class="iconfont icon-icon-yxj-location"></i>Automation School,Beijing University of Posts and Telecommunications,Beijing City 100876,Automation School,Beijing University of Posts and Telecommunications,Beijing City 100876</p>
+					<p><span class="blue">#<a href = "http://www.paper.edu.cn/releasepaper/subject.shtml" target="_blank">交通运输工程</a>#</span></p>
+									</div>
+							</div>
+						<div class="mylmchooseBox-btns">
+				<em class="hasi" clicknum="1" onclick="setClickNum(this, 'collection','NUDGcF1QMRTVII2eQNQeQeQ','MUTGMFwQNRzVUIweQMweQeQ')"><i class="iconfont icon-xin"></i>（<span class="atex-list-num collect_num">0</span>） </em><em class="active commentbtn"><a class="maopoint" href="http://www.paper.edu.cn/releasepaper/content/202003-325#atexp-comment" target="_blank">评论（<span>0</span>） </a></em><em class="hasi" clicknum="1" onclick="setClickNum(this, 'like' ,'NUDGcF1QMRTVII2eQNQeQeQ','MUTGMFwQNRzVUIweQMweQeQ')"><i class="iconfont icon-dianzan"></i>（<span class="atex-list-num like_num">0</span>） </em>
+				<!-- JiaThis Button BEGIN -->
+				<em class="jiathis_style_32x32">
+					<i class="iconfont icon-fenxiang1"></i>分享<span>(0)</span>
+					<div class="hideBox hideBoxMore">
+					    <div class="childBox">
+						<!-- baiduShare BEGIN -->
+						<div class="fl ml10 bdsharebuttonbox" data-tag="share_1">
+							<a class="bds_weixin" data-cmd="weixin" data-title="新零售体系生鲜电商线下选址规划研究" data-url="http://www.paper.edu.cn/releasepaper/content/202003-325" onclick="setClickNum(this, 'share' ,'NUDGcF1QMRTVII2eQNQeQeQ','MUTGMFwQNRzVUIweQMweQeQ')"></a>
+							<a class="bds_tsina" data-cmd="tsina" data-title="新零售体系生鲜电商线下选址规划研究" data-url="http://www.paper.edu.cn/releasepaper/content/202003-325" onclick="setClickNum(this, 'share' ,'NUDGcF1QMRTVII2eQNQeQeQ','MUTGMFwQNRzVUIweQMweQeQ')"></a>
+							<a class="bds_sqq" data-cmd="sqq" data-title="新零售体系生鲜电商线下选址规划研究" data-url="http://www.paper.edu.cn/releasepaper/content/202003-325" onclick="setClickNum(this, 'share' ,'NUDGcF1QMRTVII2eQNQeQeQ','MUTGMFwQNRzVUIweQMweQeQ')"></a>
+							<a class="bds_more" data-cmd="more" data-title="新零售体系生鲜电商线下选址规划研究" data-url="http://www.paper.edu.cn/releasepaper/content/202003-325" onclick="setClickNum(this, 'share' ,'NUDGcF1QMRTVII2eQNQeQeQ','MUTGMFwQNRzVUIweQMweQeQ')"></a>
+						</div>
+						<!-- baiduShare END -->
+						    <b class="xiesan"></b>
+					    </div>
+					</div>
+				</em>
+				<!-- JiaThis Button END -->
+			</div>
+		</div>
+				<div class="mylmchooseBox">
+						<div class="mylmchooseBox-title">
+				<a href = "http://www.paper.edu.cn/releasepaper/content/201812-70" target="_blank">基于短视频平台的公共图书馆阅读推广模式探究</a><i><img src="/app/static/1.0/img/star3.png"></i>
+			</div>
+			<p class="mylmchooseBox-names"><a href="javascript:void(0)">姜云龙</a></p>
+			<p class="mylmchooseBox-times">2018-12-19</p>
+			<p class="mylmchooseBox-texts">频平台让阅读推广活动<font color="red">线上线下</font>同步开展；增强与读者的互动，开展"全民"阅读推广等，以期对公共图书馆以后的阅读推广工作起到一定的帮助作用。</p>
+			<div class="lmimgtext">
+								<div class="left lmimg">
+					<img src="http://www.paper.edu.cn/uploads&#47;releasepaper&#47;paper&#95;pic&#47;4746698&#47;A201812-432-1&#46;png">
+				</div>
+				<div class="left mylmchooseBox-mess">
+					
+					<p class="lm-adress"><i class="iconfont icon-icon-yxj-location"></i>Weifang Library,Weifang 261061</p>
+					<p><span class="blue">#<a href = "http://www.paper.edu.cn/releasepaper/subject.shtml" target="_blank">图书馆、情报与文献学</a>#</span></p>
+									</div>
+							</div>
+						<div class="mylmchooseBox-btns">
+				<em class="hasi" clicknum="1" onclick="setClickNum(this, 'collection','NUDGcF0QNRjVYI5eQOAeQeQ','MUTGIF3QMRjVYI5eQMgeQeQ')"><i class="iconfont icon-xin"></i>（<span class="atex-list-num collect_num">0</span>） </em><em class="active commentbtn"><a class="maopoint" href="http://www.paper.edu.cn/releasepaper/content/201812-70#atexp-comment" target="_blank">评论（<span>0</span>） </a></em><em class="hasi" clicknum="1" onclick="setClickNum(this, 'like' ,'NUDGcF0QNRjVYI5eQOAeQeQ','MUTGIF3QMRjVYI5eQMgeQeQ')"><i class="iconfont icon-dianzan"></i>（<span class="atex-list-num like_num">0</span>） </em>
+				<!-- JiaThis Button BEGIN -->
+				<em class="jiathis_style_32x32">
+					<i class="iconfont icon-fenxiang1"></i>分享<span>(0)</span>
+					<div class="hideBox hideBoxMore">
+					    <div class="childBox">
+						<!-- baiduShare BEGIN -->
+						<div class="fl ml10 bdsharebuttonbox" data-tag="share_1">
+							<a class="bds_weixin" data-cmd="weixin" data-title="基于短视频平台的公共图书馆阅读推广模式探究" data-url="http://www.paper.edu.cn/releasepaper/content/201812-70" onclick="setClickNum(this, 'share' ,'NUDGcF0QNRjVYI5eQOAeQeQ','MUTGIF3QMRjVYI5eQMgeQeQ')"></a>
+							<a class="bds_tsina" data-cmd="tsina" data-title="基于短视频平台的公共图书馆阅读推广模式探究" data-url="http://www.paper.edu.cn/releasepaper/content/201812-70" onclick="setClickNum(this, 'share' ,'NUDGcF0QNRjVYI5eQOAeQeQ','MUTGIF3QMRjVYI5eQMgeQeQ')"></a>
+							<a class="bds_sqq" data-cmd="sqq" data-title="基于短视频平台的公共图书馆阅读推广模式探究" data-url="http://www.paper.edu.cn/releasepaper/content/201812-70" onclick="setClickNum(this, 'share' ,'NUDGcF0QNRjVYI5eQOAeQeQ','MUTGIF3QMRjVYI5eQMgeQeQ')"></a>
+							<a class="bds_more" data-cmd="more" data-title="基于短视频平台的公共图书馆阅读推广模式探究" data-url="http://www.paper.edu.cn/releasepaper/content/201812-70" onclick="setClickNum(this, 'share' ,'NUDGcF0QNRjVYI5eQOAeQeQ','MUTGIF3QMRjVYI5eQMgeQeQ')"></a>
+						</div>
+						<!-- baiduShare END -->
+						    <b class="xiesan"></b>
+					    </div>
+					</div>
+				</em>
+				<!-- JiaThis Button END -->
+			</div>
+		</div>
+		
+	</div>
+        <input type="hidden" name="searchPage" value="1" />
+</div>
+<!--期刊检索-->
+<div class="journal-search lm-bot-search">
+	<!-- <p class="getmore"><button>点击加载更多检索结果</button></p> -->
+	<p class="shoufa-nav-bot lm-search-nav lm-search-nav-bot">
+		<em><b>相关检索:</b></em>
+		<em><a href="javascript:void(0)">传统动力</a></em>
+		<em><a href="javascript:void(0)">核动力</a></em>
+		<em><a href="javascript:void(0)">空气动力</a></em>
+		<em><a href="javascript:void(0)">传统动力 </a></em>
+		<em><a href="javascript:void(0)">传统动力</a></em>
+		<em class="nomar"><a href="javascript:void(0)">传统动力</a></em>
+	</p>
+	<div class="search-box search-box-lm">
+		<div class="search-input lm-search-input">
+			<i class="search-icon"></i>
+			<input type="text" name="searchContent" class="searchContent" value="线上线下" onkeydown="entersearch()" />
+		</div>
+		<button class="search-btn" onclick="getUrl(true)">检索</button>
+	</div>
+
+</div>
+
+<!-- js文件写在页面最底部 -->
+<!-- <script src="http://www.eol.cn/js/common/jquery/1.12.4/jquery.min.js"></script> -->
+<script type="text/javascript" src="http://www.paper.edu.cn/app/static/1.0/js/comment.js"></script>
+<script type="text/javascript" src="http://www.paper.edu.cn/app/static/1.0/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="http://www.paper.edu.cn/app/static/1.0/js/search/ion.rangeSlider.js"></script>
+<script type="text/javascript" src="http://www.paper.edu.cn/app/static/1.0/js/echarts.common.min.js" ></script>
+<script type="text/javascript" src="http://www.paper.edu.cn/app/static/1.0/js/search.js" ></script>
+<script type="text/javascript">
+	
+	//声明全局变量
+	var linkUrl = "",title='';
+	//全局变量赋值，便于后边更改配置
+	$(function () {
+	    $(".bdsharebuttonbox a").mouseover(function () {
+	        linkUrl = $(this).attr("data-url");
+	        title = $(this).attr("data-title");
+	    });
+	});
+	function SetConf(cmd, config) {
+	    if (linkUrl) {
+	        config.bdUrl = linkUrl;
+	        config.bdText = title;
+	    }
+	    return config;
+	}
+	window._bd_share_config = {
+	    common : {onBeforeClick:SetConf},
+	    share : [{"bdSize" : 32}]
+	}
+	//以下代码是必须
+	with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?cdnversion='+~(-new Date()/36e5)];
+	
+</script>
+<script>
+    var base_url = 'http://www.paper.edu.cn/';
+    
+    var type = '';
+    var searchType = $('input[name="searchType"]').val();
+    var url = $('input[name="searchUrl"]').val();
+    //左侧列表吸顶
+    (function(){
+        $(window).scroll(function(){
+            var htmlHeight = $(document).height();
+            var scrillTop = $(document).scrollTop();
+            if(htmlHeight - scrillTop < 900)
+            {
+                if( ! type)
+                {
+                    $('.lmsearch-main').append('<div class="sortbox showLoading"> <div class="atexp-comment-end"><img src="/app/static/1.0/img/loading-atexp.gif">加载中，马上回来</div> </div>');
+                    var num = $('input[name="searchPage"]').val();
+                    type = true;
+                    $.ajax({
+                        url: url+'&searchPage='+(parseInt(num)+1),
+                        type: "POST",
+                        data: {step: 1, form: 'json'},
+                        dataType: 'JSON',
+                        jsonp: 'callback',
+                        jsonpCallback: 'callback',
+                        dataFilter: function (data, type) {
+                            return data;
+                        },
+                        success: function (json) {
+                            if (json.error == true) {
+                                console.log('错误!');
+                                console.log(json);
+                            }
+                            else
+                            {
+                                $('.lmsearch-contents').append(json.msg);
+                                $('input[name="searchPage"]').val(json.num);
+                                if(json.type != false)
+                                {
+                                    type = false;
+                                }
+                                $('.showLoading').remove();
+                            }
+                          /*AJAX返回数据后重新加载 STA*/
+                          window._bd_share_main.init();
+		//全局变量赋值，便于后边更改配置
+		$(function () {
+		    $(".bdsharebuttonbox a").mouseover(function () {
+		        linkUrl = $(this).attr("data-url");
+		        title = $(this).attr("data-title");
+		    });
+		});
+		function SetConf(cmd, config) {
+		    if (linkUrl) {
+		        config.bdUrl = linkUrl;
+		        config.bdText = title;
+		    }
+		    return config;
+		}
+		window._bd_share_config = {
+		    common : {onBeforeClick:SetConf},
+		    share : [{"bdSize" : 32}]
+		}
+		$('.mylmchooseBox').find('.mylmchooseBox-texts').each(function(){
+			if(!$(this).find('a').length){
+			      init(this);
+			}
+		});
+		function init(name){
+		    var len = 120;      //默认显示字数
+		    var ctn = name;  //获取div对象
+		    var content = ctn.innerHTML;                   //获取div里的内容
+		    var span = document.createElement("span");     //创建<span>元素
+		    var a = document.createElement("a");           //创建<a>元素
+		    span.innerHTML = content.substring(0,len)+'......';     //span里的内容为content的前len个字符
+		    a.innerHTML = content.length>len?'展开全部<i class="iconfont icon-xiaosanjiao"></i>':'';  ////判断显示的字数是否大于默认显示的字数    来设置a的显示
+		    a.href = "javascript:void(0)";//让a链接点击不跳转
+		    a.addClass = "right";
+		    a.onclick = function(){
+		        if(a.innerHTML.indexOf("展开全部")!=-1){      //如果a中含有"展开"则显示"收起"
+		          a.innerHTML = "简要显示<i class='iconfont icon-shangla2'></i>";
+		          span.innerHTML = content;
+		        }else{
+		            a.innerHTML = '展开全部<i class="iconfont icon-xiaosanjiao"></i>';
+		            span.innerHTML = content.substring(0,len)+'......';
+		        }
+		    }
+		    // 设置div内容为空，span元素 a元素加入到div中
+		    ctn.innerHTML = "";
+		    ctn.appendChild(span);
+		    ctn.appendChild(a);
+		}
+		//点击显示放大图片效果
+		$('.lmimgtext').on('click','img',function(){
+			var imgsrc = $(this).attr('src');
+			$('.alerx-box2').removeClass('hide').fadeIn();
+			$('.lunwimg').find('img').attr('src',imgsrc);
+		});
+		$('.alerx-box2').click(function(e){
+			e = window.event || e;
+			var obj = e.srcElement || e.target;
+			if(!$(obj).is('.lunwimg img')){
+				$('.alerx-box2').fadeOut();
+				$(this).addClass('hide');
+			}
+		});
+                          /*AJAX返回数据后重新加载 END*/
+                            return false;
+                        },
+                        error: function (XMLHttpRequest, textStatus, errorThrown) {
+                            console.log('错误!');
+                            console.log(XMLHttpRequest.statusText);
+                            console.log("网络错误：" + XMLHttpRequest.status);
+                            return false;
+                        }
+                    });
+                }
+            }
+        })
+    })();
+    
+</script>
+<!--页面底部-->
+<div class="footer">
+    <div class="width1100 indexfoot">
+        <div class="left">
+            <p class="footlist"><span>中国科技论文在线 版权所有</span></p>
+            <p class="footlist">
+                <em class="fmar"><a target="_blank" href="http://www.paper.edu.cn/">网站地图</a>|</em>
+                <em><a target="_blank" href="http://www.paper.edu.cn/">在线首页</a>|</em>
+                <em><a target="_blank" href="http://www.paper.edu.cn/templates/introduction.shtml">在线简介</a>|</em>
+                <em><a target="_blank" href="http://www.paper.edu.cn/templates/service.shtml">服务条款</a>|</em>
+                <em><a target="_blank" href="http://www.paper.edu.cn/templates/contact.shtml">联系我们</a></em>
+                  <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
+
+            </p>
+            <p class="footer-number">
+                <span>
+					<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11040202430024" target="_blank">
+					  <i class="footer-img"></i>京公网安备 11040202430024号</a> |
+                    <a href="http://icp.chinaz.com/info?q=paper.edu.cn" target="_blank">京ICP备15006316号-2</a> |
+                    <a href="http://www.paper.edu.cn/templates/xuke.shtml" target="_blank">网络出版服务许可证 （总）网出证（京）字第083号</a>
+                    | 文保网安备案号：1101080066
+                </span>
+            </p>
+            <p class="footer-from">
+                <em>主管 :<a href="http://www.moe.edu.cn/" target="_blank">中华人民共和国教育部</a></em>
+                <em>主办 :<a href="http://www.cutech.edu.cn/cn/index.htm" target="_blank">教育部科技发展中心</a></em>
+            </p>
+            <p class="footer-from"><em class="nomari">技术支持 :<a href="http://www.cernet.com/" target="_blank">赛尔互联（北京）教育科技有限公司</a></em></p>
+        </div>
+        <div class="right">
+            <p class="footlist"><span>CONTACT US</span></p>
+            <p>中华人民共和国北京市海淀区中关村大街35号</p>
+            <p class="foot-rightP"><span>Tel: </span>86-10-62514688</p>
+            <p class="foot-rightP"><span>Fax: </span>86-10-62514767</p>
+            <p class="foot-rightP"><span>Email: </span>paper@cutech.edu.cn</p>
+        </div>
+    </div>
+</div>
+<!--返回顶部-->
+<div class="goTop hide">
+    <i href="" class="iconfont icon-back-top"></i>
+</div>
+<!-- js文件写在页面最底部 -->
+</body>
+<script src="/app/static/1.0/js/share.js"></script>
+<script src="/app/static/1.0/js/comment.js" type="text/javascript"></script>
+<script>
+    $(function(){
+        $.ajax({
+            url: 'http://www.paper.edu.cn/index/getSession',
+            type: "GET",
+            dataType: 'JSON',
+            jsonp: 'callback',
+            jsonpCallback: 'callback',
+            dataFilter: function (data, type) {
+                return data;
+            },
+            success: function (json) {
+                $('#user_login').html(json.msg.user_login);
+                $('#user_logins').html(json.msg.user_login);
+                $('#user_register').html(json.msg.user_register);
+                $('#user_registers').html(json.msg.user_register);
+                $('#user_quit').html(json.msg.user_quit);
+                $('#user_quits').html(json.msg.user_quit);
+                $('.mini-login').html(json.msg.mini_login);
+                //登录名称长度
+                if($('.user-name2').height()>33){
+                    $('.user-name2').css('font-size','18px');
+                }
+                return false;
+            },
+            error: function (XMLHttpRequest, textStatus, errorThrown) {
+                return false;
+            }
+        });
+
+    })
+    $('.goTop').bind('click', function(){
+        $('html, body').animate({
+            scrollTop: 0
+        }, 300);
+    });
+</script>
+</html>
+

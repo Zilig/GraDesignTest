@@ -1,0 +1,334 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD><meta name="renderer" content="webkit"><meta http-equiv="X-UA-COMPATIBLE" content="IE=edge,chrome=1"/><TITLE>徐迈 中文主页 北京航空航天大学教师个人主页系统</TITLE>
+
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="/_ts/zw1/style/css.css"><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script><LINK rel="stylesheet" type="text/css" href="/_ts/zw1/style/font.css"><script language="javascript" type="text/javascript" src="/_ts/zw1/js/select_xuanze.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="/_ts/zw1/_sitegray/_sitegray_d.css" />
+<script language="javascript" src="/_ts/zw1/_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e7847545255554703070002 -->
+<link rel="stylesheet" type="text/css" href="/zw1/index.vsb.css" />
+<META Name="keywords" Content="徐迈,Mai Xu" />
+<META Name="description" Content="徐迈,徐迈 中文主页,北京航空航天大学教师个人主页系统,教育部青年长江学者，中国图像图形学学会青工委副主任。2016年获教育部霍英东青年基金资助，2017年获人工智能学会技术发明一等奖（第二完成人），2018年获..." />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" ></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1265528587)</script>
+</HEAD>
+<BODY > <div style='display:none;'><img src="/__local/5/12/A3/DC699F863BA014AA9E2517DE1C7_F4904223_BD4D.jpg"  /></div>
+<style type="text/css">
+body{
+            background-image:url(/_ts/zw1/images/teachjjbg.jpg) ; 
+      background-repeat:repeat-y;
+   background-position:left top;
+
+        
+        background-color:#f0f0f0;
+}
+</style>
+
+<DIV class="warper"> 
+<DIV id="leftside">
+<DIV class="logo">
+<P><script> var _tsites_com_view_mode_type_=8;</script>
+<a target="_blank" href="http://shi.buaa.edu.cn"><img border="0" src="/__local/1/D5/36/C837E53F028F25EA1AC65BF4C79_1EB0DF3D_10EC.jpg" title="北京航空航天大学教师个人主页系统" /></a></P></DIV>
+<DIV class="teacherjj">
+<DIV class="photo">
+
+<div style="height: 150px;
+    display: table-cell;
+    vertical-align: middle;">
+<a 
+style="height: 150px;display: table-cell;vertical-align: middle;text-align: center; width: 150px;"><img id="u_u2_1664pic" border="0"/></a></div>
+<script>
+jQuery(document).ready(function(){
+
+	var leftheight = jQuery("#leftside").height();
+	var rightheight = jQuery("#rightside").height();
+	if(leftheight > rightheight){
+		jQuery("#rightside").height(leftheight);
+	}
+	
+});
+</script>
+
+
+<script language='javascript' src='/system/resource/tsites/imagescale.js'></script>
+<script type="text/javascript"> 
+ var u_u2_pic = new ImageScale("u_u2_",150,150,true,true);u_u2_pic.addimg("/__local/5/12/A3/DC699F863BA014AA9E2517DE1C7_F4904223_BD4D.jpg","","徐迈","1664");
+</script>
+</DIV>
+<DIV class="name">
+  <h1>徐迈
+(教授)
+   </h1>
+                                                 
+<script language='javascript' src='/system/resource/tsites/tsitesencrypt.js'></script>
+
+ <div class="zan" style="text-align: center;">
+<p style="padding-top:5px;">
+<span><img src="/_ts/zw1/images/zan.png"style="cursor: pointer; vertical-align: bottom;" width="22" height="21"  id="_parise_imgobj_u4"/></span><span style="font-size:16px; color:#FFF; padding-left:5px;" id="_parise_obj_u4" ></span></p></div><script language='javascript' src='/system/resource/tsites/TsitesPraiseUtil.js'></script>
+<script> var _TsitesPraiseUtil_u4= new TsitesPraiseUtil();_TsitesPraiseUtil_u4.setParam({'nodeid':'_parise_obj_u4','iscanclickidobj':'iscanclick_parise_obj_u4','pdtype':'0','imageid':'_parise_imgobj_u4','apptype':'index','sid':'1664','homepageid':2101,'limttype':'allpage','limithour':24,'contentid':0});</script>
+</DIV>
+<div class="jbqk">
+
+  <p>     教授
+    博士生导师
+    硕士生导师
+     </p>
+   
+  <!--性别--> 
+  <p>性别：男</p>
+  <!--出生年月--> 
+  <p>出生年月：1981-02-08</p>
+  <!--毕业院校--> 
+  <p>毕业院校：Imperial College London</p>
+  <!--学历--> 
+  <!--学位--> 
+  <!--在职信息--> 
+  <!--所在单位--> 
+  <p>所在单位：电子信息工程学院</p>
+  <!--入职时间--> 
+  <!--所属院系--> 
+  <!--职务--> 
+  <!--学科--> 
+  
+  <!--办公地点--> 
+  <p>办公地点：北航 IRC 403</p>
+  <!--联系方式--> 
+  <p>联系方式：82314663</p>
+  <!--email--> 
+  <p>Email：<span _tsites_encrypt_field="_tsites_encrypt_field" id="_tsites_encryp_tsteacher_tsemail" style="display:none;">5e4370a3e2570b7736b58bf415f6d381b5dc16a77934cfbb24726fa53d940a17935e7999e3b5ce24f5cdc7e50c0d0f436b194cc145be2c19e45b70908263fd7e1d3212a871e3ad481acd330da38a4007d7a303cf5a02bab956e69171fc4b7575e7bee42c6344e8d741acfe1e84575bddf9b1660a90ce0359b7e8a6da2a8558fa</span></p>
+
+
+
+
+
+
+</div>
+<DIV class="serchbg" style="margin-left: 26px"><script language='javascript' src='/system/resource/tsites/com/search/tsitesearch.js'></script><script language='javascript' src='/system/resource/js/base64.js'></script><form action="/MaiXu/zh_CN/search/7716/search/result.htm" method="post" id="searchform45478" style="display:inline" onsubmit="return (new TsiteSearch()).checkSearch('searchform45478','keyWord_temp');">
+    <input type="hidden" name="tsites_search_content" id="tsites_search_content" value='' /><input type="hidden" name="_tsites_search_current_language_" id="_tsites_search_current_language_" value='zh_CN' />
+    <input  name="keyWord_temp" id="keyWord_temp" value=""type="text" class="inputtext" /> 
+    <input name="submit" type="submit" value="" class="searchbtn" >     
+</form>
+
+
+</DIV></DIV>
+<DIV class="email">访问量：
+<script language='javascript' src='/system/resource/tsites/tsitesclick.js'></script>
+<span id="u9_click"></span><script>(new TsitesClickUtil()).getHomepageClickByType(document.getElementById('u9_click'),0,10,'homepage_total','1664',2101);</script>
+<BR>
+
+<script language='javascript' src='/system/resource/tsites/latestupdatetime.js'></script>
+最后更新时间：<span id="u10_latestupdatetime_year"></span>.<span id="u10_latestupdatetime_month"></span>.<span id="u10_latestupdatetime_day"></span><script>(new TsitesLatestUpdate()).getHomepageLatestUpdateTime(document.getElementById('u10_latestupdatetime_year'),document.getElementById('u10_latestupdatetime_month'),document.getElementById('u10_latestupdatetime_day'),'','1664',2101,0);</script>
+<script>(new TsitesLatestUpdate()).getTeacherHomepageOpenTime(document.getElementById('u10_opentime_year'),document.getElementById('u10_opentime_month'),document.getElementById('u10_opentime_day'),'','1664',2101,0);</script>
+</DIV>
+<DIV class="tzybd" style="margin-left: 26px">
+<a href="/MaiXu/zh_CN/tzybd/7716/list/index.htm" target="_blank"  >同专业博导</a>&nbsp;&nbsp;&nbsp;
+
+<a href="/MaiXu/zh_CN/tzysd/7716/list/index.htm" target="_blank"  >同专业硕导</a>
+</DIV><div class="email "><div style="width:142px; height:142px; border:5px solid #FFF; background:#FFF;margin-top: 25px;">
+<!-- 下面这个div是二维码容器,ID不能变-->
+<div id="outputu12"></div>
+<!-- 下面是生成二维码调用的JS，不要动-->
+
+<script src="/system/resource/qrcode/js/jquery.qrcode.js"></script>
+<script src="/system/resource/qrcode/js/qrcode.js"></script>
+<script>
+var codeInfo = "" ==""? window.location.href:"";
+jQuery(function(){
+    jQuery('#outputu12').qrcode({
+        text:codeInfo,
+        render: !!document.createElement('canvas').getContext?"canvas":"table",//设置渲染方式  
+        width: 142,     //设置宽度  
+        height: 142,     //设置高度  
+        correctLevel: 0,//纠错等级  
+        background: "#ffffff",//背景颜色  
+        foreground: "#000000",//前景颜色  
+        logo:""//图像logo
+    });
+})
+</script>
+</div></div></DIV></DIV>
+<DIV id="rightside">
+<DIV class="nav">
+<DIV class="menu">
+<div style="max-width:80%">    	
+<ul id="nav"  style="visibility:hidden;">
+    	                 <li >
+                    <a href="/MaiXu/zh_CN/index/7716/list/index.htm" style="background-color: #df6b57;"> 首页</a>
+                </li> 
+                <li >
+                    <a href="/MaiXu/zh_CN/yjgk/7717/list/index.htm" > 研究领域</a>
+                </li> 
+                <li >
+                    <a href="/MaiXu/zh_CN/skxx/7718/list/index.htm" > 开授课程</a>
+                </li> 
+                <li >
+                    <a href="/MaiXu/zh_CN/kyxm/7719/list/index.htm" > 科研项目</a>
+                </li> 
+                <li >
+                    <a href="/MaiXu/zh_CN/lwcg/7720/list/index.htm" > 论文</a>
+                </li> 
+                <li >
+                    <a href="/MaiXu/zh_CN/zhym/7725/list/index.htm" > 学生信息</a>
+                        <ul >
+                                    <li  ><a href="/MaiXu/zh_CN/xsxx/7726/list/index.htm">博士研究生 </a></li>    
+                                    <li  ><a href="/MaiXu/zh_CN/xsxx/7727/list/index.htm">硕士研究生 </a></li>    
+                                    <li  ><a href="/MaiXu/zh_CN/xsxx/7728/list/index.htm">本科生 </a></li>    
+                         </ul>  
+                </li> 
+                <li >
+                    <a href="/MaiXu/zh_CN/hjxx/7721/list/index.htm" > 荣誉及奖励</a>
+                </li> 
+                <li >
+                    <a href="/MaiXu/zh_CN/zhym/7722/list/index.htm" > 招生信息</a>
+                        <ul >
+                                    <li  ><a href="/MaiXu/zh_CN/zsxx/7724/list/index.htm">研究生招生 </a></li>    
+                         </ul>  
+                </li> 
+                <li >
+                    <a href="/MaiXu/zh_CN/zhym/7736/list/index.htm" > 研究成果</a>
+                        <ul >
+                                    <li  ><a href="/MaiXu/zh_CN/article/7741/list/index.htm">Image Saliency Detection </a></li>    
+                                    <li  ><a href="/MaiXu/zh_CN/article/9744/list/index.htm">Video Saliency Detection </a></li>    
+                                    <li  ><a href="/MaiXu/zh_CN/article/9745/list/index.htm">Video Coding </a></li>    
+                                    <li  ><a href="/MaiXu/zh_CN/article/9751/list/index.htm">Video Decoding </a></li>    
+                         </ul>  
+                </li> 
+ </ul>
+</div>
+    <script type="text/javascript">
+$(document).ready(function() { 
+ $('#nav li').hover(function() {
+  $('ul', this).slideDown(200);
+  $(this).children('a:first').addClass("hov");
+ }, function() {
+  $('ul', this).slideUp(100);
+  $(this).children('a:first').removeClass("hov");  
+ });
+});
+</script>
+
+                <div class="teach_topR_qh fl" id="znzwmb3_othernav_div">
+                
+                <ul class="level0">
+                    <li class="select_box fl"  onclick="show_f(null, 'znmb1_other_navul');"><span>其他栏目</span>
+                      <ul class="son_ul fl" id="znmb1_other_navul">                                   
+                            </ul> 
+                        </li>  
+                </ul> 
+        </div>
+        <script type="text/javascript">
+jQuery(document).ready(function(){
+    var totalwidth = jQuery("#nav").width();
+    var allliwidth = 0;
+    var othernavary = new Array();
+    var znmb1_other_navul = jQuery("#znmb1_other_navul")[0];
+    var MenuBar1 = jQuery("#nav");
+    var navliobjlist =  jQuery("#nav > li");
+    for(var i=0;i<navliobjlist.length;i++)
+    {
+        var liobj = navliobjlist.get(i);
+        if(liobj)
+        {
+            var jliobj = jQuery(liobj);
+            var liwidth = jliobj.width();
+            allliwidth+=liwidth;
+            if(allliwidth>=totalwidth)
+            {
+                var templiobj = jliobj[0];      
+                othernavary.push(templiobj);
+                MenuBar1[0].removeChild(jliobj[0]);
+            }
+        }
+    }
+    if(allliwidth<totalwidth)
+    {
+        jQuery("#znzwmb3_othernav_div").css("display","none");
+    }else
+    {
+    for(var i=0;i<othernavary.length;i++)
+    {
+        var tempotherli = jQuery(othernavary[i]);
+        //tempotherli.removeClass("nav_menu-item");
+        tempotherli.addClass("nav_submenu-item");
+        
+        
+        //tempotherli.find("ul").removeClass("nav_submenu");
+        tempotherli.find(" ul").addClass("level2");
+        
+        //tempotherli.find(" ul > li").removeClass("nav_submenu-item");
+        
+        znmb1_other_navul.appendChild(tempotherli[0]);
+    }}
+jQuery("#nav").css("visibility","visible");
+
+});
+</script> 
+<script type="text/javascript">
+$(document).ready(function() { 
+ $('#znmb1_other_navul li').hover(function() {
+  $('ul', this).slideDown(200);
+  $(this).children('a:first').addClass("hov");
+ }, function() {
+  $('ul', this).slideUp(100);
+  $(this).children('a:first').removeClass("hov");  
+ });
+});
+</script>
+  <style>
+  .nav_submenu-item{position:relative;}
+  .level2{right:90px; position:absolute; background:#fff; top:0;display:none;}
+  </style>  
+<DIV class="teach_topR_qh2 fl">
+ 
+<div class="teach_topR_qh2 fl">
+        	<ul>	
+<li class="select_box2 fl">
+                  <a href="#" class="leixin_xz_a f_r" onclick="show_f(null, 'son_ul2');"></a><span><div  style="margin-top:20px;"><img src="/_ts/zw1/images/icon.png"  width="20px" height="20px"></div>
+</span>   
+                               <ul class="son_ul2 fl"> 
+ 
+   <li style="width:90px"><a href="/xumai/en/index.htm">English</a></li>
+ </ul>
+               
+ </li>
+  </ul>
+        </div></DIV></DIV></DIV>
+<DIV class="content">
+<div class="con_bload">
+<h2>个人简历</h2><p>
+<p>教育部青年长江学者，中国图像图形学学会青工委副主任。2016年获教育部霍英东青年基金资助，2017年获人工智能学会技术发明一等奖（第二完成人），2018年获中国电子学会优秀科技工作者，2019年获国家优秀青年基金、2020年获北京市杰出青年基金、教育部技术发明一等奖（第一完成人），2021年获中国计算机学会杰出演讲者荣誉。研究兴趣为图像处理、计算机视觉与人工智能、及在视频压缩与通信、生物医学工程领域的应用。学术方面：近五年，在IJCV、IEEE TPAMI、JSAC、TIP、TMI、JSTSP、TCSVT等国际顶级期刊及CVPR、ICCV、ECCV、AAAI、DCC、ACM MM等顶级会议上发表论文100余篇（均为SCI/EI检索），其中SCI检索60+篇（JCR1区50+篇，IEEE期刊论文40+篇），谷歌引用2600余次，SCI他引1000余次，多篇论文入选ESI高被引论文/热点论文。获IEEE视频处理领域顶级期刊IEEE TCSVT最佳论文奖提名1次，获IEEE国际会议最佳论文奖3次，会议最佳论文提名1项。作为负责人承担项目10余项，包括国家自然科学基金首批原创探索项目、优青项目、2项面上项目、青年项目，军委科技委创新特区项目、863项目3项。担任图像处理领域顶级期刊IEEE TIP编委（Associate Editor）、IEEE TMM编委（Associate Editor）、信号处理领域权威期刊IEEE J-STSP的首席客座编委（Lead Guest Editor）。2013年起承担本科生“数字图像处理”及研究生“机器学习”、“科技论文写作”教学工作，2014年获北京航空航天大学“我爱我师”十佳教师奖。指导的本科生获北航“金质奖章”/“沈元奖章”2人（北航本科生最高荣誉），北航优秀本科毕业设计3人次。指导的研究生获中国电子学会优秀硕士论文奖2项、提名奖1项，北航“研究生十佳”4人（北航研究生最高荣誉）、提名1人，北航优秀硕士毕业论文3人，国家奖学金9人。主页：http://www.buaamc2.net/<span style="font-family: 宋体;"></span><span style="font-family:;"><br />&nbsp;<br /> </span><span style="font-family: 宋体;">近三年，二十篇代表性论文（2018年以来）</span></p><p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left: 0"><em><span style="font-family:&#39;Arial&#39;,sans-serif;color:black;font-style:normal">[20] Xin Deng; Wenzhe Yang, Ren Yang, Mai Xu*; Enpeng Liu; Qianhan Feng; Radu Timofte: Deep Homography for Efficient Stereo Image Compression</span></em><em><span style="font-family: 宋体;color:black;font-style:normal">，</span></em><em><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">the Proceeding of IEEE Conference on Computer Vision and Pattern Recognition (CVPR),</span></em><em><span style="font-family:&#39;Arial&#39;,sans-serif;color:black;font-style:normal"> oral, 2021.</span></em></p><p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left: 0"><em><span style="font-family:&#39;Arial&#39;,sans-serif;color:black;font-style:normal">[19] Xin Deng, Yutong Zhang, Mai Xu*, Shuanghang Gu, Yiping Duan, Deep Coupled Feedback Network for Joint Exposure Fusion and Image Super-Resolution, </span></em><em><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">IEEE Transactions on Image Processing</span></em><em><span style="font-family:&#39;Arial&#39;,sans-serif;color:black;font-style:normal">, Early Access, 2021. </span></em></p><p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left: 0"><em><span style="font-family:&#39;Arial&#39;,sans-serif;color:black;font-style:normal">[18] Mai Xu*, Li Yang, Xiaoming Tao, Yiping Duan, Zulin Wang, Saliency Prediction on Omnidirectional Image with Generative Adversarial Imitation Learning,</span></em><em><span style="font-family:&#39;Arial&#39;,sans-serif;color:black"> IEEE Transactions on Image Processing</span></em><em><span style="font-family:&#39;Arial&#39;,sans-serif;color:black;font-style:normal">, Early Access, 2021. </span></em></p><p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left: 0"><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">[17] Mai Xu, Lai Jiang, Chen Li, Zulin Wang, Xiaoming Tao*, Viewport-based CNN: A Multi-task Approach for Assessing 360° Video Quality,&nbsp;<em><span style="font-family:&#39;Arial&#39;,sans-serif">IEEE Transactions on Pattern Analysis and Machine Intelligence</span></em>, Early Access, 2020.</span></p><p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left: 0;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;word-spacing: 0px"><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">[16] Lai Jiang, Mai Xu*, Zulin Wang, Leonid Sigal, DeepVS2.0: A Saliency-Structured Deep Learning Method for Predicting Dynamic Visual Attention,&nbsp;<em><span style="font-family:&#39;Arial&#39;,sans-serif">International Journal of Computer Vision</span></em>, Early Access, 2020.</span></p><p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left: 0;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;word-spacing: 0px"><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">[15] Mai Xu, Chen Li, Shanyi Zhang, Patrick Le Callet,&nbsp;State-of-the-Art in 360° Video/Image Processing: Perception, Assessment and Compression,&nbsp;<em><span style="font-family:&#39;Arial&#39;,sans-serif">IEEE Journal of Selected Topics on Signal Processing</span></em>, 14(1), 2020.</span></p><p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left: 0;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;word-spacing: 0px"><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">[14] Zhenyu Guan; Qunliang Xing; Mai Xu*; Ren Yang; Tie Liu; Zulin Wang: MFQE 2.0: A New Approach for Multi-frame Quality Enhancement on Compressed Video,<em><span style="font-family:&#39;Arial&#39;,sans-serif">&nbsp;IEEE Transactions on Pattern Analysis and Machine Intelligence,</span></em>&nbsp;Early Access, 2019.</span></p><p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left: 0;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;word-spacing: 0px"><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">[13] Xiaoming Tao; Zhao Chen; Mai Xu*; Jianhua Lu, Rebuffering Optimization for DASH via Pricing and EEG-Based QoE Modeling,&nbsp;<em><span style="font-family:&#39;Arial&#39;,sans-serif">IEEE Journal on Selected Areas in Communications</span></em>, 37(7), 2019.</span></p><p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left: 0;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;word-spacing: 0px"><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">[12] Liu Li, Mai Xu*, Hanruo Liu, Yang Li, Xiang Fan, Zulin Wang and Lingli Wang, A Large-scale Database and a CNN Model for Attention Based Glaucoma Detection,&nbsp;<em><span style="font-family:&#39;Arial&#39;,sans-serif">IEEE Transactions on Medical Imaging,</span></em>&nbsp;Early Access, 2019.</span></p><p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left: 0;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;word-spacing: 0px"><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">[11] Tianyi Li, Mai Xu*, Ce Zhu, Ren Yang, Zulin Wang and Zhenyu Guan, A Deep Learning Approach for Multi-Frame In-Loop Filter of HEVC,&nbsp;<em><span style="font-family:&#39;Arial&#39;,sans-serif">IEEE Transactions on Image Processing,&nbsp;</span></em>Early Access, 2019.</span></p><p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left: 0;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;word-spacing: 0px"><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">[10] Chen Li; Mai Xu*; Lai Jiang; Shanyi Zhang; Xiaoming Tao: Viewport Proposal CNN for 360</span><span style="font-size:14px;font-family:&#39;Arial&#39;,sans-serif;color:black">°</span><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;Video Quality Assessment</span><span style="font-size:14px;color:black">，</span><em><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">the Proceeding of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</span></em><em><span style="font-family:宋体;color:black">,</span></em><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;2019.</span></p><p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left: 0;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;word-spacing: 0px"><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">[9] Xu, Mai*; Song, Yuhang; Wang, Jianyi; Qiao, MingLang; Huo, Liangyu; Wang, Zulin, Predicting Head Movement in Panoramic Video: A Deep Reinforcement Learning Approach,&nbsp;<em><span style="font-family:&#39;Arial&#39;,sans-serif">IEEE Transactions on Pattern Analysis and Machine Intelligence</span></em>, 2018. (SCI, Q1)<br /> [8] Mai Xu,Yufan Liu; Haoji Hu; Feng He, A Deep Learning Approach Find Who to Look at: Turning from Action to Saliency,&nbsp;<em><span style="font-family: &#39;Arial&#39;,sans-serif">IEEE Transactions on Image Processing</span></em>, 2018. (SCI, Q1)<br /> [7] Mai Xu*, Tianyi Li; Zulin Wang; Xin Deng; Zhenyu Guan, Reducing Complexity of HEVC: A Deep Learning Approach,&nbsp;<em><span style="font-family:&#39;Arial&#39;,sans-serif">IEEE Transactions on Image Processing</span></em>, 2018. (SCI, Q1)</span></p><p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left: 0;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;word-spacing: 0px"><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">[6] Mai Xu; Chen Li; Zulin Wang; Zhenyu Guan; Assessing Visual Quality of Omnidirectional Videos,&nbsp;<em><span style="font-family:&#39;Arial&#39;,sans-serif">IEEE Transactions on Circuits and Systems for Video Technology,</span></em>&nbsp;Early Access, 2018.</span></p><p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left: 0;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;word-spacing: 0px"><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">[5] Jingyao Xu, Mai Xu*, Yanan Wei, Zulin Wang and Zhengyu Guan, Fast H.264 to HEVC Transcoding: A Deep Learning Method,&nbsp;<em><span style="font-family:&#39;Arial&#39;,sans-serif">IEEE Transactions on Multimedia</span></em>, 2018. (SCI, Q1)<br /> [4] Ren Yang,Mai Xu*,Zulin Wang,Tianyi Li, Multi-Frame Quality Enhancement for Compressed Video,&nbsp;<em><span style="font-family:&#39;Arial&#39;,sans-serif">IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</span></em>, 2018. (</span><span style="font-size:14px;color:black">计算机视觉领域顶级会议，</span><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">CCF A</span><span style="font-size:14px;color:black">类</span><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">)<br /> [3] Lai Jiang, Mai Xu*, Tie Liu, Minglang Qiao and Zulin Wang, Deepvs: A deep learning based video saliency prediction approach,&nbsp;<em><span style="font-family:&#39;Arial&#39;,sans-serif">European Conference on Computer Vision (ECCV)</span></em>, 2018. (</span><span style="font-size:14px;color:black">计算机视觉领域顶级会议</span><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">)<br /> [2] Shengxi Li, Mai Xu*, Yun Ren and Zulin Wang, Closed-form Optimization on Saliency-guided Image Compression for HEVC-MSP,&nbsp;<em><span style="font-family:&#39;Arial&#39;,sans-serif">IEEE Transactions on Multimedia</span></em>, 2018. (SCI, Q1)<br /> [1] Ren Yang; Mai Xu*; Tie Liu; Zhengyu Guan, Enhancing quality for HEVC compressed videos,&nbsp;<em><span style="font-family:&#39;Arial&#39;,sans-serif">IEEE Transactions on Circuits and Systems for Video Technology</span></em>, 2018. (SCI, Q1)<br /> <br /> </span></p><p>&nbsp;</p><p>&nbsp;</p><p><span style="color: black; font-family:;"></span><span style="color: black; font-family:;"><br /> <br /> </span><br /></p><p><span style="color: black; font-family:;"> </span></p><p><span lang="EN-US"><span style="font-family: Calibri;"></span></span></p><p><span style="font-family: 宋体;"></span></p><p><span style="font-family:;"></span></p><p><span lang="EN-US" style="font-family: &quot;Arial&quot;,sans-serif;"></span></p><p><span style="font-family: 宋体;"></span></p><p style="margin: 0cm 0cm 0pt;"><span lang="EN-US"><span style="font-family: Calibri;">&nbsp;</span></span></p><p><span style="font-family: 宋体;"></span></p><p>&nbsp;</p><p>&nbsp;</p><p><span style="font-family:;"></span><br /></p></p>
+</div>
+
+
+    
+
+<div class="con_bload"><h2>研究方向</h2>
+      <li><p>[1]&nbsp;&nbsp; 视频编码、视频通信、计算机视觉、机器学习、人工智能  </p>  </li> 
+</div>
+
+
+
+
+
+
+
+<script type="text/javascript"> 
+ var u_u21_pic = new ImageScale("u_u21_",130,100,true,true);
+</script>
+</DIV>
+<DIV class="copyright" style="margin-top: 50px; margin-left: 50px; clear: both; border-top: #9e9e9e 1px dotted">
+<UL style="margin-right: 20px">
+<LI style="text-align: center; width: 100%; float: left">Mai Xu's Homepage</LI>
+<LI style="text-align: center; width: 100%"><SPAN class="padl50">
+        <a href="javascript:void(0);" title="手机版" onclick="_vsb_multiscreen.setDevice('mobile')">手机版</a>
+&nbsp;&nbsp;
+<script> var _tsites_com_view_mode_type_=8;</script>
+<a href="http://10.254.20.225:8080/system/caslogin.jsp"  target=_blank title="登录" style="margin-right: 45px;">登录</a>
+</SPAN></LI></UL></DIV></DIV>
+<DIV></DIV>
+
+</BODY></HTML>

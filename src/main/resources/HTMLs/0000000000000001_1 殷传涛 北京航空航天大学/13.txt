@@ -1,0 +1,318 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>北京航空航天大学中法工程师学院2号教学楼网络改造采购竞价结果公示-北京航空航天大学-招标采购管理中心</title><META Name="keywords" Content="北京航空航天大学-招标采购管理中心,北京航空航天大学,北京,航空航天大学,航空航天,航空,空航,航天,天大,大学,中法,工程师学,工程师,工程,学院,教学楼,教学,网络,改造,采购,竞价,结果,公示" />
+<META Name="description" Content="北京航空航天大学中法工程师学院2号教学楼网络改造采购竞价结果公示          北京航空航天大学中法工程师学院2号教学楼网络改造采购项目由中法工程师学院成立竞价小组通过竞价方式采购，现将竞价过程及结果公示如下：        1.      采购名称：2号教学楼网络改造        2.      使用人：张巍        3.      采购项目负责人：洪冠新        4.      竞价小组成员组成情况：序号姓名单位职称1殷传涛中法副教授2韩亮中法讲师3..." />
+
+<link rel="stylesheet" href="../../css/style.css" type="text/css">
+<link rel="stylesheet" href="../../css/publice.css" type="text/css">
+<script type="text/javascript" src="../../js/bdtxk.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e78475c52555742000000034754 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1149,'/content.jsp',15055,1467176955)</script>
+</head>
+<body>
+<!--top s-->    
+<div class="topWrap clearfix">
+    <div class="topDiv">
+        
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<div class="logo">
+<a href="../../index.htm"><img src="../../images/logo.png"></a>
+</div>
+        <div class="topR fr">
+           
+            <script type="text/javascript">
+    function _nl_ys_check_2(){
+        
+        var keyword = document.getElementById('showkeycode205599_2').value;
+        if(keyword==null||keyword==""){
+            alert("请输入关键字搜索");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey205599").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey205599").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey205599").value = base64.encode(document.getElementById("lucenenewssearchkey205599").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode205599_2"));
+        return true;
+    } 
+    function submitForm()
+    {
+        document.getElementById("au1a").submit();
+    }
+</script>
+<script type="text/javascript">
+				function test3()
+				{
+					var tempStr=document.getElementById('showkeycode205599_2').value;
+					if(tempStr=="请输入关键字搜索")
+					{
+						document.getElementById('showkeycode205599_2').value="";
+					}
+				}
+				function test4()
+				{
+					var tempStr=document.getElementById('showkeycode205599_2').value;
+					if(tempStr=="")
+					{
+						document.getElementById('showkeycode205599_2').value="请输入关键字搜索";
+					}
+				}
+			</script>
+<div class="Search">
+<form action="../../ssjg.jsp?wbtreeid=1149" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check_2()">
+ <input type="hidden" id="lucenenewssearchkey205599" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype205599" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope205599" name="searchScope" value="1">
+ <input type="text" value="请输入关键字搜索" name="showkeycode" class="search_text" onfocus="test3()" onblur="test4()" id="showkeycode205599_2" />
+                <div class="fdj fr"> <input type="submit" class="button pngFix" value="" style="cursor: hand"></div>
+</form>
+</div><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+
+            
+        </div>
+    </div>
+</div>
+<!--nav-->
+<div class="navWrap  clearfix">
+    <div class="nav">
+    <ul>
+           
+        <li class="mainmenu">
+            <a href="../../index.htm">网站首页</a>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../zxjj.htm">中心简介</a>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../jgsz.htm">机构设置</a>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../gzdt.htm">工作动态</a>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../cggg.htm">采购公告</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl>
+                    <dd><a href="../../cggg/gc.htm">工程</a></dd>
+                    <dd><a href="../../cggg/hw.htm">货物</a></dd>
+                    <dd><a href="../../cggg/fw.htm">服务</a></dd>
+            </dl>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../cjgg.htm">成交公告</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl>
+                    <dd><a href="../../cjgg/gc.htm">工程</a></dd>
+                    <dd><a href="../../cjgg/hw.htm">货物</a></dd>
+                    <dd><a href="../../cjgg/fw.htm">服务</a></dd>
+            </dl>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../gzzd.htm">规章制度</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl>
+                    <dd><a href="../../gzzd/gjflfg.htm">国家法律法规</a></dd>
+                    <dd><a href="../../gzzd/xxgzzd.htm">学校规章制度</a></dd>
+            </dl>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../ywlc.htm">业务流程</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl>
+                    <dd><a href="../../ywlc/gccg.htm">工程采购</a></dd>
+                    <dd><a href="../../ywlc/hwcg.htm">货物采购</a></dd>
+                    <dd><a href="../../ywlc/fwcg.htm">服务采购</a></dd>
+            </dl>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../xzfw.htm">下载服务</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl>
+                    <dd><a href="../../xzfw/cgsq.htm">采购申请</a></dd>
+                    <dd><a href="../../xzfw/jkbb.htm">进口报备</a></dd>
+                    <dd><a href="../../xzfw/jkms.htm">进口免税</a></dd>
+                    <dd><a href="../../xzfw/zfjc.htm">政府集采</a></dd>
+                    <dd><a href="../../xzfw/hwht.htm">货物合同</a></dd>
+                    <dd><a href="../../xzfw/tbbm.htm">投标报名</a></dd>
+            </dl>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../pgt.htm">曝光台</a>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../lxwm.htm">联系我们</a>
+        </li>
+     
+     
+    </ul>
+</div>
+</div>
+<script type="text/javascript">
+
+    $(".mainmenu dl").hide();
+
+</script>
+    <!--banner-->
+   
+<!--main--> 
+<div class="mainWrap clearfix">
+    <div class="main_tit">
+        <div class="main_titT main_titTa">
+            <img src="../../img/bri_icon1.png">
+
+<a href="../../index.htm">网站首页</a>>
+<a href="../../j_b_jgs.htm">竞（比）价公示</a>>
+<a href="../../j_b_jgs/gccggs.htm">工程采购公示</a>>
+<a href="" class="cur">正文</a>
+        </div>
+</div>
+
+    
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+<div class="main_content">
+<div class="main_contit">
+         
+   <h2>北京航空航天大学中法工程师学院2号教学楼网络改造采购竞价结果公示</h2>
+            <p>作者： 　时间：2020-07-03  　点击数：<script>_showDynClicks("wbnews", 1467176955, 15055)</script></p>
+        </div>
+    <div class="main_conDiv" id="vsb_content"><div class="v_news_content">
+<p class="noticeTitle" style="text-align:center;text-indent:43px;line-height:150%"><strong><span style="font-size:21px;line-height:150%;color:black">北京航空航天大学中法工程师学院2号教学楼网络改造</span></strong><strong><span style="font-size:21px;line-height: 150%;color:black">采购竞价结果公示</span></strong></p>
+<p style="text-indent:32px;line-height:150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 北京航空航天大学中法工程师学院2号教学楼网络改造</span><span style="color:black">采购项目由</span><span style="color:black">中法工程师学院</span><span style="color:black">成立竞价小组通过竞价方式采购，现将竞价过程及结果公示如下：</span></p>
+<p style="margin-left:40px;line-height: 150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; 1.<span style="font:9px 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="color:black">采购名称：2号教学楼网络改造</span></p>
+<p style="margin-left:40px;line-height: 150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; 2.<span style="font:9px 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="color:black">使用人：张巍</span></p>
+<p style="margin-left:40px;line-height: 150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; 3.<span style="font:9px 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="color:black">采购项目负责人：洪冠新</span></p>
+<p style="margin-left:40px;line-height: 150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; 4.<span style="font:9px 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="color:black">竞价小组成员组成情况：</span></p>
+<table style="margin-left:40px;">
+ <tbody>
+  <tr class="firstRow" style="height:30px">
+   <td width="30" style="border: 1px solid windowtext; padding: 0px 7px; word-break: break-all;"><p style="text-align:center"><span style="font-size:14px">序号</span></p></td>
+   <td width="80" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:14px">姓名</span></p></td>
+   <td width="100" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:14px">单位</span></p></td>
+   <td width="100" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:14px">职称</span></p></td>
+  </tr>
+  <tr style="height:30px">
+   <td width="30" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px; word-break: break-all;">1</td>
+   <td width="80" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">殷传涛</td>
+   <td width="100" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">中法</td>
+   <td width="100" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">副教授</td>
+  </tr>
+  <tr style="height:30px">
+   <td width="30" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px; word-break: break-all;">2</td>
+   <td width="80" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">韩亮</td>
+   <td width="100" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">中法</td>
+   <td width="100" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">讲师</td>
+  </tr>
+  <tr style="height:30px">
+   <td width="30" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px; word-break: break-all;">3</td>
+   <td width="80" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">段斐</td>
+   <td width="100" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">中法</td>
+   <td width="100" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">中级</td>
+  </tr>
+ </tbody>
+</table>
+<p style="margin-left:40px;line-height: 150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; 5.<span style="font:9px 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="color:black">采购项目竞价概况：北京航空航天大学中法工程师学院2号楼网络升级改造工程。学院所在2号楼网络需要进行整体的升级改造，满足现代化教学和远程教学的需求。</span></p>
+<p style="margin-left:40px;line-height: 150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; 6.<span style="font:9px 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="color:black">竞价结果详情：</span></p>
+<table style="margin-left:40px;">
+ <tbody>
+  <tr class="firstRow" style="height:25px">
+   <td rowspan="2" width="30" style="border: 1px solid windowtext; padding: 0px 7px; word-break: break-all;"><p style="text-align:center"><span style="font-size:14px">序号</span></p></td>
+   <td rowspan="2" width="160" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:14px">供应商（全称）</span></p></td>
+   <td rowspan="2" width="110" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:14px">供应商联系方式</span></p></td>
+   <td rowspan="2" width="90" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:14px">报价（万元）</span></p></td>
+   <td rowspan="2" width="190" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:14px">工程情况（实施方案、进度保证、质量保证）</span></p></td>
+  </tr>
+  <tr></tr>
+  <tr style="height:30px">
+   <td width="30" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px; word-break: break-all;">1</td>
+   <td width="160" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">北京方圆百里科技有限公司</td>
+   <td width="110" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">13661319793</td>
+   <td width="90" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">13.199</td>
+   <td width="190" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">1 无线计划部署21个点位，分别分布在一层、三层、四层，每层个6个点位；二层部署3个点位。合计21个点位布线 2 网线 康普6类非屏蔽双绞线 5 箱 &nbsp; &nbsp; &nbsp; &nbsp; 650.00 &nbsp; &nbsp; &nbsp; &nbsp; 3,250.00 3 布线 21点AP布线施工 21 点 &nbsp; &nbsp; &nbsp; &nbsp; 400.00 &nbsp; &nbsp; &nbsp; &nbsp; 8,400.00 4 跳线 康普6类非屏蔽2米网络跳线 450 条 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;30.00 &nbsp; &nbsp; &nbsp; &nbsp;13,500.00 5 模块 康普6类非屏蔽网络模块 21 条 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;40.00 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 840.00 6 配线架 康普6类非屏24口网络配线架 5 个 &nbsp; &nbsp; &nbsp; &nbsp; 580.00 &nbsp; &nbsp; &nbsp; &nbsp; 2,900.00 7 理线器 1U普通理线器 10 台 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;50.00 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 500.00 8 光纤模块 华为多模光纤模块 48 个 &nbsp; &nbsp; &nbsp; 1,100.00 &nbsp; &nbsp; &nbsp; &nbsp;52,800.00 9 光纤跳线 LC-LC光纤跳线 60 对 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;80.00 &nbsp; &nbsp; &nbsp; &nbsp; 4,800.00 10 配线 机柜网络设备安装+测线+配线+打标+PE软管+PVC阻燃线管+辅材 450 点 &nbsp; &nbsp; &nbsp; &nbsp; 100.00 &nbsp; &nbsp; &nbsp; &nbsp;45,000.00 11 合计：壹拾叁万壹仟玖佰玖拾元整 &nbsp; &nbsp; &nbsp;131,990.00</td>
+  </tr>
+  <tr style="height:30px">
+   <td width="30" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px; word-break: break-all;">2</td>
+   <td width="160" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">北京联志盛达科技有限公司</td>
+   <td width="110" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">13911553101</td>
+   <td width="90" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">15.7825</td>
+   <td width="190" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">网线 康普6类非屏蔽双绞线 原厂 5 箱 600 3000 布线 21点AP布线施工 21 点 380 7980 跳线 康普6类非屏蔽2米网络跳线 原厂 450 条 35 15750 模块 康普6类非屏蔽网络模块 原厂 21 条 45 945 配线架 康普6类非屏24口网络配线架 原厂 5 个 700 3500 理线器 1U普通理线器 10 台 65 650 光纤模块 华为多模光纤模块 原厂保修一年 48 个 1350 64800 光纤跳线 LC-LC光纤跳线 多模 60 对 120 7200 配线 机柜网络设备安装以及其它辅材用品 450 点 120 54000 壹拾伍柒仟捌佰贰拾伍元整 157825</td>
+  </tr>
+  <tr style="height:30px">
+   <td width="30" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px; word-break: break-all;">3</td>
+   <td width="160" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">网御八方（北京）科技有限公司</td>
+   <td width="110" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">13910997022</td>
+   <td width="90" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">16.1448</td>
+   <td width="190" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">网线 康普6类非屏蔽双绞线 5 箱 720.00 &nbsp;3,600.00 布线 21点AP布线施工 21 点 490.00 &nbsp;10,290.00 跳线 康普6类非屏蔽2米网络跳线 450 条 45.00 &nbsp;20,250.00 模块 康普6类非屏蔽网络模块 21 条 48.00 &nbsp;1,008.00 配线架 康普6类非屏24口网络配线架 5 个 650.00 &nbsp;3,250.00 理线器 1U普通理线器 10 台 65.00 &nbsp;650.00 光纤模块 华为多模光纤模块 48 个 1,050.00 &nbsp;50,400.00 光纤跳线 LC-LC光纤跳线 60 对 75.00 &nbsp;4,500.00 配线 辅材材料及安装设备 450 点 150.00 &nbsp;67,500.00 合计 壹拾陆万壹仟肆佰肆拾捌元整 161,448.00</td>
+  </tr>
+ </tbody>
+</table>
+<p style="margin-left:40px;line-height: 150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; 确定成交结果单位：北京方圆百里科技有限公司</span></p>
+<p style="margin-left:40px;line-height: 150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; 确定成交报价：13.199 万元</span></p>
+<p style="margin-left:40px;line-height: 150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; 公示期从2020年07月03日起至2020年07月06日止。</span></p>
+<p style="margin-left:40px;line-height: 150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; 各供应商或者其他利害关系人对本项目的过程及结果有异议的，可在公示期内以书面形式（包括联系人、地址、联系电话）将意见反馈至北京航空航天大学中法工程师学院，监督人及联系方式：张巍，82338123。邮箱：duanfei6@126.com。</span></p>
+<p style="text-indent:392px;float:right;line-height:150%"><span style="text-decoration: none;float:right;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2020年07月03日</span></p>
+<p>&nbsp;</p>
+<p><br></p>
+</div><div id="div_vote_id"></div>
+    
+    <p>
+        <UL style="list-style-type:none;"> 
+            <li>附件【<a href="/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1467176955&wbfileid=4542561" target="_blank">技术详细需求.docx</a>】已下载<span id="nattach4542561"><script language="javascript">getClickTimes(4542561,1467176955,"wbnewsfile","attach")</script></span>次</li>
+            <li>附件【<a href="/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1467176955&wbfileid=4542560" target="_blank">报价单.rar</a>】已下载<span id="nattach4542560"><script language="javascript">getClickTimes(4542560,1467176955,"wbnewsfile","attach")</script></span>次</li>
+        </UL>
+    </p>
+</div>
+    <div class="main_art">
+      <ul>
+                <li><lable>上一篇：</lable><a href="15115.htm">北京航空航天大学沙河校区管理委员会办公室北航沙河校区波斯菊种植服务采购竞价结果公示</a></li>
+                <li><lable>下一篇：</lable><a href="14769.htm">北京航空航天大学物理学院沙河主楼C4层实验室电路改造工程采购竞价结果公示</a></li>
+            </ul>
+  </div>
+</div>
+   
+   
+</form>
+
+
+
+</div>
+<!--foot-->
+<div class="footWrap"><div class="footDiv_one">
+
+          版权所有 2018 &nbsp;&nbsp;北京航空航天大学招标采购管理中心 &nbsp; &nbsp;地址：北京市海淀区学院路37号&nbsp; &nbsp;邮编：100083
+   
+    </div></div>
+
+</body>
+</html>

@@ -1,0 +1,414 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD><meta name="renderer" content="webkit"><meta http-equiv="X-UA-COMPATIBLE" content="IE=edge,chrome=1"/><TITLE>李勇-中文主页 北京航空航天大学教师个人主页系统</TITLE>
+
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="/_ts/zw1/style/css.css"><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script><LINK rel="stylesheet" type="text/css" href="/_ts/zw1/style/font.css"><script language="javascript" type="text/javascript" src="/_ts/zw1/js/select_xuanze.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="/_ts/zw1/_sitegray/_sitegray_d.css" />
+<script language="javascript" src="/_ts/zw1/_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e7847545255554703070002 -->
+<link rel="stylesheet" type="text/css" href="/zw1/index.vsb.css" />
+<META Name="keywords" Content="李勇,Yong Li" />
+<META Name="description" Content="李勇,李勇-中文主页,北京航空航天大学教师个人主页系统,    本人的研究领域集中在轻质材料模拟以及高性能大型薄壁构件精确成形技术方面。具体研究方向包括：           轻量化材料加工成形工艺开发与应用（蠕变时..." />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" ></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1265528587)</script>
+</HEAD>
+<BODY > <div style='display:none;'><img src="/__local/E/B5/72/087E679865018A91FA049F83DFF_70D90111_4657.jpg"  /></div>
+<style type="text/css">
+body{
+            background-image:url(/_ts/zw1/images/teachjjbg.jpg) ; 
+      background-repeat:repeat-y;
+   background-position:left top;
+
+        
+        background-color:#f0f0f0;
+}
+</style>
+
+<DIV class="warper"> 
+<DIV id="leftside">
+<DIV class="logo">
+<P><script> var _tsites_com_view_mode_type_=8;</script>
+<a target="_blank" href="http://shi.buaa.edu.cn"><img border="0" src="/__local/1/D5/36/C837E53F028F25EA1AC65BF4C79_1EB0DF3D_10EC.jpg" title="北京航空航天大学教师个人主页系统" /></a></P></DIV>
+<DIV class="teacherjj">
+<DIV class="photo">
+
+<div style="height: 150px;
+    display: table-cell;
+    vertical-align: middle;">
+<a 
+style="height: 150px;display: table-cell;vertical-align: middle;text-align: center; width: 150px;"><img id="u_u2_3945pic" border="0"/></a></div>
+<script>
+jQuery(document).ready(function(){
+
+	var leftheight = jQuery("#leftside").height();
+	var rightheight = jQuery("#rightside").height();
+	if(leftheight > rightheight){
+		jQuery("#rightside").height(leftheight);
+	}
+	
+});
+</script>
+
+
+<script language='javascript' src='/system/resource/tsites/imagescale.js'></script>
+<script type="text/javascript"> 
+ var u_u2_pic = new ImageScale("u_u2_",150,150,true,true);u_u2_pic.addimg("/__local/E/B5/72/087E679865018A91FA049F83DFF_70D90111_4657.jpg","","李勇","3945");
+</script>
+</DIV>
+<DIV class="name">
+  <h1>李勇
+(教授)
+   </h1>
+                                                 
+<script language='javascript' src='/system/resource/tsites/tsitesencrypt.js'></script>
+
+ <div class="zan" style="text-align: center;">
+<p style="padding-top:5px;">
+<span><img src="/_ts/zw1/images/zan.png"style="cursor: pointer; vertical-align: bottom;" width="22" height="21"  id="_parise_imgobj_u4"/></span><span style="font-size:16px; color:#FFF; padding-left:5px;" id="_parise_obj_u4" ></span></p></div><script language='javascript' src='/system/resource/tsites/TsitesPraiseUtil.js'></script>
+<script> var _TsitesPraiseUtil_u4= new TsitesPraiseUtil();_TsitesPraiseUtil_u4.setParam({'nodeid':'_parise_obj_u4','iscanclickidobj':'iscanclick_parise_obj_u4','pdtype':'0','imageid':'_parise_imgobj_u4','apptype':'index','sid':'3945','homepageid':6263,'limttype':'allpage','limithour':24,'contentid':0});</script>
+</DIV>
+<div class="jbqk">
+
+  <p>     教授
+    博士生导师
+    硕士生导师
+     </p>
+  <p>主要任职：教授</p>
+  <!--主要任职--> 
+   
+  <!--性别--> 
+  <p>性别：男</p>
+  <!--出生年月--> 
+  <p>出生年月：1989-03-09</p>
+  <!--毕业院校--> 
+  <p>毕业院校：英国帝国理工学院</p>
+  <!--学历--> 
+  <!--学位--> 
+  <p>学位：工学博士学位</p>
+  <!--在职信息--> 
+  <!--所在单位--> 
+  <p>所在单位：机械工程及自动化学院</p>
+  <!--入职时间--> 
+  <!--所属院系--> 
+  <!--职务--> 
+  <!--学科--> 
+  <p>学科：航空宇航科学与技术  机械工程  </p>
+  
+  <!--办公地点--> 
+  <p>办公地点：学院路校区新主楼B409<BR>学院路校区飞行器制造工程系楼407</p>
+  <!--联系方式--> 
+  <!--email--> 
+  <p>Email：<span _tsites_encrypt_field="_tsites_encrypt_field" id="_tsites_encryp_tsteacher_tsemail" style="display:none;">1eea3148d51282399c8239aeffa7b967afa44204083c74141b53c75d57474c8f79aad7a58864740d4f62d53ec333fb09f1b4262596932386794c53b989dd9b28ad78cde6aefd881ef482c6301dd171fac58c980f7e83e868d8fb98e35c37d42335b788e0ed2e1e5fc49c141f9102d6863135f549298a87e8f72dc429cd821182</span></p>
+
+
+
+
+
+
+</div>
+<DIV class="serchbg" style="margin-left: 26px"><script language='javascript' src='/system/resource/tsites/com/search/tsitesearch.js'></script><script language='javascript' src='/system/resource/js/base64.js'></script><form action="/liyong332/zh_CN/search/43246/search/result.htm" method="post" id="searchform45478" style="display:inline" onsubmit="return (new TsiteSearch()).checkSearch('searchform45478','keyWord_temp');">
+    <input type="hidden" name="tsites_search_content" id="tsites_search_content" value='' /><input type="hidden" name="_tsites_search_current_language_" id="_tsites_search_current_language_" value='zh_CN' />
+    <input  name="keyWord_temp" id="keyWord_temp" value=""type="text" class="inputtext" /> 
+    <input name="submit" type="submit" value="" class="searchbtn" >     
+</form>
+
+
+</DIV></DIV>
+<DIV class="email">访问量：
+<script language='javascript' src='/system/resource/tsites/tsitesclick.js'></script>
+<span id="u9_click"></span><script>(new TsitesClickUtil()).getHomepageClickByType(document.getElementById('u9_click'),0,10,'homepage_total','3945',6263);</script>
+<BR>
+
+<script language='javascript' src='/system/resource/tsites/latestupdatetime.js'></script>
+最后更新时间：<span id="u10_latestupdatetime_year"></span>.<span id="u10_latestupdatetime_month"></span>.<span id="u10_latestupdatetime_day"></span><script>(new TsitesLatestUpdate()).getHomepageLatestUpdateTime(document.getElementById('u10_latestupdatetime_year'),document.getElementById('u10_latestupdatetime_month'),document.getElementById('u10_latestupdatetime_day'),'','3945',6263,0);</script>
+<script>(new TsitesLatestUpdate()).getTeacherHomepageOpenTime(document.getElementById('u10_opentime_year'),document.getElementById('u10_opentime_month'),document.getElementById('u10_opentime_day'),'','3945',6263,0);</script>
+</DIV>
+<DIV class="tzybd" style="margin-left: 26px">
+<a href="/liyong332/zh_CN/tzybd/43246/list/index.htm" target="_blank"  >同专业博导</a>&nbsp;&nbsp;&nbsp;
+
+<a href="/liyong332/zh_CN/tzysd/43246/list/index.htm" target="_blank"  >同专业硕导</a>
+</DIV><div class="email "><div style="width:142px; height:142px; border:5px solid #FFF; background:#FFF;margin-top: 25px;">
+<!-- 下面这个div是二维码容器,ID不能变-->
+<div id="outputu12"></div>
+<!-- 下面是生成二维码调用的JS，不要动-->
+
+<script src="/system/resource/qrcode/js/jquery.qrcode.js"></script>
+<script src="/system/resource/qrcode/js/qrcode.js"></script>
+<script>
+var codeInfo = "" ==""? window.location.href:"";
+jQuery(function(){
+    jQuery('#outputu12').qrcode({
+        text:codeInfo,
+        render: !!document.createElement('canvas').getContext?"canvas":"table",//设置渲染方式  
+        width: 142,     //设置宽度  
+        height: 142,     //设置高度  
+        correctLevel: 2,//纠错等级  
+        background: "#ffffff",//背景颜色  
+        foreground: "#000000",//前景颜色  
+        logo:""//图像logo
+    });
+})
+</script>
+</div></div></DIV></DIV>
+<DIV id="rightside">
+<DIV class="nav">
+<DIV class="menu">
+<div style="max-width:80%">    	
+<ul id="nav"  style="visibility:hidden;">
+    	                 <li >
+                    <a href="/liyong332/zh_CN/index/43246/list/index.htm" style="background-color: #df6b57;"> 首页</a>
+                </li> 
+                <li >
+                    <a href="/liyong332/zh_CN/yjgk/43247/list/index.htm" > 研究领域</a>
+                </li> 
+                <li >
+                    <a href="/liyong332/zh_CN/skxx/43248/list/index.htm" > 开授课程</a>
+                </li> 
+                <li >
+                    <a href="/liyong332/zh_CN/kyxm/43249/list/index.htm" > 科研项目</a>
+                </li> 
+                <li >
+                    <a href="/liyong332/zh_CN/lwcg/43250/list/index.htm" > 论文</a>
+                </li> 
+                <li >
+                    <a href="/liyong332/zh_CN/hjxx/43251/list/index.htm" > 荣誉及奖励</a>
+                </li> 
+                <li >
+                    <a href="/liyong332/zh_CN/zhym/43252/list/index.htm" > 招生信息</a>
+                        <ul >
+                                    <li  ><a href="/liyong332/zh_CN/zsxx/43253/list/index.htm">博士生招生 </a></li>    
+                                    <li  ><a href="/liyong332/zh_CN/zsxx/43254/list/index.htm">研究生招生 </a></li>    
+                         </ul>  
+                </li> 
+                <li >
+                    <a href="/liyong332/zh_CN/zhym/43255/list/index.htm" > 学生信息</a>
+                        <ul >
+                                    <li  ><a href="/liyong332/zh_CN/xsxx/43256/list/index.htm">博士研究生 </a></li>    
+                                    <li  ><a href="/liyong332/zh_CN/xsxx/43257/list/index.htm">硕士研究生 </a></li>    
+                                    <li  ><a href="/liyong332/zh_CN/xsxx/43258/list/index.htm">本科生 </a></li>    
+                         </ul>  
+                </li> 
+ </ul>
+</div>
+    <script type="text/javascript">
+$(document).ready(function() { 
+ $('#nav li').hover(function() {
+  $('ul', this).slideDown(200);
+  $(this).children('a:first').addClass("hov");
+ }, function() {
+  $('ul', this).slideUp(100);
+  $(this).children('a:first').removeClass("hov");  
+ });
+});
+</script>
+
+                <div class="teach_topR_qh fl" id="znzwmb3_othernav_div">
+                
+                <ul class="level0">
+                    <li class="select_box fl"  onclick="show_f(null, 'znmb1_other_navul');"><span>其他栏目</span>
+                      <ul class="son_ul fl" id="znmb1_other_navul">                                   
+                            </ul> 
+                        </li>  
+                </ul> 
+        </div>
+        <script type="text/javascript">
+jQuery(document).ready(function(){
+    var totalwidth = jQuery("#nav").width();
+    var allliwidth = 0;
+    var othernavary = new Array();
+    var znmb1_other_navul = jQuery("#znmb1_other_navul")[0];
+    var MenuBar1 = jQuery("#nav");
+    var navliobjlist =  jQuery("#nav > li");
+    for(var i=0;i<navliobjlist.length;i++)
+    {
+        var liobj = navliobjlist.get(i);
+        if(liobj)
+        {
+            var jliobj = jQuery(liobj);
+            var liwidth = jliobj.width();
+            allliwidth+=liwidth;
+            if(allliwidth>=totalwidth)
+            {
+                var templiobj = jliobj[0];      
+                othernavary.push(templiobj);
+                MenuBar1[0].removeChild(jliobj[0]);
+            }
+        }
+    }
+    if(allliwidth<totalwidth)
+    {
+        jQuery("#znzwmb3_othernav_div").css("display","none");
+    }else
+    {
+    for(var i=0;i<othernavary.length;i++)
+    {
+        var tempotherli = jQuery(othernavary[i]);
+        //tempotherli.removeClass("nav_menu-item");
+        tempotherli.addClass("nav_submenu-item");
+        
+        
+        //tempotherli.find("ul").removeClass("nav_submenu");
+        tempotherli.find(" ul").addClass("level2");
+        
+        //tempotherli.find(" ul > li").removeClass("nav_submenu-item");
+        
+        znmb1_other_navul.appendChild(tempotherli[0]);
+    }}
+jQuery("#nav").css("visibility","visible");
+
+});
+</script> 
+<script type="text/javascript">
+$(document).ready(function() { 
+ $('#znmb1_other_navul li').hover(function() {
+  $('ul', this).slideDown(200);
+  $(this).children('a:first').addClass("hov");
+ }, function() {
+  $('ul', this).slideUp(100);
+  $(this).children('a:first').removeClass("hov");  
+ });
+});
+</script>
+  <style>
+  .nav_submenu-item{position:relative;}
+  .level2{right:90px; position:absolute; background:#fff; top:0;display:none;}
+  </style>  
+<DIV class="teach_topR_qh2 fl">
+ 
+<div class="teach_topR_qh2 fl">
+        	<ul>	
+<li class="select_box2 fl">
+                  <a href="#" class="leixin_xz_a f_r" onclick="show_f(null, 'son_ul2');"></a><span><div  style="margin-top:20px;"><img src="/_ts/zw1/images/icon.png"  width="20px" height="20px"></div>
+</span>   
+                               <ul class="son_ul2 fl"> 
+ 
+   <li style="width:90px"><a href="/liyong332/en/index.htm">English</a></li>
+ </ul>
+               
+ </li>
+  </ul>
+        </div></DIV></DIV></DIV>
+<DIV class="content">
+<div class="con_bload">
+<h2>个人简历</h2><p>
+<p><span style="font-size:16px;color:black">&nbsp; &nbsp; 本人的研究领域集中在</span>轻质材料模拟以及高性能大型薄壁构件精确成形技术方面。具体研究方向包括：</p><p><span style="text-indent: 25px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;轻量化材料加工成形工艺开发与应用（蠕变时效，旋压，冷</span><span style="text-indent: 25px; font-family: &quot;Microsoft Yahei&quot;, serif;">/</span><span style="text-indent: 25px;">温</span><span style="text-indent: 25px; font-family: &quot;Microsoft Yahei&quot;, serif;">/</span><span style="text-indent: 25px;">热冲压等）</span></p><p><span style="white-space: pre-wrap; text-indent: 25px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;先进铝、钛合金微观及宏观特征表征，多尺度材料本构模型构建</span></p><p><span style="text-indent: 25px; white-space: pre-wrap;"><span style="text-indent: 25px;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; </span>残余应力表征与分析（加工成型及结构应用领域）</span></p><p><span style="text-indent: 25px; white-space: pre-wrap;"><span style="text-indent: 25px;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; </span>金属材料弹塑性力学、结构力学分析与建模</span></p><p><span style="text-indent: 25px;"><span style="text-indent: 25px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>先进复合材料模具设计与制造</span></p><p>&nbsp; &nbsp; 本人在浙江大学机械工程学院获得本科与硕士学位。后赴英国帝国理工学院攻读博士学位，师从金属材料模拟与成形领域著名学者，英国皇家工程院院士林建国 (Jianguo Lin) 教授。近年来在先进铝合金材料-成形-应用一体化模拟与预测以及大型壁板件精确成形工艺开发方面取得了系列成果，解决了多类航空航天用高强铝合金（第三代铝锂等）成形过程形性演变精确预测与控制的难题，并实现了其在工业生产中的应用，为巴西航空、中航工业集团、中车集团等提供关键技术支撑。获国家级及北航青年人才计划支持。</p><p>&nbsp; &nbsp; 近五年发表论文 20 余篇，在塑性成形领域顶级期刊 Int. J. Plasticity, Int. J. Mach. Tool. Manu. 及材料表征模拟领域知名期刊 Mat. &amp; Des., Mat. Sci. Eng. A 等有 14 篇 1 作/通讯作者论文发表。获得第五届新成形技术国际会议（ICNFT 2018，Germany）最佳论文奖。<br /></p><p><br /></p></p>
+</div>
+
+<div class="con_bload">
+  <h2>教育经历</h2>
+  <p>[1] 
+   &nbsp;&nbsp;2014.11-2018.2
+  </p>
+  <p>
+      英国帝国理工学院
+    &nbsp;|&nbsp;
+    机械工程
+    &nbsp;|&nbsp;
+     博士学位
+    &nbsp;|&nbsp;
+    博士研究生毕业
+    </p>
+    <p>[2] 
+   &nbsp;&nbsp;2011.9-2014.3
+  </p>
+  <p>
+      浙江大学
+    &nbsp;|&nbsp;
+    机械工程
+    &nbsp;|&nbsp;
+     Master's Degree
+    &nbsp;|&nbsp;
+    硕士研究生毕业
+    </p>
+    <p>[3] 
+   &nbsp;&nbsp;2007.9-2011.7
+  </p>
+  <p>
+      浙江大学
+    &nbsp;|&nbsp;
+    机械工程
+    &nbsp;|&nbsp;
+     Bachelor's Degree
+    &nbsp;|&nbsp;
+    大学本科毕业
+    </p>
+  </div>
+<div class="con_bload"><h2>工作经历</h2>
+
+                       <p>[1]         
+                       &nbsp;&nbsp;2020.12-至今
+                       </p><p>
+				北京航空航天大学
+	          		&nbsp;|&nbsp;
+				机械工程及自动化学院
+	          		&nbsp;|&nbsp;
+				教授
+			<br/>
+  </p>                       
+                           <p>[2]         
+                       &nbsp;&nbsp;2019.9-2020.12
+                       </p><p>
+				北京航空航天大学
+	          		&nbsp;|&nbsp;
+				机械工程及自动化学院
+	          		&nbsp;|&nbsp;
+				副教授
+			<br/>
+  </p>                       
+                           <p>[3]         
+                       &nbsp;&nbsp;2018.2-2019.9
+                       </p><p>
+				Imperial College London
+	          		&nbsp;|&nbsp;
+				Department of Mechanical Engineering
+	          		&nbsp;|&nbsp;
+				Research Associate
+			<br/>
+  </p>                       
+                           <p>[4]         
+                       &nbsp;&nbsp;2016.11-2018.1
+                       </p><p>
+				Imperial College London
+	          		&nbsp;|&nbsp;
+				Department of Mechanical Engineering
+	          		&nbsp;|&nbsp;
+				Research Assistant
+			<br/>
+  </p>                       
+    </div>
+    
+
+<div class="con_bload"><h2>研究方向</h2>
+      <li><p>[1]&nbsp;&nbsp; 轻量化材料加工成形工艺开发与应用（蠕变时效，旋压，冷/温/热冲压等）  </p>  </li> 
+      <li><p>[2]&nbsp;&nbsp; 先进铝、钛合金微观及宏观特征表征，多尺度材料本构模型构建  </p>  </li> 
+      <li><p>[3]&nbsp;&nbsp; 先进复合材料模具设计与制造  </p>  </li> 
+      <li><p>[4]&nbsp;&nbsp; 残余应力表征与分析（加工成型及结构应用领域）  </p>  </li> 
+      <li><p>[5]&nbsp;&nbsp; 金属材料弹塑性力学、结构力学分析与建模  </p>  </li> 
+</div>
+
+
+
+
+
+
+
+<script type="text/javascript"> 
+ var u_u21_pic = new ImageScale("u_u21_",130,100,true,true);
+</script>
+</DIV>
+<DIV class="copyright" style="margin-top: 50px; margin-left: 50px; clear: both; border-top: #9e9e9e 1px dotted">
+<UL style="margin-right: 20px">
+<LI style="text-align: center; width: 100%; float: left">版权所有 &nbsp; 2018 北京航空航天大学 &nbsp; 京ICP备05004617-3 &nbsp; 文保网安备案号1101080018 &nbsp; 地址：北京市海淀区学院路37号 &nbsp; 邮编：100083</LI>
+<LI style="text-align: center; width: 100%"><SPAN class="padl50">
+        <a href="javascript:void(0);" title="手机版" onclick="_vsb_multiscreen.setDevice('mobile')">手机版</a>
+&nbsp;&nbsp;
+<script> var _tsites_com_view_mode_type_=8;</script>
+<a href="http://10.254.20.225:8080/system/caslogin.jsp"  target=_blank title="登录" style="margin-right: 45px;">登录</a>
+</SPAN></LI></UL></DIV></DIV>
+<DIV></DIV>
+
+</BODY></HTML>

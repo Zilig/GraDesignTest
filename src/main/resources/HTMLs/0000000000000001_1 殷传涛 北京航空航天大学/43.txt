@@ -1,0 +1,391 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=1200">
+
+<meta name="Description" content="">
+		<title>北航中法工程师学院</title><META Name="keywords" Content="学科网站" />
+
+		<link rel="stylesheet" href="css/common.css" />
+		<link rel="stylesheet" href="css/two-stage.css" />
+		<link rel="stylesheet" href="css/style.css" />
+	<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e78475c52555742000000034754 -->
+<link rel="stylesheet" type="text/css" href="searchlist.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(2005,'/searchlist.jsp',-1,1302343303)</script>
+</head>
+	<body >
+    <div class="gcsxy_top">
+        <div class="gcsxy_top_cont clearfix">
+            <a href="index.htm" class="gcsxy_logo fl">
+                <img src="images/logo.jpg" />
+            </a>
+            <div class="gcsxy_yuyan fr">
+                <div class="yuyan_cont clearfix">
+                    
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<script language=javascript src=/system/resource/js/ajax.js></script><script language=javascript>_getBatchClickTimes('null',1302343303,'wbnews','u0')</script>
+<script>function seeContenta0(contentid,size,displayid){	document.getElementById(contentid).innerHTML = '[';	for(var i=0;i<=size;i++){		var allcontentid = contentid+(i+1);		if(allcontentid==displayid){			document.getElementById(contentid).innerHTML += " <span id='"+allcontentid+"' name='"+allcontentid+"'  >"+(i+1)+"</span> ";			document.getElementById(displayid).style.display = 'block';		}else{			document.getElementById(contentid).innerHTML += " <span style='cursor:pointer' id='"+allcontentid+"' name='"+allcontentid+"' onclick=seeContenta0('"+contentid+"','"+size+"','"+allcontentid+"')  >"+(i+1)+"</span> ";			document.getElementById(allcontentid).style.display = 'none';		}	}	document.getElementById(contentid).innerHTML += ']';}</script>
+<script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<script>_addDynClicks('wbnews',1302343303,4170)</script>
+<a href="javascript:;" class="fl weixin" style="display:none;">
+	<span class="weixi-m"></span>
+</a>
+<a href="http://ecpknfr.buaa.edu.cn/" class="fr">Fran&ccedil;ais</a>
+<a href="http://ecpknen.buaa.edu.cn/" class="fr">English</a>
+<a href="http://ecpkn.buaa.edu.cn/" class="yuyan_active fr">中文</a>
+                </div>
+                <div class="bhzf_so">
+                    <script type="text/javascript">
+    function _nl_ys_check() {
+
+        var keyword = document.getElementById('showkeycode149848').value;
+        if (keyword == null || keyword == "") {
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if (window.toFF == 1) {
+            document.getElementById("lucenenewssearchkey149848").value = Simplized(keyword);
+        } else {
+            document.getElementById("lucenenewssearchkey149848").value = keyword;
+        }
+        var base64 = new Base64();
+        document.getElementById("lucenenewssearchkey149848").value = base64.encode(document.getElementById("lucenenewssearchkey149848").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode149848"));
+        return true;
+    } 
+</script>
+<form action="searchlist.jsp?wbtreeid=2005" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkey149848"  name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype149848"  name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope149848"  name="searchScope" value="1">
+<input name='showkeycode' placeholder="请输入检索内容" class="txt" id="showkeycode149848" type="text" >
+<input type="submit" class="sub" value="">
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="gcsxy_nav">
+        <div class="gcsxy_nav_cont">
+            <ul class="bhzf_navC">
+                	<li  class="fl" ><a href='index.htm'>首页</a></li>
+	    <li  class="fl" >
+		<a href="xygk/xyjj.htm">学院概况</a>
+		<div class="nav_drop_down">
+		    <a href="xygk/xyjj.htm">学院简介</a>
+		    <a href="xygk/xcsp.htm">宣传视频</a>
+		    <a href="xygk/ccfz.htm">传承发展</a>
+		    <a href="xygk/yzjy.htm">院长寄语</a>
+		    <a href="xygk/zzjg.htm">组织机构</a>
+		    <a href="xygk/zylgjt.htm">中央理工集团</a>
+		    <a href="xygk/hzhb.htm">合作伙伴</a>
+		    <a href="xygk/yxxy.htm">优秀校友</a>
+		    <a href="xygk/lxwm.htm">联系我们</a>
+		</div>
+	    </li>
+	    <li  class="fl" >
+		<a href="rcpy1/pymb.htm">人才培养</a>
+		<div class="nav_drop_down">
+		    <a href="rcpy1/pymb.htm">培养目标</a>
+		    <a href="rcpy1/pyms.htm">培养模式</a>
+		    <a href="rcpy1/pyts.htm">培养特色</a>
+		    <a href="rcpy1/xlxw.htm">学历学位</a>
+		    <a href="rcpy1/zsjy.htm">招生就业</a>
+		    <a href="rcpy1/fyjx.htm">法语教学</a>
+		    <a href="rcpy1/xqhz.htm">校企合作</a>
+		</div>
+	    </li>
+	    <li  class="fl" >
+		<a href="kxyj1/kygk.htm">科学研究</a>
+		<div class="nav_drop_down">
+		    <a href="kxyj1/kygk.htm">科研概况</a>
+		    <a href="kxyj1/jxkysys.htm">教学科研实验室</a>
+		    <a href="kxyj1/zflhsys.htm">中法联合实验室</a>
+		    <a href="kxyj1/zffxkxygcsys.htm">中法风险科学与工程实验室</a>
+		</div>
+	    </li>
+	    <li  class="fl" >
+		<a href="gjhz/xsgjjl.htm">国际合作</a>
+		<div class="nav_drop_down">
+		    <a href="gjhz/xsgjjl.htm">学生国际交流</a>
+		    <a href="gjhz/jsgjjl.htm">教师国际交流</a>
+		    <a href="gjhz/xmxxfx.htm">项目信息分享</a>
+		    <a href="gjhz/qt.htm">其他</a>
+		</div>
+	    </li>
+	    <li  class="fl current" >
+		<a href="szdw/szgc.htm">师资队伍</a>
+		<div class="nav_drop_down">
+		    <a href="szdw/szgc.htm">师资构成</a>
+		    <a href="szdw/fyjx.htm">法语教学</a>
+		    <a href="szdw/zyjx.htm">专业教学</a>
+		    <a href="szdw/syjx.htm">实验教学</a>
+		    <a href="szdw/wysd.htm">外院硕导</a>
+		    <a href="szdw/zpxx.htm">招聘信息</a>
+		</div>
+	    </li>
+	    <li  class="fl" >
+		<a href="zffc/xysh.htm">中法风采</a>
+		<div class="nav_drop_down">
+		    <a href="zffc/xysh.htm">校园生活</a>
+		    <a href="zffc/stzz.htm">社团组织</a>
+		    <a href="zffc/lxs.htm">留学生</a>
+		    <a href="zffc/zfrfc.htm">中法人风采</a>
+		    <a href="zffc/mtsdzf.htm">媒体上的中法</a>
+		</div>
+	    </li>
+	    <li  class="fl" >
+		<a href="jcdj/djhd.htm">基层党建</a>
+		<div class="nav_drop_down">
+		    <a href="jcdj/djhd.htm">党建活动</a>
+		    <a href="jcdj/dygf.htm">党员规范</a>
+		    <a href="jcdj/gztz.htm">工作通知</a>
+		    <a href="jcdj/xxnr.htm">学习内容</a>
+		</div>
+	    </li>
+
+            </ul>
+        </div>
+    </div>
+		<div class="banner-s b4"></div>
+		<div class="bhzf-content clearfix">
+			<div class="content-nav">    
+				<p class="nav-title">    
+    
+    
+    
+    
+	师资队伍
+    
+    
+    
+</p>
+				<ul class="nav_list">
+					                <li class="current" >
+                	<a href="szdw/szgc.htm"><p class="nav_list_t">师资构成</p></a>
+			
+                </li>
+                <li >
+                	<a href="szdw/fyjx.htm"><p class="nav_list_t">法语教学</p></a>
+			
+                </li>
+                <li >
+                	<a href="szdw/zyjx.htm"><p class="nav_list_t">专业教学</p></a>
+			
+                </li>
+                <li >
+                	<a href="szdw/syjx.htm"><p class="nav_list_t">实验教学</p></a>
+			
+                </li>
+                <li >
+                	<a href="szdw/wysd.htm"><p class="nav_list_t">外院硕导</p></a>
+			
+                </li>
+                <li >
+                	<a href="szdw/zpxx.htm"><p class="nav_list_t">招聘信息</p></a>
+			
+                </li>
+
+				</ul>
+			</div>
+			<div class="content-r fr">
+				<div class="content-title clearfix">
+					<span class="fl title-txt">
+
+
+
+师资构成</span>
+					<div class="con fr"><span>当前位置：</span>
+                        <a href="index.htm">首页</a>
+                >
+                <a href="szdw.htm">师资队伍</a>
+                >
+                <a href="szdw/szgc.htm">师资构成</a>
+</div>
+				</div>
+                
+				
+
+<script language="javascript" src="_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">
+     function checksearchu7()
+     { 
+            var keyword = document.getElementById("newskeycode149849").value 
+            if(keyword==null||keyword=="")
+            { 
+            alert("请输入你要检索的内容！"); 
+            return false; 
+            } 
+            if(window.toFF==1) 
+            { 
+            document.getElementById("newskeycode2149849").value = Simplized(keyword ); 
+            }
+            else 
+            { 
+            document.getElementById("newskeycode2149849").value = keyword; 
+            } 
+            document.getElementById('_lucenesearchtype149849').value=2; 
+            var base64 = new Base64(); 
+            document.getElementById("newskeycode2149849").value=base64.encode(document.getElementById("newskeycode2149849").value); 
+            document.getElementById("newskeycode149849").disabled=true; return true; } </script> 
+<div class="searchlistbox auto">
+<form action="/searchlist.jsp?wbtreeid=2005&searchScope=0&currentnum=" method="post" name="au7a" onsubmit="return checksearchu7()">
+<input type="hidden" id="newskeycode2149849" name="newskeycode2" value=""><input type="hidden" id="_lucenesearchtype149849"  name="_lucenesearchtype" value=""><input type='hidden' name='wbtreeid' value="2005">
+
+
+</form>
+</div>
+<div class="searchlistmain auto">
+    <div class="searchlistmaintit auto">
+        共有<span>947</span>项查询结果
+    </div>
+    <div class="searchlistmainbox auto">
+        <input type='hidden' name='newskeycode' value=""> 
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1970/7551.htm" target="_blank">第48分钟绝平进球，20级2∶2战平​...</a></h2>
+                <span class="date">[2021年04月11日]</span>
+                <p>20级vs研究生 上半场比赛由20级开球，比赛刚开始，第一个进攻回合，20级就获得了不错的射门机会，研究生队后卫出现失误，由20级的刘锦帅完成射门，球被研究生队门将得到，随后他们发动反击，但被20级后卫化解，双方打的大开大合，场下观众不竭余力的加油助威声也激励着场上的球员，在开场10分钟左右，进球终于到来，20级后场高空球传到右边路，此时3号熊昕然高速插上卸下球，冷静晃过对方后卫，近距离面对<a href="info/1970/7551.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1970/7551.htm" class="searchlink" target="_blank">info/1970/7551.htm/2021年04月11日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1970/7551.htm" target="_blank">第48分钟绝平进球，20级2∶2战平​...</a></h2>
+                <span class="date">[2021年04月11日]</span>
+                <p>20级vs研究生 上半场比赛由20级开球，比赛刚开始，第一个进攻回合，20级就获得了不错的射门机会，研究生队后卫出现失误，由20级的刘锦帅完成射门，球被研究生队门将得到，随后他们发动反击，但被20级后卫化解，双方打的大开大合，场下观众不竭余力的加油助威声也激励着场上的球员，在开场10分钟左右，进球终于到来，20级后场高空球传到右边路，此时3号熊昕然高速插上卸下球，冷静晃过对方后卫，近距离面对<a href="info/1970/7551.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1970/7551.htm" class="searchlink" target="_blank">info/1970/7551.htm/2021年04月11日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1970/7561.htm" target="_blank">18级本科生开场闪击加梅开二度，2：...</a></h2>
+                <span class="date">[2021年04月15日]</span>
+                <p>首先说明一下本场比赛的背景。本小组的前两场比赛，18级本科生队2：0战胜20级本科生队，20级本科生队2：2战平研究生队。18级本科生队积三分已经出线，20级本科生队一平一负积一分，净胜球-2个，也就是说本场比赛研究生队只要不输三球及以上，就可以出线。 比赛开始，18级本科生队率先开球，周涵铎直接射门，可能是由于大风影响了球的轨迹，研究生门将判断出现了失误，导致皮球直接入网，取得梦幻开局。他们<a href="info/1970/7561.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1970/7561.htm" class="searchlink" target="_blank">info/1970/7561.htm/2021年04月15日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1970/7552.htm" target="_blank">最后10分钟连进两球，18级2：0胜20...</a></h2>
+                <span class="date">[2021年04月09日]</span>
+                <p>2021年4月7日晚19：30，北航中法工程师学院2021足球级赛B组首战拉开帷幕。对阵双方为本2020级和本2018级足球队，比赛由2018级开球。 刚一开场，18级周涵铎就利用中圈开球直接射门威胁了20级的球门。上半场，比赛的节奏也基本掌控在18级手中，他们凭借技术和身体优势，积极拼抢，多次获得前场角球机会，可惜都被20级队员化解。 上半场第20分钟，周涵铎利用20级后卫冒顶获得单刀机会<a href="info/1970/7552.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1970/7552.htm" class="searchlink" target="_blank">info/1970/7552.htm/2021年04月09日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1970/7553.htm" target="_blank">多点开花，教职工队迎中法级赛开门红</a></h2>
+                <span class="date">[2021年04月06日]</span>
+                <p>2021年4月6日中午12时30分，北航中法工程师学院2021足球级赛首战拉开帷幕。对阵双方为教工队和本科17级足球队，当值主裁为中法工程师学院足球队队长周涵铎。 上半场 在比赛第4分钟，教工队率先发难。在17级球员开场还未适应比赛节奏的情况下，教职工队在前场打出流畅配合，由7号马逸伦老师推射破门，打入了中法级赛的首粒进球。比分变为1：0，教工队领先。 随后，教工队多次尝试打后卫身后，屡次造成<a href="info/1970/7553.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1970/7553.htm" class="searchlink" target="_blank">info/1970/7553.htm/2021年04月06日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1977/7562.htm" target="_blank">中法工程师学院本科生低年级党支部...</a></h2>
+                <span class="date">[2021年04月15日]</span>
+                <p>今年是中国共产党建党100周年，为了庆祝党的百年华诞，响应党中央的号召,激励和教导广大青年学生学好党史，4月11日上午，寰宇党建工作坊积极分子前往首都博物馆开展参观活动。当日下午，中法工程师学院本科生低年级党支部党员参观首都博物馆。 从1921年2021年，我们党走过百年光辉历程，从只有50多名党员成长为拥有9100多万党员的世界上最大的马克思主义政党，团结带领人民把中国从一个积贫积弱的国家<a href="info/1977/7562.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1977/7562.htm" class="searchlink" target="_blank">info/1977/7562.htm/2021年04月15日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/2144/6022.htm" target="_blank">习近平总书记北大学生座谈会暨马克...</a></h2>
+                <span class="date">[2018年11月12日]</span>
+                <p>习近平总书记在5月2日北大学生座谈会和5月4日马克思200周年诞辰纪念会分别发表重要讲话。为了紧跟党的步伐，并且响应学校学院关于扩大习近平总书记讲话学习活动的号召，北京航空航天大学中法工程师学院研究生2015级党支部开展了相应的学习活动。不仅将习近平总书记讲话资料下发到支部每个党员手中，还于2018年5月12日在北京航空航天大学2号教学楼317教室举办了支部成员集体学习交流活动。 集体学习<a href="info/2144/6022.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/2144/6022.htm" class="searchlink" target="_blank">info/2144/6022.htm/2018年11月12日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/2144/6011.htm" target="_blank">中法低年级党支部组织学习习近平总...</a></h2>
+                <span class="date">[2018年11月12日]</span>
+                <p>5月12日上午，为深入学习习近平总书记5月2日在北京大学师生座谈会上的讲话和在纪念马克思诞辰200周年大会上的讲话，深刻感悟习近平新时代中国特色社会主义思想内涵和党的十九大精神指引，中法低年级党支部在2号教学楼组织开展了“学习习近平总书记重要讲话精神”专题学习活动，对两个重要讲话精神进行专题学习，并交流学习心得体会。 会议由党支部书记王泽远组织开展，在集体观看了习近平总书记在北京大学师生座谈会<a href="info/2144/6011.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/2144/6011.htm" class="searchlink" target="_blank">info/2144/6011.htm/2018年11月12日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/2144/6023.htm" target="_blank">中法工程师学院全体师生观看“首都...</a></h2>
+                <span class="date">[2018年11月12日]</span>
+                <p>按照学院党委统一部署，中法工程师学院全体师生以党支部为单位，于5月30日、31日分别组织观看了“首都百万师生同上一堂课”的电视授课。因故未能参加集体学习的师生，要求观看录播视频。 中法工程师学院教师在集体观看课程后，还对学院师德师风建设和思想政治工作进行交流讨论，老师们围绕师德师风建设的八项重点工作认真查摆问题，针对学院教工队伍、师德建设的现状，提出“正己、敬业、爱生、奉献”为民负责，为人师表<a href="info/2144/6023.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/2144/6023.htm" class="searchlink" target="_blank">info/2144/6023.htm/2018年11月12日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/2144/6100.htm" target="_blank">学习习近平新时代中国特色社会主义...</a></h2>
+                <span class="date">[2018年12月09日]</span>
+                <p>2018年12月1日晚七点，为响应学校进一步深入学习贯彻习近平新时代中国特色社会主义思想和党的十九大精神的号召，中法工程师学院研究生2018级党支部特邀北航研究生宣讲团雷建同学于北航一号教学楼209室做了宣讲。会上，雷建同学立足于全国教育大会和北大座谈会讲话精神，结合人工智能大浪潮作了主题为《建设教育强国，构筑智慧华夏—“人工智能+”的人才观和发展观》的宣讲。中法研究生18级辅导员、本支部全体<a href="info/2144/6100.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/2144/6100.htm" class="searchlink" target="_blank">info/2144/6100.htm/2018年12月09日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1970/6186.htm" target="_blank">社会实践风采展示——中法工程师学...</a></h2>
+                <span class="date">[2018年09月11日]</span>
+                <p>碧水青山，不忘初心 为深入学习落实习近平新时代中国特色社会主义“三农”思想和党的十九大、中央农村工作会议和2018年中央一号文件的精神，了解当前北京市周边山区低收入村的发展现状，2018年7月10日至7月13日北航门头沟椴木沟实践队赶赴北京市清水镇椴木沟村开展了为期4天以调查旅游及相关产业为主题的社会实践。   椴木沟村地处北京市门头沟区最西北，分为新村和老村两部分，两地相距路程约为35公里<a href="info/1970/6186.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1970/6186.htm" class="searchlink" target="_blank">info/1970/6186.htm/2018年09月11日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1970/4424.htm" target="_blank">中法工程师学院党委召开“两学一做...</a></h2>
+                <span class="date">[2016年05月21日]</span>
+                <p>为贯彻落实习近平总书记关于“两学一做”学习教育的重要指示和北航党委“两学一做”总体工作部署要求，5月20日下午，中法工程师学院党委在2号教学楼305召开“两学一做”学习教育工作部署会，全体教工和学生党员100余人参加会议。 中法工程师学院党委副书记田原老师首先传达了北航“两学一做”学习教育的工作精神，结合《关于在全体党员中开展“两学一做”学习教育的实施方案》通知要求，从总体部署、具体要求<a href="info/1970/4424.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1970/4424.htm" class="searchlink" target="_blank">info/1970/4424.htm/2016年05月21日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1977/4963.htm" target="_blank">中法工程师学院2014级研究生党支部...</a></h2>
+                <span class="date">[2017年04月20日]</span>
+                <p>2017年3月30日学校召开了全面从严治党工作会议暨党风廉政建设会议，在会议上党委书记张军同志以及纪委书记何新洲同志做了重要讲话。根据学校党委的要求，我支部于2017年4月14日召开了专题会议，讨论学习学校会议精神。会议由支部书记陈赫主持，支部共有党员及预备党员8人，其中2人请假无法参加，6人参加会议。 一．会前准备情况 此次会议的目的是学习学校党委领导在全校会议的讲话精神，因此在会前已经将会<a href="info/1977/4963.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1977/4963.htm" class="searchlink" target="_blank">info/1977/4963.htm/2017年04月20日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/2073/4919.htm" target="_blank">学习内容</a></h2>
+                <span class="date">[2017年03月27日]</span>
+                <p>习近平关于“两学一做”学习教育重要论述摘编 今年2月，党中央决定在全体党员中开展“学党章党规、学系列讲话，做合格党员”学习教育。习近平总书记强调指出，“两学一做”学习教育是加强党的思想政治建设的一项重大部署，是协调推进“四个全面”战略布局特别是推动全面从严治党向基层延伸的有力抓手，基础在学，关键在做，各级党组织要履行抓好“两学一做”学习教育的主体责任，坚持区分层次，突出问题导向，确保取得实际成效<a href="info/2073/4919.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/2073/4919.htm" class="searchlink" target="_blank">info/2073/4919.htm/2017年03月27日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/2144/7341.htm" target="_blank">寰宇党建工作坊第四次党课顺利开展</a></h2>
+                <span class="date">[2020年11月25日]</span>
+                <p>11月22日上午九点，寰宇党建工作坊邀请中法工程师学院党委书记张江老师在二号教学楼309教室为2020年秋季寰宇党建工作坊全体学员带来了一堂主题为“回顾党代会、学习党史党章”的精彩党课。在这次党课中，张江老师为我们细致讲解了历次党代会及其历史背景，并教授我们解读党章的技巧，加深了学员们对党史及党章的理解，强化了学员们的爱国主义情感，增强了学员们在这个信息爆炸的时代判断是非与分析问题的能力。 党课<a href="info/2144/7341.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/2144/7341.htm" class="searchlink" target="_blank">info/2144/7341.htm/2020年11月25日</a>
+        </div>
+    </div>
+    <div class="page auto">
+         <a href="/searchlist.jsp?wbtreeid=2005&searchScope=0&currentnum=1&newskeycode2="> << </a>
+         <a href="/searchlist.jsp?wbtreeid=2005&searchScope=0&currentnum=58&newskeycode2="> < </a>
+         <a href="/searchlist.jsp?wbtreeid=2005&searchScope=0&currentnum=60&newskeycode2="> > </a>
+         <a href="/searchlist.jsp?wbtreeid=2005&searchScope=0&currentnum=64&newskeycode2="> >> </a>
+         <span>59</span>/64
+    </div>
+</div>
+
+			</div>
+		</div>
+		<div class="bhzf-footer">
+			<div class="bhzf-footerC">
+				
+
+
+
+
+<script language=javascript src=/system/resource/js/ajax.js></script><script language=javascript>_getBatchClickTimes('null',1302343303,'wbnews','u8')</script>
+<script>function seeContenta8(contentid,size,displayid){	document.getElementById(contentid).innerHTML = '[';	for(var i=0;i<=size;i++){		var allcontentid = contentid+(i+1);		if(allcontentid==displayid){			document.getElementById(contentid).innerHTML += " <span id='"+allcontentid+"' name='"+allcontentid+"'  >"+(i+1)+"</span> ";			document.getElementById(displayid).style.display = 'block';		}else{			document.getElementById(contentid).innerHTML += " <span style='cursor:pointer' id='"+allcontentid+"' name='"+allcontentid+"' onclick=seeContenta8('"+contentid+"','"+size+"','"+allcontentid+"')  >"+(i+1)+"</span> ";			document.getElementById(allcontentid).style.display = 'none';		}	}	document.getElementById(contentid).innerHTML += ']';}</script>
+
+<script>_addDynClicks('wbnews',1302343303,4170)</script>
+<div class="bhzf-xinxi">
+<p class="bhzf-xinxi-t1">地址：海淀区学院路37号 北京航空航天大学2号楼中法工程师学院</p>
+<p class="bhzf-xinxi-t2">邮编：100191</p>
+<p class="bhzf-xinxi-t3">电话/传真：010-8233 9307 / 010-8233 8123</p>
+
+</div>
+<div class="bhzf-banquan">
+<p>
+	<select name="jumpMenu" id="jumpMenu" onchange="javascript:location.href=this.value;"> 
+	<option value="javascript;:">站点资源</option> 
+	<option value="#">教学系统网站链接</option> 
+	<option value="http://10.200.21.61:7001/ieas2.1/welcome">教务管理系统入口</option> 
+	<option value="http://bjzy.buaa.edu.cn">北京卓越联盟</option> 
+	<!--<option value="/system/go.jsp?treeid=1998&apptype=treetemp&urltype=tree.TreeTempUrl">法研中心</option>-->
+	<option value="http://cref.buaa.edu.cn">法研中心</option> 
+	<option value="/system/go.jsp?treeid=1999&apptype=treetemp&urltype=tree.TreeTempUrl">多媒体平台</option> 
+	</select>
+	
+	<a href="http://ecpkn.buaa.edu.cn/contact.jsp?urltype=tree.TreeTempUrl&wbtreeid=1945">联系我们</a>
+	<a href="http://ecpkn.buaa.edu.cn/campus-life2.jsp?urltype=tree.TreeTempUrl&wbtreeid=1985">其他链接</a>
+</p>
+<p class="banquan">版权所有 2013 北京航空航天大学    京ICP备05004617-3</p>
+</div>
+			</div>
+		</div>
+		<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="js/style.js"></script>
+	</body>
+</html>

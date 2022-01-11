@@ -1,0 +1,909 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>北航计算机应用技术专业导师介绍：殷传涛_北京航空航天大学导师介绍 - 可锐研招网</title>
+<meta name="keywords" content="北航,计算机应用技术,导师介绍">
+<meta name="description" content="">
+<link rel="stylesheet" type="text/css" href="/Template/Default/Skin/2018skin/css/school_content1.css">
+<link rel="stylesheet" type="text/css" href="/Template/Default/Skin/2018skin/css/public.css">
+<script type="text/javascript" src="/Template/Default/Skin/2018skin/js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="/Template/Default/Skin/2018skin/js/school_content2.js"></script>
+<script defer src="/Template/Default/Skin/2017skin/Js/slider.js"></script>
+<script type="text/javascript">
+    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
+</script>
+<script language="javascript" type="text/javascript" src="/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Template/Default/Skin/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Template/Default/Skin/js/js.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://kaoyancun.oss-cn-hangzhou.aliyuncs.com/index/yiliao.js"></script>
+</head>
+<body>
+
+<!--顶部开始-->
+<!--顶部开始-->
+<div class='ab_01'>
+ <div class='ab01_c'>
+  <script type="text/javascript" src="/IAA/201812/47.js"></script>
+ </div>
+</div>
+<div class="header">
+  <div class="block1240">
+    <p class="header_p1">[可锐教育]专注硕士研究生一对一服务平台！</p>
+    <div class="shousuo"><input type="text" name="" placeholder="搜素你感兴趣的专业,学校"><a style='cursor:pointer;'></a></div>
+    <div class="header_phone"></div>
+    <p class="header_p2">咨询热线：400-018-9832</p>
+    <span id="topLoginFrom" style="display: none">
+    <a href="/Shop/FastRegister.aspx" class="header_a1" target="_blank" rel="nofollow">登录</a>
+    <a href="/user/Register.aspx" class="header_a2" target="_blank" rel="nofollow">注册</a>
+</span>
+<span id="topLoginStatus">
+</span>
+<script language="javascript" type="text/javascript">
+CheckIsLogin1();
+
+function CheckIsLogin1(){
+    document.getElementById('topLoginStatus').innerHTML = "<img src=\"/Template/Default/Skin/Images/loading.gif\" alt=\"\"/>";
+    jQuery.pe.ajax('logincheck',{params:{},
+	  success:function(response){
+		 switch (jQuery(response).find('status').text()) {
+			case "ok":
+				document.getElementById('topLoginStatus').style.display = "";
+				document.getElementById('topLoginFrom').style.display = "none";
+				document.getElementById('topLoginStatus').innerHTML = GetUserInfo1(response);
+				break;
+			default:
+				document.getElementById('topLoginStatus').style.display = "none";
+            	document.getElementById('topLoginFrom').style.display = "";
+				break;
+		}
+	  }}
+	);
+
+	
+}
+
+function GetUserInfo1(response){
+    var userInfo ="<a target='_balnk'  rel='nofollow' class='name' href=/user/index.aspx>"+ jQuery(response).find('username').text() + "</a><i></i>";
+    userInfo = userInfo + "<a target='_blank'  rel='nofollow' href=\"/User/Default.aspx\">会员中心</a><i></i>";
+    userInfo = userInfo + "<a class='logOut'  rel='nofollow' href=\"/User/Logout.aspx\">退出登录</a>";
+    return userInfo;
+}
+</script>
+  </div>
+</div>
+<!--banner开始-->
+<div class="banner">
+  <div class="block1240">
+ <div class="banner_logo"> <a href="/school/" target="_blank" style='width:100%;height:100%;margin:0 auto;'></a></div>
+  <a href="/school/" target="_blank">首页</a>
+    <div class="xl"  >
+  <div class="ts">院校专业选择<img src="/Template/Default/Skin/2018skin/images/school_content/banner_1.png"></div>
+  <div class="show_bg">
+  <ul class="shows_one">
+
+    <li class="show_li1"><a href="/zhuanye/" target="_blank">选专业</a></li>
+
+    <li class="show_li1"><a href="/school/schools/" target="_blank">选学校</a></li>
+
+    <li class="show_li1"><a href="/new/fenshuxian/" target="_blank">分数线</a></li>
+
+    <li class="show_li1"><a href="/new/zhuanti/baolubi/" target="_blank">报录比</a></li>
+
+
+  </ul>
+  </div>
+</div>
+  <a href="/new/zhaosheng/" target="_blank" style="margin-left: 9px;">招生信息</a>
+  <a href="/books/" target="_blank">备考资料</a>
+  <a href="/kecheng/" target="_blank">辅导培训</a>
+  <a href="/acc/" target="_blank">住宿自习</a>
+  <a href="http://www.koudaitiku.com/" target="_blank" rel="nofollow">在线课堂</a>
+  </div>
+</div>
+<!--正文开始开始-->
+<!--1-->
+<div class="module1">
+  <div class="block1240">
+  <img src="/Template/Default/Skin/2018skin/images/school_content/module1_logo.png">
+    <a href="/" target="_blank">首页</a>
+    <em>/</em>
+    <a href="/school/" target="_blank">研招网</a>
+    <em>/</em>
+<a href="/school/beijing/" target="_blank">北京研招院
+   </a>
+    <em>/</em>
+<a href="/school/buaa/" target="_blank">北京航空航天大学研招院
+   </a>
+    <em>/</em>
+<p>北航计算机应用技术专业导师介绍：殷传涛</p>
+  </div>
+</div>
+<!--2-->
+<div class="module2">
+  <div class="block1240">
+  <div class="module2_left">
+ <img src="/UploadFiles/schoolInfo/SchoolLogo/6.png">
+ <em></em>
+<a href="/school/buaa/">院校首页</a>
+  <em></em>
+<a href="/school/buaa/xinxi/">院校资讯</a>
+  <em></em>
+<a href="/school/buaa/zhaosheng/">招生信息</a>
+  <em></em>
+<a href="/school/buaa/jianzhang/">招生简章</a>
+  <em></em>
+<a href="/school/buaa/zhuanye/">专业目录</a>
+  <em></em>
+<a href="/school/buaa/shumu/">参考书目</a>
+  <em></em>
+<a href="/school/buaa/fenshuxian/">分数线</a>
+  <em></em>
+<a href="/school/buaa/fushi/">考研复试</a>
+  <em></em>
+<a href="/school/buaa/tiaoji/">考研调剂</a>
+  <em></em>
+<a href="/school/buaa/daoshi/">导师信息</a>
+  <em></em>
+  </div>
+  <div class="module2_content">
+    <div class="module2_top">
+      <p >北京航空航天大学</p>
+      <div class="module2_title">
+<i>1</i><i>1</i><i>1</i><i>工业与信息化部</i><i>研究型</i><i>理工</i><i>博</i>
+      </div>
+<a href="javascript:void(0);" class="school_dba" style="margin-left:30px; "><em class="em1"> </em><i>&nbsp;&nbsp;加入对比</i></a>
+<a href="javascript:void(0);" target="_blank" style="margin-left:30px; "><em class="em2"></em><i>&nbsp;&nbsp;在线咨询</i></a>
+<a id="i2" rel="nofollow" class="module2_top_a1" style="background-color:#eef2f2;cursor:pointer;"><em></em><i id="i1" name="112" style="cursor:pointer">&nbsp;&nbsp;关注</i></a>
+    </div>
+      <div class="module2_bottom">
+  <p class="module2_p1">院校代码:10006</p>
+  <p class="module2_p2">人气指数&nbsp;:&nbsp;&nbsp;&nbsp;</p>
+  <div class="module2_line"></div>
+  <div class="module2_number">31290</div>
+  <div class="module2_percentage"><i>超过100%的院校</i></div>
+  </div>
+  </div>
+<div class="ew-box">
+	<div class="top">
+		找学长找学姐找研友
+	</div>
+	<div class="top" id="schoolName">
+		扫码加入<em style="font-style: normal; font-weight: 500"></em>考研交流群
+	</div>
+	<img src="http://www.kaoyan1v1.com/Template/Default/Skin/2018Skin/images/Shouye/school-qun.png">
+	<div class="top">
+		扫码回复院校名称入群
+	</div>
+</div>
+<script type="text/javascript">
+	$(function(){
+		let _html = $('.module2_top p:first-child').html()
+		console.log(_html)
+		$('#schoolName em').html(_html)
+	})
+</script>
+  </div>
+</div>
+<!--3-->
+<div class="module3">
+  <div class="block1240" style="position: relative;">
+  <div class="module3_content">
+<div class="module3_title_one">
+
+<div class="left1_one" style='line-height:40px;'> <p>北航计算机应用技术专业导师介绍：殷传涛</p> </div>
+<div class="left1_two">
+                 <div class="left1_two1">
+                    <span >发布时间 : 2017-04-19 18:04:36</span>
+                <span>来源：北京航空航天大学研究生院</span>
+               <span>浏览量：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=4846964"></script>
+   </span></div>
+                
+<div class="bdsharebuttonbox"><a href="javascript:void(0);" rel="nofollow" class="bds_more" data-cmd="more"></a><a href="javascript:void(0);" rel="nofollow"  class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="javascript:void(0);" rel="nofollow"  class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="javascript:void(0);" rel="nofollow"  class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="javascript:void(0);" rel="nofollow"  class="bds_renren" data-cmd="renren" title="分享到人人网"></a><a href="javascript:void(0);" rel="nofollow"  class="bds_weixin" data-cmd="weixin" title="分享到微信"></a></div>
+                
+                </div>              
+
+</div>
+<div class = 'module3_box'>
+<p>
+	　　<strong><strong><strong>►</strong></strong>个人简介</strong><br />
+	　　姓名：殷传涛<br />
+	　　性别：男<br />
+	　　出生年份：1982<br />
+	　　职称：讲师<br />
+	　　院系：中法工程师学院<br />
+	　　首次聘任导师时间：2012<br />
+	　　现聘任导师一级学科名称：计算机科学与技术<br />
+	　　现聘任导师二级学科名称：计算机应用技术<br />
+	　　主要研究方向及特色：多年来主要从事移动学习、人机交互、增强现实、移动服务、学习理论、资源管理和用户体验等方面的研究工作，并在相关领域的国际会议与期刊中发表10余篇学术论文。<br />
+	<br />
+	　　<strong><strong>►</strong></strong><strong>联系方式</strong><br />
+	　　电子信箱：chuantao.yin@buaa.edu.cn<br />
+	　　办公电话：010-82316629<br />
+	　　办公地点：北京市海淀区学院路37号北京航空航天大学教学区2号楼410<br />
+	　　通信地址：北京市海淀区学院路37号北京航空航天大学中法工程师学院<br />
+	<br />
+	　　<strong><strong><strong>►</strong></strong>学习及工作经历</strong><br />
+	　　1999年进入西南交通大学通信工程系，2001被学校公派至法国巴黎中央理工大学（Ecole Centrale Paris）学习，于2003年同时获得巴黎中央理工大学工程师学位及西南交通大学学士学位。2006年获西南交通大学通信与信息系统专业硕士学位，同年9月被国家留学基金委通过&ldquo;法国五所中央理工大学博士生项目&rdquo;公派至法国里昂中央理工大学（Ecole Centrale de Lyon）攻读博士学位，于2010年1月顺利获得该校的计算机科学与技术专业博士学位。2010年8月起，作为海外优秀人才引入北京航空航天大学中法工程师学院担任青年骨干教师从事科研和教学工作,参与国家&ldquo;863&rdquo;、国际科技合作项目、海外优秀人才等多项科研项目。<br />
+	<br />
+	　　<strong><strong><strong>►</strong></strong>人才培养方面</strong><br />
+	　　讲授本科二年级《电子学实验》，1门次共72学时；参与讲授研究生一年级《计算机游戏设计》2门次共80学时；参与讲授研究生二年级《信息系统》2门次共32学时、《软件工程》1门次共16学时、《人机交互》1门次共16学时。指导本科生毕业设计共4组17人；指导硕士生共2人；协助指导联合培养博士生2人。指导冯如杯项目1组共4人，SRTP项目3组12人，ESTA项目2组8人。赴深圳指导学生暑期实习2批次共33人。主持校级研究生教改基金重点项目1项；主持校一般教改项目1项。参与《CTI工程师教育认证指南》、《法国工程师教育》两本书的编写工作。<br />
+	<br />
+	　　<strong><strong>►</strong></strong><strong>科学研究</strong><br />
+	　　参与863重点项目&ldquo;智慧城市（一期）&rdquo;项目；参与国家国际科技合作专项项目&ldquo;大飞机全生命周期数据活化与网络服务技术联合研发&rdquo;项目（2010），以及&ldquo;智慧城市与云计算：数据密集型处理与现代服务技术联合研发&rdquo;项目（2011）；参与完成&ldquo;智慧宝安&rdquo;规划项目。主持&ldquo;海外回国优秀人才&rdquo;基金1项；主持&ldquo;唯实&rdquo;基金1项；主持&ldquo;领航基金物联网专项&rdquo;基金1项。主持&ldquo;**会议总务子系统&rdquo;项目的研制。发表学术论文2篇；参与《Handbook of Mobile Learning》一书的编写工作。<br />
+	<br />
+	　　<strong><strong><strong>►</strong></strong>学院工作</strong><br />
+	　　辅助院长的教学事务处理工作；负责学院机房和网络设备的管理工作；担任两个班的班主任工作；负责&ldquo;中法教育合作联盟&rdquo;和北京市&ldquo;卓越工程师教育培养计划&rdquo;高校联盟的成立筹备工作，先后组织举办5次相关工作会议。组织&ldquo;2010智慧城市-中法信息学术研讨会&rdquo;、&ldquo;2011巴黎智慧城市学术研讨会&rdquo;和&ldquo;北航-中央理工学术研讨会智慧城市分会&rdquo;等三次国际学术研讨会。邀请法国专家来华访问1次，授课1门，联合培养博士生2人。</p>
+
+</div>
+            <div class="page">
+                 
+            	<span class="prea"><font>上一篇：</font><a href="/school/bit/shumu/4846963.html" target="_self">2015年北京理工大学070200物理学考研参考书目及考试科目</a></span>
+                <span  class="nexta"><font>下一篇：</font><a href="/school/pku/tiaoji/4846965.html" target="_self">2015年北京大学城市与环境学院考研调剂通知</a></span>
+            </div>
+    <div class="module3_mzsm">
+    <div class="mzsm_title"><em></em><i>免责声明</i></div>
+    <p>&nbsp;&nbsp;可锐研招网稿件来源为北京航空航天大学研究生官网，如对稿件内容有疑问，请与北京航空航天大学招生办联系。可锐研招网转载出于非商业性的教育和科研之目的，不代表赞同其观点或证实其内容的真实性。如转载稿涉及版权等问题，请来电或来函联系可锐研招网修改或删除。</p>
+    </div>
+ <div class="module3_read">
+       <div class="mzsm_title"><em></em><i>北京航空航天大学推荐阅读</i></div>
+       <ul>
+
+       </ul>
+ <div class='page_loading hide'><img src='/Template/Default/Skin/2018skin/images/school_content/loading.gif'></div>
+    </div>
+   
+  </div>
+  <div class="module3_right">
+
+<div class="right_1">
+        <div class="right_1_title"><em></em><i>热门推荐</i></div>
+        <div class="right_1_img">
+                 <div class="main1" >
+                    <div class="pro-switch1">
+                      <div class="slider1">
+                          <div class="flexslider1">
+                          <ul class="slides">
+                              <li>
+                                  <div class="img"> <a href="http://www.kaoyan1v1.com/gaoduan/yantu/" target="_blank"><img alt="2018年考研一对一"  src="/Template/Default/Skin/2017skin/images/Shouye/banner1.png" alt=""></a></div>
+                              </li>
+                              <li>
+                                  <div class="img"> <a href="http://www.kaoyan1v1.com/vip/jixun/" target="_blank"><img alt="2018年考研辅导" src="/Template/Default/Skin/2017skin/images/Shouye/banner1(2).png" alt=""></a></div>
+                              </li>
+                              <li>
+                                  <div class="img"> <a href="http://www.kaoyan1v1.com/vip/zheda/" target="_blank"><img alt="2018年考研协议通关" src="/Template/Default/Skin/2018skin/images/ab/rlb.jpg" alt=""></a></div>
+                              </li>
+                          </ul>
+                          </div>
+                      </div>
+              </div>
+             </div>
+        </div>
+        <div class="right_1_bottom">
+         <div class="right_1_bottom_xianzhi">
+          <ul id="btn_ul">
+          <li><img src="/Template/Default/Skin/2018skin/images/yanzhao_major/right_1_logo1.png"><div><a href="/vip/yantu/" target="_blank">研途集训</a></div></li>
+          <li><img src="/Template/Default/Skin/2018skin/images/yanzhao_major/right_1_logo2.png"><div><a href="/vip/zheda/" target="_blank">协议通关课程</a></div></li>
+          <li><img src="/Template/Default/Skin/2018skin/images/yanzhao_major/right_1_logo3.png"><div><a href="/vip/yantu/" target="_blank">金牌1V1</a></div></li>
+          <li><img src="/Template/Default/Skin/2018skin/images/yanzhao_major/right_1_logo4.png"><div><a href="http://www.koudaitiku.com/" target="_blank">在线课堂</a></div></li>
+          </ul>
+          </div>
+          <div class="button_left"></div>
+          <div class="button_right"></div>
+        </div>
+      </div>
+
+<div class="right_2">
+  <div class="right_2_title">
+    <ul>
+      <li style="border-left: 1px solid #e4e4e4;" class="fk right_2_title_li">找学校</li>
+      <li class="right_2_title_li">查专业</li>
+      <li class="right_2_title_li">招生简章</li>
+      <li class="right_2_title_li">分数线</li>
+      <li style="border-right: 1px solid #e4e4e4;" class="right_2_title_li">找导师</li>
+    </ul>
+  </div>
+  <div class="right_2_content">
+  <div class="right_2_search1">
+    <input type="text" name="" placeholder="输入想要查询的学校名称">
+    <a class="search1"></a>
+  </div>
+  <div class="right_2_hot1">
+    <p>热门学校</p>
+    <em>:</em>
+    <ul>
+      <li style="margin-left: 0px;"><a href="/school/pku/" target="_blank">北京大学</a></li>
+      <li><a href="/school/tsinghua/" target="_blank">清华大学</a></li>
+      <li><a href="/school/fudan/" target="_blank">复旦</a></li>
+    </ul>
+  </div>
+    <div class="right_2_province">
+        <p>各地热招</p>
+        <em>:</em>
+        <ul>
+<li><a target="_blank" href="/school/beijing/">北京</a></li>
+<li><a target="_blank" href="/school/jiangsu/">江苏</a></li>
+<li><a target="_blank" href="/school/shanghai/">上海</a></li>
+<li><a target="_blank" href="/school/guangdong/">广东</a></li>
+<li><a target="_blank" href="/school/shaanxi/">陕西</a></li>
+<li><a target="_blank" href="/school/hubei/">湖北</a></li>
+<li><a target="_blank" href="/school/shandong/">山东</a></li>
+<li><a target="_blank" href="/school/liaoning/">辽宁</a></li>
+<li><a target="_blank" href="/school/hebei/">河北</a></li>
+<li><a target="_blank" href="/school/sichuan/">四川</a></li>
+<li><a target="_blank" href="/school/tianjin/">天津</a></li>
+<li><a target="_blank" href="/school/zhejiang/">浙江</a></li>
+<li><a target="_blank" href="/school/hunan/">湖南</a></li>
+<li><a target="_blank" href="/school/chongqing/">重庆</a></li>
+          <li><a href="#" target="_blank" style="color: #4e9de2">更多</a></li>
+        </ul>
+    </div>
+  </div>
+  <div class="right_2_content hide">
+  <div class="right_2_search2">
+    <input type="text" name="" placeholder="输入想要查询的专业名称">
+    <a class="search2"></a>
+  </div>
+  <div class="right_2_hot1">
+    <p>热门搜索</p>
+    <em>:</em>
+    <ul>
+      <li style="margin-left: 0px;"><a href="/zhuanye/jingjixue/a0202/020204/" target="_blank">金融学</a></li>
+      <li><a href="/zhuanye/zexue/0101/010100/" target="_blank">哲学</a></li>
+      <li><a href="/zhuanye/guanlixue/a1204/120401/" target="_blank">行政管理</a></li>
+      <li><a href="/zhuanye/guanlixue/a1253/125300/" target="_blank">会计</a></li>
+    </ul>
+  </div>
+    <div class="right_2_province">
+        <p>各地热招</p>
+        <em>:</em>
+        <ul>
+<li><a target="_blank" href="/school/beijing/">北京</a></li>
+<li><a target="_blank" href="/school/jiangsu/">江苏</a></li>
+<li><a target="_blank" href="/school/shanghai/">上海</a></li>
+<li><a target="_blank" href="/school/guangdong/">广东</a></li>
+<li><a target="_blank" href="/school/shaanxi/">陕西</a></li>
+<li><a target="_blank" href="/school/hubei/">湖北</a></li>
+<li><a target="_blank" href="/school/shandong/">山东</a></li>
+<li><a target="_blank" href="/school/liaoning/">辽宁</a></li>
+<li><a target="_blank" href="/school/hebei/">河北</a></li>
+<li><a target="_blank" href="/school/sichuan/">四川</a></li>
+<li><a target="_blank" href="/school/tianjin/">天津</a></li>
+<li><a target="_blank" href="/school/zhejiang/">浙江</a></li>
+<li><a target="_blank" href="/school/hunan/">湖南</a></li>
+<li><a target="_blank" href="/school/chongqing/">重庆</a></li>
+          <li><a href="/school/schools/" target="_blank" style="color: #4e9de2">更多</a></li>
+        </ul>
+    </div>
+  </div>
+    <div class="right_2_content hide">
+  <div class="right_2_search3">
+    <input type="text" name="" placeholder="输入想要查询的院校名称">
+    <em></em>
+<select>
+  <option>硕士</option>
+  <option>博士</option>
+</select>
+    <a class="search3"></a>
+  </div>
+    <div class="right_2_hot3">
+
+  </div>
+    <div class="right_2_province">
+        <p>各地热招</p>
+        <em>:</em>
+        <ul>
+<li><a target="_blank" href="/school/beijing/">北京</a></li>
+<li><a target="_blank" href="/school/jiangsu/">江苏</a></li>
+<li><a target="_blank" href="/school/shanghai/">上海</a></li>
+<li><a target="_blank" href="/school/guangdong/">广东</a></li>
+<li><a target="_blank" href="/school/shaanxi/">陕西</a></li>
+<li><a target="_blank" href="/school/hubei/">湖北</a></li>
+<li><a target="_blank" href="/school/shandong/">山东</a></li>
+<li><a target="_blank" href="/school/liaoning/">辽宁</a></li>
+<li><a target="_blank" href="/school/hebei/">河北</a></li>
+<li><a target="_blank" href="/school/sichuan/">四川</a></li>
+<li><a target="_blank" href="/school/tianjin/">天津</a></li>
+<li><a target="_blank" href="/school/zhejiang/">浙江</a></li>
+<li><a target="_blank" href="/school/hunan/">湖南</a></li>
+<li><a target="_blank" href="/school/chongqing/">重庆</a></li>
+          <li><a href="/school/schools/" target="_blank" style="color: #4e9de2">更多</a></li>
+        </ul>
+    </div>
+  </div>
+    <div class="right_2_content hide">
+  <div class="right_2_search4">
+  <p>自划线</p>
+  <em>:</em>
+  <select>
+  <option>选择学校</option>
+<option>北京大学</option>
+<option>中国人民大学</option>
+<option>清华大学</option>
+<option>北京航空航天大学</option>
+<option>北京理工大学</option>
+<option>中国农业大学</option>
+<option>北京师范大学</option>
+<option>南开大学</option>
+<option>天津大学</option>
+<option>大连理工大学</option>
+<option>东北大学</option>
+<option>吉林大学</option>
+<option>哈尔滨工业大学</option>
+<option>复旦大学</option>
+<option>同济大学</option>
+<option>上海交通大学</option>
+<option>南京大学</option>
+<option>东南大学</option>
+<option>浙江大学</option>
+<option>中国科学技术大学</option>
+<option>厦门大学</option>
+<option>山东大学</option>
+<option>武汉大学</option>
+<option>华中科技大学</option>
+<option>湖南大学</option>
+<option>中南大学</option>
+<option>中山大学</option>
+<option>华南理工大学</option>
+<option>四川大学</option>
+<option>重庆大学</option>
+<option>电子科技大学</option>
+<option>西安交通大学</option>
+<option>西北工业大学</option>
+<option>兰州大学</option>
+  </select>
+  </div>
+  <div class="right_2_hot4">
+    <p>国家线</p>
+    <em>:</em>
+    <ul>
+      <li style="margin-left: 0px;"><a href="/new/fenshuxian/5119681.html" target="_blank">2017</a></li>
+      <li><a href="/new/fenshuxian/4874659.html" target="_blank">2016</a></li>
+      <li><a href="/new/fenshuxian/4874660.html" target="_blank">2015</a></li>
+      <li><a href="/new/fenshuxian/4874661.html" target="_blank">2014</a></li>
+      <li><a href="/new/fenshuxian/" target="_blank" style="color: #4e9de2">更多</a></li>
+    </ul>
+  </div>
+    <div class="right_2_province">
+        <p>各地热招</p>
+        <em>:</em>
+        <ul>
+<li><a target="_blank" href="/school/beijing/">北京</a></li>
+<li><a target="_blank" href="/school/jiangsu/">江苏</a></li>
+<li><a target="_blank" href="/school/shanghai/">上海</a></li>
+<li><a target="_blank" href="/school/guangdong/">广东</a></li>
+<li><a target="_blank" href="/school/shaanxi/">陕西</a></li>
+<li><a target="_blank" href="/school/hubei/">湖北</a></li>
+<li><a target="_blank" href="/school/shandong/">山东</a></li>
+<li><a target="_blank" href="/school/liaoning/">辽宁</a></li>
+<li><a target="_blank" href="/school/hebei/">河北</a></li>
+<li><a target="_blank" href="/school/sichuan/">四川</a></li>
+<li><a target="_blank" href="/school/tianjin/">天津</a></li>
+<li><a target="_blank" href="/school/zhejiang/">浙江</a></li>
+<li><a target="_blank" href="/school/hunan/">湖南</a></li>
+<li><a target="_blank" href="/school/chongqing/">重庆</a></li>
+          <li><a href="/school/schools/" target="_blank" style="color: #4e9de2">更多</a></li>
+        </ul>
+    </div>
+  </div>
+   <div class="right_2_content hide">
+  <div class="right_2_search5">
+    <input type="text" name="" placeholder="输入导师关键字">
+    <a class="search5"></a>
+  </div>
+  <div class="right_2_hot5">
+<form action="" method="get">
+<label style="margin-left: 0px;"><input name="Fruit" type="radio" value="导师姓名"  checked="checked"/>导师姓名 </label>
+<label><input name="Fruit" type="radio" value="所在院校" />所在院校</label>
+<label><input name="Fruit" type="radio" value="招生专业" />招生专业</label>
+</form>
+  </div>
+    <div class="right_2_province">
+        <p>各地热招</p>
+        <em>:</em>
+        <ul>
+<li><a target="_blank" href="/school/beijing/">北京</a></li>
+<li><a target="_blank" href="/school/jiangsu/">江苏</a></li>
+<li><a target="_blank" href="/school/shanghai/">上海</a></li>
+<li><a target="_blank" href="/school/guangdong/">广东</a></li>
+<li><a target="_blank" href="/school/shaanxi/">陕西</a></li>
+<li><a target="_blank" href="/school/hubei/">湖北</a></li>
+<li><a target="_blank" href="/school/shandong/">山东</a></li>
+<li><a target="_blank" href="/school/liaoning/">辽宁</a></li>
+<li><a target="_blank" href="/school/hebei/">河北</a></li>
+<li><a target="_blank" href="/school/sichuan/">四川</a></li>
+<li><a target="_blank" href="/school/tianjin/">天津</a></li>
+<li><a target="_blank" href="/school/zhejiang/">浙江</a></li>
+<li><a target="_blank" href="/school/hunan/">湖南</a></li>
+<li><a target="_blank" href="/school/chongqing/">重庆</a></li>
+          <li><a href="/school/schools/" target="_blank" style="color: #4e9de2">更多</a></li>
+        </ul>
+    </div>
+  </div>
+</div>
+
+   <div class="right_title" ><i>最新资讯</i><a href="/new/dongtai/" target="_blank">更多</a></div>
+<div class="right_article">
+  <ul>
+<li style="margin-top: 0px;"><em></em><a target="_blank" href="/new/dongtai/5241786.html" title="考研预报名是什么玩意儿？可以不报吗？">考研预报名是什么玩意儿？可以不报吗？</a></li>
+<li><em></em><a target="_blank" href="/new/dongtai/5241775.html" title="2018考研：开学季的考研新风标">2018考研：开学季的考研新风标</a></li>
+<li><em></em><a target="_blank" href="/new/dongtai/5241763.html" title="业内人士揭秘考研培训机构内幕，如何选对机构成难题！">业内人士揭秘考研培训机构内幕，如何选对机</a></li>
+<li><em></em><a target="_blank" href="/new/dongtai/5241634.html" title="2018考研招生简章陆续发布，这些信息必须搞懂！">2018考研招生简章陆续发布，这些信息必须搞</a></li>
+<li><em></em><a target="_blank" href="/new/dongtai/5241600.html" title="可锐教育开创全日制寄宿考研，开创考研新时代！">可锐教育开创全日制寄宿考研，开创考研新时</a></li>
+<li><em></em><a target="_blank" href="/new/dongtai/5241574.html" title="2018考研：暑期过半，即将被淘汰的几类学生！">2018考研：暑期过半，即将被淘汰的几类学生</a></li>
+  </ul>
+</div>
+
+
+
+    <div class="right_title"><em></em><i>北京航空航天大学专区</i></div>
+    <div class="right_box">
+      <ul>
+       <li><a href="/school/buaa/paiming/" target="_blank">实力排名</a></li>
+<li><a href="/school/buaa/wenda/" target="_blank">考研问答</a></li>
+<li><a href="/school/buaa/jingyan/" target="_blank">考研经验</a></li>
+<li><a href="/school/buaa/dagang/" target="_blank">考研大纲</a></li>
+<li><a href="/school/buaa/chengji/" target="_blank">成绩查询</a></li>
+<li><a href="/school/buaa/luqu/" target="_blank">考研录取</a></li>
+<li><a href="/school/buaa/zhenti/" target="_blank">考研真题</a></li>
+<li><a href="/school/buaa/baolubi/" target="_blank">报录比</a></li>
+<li><a href="/school/buaa/tuimian/" target="_blank">推荐免试</a></li>
+<li><a href="/school/buaa/xianchang/" target="_blank">现场确认</a></li>
+<li><a href="/school/buaa/zaizhi/" target="_blank">在职硕士</a></li>
+<li><a href="/school/buaa/kaochang/" target="_blank">考场安排</a></li>
+<li><a href="/school/buaa/xuejiangzhu/" target="_blank">学费奖助</a></li>
+<li><a href="/school/buaa/lianxi/" target="_blank">联系方式</a></li>
+<li><a href="/school/buaa/kemu/" target="_blank">考试科目</a></li>
+      </ul>
+    </div>
+
+
+   <div class="right_title" ><i>考研资料</i><a target="_blank" href="/books/5054770.html">
+更多</a></div>
+<div class="right_article">
+  <ul>
+<li style="margin-top: 0px;"><em></em><a target="_blank" href="/books/4607297.html" title="2018考研北京航空航天大学448汉语写作与百科知识考研真题笔记资料">2018考研北京航空航天大学448汉语写作与百</a></li>
+<li><em></em><a target="_blank" href="/books/4607298.html" title="2018考研北京航空航天大学721基础英语考研真题笔记资料">2018考研北京航空航天大学721基础英语考研</a></li>
+<li><em></em><a target="_blank" href="/books/4607299.html" title="2018考研北京航空航天大学245法语二外考研真题笔记资料">2018考研北京航空航天大学245法语二外考研</a></li>
+<li><em></em><a target="_blank" href="/books/4607300.html" title="2018考研北京航空航天大学244德语二外考研真题笔记资料">2018考研北京航空航天大学244德语二外考研</a></li>
+<li><em></em><a target="_blank" href="/books/4607301.html" title="2018考研北京航空航天大学243日语二外考研真题笔记资料">2018考研北京航空航天大学243日语二外考研</a></li>
+<li><em></em><a target="_blank" href="/books/4607302.html" title="2018考研北京航空航天大学242法语（工程）考研真题笔记资料">2018考研北京航空航天大学242法语（工程）</a></li>
+  </ul>
+</div>
+  </div>
+  </div>
+</div>
+<div class="footer">
+  <div class="block1240">
+  <div class="footer_left">
+  <div class="footer_a">
+    <a href="/kerui/notice/" target="_blank" style="margin-left: 0px;">可锐公告</a>
+    <a href="/kerui/teacher/" target="_blank" >可锐名师</a>
+    <a href="/kerui/about/" target="_blank" >关于可锐</a>
+    
+    <a href="/kerui/jiaoxue/" target="_blank" >可锐荣誉</a>
+    <a href="/sitemap/" target="_blank" >网站地图</a>
+  </div>
+  <p class="footer_p1">版权所有 2004-2018 杭州可锐科技咨询有限公司(kaoyan1v1.com) </p>
+  <div class="footer_a2">
+  <div class="footer_p2">  浙ICP备16039064号-2 浙公网安备 33011802000529号  <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279436975'%3E%3C/span%3E%3Cscript src='https://s4.cnzz.com/z_stat.php%3Fid%3D1279436975%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script></div>
+ <!-- <i>&nbsp;&nbsp;院校资料:</i>
+  <i><a href="#" target="_blank">&nbsp;A</a></i>
+  <i><a href="#" target="_blank">&nbsp;B</a></i>
+  <i><a href="#" target="_blank">&nbsp;C</a></i>
+  <i><a href="#" target="_blank">&nbsp;&nbsp;D</a></i>
+  <i><a href="#" target="_blank">&nbsp;E</a></i>
+  <i><a href="#" target="_blank">&nbsp;F</a></i>
+  <i><a href="#" target="_blank">&nbsp;&nbsp;G</a></i>
+  <i><a href="#" target="_blank">&nbsp;H</a></i>
+  <i><a href="#" target="_blank">&nbsp;J</a></i>
+    <i><a href="#" target="_blank">&nbsp;&nbsp;K</a></i>
+  <i><a href="#" target="_blank">&nbsp;L</a></i>
+  <i><a href="#" target="_blank">&nbsp;M</a></i>
+    <i><a href="#" target="_blank">&nbsp;&nbsp;N</a></i>
+  <i><a href="#" target="_blank">&nbsp;P</a></i>
+  <i><a href="#" target="_blank">&nbsp;Q</a></i>
+    <i><a href="#" target="_blank">&nbsp;&nbsp;R</a></i>
+  <i><a href="#" target="_blank">&nbsp;S</a></i>
+  <i><a href="#" target="_blank">&nbsp;T</a></i>
+    <i><a href="#" target="_blank">&nbsp;&nbsp;W</a></i>
+  <i><a href="#" target="_blank">&nbsp;X</a></i>
+  <i><a href="#" target="_blank">&nbsp;Y</a></i>
+    <i><a href="#" target="_blank">&nbsp;&nbsp;Z</a></i>-->
+  </div>
+  </div>
+  <!--<div class="footer_right">
+    <a href="#" target="_blank" style="background: url(/Template/Default/Skin/2018skin/images/school_content/footer_1.png);"></a>
+    <a href="#" target="_blank" style="background: url(/Template/Default/Skin/2018skin/images/school_content/footer_2.png);"></a>
+    <a href="#" target="_blank" style="background: url(/Template/Default/Skin/2018skin/images/school_content/footer_3.png);"></a>
+    <a href="#" target="_blank" style="background: url(/Template/Default/Skin/2018skin/images/school_content/footer_4.png);"></a>
+  </div>-->
+  </div>
+</div>
+
+<!--院校对比-->
+<div class="school_db">
+   <div class="db_school">
+      <div class="db_school_C">
+       
+       
+       
+      </div>
+   </div>
+   <div class="db_butn">
+      <div class="db_butn_C">
+         <a href="http://www.kaoyan1v1.com/Category_21641/Index.aspx" target="_blank">对比</a>
+         <a class="db_qk" href="javascript:void(0);">清空</a>
+         <a class="db_yc" href="javascript:void(0);">隐藏</a>
+      </div>
+   </div>
+</div>
+<script>
+//减少
+function delect(obj){
+var SchoolId=obj;
+var SchoolArrCookie =  decodeURIComponent($.cookie('SchoolArrCookie'));
+var SchoolArrCookieSp =  SchoolArrCookie.split(',');
+ var number =  SchoolArrCookieSp .length;
+for(var j= 0;j<number;j++){
+             if(SchoolArrCookieSp[j]=='null' ||SchoolArrCookieSp[j]=='undefined' || SchoolArrCookieSp[j]==''){
+            SchoolArrCookieSp.splice(j,1);
+
+
+}
+}
+number =  SchoolArrCookieSp .length;
+           for(var j= 0;j<number;j++){
+             if(SchoolArrCookieSp[j]==SchoolId){
+            SchoolArrCookieSp.splice(j,1);
+         }
+  }
+SchoolArrCookie = SchoolArrCookieSp.join(",");
+console.log(SchoolArrCookie );
+encodeURIComponent($.cookie('SchoolArrCookie',SchoolArrCookie,{ expires: 7,path: '/' }));
+$("#"+obj).remove();
+}
+$(function(){
+ //增加
+function AddShcoolCookies(selSchoolID)
+{          var SchoolArrCookie =  decodeURIComponent($.cookie('SchoolArrCookie'));
+
+  $('.db_school_C').empty();
+  if(SchoolArrCookie !=null || SchoolArrCookie!=undefined || SchoolArrCookie !='null')
+  {
+    var SchoolArrCookieSp =  SchoolArrCookie.split(',');
+for(var j= 0;j<SchoolArrCookieSp .length;j++){
+             if(SchoolArrCookieSp[j]=='null' ||SchoolArrCookieSp[j]=='undefined' || SchoolArrCookieSp[j]==''){
+            SchoolArrCookieSp.splice(j,1);
+
+
+}
+}
+  
+    //约束schoolID数量
+    if(SchoolArrCookieSp.length < 6)
+    {
+      if(contains(SchoolArrCookieSp,selSchoolID)!=true)
+      {
+
+        SchoolArrCookie = SchoolArrCookie +','+ selSchoolID
+        encodeURIComponent($.cookie('SchoolArrCookie',SchoolArrCookie,{ expires: 7,path: '/' }));
+      } 
+    } 
+    addschool(decodeURIComponent($.cookie('SchoolArrCookie')).split(','));
+  }
+  else
+  {
+    encodeURIComponent($.cookie('SchoolArrCookie',selSchoolID,{ expires: 7,path: '/' }))
+    addschool(decodeURIComponent($.cookie('SchoolArrCookie')).split(','));
+  }  
+  $(".school_db").show();
+ }
+//判断是否存在相同值
+function contains(arr, obj) {  
+var i=0;
+while (arr[i])
+{ 
+  if (arr[i] == obj && arr[i]!=null) { return true; }
+    else { i++; }
+}
+return false;  
+}
+
+
+//添加数据
+function addschool(SchoolIDs)
+{
+  for(var i=0; i<SchoolIDs.length;i++)
+  {
+    $.pe.ajax('accessLabel',{
+    labelName:'院校对比_对应院校添加',
+    params:{SchoolID:SchoolIDs[i]},
+    success:
+    function(response){
+      $('.db_school_C').append($(response).find('body').text());
+    }
+    }); 
+  } 
+  //$(".school_db").hide();
+  //$(".school_db").show();
+  
+} 
+
+//清空
+function EmptyShcoolCookies()
+{ 
+   $('.db_school_C').empty()
+   $.cookie('SchoolArrCookie',null,{ expires: 7,path: '/' });
+}
+
+
+function RemoveShcoolCookies(selSchoolID)
+{
+
+} 
+
+
+  var NowSchoolID=10006; //获取当前院校ID
+  $(".school_dba").click(function(){AddShcoolCookies(NowSchoolID);});
+  $(".db_qk").click(function(){ EmptyShcoolCookies();});
+  $(".db_yc").click(function(){$(".school_db").hide();});
+
+
+/*遮罩层*/
+var height3= $(window).scrollTop();
+var width = $(window).width();
+var height = $(document).height();
+var width2 = width/2-185;
+height3=height3+100;
+$("#Login").css({ "width":width, "height": height });
+$("#UserLogin").css({ "left":width2,"top":200});
+$("#guanbi").click(function(){
+  $("#Login").css("display","none");
+});
+console.log(height3);
+
+
+/*用户登录*/
+
+   createCode(); 
+
+$("#UserBtn").click(function(){
+validateCode();
+});
+//验证码
+var code;
+function createCode() 
+{
+ code = "";
+ var codeLength = 6; //验证码的长度
+ var checkCode = $("#checkCode");
+ var codeChars = new Array(0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 
+      'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z',
+      'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'); //所有候选组成验证码的字符，当然也可以用中文的
+ for(var i = 0; i < codeLength; i++) 
+ {
+  var charNum = Math.floor(Math.random() * 52);
+  code += codeChars[charNum];
+ }
+ if(checkCode) 
+ {
+  checkCode.className = "code";
+  checkCode.html(code); 
+ }
+}
+function validateCode() 
+{
+ var inputCode=$("#yzword").val();
+ if(inputCode.length <= 0) 
+ {
+  alert("请输入验证码！");
+  $("#yzword").val("");
+   $("#yzword").focus();
+ }
+ else if(inputCode.toUpperCase() != code.toUpperCase()) 
+ {
+   alert("验证码输入有误！");
+   createCode();
+   $("#yzword").val("");
+   $("#yzword").focus();
+ }
+ else 
+ {
+   Login();
+ }    
+}  
+
+//结束
+function Login(){
+    if ($("#username").val() == '') {
+        $("#RegLogOnUserName").css("display","inline-block");
+        $("#username").focus();
+        return;
+    }
+    if ($("#password").val() == '') {
+        $("#RegLogOnUserPassw").css("display","inline-block");
+        $("#RegLogOnUserName").css("display","none");
+        $("#password").focus();
+        return;
+    }
+    var x = new AjaxRequest('XML', 'status');
+    x.para = ['username=' + $("#username").val(), 'password=' + $("#password").val(), 'expiration='+'保留一个月' ];
+    x.post('userlogin', '/ajax.aspx', function(s){
+        var xml = x.createXmlDom(s);
+        var status = xml.getElementsByTagName("status")[0].firstChild.data;
+        switch (status) {
+            case "ok":
+                     $("#Login").css("display","none");
+                     $("#module4_text").val("");
+                     $("#module4_text").focus();                
+                    console.log("登陆成功！");
+                break;
+            case "err":
+                alert("用户名或者密码错误！");
+                break;
+        }
+        
+    });
+    
+}
+
+});
+</script>
+  <!--遮罩开始-->
+<div id="Login">
+  <div id="UserLogin">
+  <div id="guanbi">关闭</div>
+    <table cellspacing="0" cellpadding="0" border="0">
+    <caption><p>用户登录<span>UserLogin</span></p></caption>
+      <tr>
+        <td class="td1w">用户名：</td>
+        <td class="td2w"><input class="inptsr" id="username" type="text" /></td>
+        <td class="td3w"><span>* </span><span id="RegLogOnUserName" style="display:none;">用户名不能为空</span>
+        </td>
+      </tr>
+      <tr class="tr2">
+        <td class="td1w">密&nbsp;&nbsp;&nbsp;码：</td>
+        <td class="td2w"><input class="inptsr" id="password" type="password" /></td>
+        <td class="td3w"><span style="">* </span><span id="RegLogOnUserPassw" style="display:none;">密码不能为空</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="td1w"></td>
+        <td colspan="2">
+          <div class="wjmm"><a href="http://www.kaoyan1v1.com/User/GetPassword.aspx" target="_blank">忘了密码？</a></div>
+        </td>
+      </tr>
+      <tr class="">
+        <td class="td1w">验证码：</td>
+        <td class="td2ws" colspan="2">
+          <input class=" inptsr inptyz" id="yzword" type="text" />
+          <div class="code" id="checkCode" onclick="createCode()" >DsdDDs</div>
+                                        <a class="sx" title="点击刷新验证码" onclick="createCode()"><i style="">看不清？换一张</i></a>
+        </td>
+      </tr>
+                  <tr>
+        <td colspan="3">
+          <div class="dengluD">
+            <a href="javascript:void(0)" class="btn" id="UserBtn" >登&nbsp;&nbsp;&nbsp;录</a>
+            <a class="zc" target="_blank" href="http://www.kaoyan1v1.com/User/Register.aspx">还没账号？点我注册</a>
+          </div>
+        </td>
+                  </tr>
+    </table>
+  </div>
+</div>  
+
+  <!--遮罩结束-->
+<script type="text/javascript" src="/Template/Default/Skin/js/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="/Template/Default/Skin/2018skin/js/shipei/index.js"></script>
+<script type="text/javascript" src="/Template/Default/Skin/2018skin/js/clid.js"></script>
+</body>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"24"},"share":{},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+
+</html>

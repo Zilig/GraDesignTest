@@ -1,0 +1,1294 @@
+ <!DOCTYPE html>
+<html lang="zh-CN">
+ <head>
+	<meta charset="UTF-8">
+	<title>一种基于层次聚类的复杂网络社区划分算法，首发论文 - 中国科技论文在线</title>
+	<meta content="科技论文,首发论文,一种基于层次聚类的复杂网络社区划分算法,社区划分,中心节点,模块度,复杂网络,开放存取,免费下载" name="keywords"/>
+	<meta content="一种基于层次聚类的复杂网络社区划分算法，朱帅兵，殷传涛，随着互联网的发展和普及，人们对复杂网络的研究越来越多。复杂网络中存在社区结构，而找出社区结构有助于挖掘复杂网络中一些有用" name="Description" />
+   <meta content="一种基于层次聚类的复杂网络社区划分算法" name="citation_title" />
+   	<meta content="朱帅兵" name="citation_author" />
+		<meta content="殷传涛" name="citation_author" />
+		<meta content="陈辉" name="citation_author" />
+		<meta content="熊璋" name="citation_author" />
+	
+	<meta content="2014/12/01" name="citation_publication_date" />
+	<meta content="http://www.paper.edu.cn/releasepaper/content/201412-14" name="citation_pdf_url" />
+	<meta content="zh_CN" name="citation_language" />
+	<meta content="http://www.paper.edu.cn/releasepaper/content/201412-14" name="citation_abstract_html_url" />
+	<meta content="http://www.paper.edu.cn/releasepaper/content/201412-14" name="citation_fulltext_html_url" />
+	<link rel="canonical" href="http://www.paper.edu.cn/releasepaper/content//releasepaper/content/201412-14" />
+	
+    <meta http-equiv="X-UA-Compatible" Content="IE=Edge,chrome=1">
+    <meta name="renderer" content="webkit" />
+    <meta name="viewport" content="width=1100, target-densitydpi=device-dpi, user-scalable=no">
+    <link rel="shortcut icon" href="http://www.paper.edu.cn/app/static/1.0/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="http://www.paper.edu.cn/app/static/1.0/img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="http://www.paper.edu.cn/app/static/1.0/css/index.css">
+    <script src="http://www.paper.edu.cn/app/static/1.0/js/jquery.1.12.4.min.js"></script>
+    <script src="http://www.paper.edu.cn/app/static/1.0/js/login.js"></script>
+</head>
+<script>
+    (function(){
+        var headerTop=$(".header").height();
+        $(window).scroll(function(){
+            //头部跟着滚动
+            if($(window).scrollTop()>=headerTop)
+            {
+                $(".header").addClass("fixed");
+
+            }else
+            {
+                $(".header").removeClass("fixed");
+            }
+            var gotop = $("body").scrollTop() || $(document).scrollTop();
+            if(gotop > 400){
+                //var hid = $(document).width()/2+550;
+                $('.goTop').removeClass('hide');
+                $('.goTop').css({
+                    'position':'fixed',
+                    'left':'90%',
+                    'top':'70%'
+                });
+
+        } else {
+            $('.goTop').addClass('hide');
+        }
+    });
+})();
+</script>
+
+<body  class="whitebc">
+    <!--返回顶部-->
+
+    <!--头部导航-->
+    <div class="top-nav">
+        <div class="width1100">
+            <ul class="right">
+                <li>
+                    <a href="http://www.paper.edu.cn/user/paper/tougao/"><i class="top-nav01"></i>投稿</a>
+                </li>
+                <li>
+                    <a href="http://www.paper.edu.cn/search/index"><i class="top-nav02"></i>检索</a>
+                </li>
+                <li>
+                    <!--<a href="http://www.paper.edu.cn/releasepaper/subject.shtml"><i class="top-nav03"></i>学科</a>-->
+                    <a href="http://www.paper.edu.cn/subject"><i class="top-nav03"></i>学科</a>
+                </li>
+                <li>
+					<!-- <a href="javascript:alert('全新功能正在建设，敬请期待!');"><i class="top-nav04"></i>机构</a> -->
+                    <a href="http://www.paper.edu.cn/releasepaper/school/index.shtml"><i class="top-nav04"></i>机构</a>
+                </li>
+
+                <!--<li class="hasuserbox" id="user_login">-->
+                <li id="user_login">
+                    <a class="login" onclick="loginbox()" href="javascript:void(0)">登录</a>
+                </li>
+                <li class="marit10 hassetting" id="user_register">
+                    <a href="http://www.paper.edu.cn/">
+                        <i class="top-nav07"></i>
+                    </a>
+                </li>
+                <li id="user_quit" class="marit10 hassetting">
+                                    </li>
+                <li>
+                    <i class="shu"></i>
+                    <a href="http://en.paper.edu.cn/">
+                        <span class="bule">English</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!--nav导航-->
+    <div class="header width1100">
+        <div class="logo left">
+            <a href="http://www.paper.edu.cn/">
+                <img src="http://www.paper.edu.cn/app/static/1.0/img/lw_logo.png">
+            </a>
+        </div>
+        <div class="header-nav right">
+            <ul>
+                <li  class="active_index">
+                    <a href="http://www.paper.edu.cn/" target="_blank">首页</a>
+                    <i></i>
+                    <b></b>
+                </li>
+                <li class="active"  class="active_releasepaper">
+                    <a href="http://www.paper.edu.cn/releasepaper/index.shtml" target="_blank">首发</a>
+                    <i></i>
+                    <b></b>
+                </li>
+                <li  class="active_journal">
+                    <a href="http://www.paper.edu.cn/journal/index.shtml" target="_blank">期刊</a>
+                    <i></i>
+                    <b></b>
+                </li>
+                <li  class="active_scholar">
+                    <a href="http://www.paper.edu.cn/scholar/" target="_blank">学者</a>
+                    <i></i>
+                    <b></b>
+                </li>
+                <li  class="active_community">
+                    <a href="http://www.paper.edu.cn/information">资讯</a>
+                    <i></i>
+                    <b></b>
+                </li>
+            </ul>
+        </div>
+        <div class="adress">
+            <i></i> 您当前所在位置：
+            <a href="http://www.paper.edu.cn/" class="index_title">首页</a>                              > <a href="http://www.paper.edu.cn/releasepaper/index.shtml">首发论文</a>                                   </div>
+    </div>
+    <!--弹出框-->
+    <div class="alerx-box" id="notice" style="display: none;z-index: 99999">
+        <div class="alert">
+            <!-- 提示-->
+            <div class="alert-phone2">
+                <div class="alert-title">
+                    <img src="/app/static/1.0/img/alert_logo.png">提示
+                    <i class="iconfont icon-icon right" id="notclose"></i>
+                </div>
+                <div class="alert-content">
+                    <p class="alert-text" id="alert_text2"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <input id="baseurl" value="http://www.paper.edu.cn/" type="hidden">
+<div class="alerx-box" id="loginbox" style="display: none;z-index: 99998">
+    <div class="alert">
+        <!-- 提示-->
+        <!--登录弹出框-->
+        <div class="alert-login">
+        <script src="http://www.paper.edu.cn/app/static/1.0/js/user/base64.js"></script>
+<script src="http://www.paper.edu.cn/app/static/1.0/js/user/md5.js"></script>
+            <div class="alert-title">
+                <img src="/app/static/1.0/img/alert_logo.png">登录到中国科技论文在线
+                <i class="iconfont icon-icon right" id="loginclose"></i>
+            </div>
+            <div class="alert-login-content">
+                <div class="tab-title">
+                    <span class="active">账号密码登录</span>
+                    <!-- <span class="tab-right">短信快速登录</span> -->
+                </div>
+                <!--账号登录-->
+                <div class="tab-content">
+                    <form id="loginAlert">
+                        <p class="alert-input"><i class="iconfont icon-yonghu1"></i>
+                            <input type="text" placeholder="手机号/邮箱/昵称" name="user_account2" id="user_account2" required="ture"><i class="iconfont icon-icon"></i>
+                            <input type="hidden" placeholder="手机号/邮箱/昵称" name="user_account" id="user_account">
+                        </p>
+                        <p class="alert-input"><i class="iconfont icon-iconfontlock"></i>
+                            <input type="password" placeholder="密码" name="user_pwd2" id="user_pwd2" required="ture"><i class="iconfont icon-keyboard"></i>
+                            <input type="hidden" placeholder="密码" name="user_pwd" id="user_pwd">
+                        </p>
+                        <p class="alert-input" style="position:relative;">
+                          <input style="width:80px" required="ture" class="setting-login-yzm" name="imgcode" type="text" size='4' placeholder="验证码" />
+                          <span class="setting-login-change right" ><a style="font-size: 12px;" onclick="changess();" href="javascript:void(0)">看不清，换一个</a></span>
+                          <span style="position: absolute;left:78px;" class="setting-login-yzmimg right"><img  id="checkcode"  src="http://www.paper.edu.cn/user/login/checkcode/"/></span>
+                        </p>
+                        <input type="hidden" name="lgtype" value="1" id="lgtype" required="ture" />
+                        <p class="alert-check">
+                            <span>
+                          <label for="autoLogin" class="redcheck redchecked"></label> 
+                          <input type="checkbox" id="autoLogin" checked="true" >记住密码
+                          </span>
+                        </p>
+                        <input type="submit" class="loginBtn" value="登录">
+                        <p class="login-help"><a class="right" href="http://www.paper.edu.cn/user/person/forgotPass">无法访问您的账户？</a></p>
+                    </form>
+                </div>
+                <!--短信登录-->
+                <!-- <div class="tab-content tab-content2">
+                    <form id="loginPhone">
+                        <p class="alert-input"><i class="iconfont icon-shouji"></i>
+                            <input type="text" placeholder="手机号" name="user_phone" id="userphone2"  required="ture"><i class="iconfont icon-icon"></i>
+                        </p>
+                        <p class="alert-input alert-code">
+                            <input type="text" placeholder="验证码" name="user_code" required="ture">
+                            <button type="button" class="getCode" onclick="authcode(this,2);return false;" >获取验证码</button>
+                        </p>
+                        <input type="hidden" name="lgtype" value="2" required="ture"/>
+                        <input type="submit" class="loginBtn" value="登录">
+                    </form>
+                </div> -->
+                <p class="login-center" id="zhlg_error"></p>
+            </div>
+            <div class="alert-footer">
+                <a href="">快速登录</a>
+                <a id="qqurl"><i class="iconfont icon-qq"></i></a>
+                <a id="weibourl"><i class="iconfont icon-zliconweibo01"></i></a>
+                <a id="weixinurl"><i class="iconfont icon-disanfangweixin"></i></a>
+                <a class="right" href="http://www.paper.edu.cn/user/register/index">前往注册</a>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="http://www.paper.edu.cn/app/static/1.0/js/user/base64.js" type="text/javascript"></script>
+<script src="http://www.paper.edu.cn/app/static/1.0/js/user/md5.js" type="text/javascript"></script>
+
+
+
+<!--跟随导航栏-->
+<div class="movenav top-nav" style="display: none">
+    <div class="movenav-logo left"><img src="http://www.paper.edu.cn/app/static/1.0/img/lw_logo.png"></div>
+    <div class="movebignav left">
+        <ul>
+            <li  class="active_index">
+                <a href="http://www.paper.edu.cn/">首页</a>
+            </li>
+            <li class="active" class="active_releasepaper">
+                <a href="http://www.paper.edu.cn/releasepaper/index.shtml">首发</a>
+            </li>
+            <li  class="active_journal">
+                <a href="http://www.paper.edu.cn/journal/index.shtml">期刊</a>
+            </li>
+            <li  class="active_scholar">
+                <a href="http://www.paper.edu.cn/scholar">学者</a>
+            </li>
+            <li  class="active_community">
+                <a href="http://www.paper.edu.cn/information">资讯</a>
+            </li>
+        </ul>
+    </div>
+    <ul class="right">
+        <li>
+            <a href="http://www.paper.edu.cn/user/paper/tougao"><i class="top-nav01"></i>投稿</a>
+        </li>
+        <li>
+            <a href="http://www.paper.edu.cn/search/index"><i class="top-nav02"></i>检索</a>
+        </li>
+        <li>
+            <a href="http://www.paper.edu.cn/subject"><i class="top-nav03"></i>学科</a>
+        </li>
+        <li>
+            <a href="http://www.paper.edu.cn/releasepaper/school/index.shtml"><i class="top-nav04"></i>机构</a>
+        </li>
+     
+        <li class="hasuserbox" id="user_logins">
+            <a class="login" onclick="loginbox()" href="javascript:void(0)">登录</a>
+        </li>
+        <li class="marit10 hassetting" id="user_registers">
+            <a class="quickRegister" href="http://www.paper.edu.cn/user/register/index">快速注册</a>
+        </li>
+        <li id="user_quits" class="marit10 hassetting">
+        </li>
+        <li>
+            <i class="shu"></i>
+            <a href="http://en.paper.edu.cn/">
+                <span class="bule">English</span>
+            </a>
+        </li>
+    </ul>
+</div>
+<script>
+    $(window).scroll(function(){
+        var height = $("body").scrollTop() || $(document).scrollTop();
+        if(height>148){
+            $('.movenav').show();
+        }else{
+            $('.movenav').hide();
+        }
+    });
+</script>
+
+	<link rel="stylesheet" type="text/css" href="http://www.paper.edu.cn/app/static/1.0/css/owl.carousel.css">
+     <!--引入 fontawesom-4.2.0-->
+    <link rel="stylesheet" type="text/css" href="http://www.paper.edu.cn/app/static/1.0/css/paper/font-awesome.min.css">
+    <!--[if IE]>
+    <link rel="stylesheet" type="text/css" href="http://www.paper.edu.cn/app/static/1.0/css/paper/font-awesome-ie7.min.css">
+    <![endif]-->
+    <!--引入wangEditor.css-->
+    <link rel="stylesheet" type="text/css" href="http://www.paper.edu.cn/app/static/1.0/css/paper/wangEditor-1.1.0-min.css">
+    <link rel="stylesheet" type="text/css" href="http://www.paper.edu.cn/app/static/1.0/css/index.css">
+    <link rel="stylesheet" href="http://www.paper.edu.cn/app/static/1.0/css/newchange.css"/>
+
+		<!--弹出框-->
+<div class="alerx-box hide" id="paper_notice">
+	<div class="alert">
+			<!--动态公开评议须知-->
+			<div class="start-alert hide">
+				<div class="user-alert-title">动态公开评议须知<i class="iconfont icon-icon right"></i></div>
+				<div class="user-alert-content star-alert-content">
+					<p>1. 评议人本着自愿的原则，秉持科学严谨的态度，从论文的科学性、创新性、表述性等方面给予客观公正的学术评价，亦可对研究提出改进方案或下一步发展的建议。</p>
+					<p>2. 论文若有勘误表、修改稿等更新的版本，建议评议人针对最新版本的论文进行同行评议。</p>
+					<p>3. 每位评议人对每篇论文有且仅有一次评议机会，评议结果将完全公示于网站上，一旦发布，不可更改、不可撤回，因此，在给予评议时请慎重考虑，认真对待，准确表述。</p>
+					<p>4. 同行评议仅限于学术范围内的合理讨论，评议人需承诺此次评议不存在利益往来、同行竞争、学术偏见等行为，不可进行任何人身攻击或恶意评价，一旦发现有不当评议的行为，评议结果将被撤销，并收回评审人的权限，此外，本站将保留追究责任的权利。</p>
+					<p>5. 论文所展示的星级为综合评定结果，是根据多位评议人的同行评议结果进行综合计算而得出的。</p>
+					<p class="user-alert-btn">
+						<button class="user-yes">我已阅读并承诺遵循评议原则</button>
+						<button class="user-no">取消</button>
+					</p>
+				</div>
+			</div>
+			<!--上传勘误表-->
+        	<div class="kw-alertBox  kw-alertBox1 hide">
+                <p class="kw-alertBox-title">
+                    <em>勘误表</em>
+                    <i class="question-mark"></i>
+                    <span class="right" ><i class="iconfont icon-icon col666" style="font-size:25px;"></i></span>
+                </p>
+                <div class="up-hideinfo">
+					<p class="title">上传勘误表说明</p>
+					<ul>
+						<li>1. 请按本站示例的“勘误表格式”要求，在文本框中编写勘误表；</li>
+						<li>2. 本站只保留一版勘误表，每重新上传一次，即会覆盖之前的版本；</li>
+						<li>3. 本站只针对原稿进行勘误，修改稿发布后，不可对原稿及修改稿再作勘误。</li>
+					</ul>
+				</div>
+                <form id="errata">
+                  <textarea id="txtDiv" name="errataText" style="width: 200px;"></textarea>
+                            <span class="txtdiv-submit" style="position: relative; top: -31px; left: 511px">
+                                <input type="hidden" name="version" id="errata_version" value="">
+                                <input type="hidden" name="errata_id" id="errata_id" value="">
+                                <input type="hidden" name="type" id="errata_type" value="">
+                               <input onclick="setErrata('errata')" type="button" class="set-btn set-btn-white" value="提交">
+                                <input  type="button"  class="set-btn set-btn-white" class="set-btn set-btn-white" value="取消">
+                            </span>
+                </form>
+                <div class="kwinfo" style="top: 45px">
+                    <p class="kwinfo-p"><b>示例：</b></p>
+                    <img src="/app/static/1.0/img/kwbinfo.png">
+                </div>
+            </div>
+            	<!--上传勘误表-->
+        	<div class="kw-alertBox kw-alertBox2 hide">
+                <p class="kw-alertBox-title">
+                    <em>勘误表</em>
+                    <i class="question-mark"></i>
+                    <span class="right" ><i class="iconfont icon-icon col666" style="font-size:25px;"></i></span>
+                </p>
+                <div class="up-hideinfo">
+					<p class="title">上传勘误表说明</p>
+					<ul>
+						<li>1. 请按本站示例的“勘误表格式”要求，在文本框中编写勘误表；</li>
+						<li>2. 本站只保留一版勘误表，每重新上传一次，即会覆盖之前的版本；</li>
+						<li>3. 本站只针对原稿进行勘误，修改稿发布后，不可对原稿及修改稿再作勘误。</li>
+					</ul>
+				</div>
+                <form id="errata2">
+                  <textarea id="txtDiv2" name="errataText" style="width: 200px;"></textarea>
+                            <span class="txtdiv-submit" style="position: relative; top: -31px; left: 511px">
+                                <input type="hidden" name="version" id="errata_version2" value="">
+                                <input type="hidden" name="errata_id" id="errata_id2" value="">
+                                <input type="hidden" name="type" id="errata_type2" value="">
+                                <input onclick="setErrata('errata2')" type="button" class="set-btn set-btn-white" value="提交">
+                                <input  type="button"  class="set-btn set-btn-white" class="set-btn set-btn-white" value="取消">
+                            </span>
+                </form>
+                <div class="kwinfo" style="top: 45px">
+                    <p class="kwinfo-p"><b>示例：</b></p>
+                    <img src="/app/static/1.0/img/kwbinfo.png">
+                </div>
+            </div>
+	
+			<!--上传后印本-->
+			<div class="erratabox  erratabox2 hide">
+				<p class="title">上传后印本 <i class="iconfont icon-icon right"></i></p>
+					<form id="printupload"  method="post" enctype="multipart/form-data">
+				<div class="upbox">
+					<p class="up-input"><input type="file" name="upload">( 请提交PDF文档 )</p>
+					<p class="mess">* 后印本是指作者提交给期刊的预印本，经过同行评议和期刊的编辑后发表在正式期刊上的论文版本。作者自愿上传，上传前请查询出版商所允许的延缓公示的政策，若因此产生纠纷，本站概不负责。</p>
+				</div>
+				<input type="hidden" name="paper_id" value="NUDGYFxQORTVcIxeQMgeQeQ">
+				<p class="center"><button class="set-btn set-btn-org" onclick="return form_submit('printupload','/newpaper/editprint','print');">提交</button><button class="set-btn set-btn-white">关闭</button></p>
+				</form>
+			</div>
+			<!--发邮件-->
+			<div class="li-send-emali hide">
+				<form id="setEmail">
+				<p class="send-for">发邮件给  <b class="name">王小芳</b>
+				<span class="red" title="一天内，每个账户最多可发送20封邮件，最多向同一用户发送3封邮件。"> * </span>
+				<!-- <span style="padding-left:20%;">
+					<input name="emailType1" type="checkbox" checked="checked" value="boxmail">
+					<span for="atexpin-1">发私信</span>
+				</span>
+				<span style="padding-left:10%;">
+					<input name="emailType2" type="checkbox" checked="checked" value="email">
+					<span>发邮件
+					<span class="red" title="一天内，每个账户最多可发送20封邮件，最多向同一用户发送3封邮件。">
+					 * </span>
+					</span>
+				</span> -->
+				<i class="iconfont icon-icon right"></i></p>
+				<div class="li-emali-content">
+					<p>收件人：<span class="receive_name"></span></p>
+					<p>收件人邮箱： <span class="receive_email"></span></p>
+					<p>发件人邮箱： <span class="send_email" id="tsend_email"></span></p>
+					<!-- <p>发件人邮箱：<input type="email" placeholder="请输入邮箱地址" id="tsend_email" name="send_email"/></p> -->
+					<p><span style="vertical-align: top;">发送内容：</span><textarea class="emali-conn" placeholder="请输入邮箱私信内容" maxlength="300" name="content" id="tsend_content"></textarea></p>
+					<p class="overafter"><em class="right"><span class="num">0</span>/300</em></p>
+					<p class="email_tishi tip colred center hide">请填写发件人邮箱地址</p>
+				</div>
+				<p class="center">
+					   <input type="hidden" name="user_id" value="U">
+                       <input type="hidden" name="username" value="">
+                        <input type="hidden" name="receive_email" value="">
+                        <input type="hidden" name="send_email" value="">
+                        <input type="hidden" name="emailType2" value="1">
+					<button class="set-btn set-btn-org" style="margin-right:20px;" onclick=" return sendEmail();">提交</button>
+					<button class="set-btn set-btn-white">关闭</button></p>
+					</form>
+			</div>
+			<!--收录表格-->
+			<div class="atexp-includes hide">
+				<div class="atexp-include">
+					<p class="atexp-include-title">论文收录信息<i class="iconfont icon-icon right"></i></p>
+					<form id="paperInclude" method="post"  action='' onsubmit="return paperInclude();">
+					<table>
+						<tr>
+							<td width="12.5%">论文编号</td>
+							<td width="87.5%"><input class="explain-input" type="hidden" value="201412-14">201412-14</td>
+						</tr>
+						<tr>
+							<td width="12.5%">论文题目</td>
+							<td width="87.5%"><input  class="explain-input" type="hidden" value="一种基于层次聚类的复杂网络社区划分算法">一种基于层次聚类的复杂网络社区划分算法</td>
+						</tr>
+						<tr>
+							<td width="12.5%">文献类型</td>
+							<td width="87.5%">
+								<select class="atexp-include-select selectPaperType inputAll" name="paperType">
+																		<option value="journal">期刊</option>
+																		<option value="focus">专著</option>
+																		<option value="translation">译著</option>
+																		<option value="proceedings">论文集</option>
+																		<option value="online">在线文献</option>
+																		<option value="cd-rom">光盘文献</option>
+																		<option value="other">其他文献</option>
+									
+								</select>
+							</td>
+						</tr>
+						<tr>
+							<td width="12.5%">收录<br/><span id="select_paper">期刊</span></td>
+							<td width="87.5%">
+							<div class="atexp-includeboxs">
+								<!--期刊-->
+								<span class="atexp-include-box  jInput">
+									<span class="atexp-include-book">
+										<img class="getImg" src="/app/static/1.0/img/lbook.jpg" />
+										<p><em class="hideinput"><span>上传封面</span><input class="inputAll" type="file" name="upload"  onchange="getImg(this, 'http://www.paper.edu.cn/releasepaper/upfile/NUDGYFxQORTVcIxeQMgeQeQ/image?step=1&form=json')" value="上传封面"><input type="hidden" name="cover"></em></p>
+									</span>
+									<p>
+										<input type="radio"  name="literatureType1" value="zh"   class="zhType inputAll"  checked="true"/><label for="atexpin-1">中文期刊</label>
+										<input type="radio" name="literatureType1" value="en" class="enType inputAll"  /><label for="atexpin-2">英文期刊</label>
+									</p>
+									<p class="atexp-include-boxp">
+										期刊名称（中文）
+										<input type="text" name="journal_title_zh" value="" class="inputAll" />
+										<!--<span>没有找到？<a href="#">点击新增</a></span>-->
+									</p>
+									<p class="atexp-include-boxp">
+										期刊名称（英文）
+										<input type="text"  name="journal_title_en" value=""  class="inputAll" />
+									</p>
+									<p class="atexp-include-boxp atexp-include-time">
+										<input type="text" name="journal_year" value="" class="inputAll" >年，
+										<input type="text" name="journal_volume" value="" class= "inputAll"  />卷（<input type="text" name="journal_number" value=""  class="inputAll" />）
+										<input type="text" name="journal_start" value=""  class="inputAll" />
+										<input type="text" name="journal_end" value="" class="inputAll"  />
+									</p>							
+								</span>
+								<!--专著-->
+								<span class="atexp-include-box mInput lin-hide">
+									<span class="atexp-include-book">
+										<img class="getImg" src="/app/static/1.0/img/lbook.jpg" />
+										<p><em class="hideinput"><span>上传封面</span><input class="inputAll" type="file" name="upload"  onchange="getImg(this, 'http://www.paper.edu.cn/releasepaper/upfile/NUDGYFxQORTVcIxeQMgeQeQ/image?step=1&form=json')" value="上传封面"><input type="hidden" name="cover"></em></p>
+									</span>
+									<p>
+										<input type="radio"name="literatureType2" value="zh" class="zhType inputAll" checked="checked" /><label for="atexpin-1">中文专著</label>
+										<input type="radio" name="literatureType2" value="en" class="enType inputAll"/><label for="atexpin-2">英文专著</label>
+									</p>
+									<p class="atexp-include-boxp">
+										书名（中文）
+										<input type="text" name="focus_title_zh" class="inputAll"/>
+									</p>
+									<p class="atexp-include-boxp">
+										书名（英文）
+										<input type="text" name="focus_title_en" class="inputAll"/>
+									</p>
+									<p class="atexp-include-boxp">
+										出版地
+										<input type="text" name="focus_address" class="inputAll"/>
+									</p>
+									<p class="atexp-include-boxp">
+										出版社
+										<input type="text" name="focus_club" class="inputAll"/>
+									</p>	
+									<p class="atexp-include-boxp">
+										出版年
+										<input type="text" name="focus_year" class="inputAll"/>
+									</p>							
+								</span>
+								<!--译著-->
+								<span class="atexp-include-box mInput1 lin-hide">
+									<span class="atexp-include-book">
+										<img class="getImg" src="/app/static/1.0/img/lbook.jpg" />
+										<p><em class="hideinput"><span>上传封面</span><input class="inputAll" type="file" name="upload"  onchange="getImg(this, 'http://www.paper.edu.cn/releasepaper/upfile/NUDGYFxQORTVcIxeQMgeQeQ/image?step=1&form=json')" value="上传封面"><input type="hidden" name="cover"></em></p>
+									</span>
+									<p>
+										<input type="radio" name="literatureType3" value="zh" class="zhType inputAll" checked="checked" /><label for="atexpin-1">中文译著</label>
+										<input type="radio" name="literatureType3" value="en" class="enType inputAll"/><label for="atexpin-2">英文译著</label>
+									</p>
+									<p class="atexp-include-boxp">
+										书名（中文）
+										<input type="text" name="translation_title_zh" class="inputAll"/>
+									</p>
+									<p class="atexp-include-boxp">
+										书名（英文）
+										<input type="text" name="translation_title_en" class="inputAll"/>
+									</p>
+									<p class="atexp-include-boxp">
+										出版地
+										<input type="text" name="translation_address" class="inputAll"/>
+									</p>
+									<p class="atexp-include-boxp">
+										出版社
+										<input type="text" name="translation_club" class="inputAll"/>
+									</p>	
+									<p class="atexp-include-boxp">
+										出版年
+										<input type="text" name="translation_year" class="inputAll"/>
+									</p>							
+								</span>
+								<!--论文集-->
+								<span class="atexp-include-box cInput lin-hide">
+									<span class="atexp-include-book">
+										<img class="getImg" src="/app/static/1.0/img/lbook.jpg" />
+										<p><em class="hideinput"><span>上传封面</span><input class="inputAll" type="file" name="upload"  onchange="getImg(this, 'http://www.paper.edu.cn/releasepaper/upfile/NUDGYFxQORTVcIxeQMgeQeQ/image?step=1&form=json')" value="上传封面"><input type="hidden" name="cover"></em></p>
+									</span>
+									<p>
+										<input type="radio" name="literatureType4" value="zh" class="zhType inputAll" checked="checked" /><label for="atexpin-1">中文论文集</label>
+										<input type="radio" name="literatureType4" value="en" class="enType inputAll"/><label for="atexpin-2">英文论文集</label>
+									</p>
+									<p class="atexp-include-boxp atexp-include-time">
+										编者<input type="text" name="proceedings_editor_zh" class="inputAll">.论文集名称（中文）<input type="text" name="proceedings_title_zh"  class="inputAll"/>   [c].
+									</p>
+									<p class="atexp-include-boxp atexp-include-time">
+										出版地<input type="text" name="proceedings_address_zh" class="inputAll">
+										出版社<input type="text" name="proceedings_club_zh" class="inputAll"/>
+										出版年<input type="text" name="proceedings_year_zh" class="inputAll" style="width:45px !important"/>，
+										<input type="text" name="proceedings_start_zh" class="inputAll" style="width:35px !important"/>-<input type="text" name="proceedings_end_zh" class="inputAll" style="width:35px !important"/>
+									</p>							
+									<p class="atexp-include-boxp atexp-include-time">
+										编者<input type="text" name="proceedings_editor_en" class="inputAll">.论文集名称（英文）<input type="text" name="proceedings_title_en" class="inputAll"/>   [c].
+									</p>
+									<p class="atexp-include-boxp atexp-include-time">
+										出版地<input type="text" name="proceedings_address_en" class="inputAll">出版社<input type="text" name="proceedings_club_en" class="inputAll"/>
+										出版年<input type="text" name="proceedings_year_en" class="inputAll" style="width:45px !important"/>，<input type="text" name="proceedings_start_en" class="inputAll" style="width:33px !important"/>-<input type="text" name="proceedings_end_en" class="inputAll" style="width:33px !important"/>
+									</p>							
+								</span>		
+								<!--在线文献-->
+								<span class="atexp-include-box olInput lin-hide">
+									<span class="atexp-include-book">
+										<img  class="getImg" src="/app/static/1.0/img/lbook.jpg" />
+										<p><em class="hideinput"><span>上传封面</span> <input class="inputAll" type="file" name="upload"  onchange="getImg(this, 'http://www.paper.edu.cn/releasepaper/upfile/NUDGYFxQORTVcIxeQMgeQeQ/image?step=1&form=json')" value="上传封面"><input type="hidden" name="cover"></em></p>
+									</span>
+									<p>
+										<input type="radio" name="literatureType5" value="zh" class="zhType inputAll"  checked="checked" /><label for="atexpin-1">中文文献</label>
+										<input type="radio" name="literatureType5" value="en"  class="enType inputAll"/><label for="atexpin-2">英文文献</label>
+									</p>
+									<p class="atexp-include-boxp">
+										期刊名称（中文）
+										<input type="text" name="online_title_zh" class="inputAll"/>
+									</p>
+									<p class="atexp-include-boxp">
+										期刊名称（英文）
+										<input type="text" name="online_title_en" class="inputAll"/>
+									</p>
+									<p class="atexp-include-boxp atexp-include-time">
+										日期<input type="text" name="online_year" class="inputAll"/>-<input type="text" name="online_month"class="inputAll"/>-<input type="text" name="online_day" class="inputAll" />
+									</p>
+									<p class="atexp-include-boxp">
+										在线地址http://
+										<input type="text" name="online_url" class="inputAll"/>
+									</p>							
+								</span>
+								<!--光盘文献-->
+								<span class="atexp-include-box cdInput lin-hide">
+									<span class="atexp-include-book">
+										<img  class="getImg" src="/app/static/1.0/img/lbook.jpg" />
+										<p><em class="hideinput"><span>上传封面</span><input class="inputAll" type="file" name="upload"  onchange="getImg(this, 'http://www.paper.edu.cn/releasepaper/upfile/NUDGYFxQORTVcIxeQMgeQeQ/image?step=1&form=json')" value="上传封面"><input type="hidden" name="cover"></em></p>
+									</span>
+									<p>
+										<input type="radio" name="literatureType6" value="zh"  class="zhType inputAll" checked="checked" /><label for="atexpin-1">中文文献</label>
+										<input type="radio" name="literatureType6" value="en"  class="enType inputAll" /><label for="atexpin-2">英文文献</label>
+									</p>
+									<p class="atexp-include-boxp">
+										文题（中文）
+										<input type="text" name="cd-rom_title_zh" class="inputAll"/>
+									</p>
+									<p class="atexp-include-boxp">
+										文题（英文）
+										<input type="text" name="cd-rom_title_en" class="inputAll"/>
+									</p>
+									<p class="atexp-include-boxp">
+										出版地
+										<input type="text" name="cd-rom_address" class="inputAll"/>
+									</p>							
+									<p class="atexp-include-boxp atexp-include-time">
+										出版社<input type="text" name="cd-rom_club"  style="width: 200px !important;" class="inputAll"/>,出版日期<input type="text" name="cd-rom_year" class="inputAll"/>-<input type="text" name="cd-rom_month" class="inputAll"/>-<input type="text" name="cd-rom_day"  class="inputAll"/>
+									</p>							
+								</span>	
+								<!--其他文献-->
+								<span class="atexp-include-box zInput lin-hide">
+									<span class="atexp-include-book">
+										<img  class="getImg" src="/app/static/1.0/img/lbook.jpg" />
+										<p><em class="hideinput"><span>上传封面</span><input class="inputAll" type="file" name="upload"  onchange="getImg(this, 'http://www.paper.edu.cn/releasepaper/upfile/NUDGYFxQORTVcIxeQMgeQeQ/image?step=1&form=json')" value="上传封面"><input type="hidden" name="cover"></em></p>
+									</span>
+									<p>
+										<input type="radio" name="literatureType7" value="zh" class="zhType inputAll"  checked="checked" /><label for="atexpin-1"  >中文文献</label>
+										<input type="radio" name="literatureType7" value="en" class="enType inputAll" /><label for="atexpin-2">英文文献</label>
+									</p>
+									<p class="atexp-include-boxp">
+										文题（中文）
+										<input type="text" name="other_title_zh" class="inputAll"/>
+									</p>
+									<p class="atexp-include-boxp">
+										文题（英文）
+										<input  type="text" name="other_title_en" class="inputAll"/>
+									</p>
+									<p class="atexp-include-boxp">
+										出版地
+										<input type="text" name="other_addreass" class="inputAll"/>
+									</p>							
+									<p class="atexp-include-boxp atexp-include-time">
+										出版社<input type="text" name="other_club" style="width: 200px !important;" class="inputAll"/>,出版日期<input  type="text" name="other_year"  class="inputAll"/>-<input type="text" name="other_month" class="inputAll"/>-<input type="text" name="other_day" class="inputAll"/>
+									</p>							
+								</span>						
+							</div>		
+							</td>
+						</tr>
+						<tr class="addsel">
+							<td colspan="2">
+								<p>英文作者写法：</p>
+								<p>中外文作者均姓前名后，姓大写，名的第一个字母大写，姓全称写出，名可只写第一个字母，其后不加实心圆点“.”,</p>
+								<p>作者之间用逗号“，”分隔，最后为实心圆点“.”,</p>
+								<p>示例1：原姓名写法：Albert Einstein,编入参考文献时写法：Einstein A.</p>
+								<p>示例2：原姓名写法：李时珍；编入参考文献时写法：LI S Z.</p>
+								<p>示例3：YELLAND R L,JONES S C,EASTON K S,et al.</p>
+							</td>
+						</tr>
+					</table>
+						
+					<div class="atexp-include-btbox">
+						  <input type="hidden" name="opt_type" id="opt_type" value=""/>
+						   <input type="hidden" name="paper_id" value="NUDGYFxQORTVcIxeQMgeQeQ">
+							<input type="hidden" name="paper_title_zh" value="一种基于层次聚类的复杂网络社区划分算法">
+							<input type="hidden" name="paper_title_en" value="A method for community detection of complex networks based on hierarchical clustering">
+						<input class="atexp-include-btboxcan inputAll" type="reset" value="重置">
+						<input type="submit" class="inputAll" value="提交">
+					</div>
+				</form>
+				</div>
+		
+			</div>
+			<!--修改稿弹出框-->
+        <div class="xiugaiBox hide">
+        		<p class="xiugai-title">上传修改稿说明：<span class="xiugaiBox-close right"><i class="iconfont icon-icon"></i></span></p>
+        		<p>1.修改稿的作者顺序及单位须与原文一致；</p>
+        		<p>2.修改稿上传成功后，请勿上传相同内容的论文；</p>
+        		<p>3.修改稿中必须要有相应的修改标记，如高亮修改内容，添加文字说明等，否则将作退稿处理。</p>
+        		<p>4.请选择DOC或Latex中的一种文件格式上传。</p>
+        		<form id="ajaxupload"  method="post" enctype="multipart/form-data">
+        		<table class="xiugai-table">
+        			<tbody>
+        				<tr>
+        					<td width="3%"><input type="radio" name="paper_type" value="1" /></td>
+        					<td width="14%">上传doc论文</td>
+        					<td width="84%">
+								　								请上传模板编辑的DOC文件<input type="file" name="word_file"></p></td>
+        				</tr>
+        				<tr>
+        					<td><input type="radio" name="paper_type" value="2" /></td>
+        					<td>上传latex论文</td>
+        					<td>
+        						<p>									* 上传模板导出的pdf论文文件（须含页眉）<input type="file" name="pdf_file" ></p>
+        						<p>									* 上传模板编辑的tex文件<input type="file" name="tex_file"></p>
+        					</td>
+        				</tr>
+        			</tbody>
+        		</table>
+        		<p class="center xiugaiBox-btn">
+					<input  type="hidden" name="paper_id" value="NUDGYFxQORTVcIxeQMgeQeQ"/>
+        			<button class="set-btn" onclick=" return form_submit('ajaxupload','/newpaper/editfile','edit');">提交</button>
+        			<button class="set-btn set-btn-white">关闭</button>
+        		</p>
+        		</form>
+        		
+        	</div>
+			<!--回复成功-->
+			<div class="deletebox ques-tipbox hide">
+				<p class="center warning-word" style="margin-top:38px;"><img src="/app/static/1.0/img/login_success.png" alt="" /></p>
+				<p class="center info">回复成功!</p>
+			</div>	
+			<!--我要评议功能-->		
+			<div class="atexp-deliberate hide">
+				
+		
+			
+			</div>  
+
+	</div>
+</div>
+
+<!--论文详细页内容-->
+<div class="article-explain-main width1100">		
+	<!--左边部分导航栏-->
+	<div class="at-exp-left left">
+		<ul class="atex-list">
+			<li class="atex-list-li">
+				<p class="atex-list-num visit_num">0</p>
+				<p class="atex-list-icon"><i class="iconfont icon-yanjing"></i></p>
+			</li>
+			<li class="atex-list-li atex-list-actli" datanum='0'>
+				<p class="atex-list-num down_num">0</p>
+				<p class="atex-list-icon">
+					<!--<i class="iconfont icon-4yunxiazai"></i>-->
+					<img src="/app/static/1.0/img/paper/xiazai.png" alt="" style="position: relative;top: -4px;"/>
+				</p>
+			</li>
+			<li class="atex-list-litxt">浏览</li>
+			<li class="atex-list-litxt">下载</li>
+		</ul>
+		<div class="moveatexBox">
+			<ul class="atex-nav">
+				<li><a href="#atexp-abstract">摘要</a></li>
+				<li><a href="#atexp-abstract-txt">关键词</a></li>
+				<li><a href="#atexp-fund">基金信息</a></li>
+				<li><a href="#atexp-chart">论文图表</a></li>
+				<!--<li><a href="#atexp-free">免审推荐</a></li>-->
+				
+				<li><a href="#atexp-open">同行评议</a></li>
+				<li><a href="#atex-relate0">相关论文</a></li>
+				<li><a href="#atexp-comment">评论</a></li>
+			</ul>
+		    <div class="atex-book">
+		    	<!--<img  src="../img/shoulu.png" class="show-shoulu">-->
+		    	<!--<p class="atex-book-txt active">添加收录信息</p>-->
+		    	<!--<p class="atex-book-txt txthide">盐城工学院学报</p>-->
+		        <!--<p class="atex-book-txt txthide">2016,9(24):2585-2592</p>-->
+		     			     	
+		     	<!--修改稿、勘误表、后印本、收录信息：分7种情况-->
+		     	<!--上传的话+a标签，例如上传修改稿-->
+		        <ul class="seven-operation">
+		        
+		        </ul>	
+	   		</div>
+		</div>
+	</div>
+	<!--右边部分主体-->
+	<div class="at-exp-right right">
+
+		<!--右侧分享功能-->
+        <div class="atexp-share">
+	        <ul>
+		        <li class="atexp-share-mainbt">
+			        <a href="#"><i class="iconfont icon-fenxiang1"></i></a>
+			        <div class="atex-share-box jiathis_style_32x32">
+						<div class="bdsharebuttonbox">
+						   
+							<span><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信" onclick="setClickNum(this, 'share')"></a></span>
+							<span><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博" onclick="setClickNum(this, 'share')"></a></span>
+							<span><a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友" onclick="setClickNum(this, 'share')"></a></span>
+							</div>
+						<script>
+							
+							window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":["qzone","tsina","bdysc","weixin","renren","tqq","bdxc","tieba","douban","bdhome","sqq","youdao","people","mail","isohu","ty","fbook","twi","linkedin","evernotecn","copy","print"],"bdPic":"","bdStyle":"1","bdSize":"32"},"share":{},"image":{"viewList":["weixin","tsina","sqq"],"viewText":"分享到：","viewSize":"32"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["weixin","tsina","sqq"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+							
+							</script>
+			        </div>
+				
+		        </li>				
+		        <li class="shownum " clicknum="1">
+		        	<a href="javascript:void(0);" title="收藏"  class="figer"  onclick="setClickNum(this, 'collection')" ><i   class="iconfont icon-xin"></i><br>（<span class="collect_num">0</span>）</a>		        		
+		        </li>	
+		        <li class="shownum" clicknum="1">
+		        	<a href="javascript:void(0);"  title="点赞" class="figer" onclick="setClickNum(this, 'like')"><i class="iconfont icon-dianzan1"></i><br>（<span class="like_num">0</span>）</a>
+		        </li>		
+		        <li class="ax-gotop"><i class="iconfont icon-top"></i></li>	
+		        <li><a href="javascript:void(0)" title="举报" ><i class="iconfont icon-jinggao jubao"></i></a></li>	
+	        </ul>
+        </div>
+        		<div class="atexp-abstract">
+			<p class="atexp-abstract-title">一种基于层次聚类的复杂网络社区划分算法 </p>
+			<!--星级-->
+			<div class="atexp-star">
+
+					<p class="center zhpy"></p>
+					<p><span class="time">首发时间：2014-12-01</span></p>
+
+			</div>
+			<div class="atexp-abstract-authorbox haszuozhe">
+				<div class="namebox" style="margin-top:10px;">
+					
+				  					<em>
+												  <span class="col666 atexp-abstract-author">朱帅兵</span>
+						 												<sup class="colorange">
+						  															1 &nbsp;&nbsp;
+													 													 													 
+						</sup>       
+																		<span class="atexp-abstract-xing"><i class="iconfont icon-youjian"  attr0="1019169239&#64;qq&#46;com"  attr1="MUAGeQFeQQ"></i></span>
+												<!--姓名提示框-->
+												<p class="atexp-abstract-tips">
+							朱帅兵（1990-），男，硕士研究生，主要研究方向：社交网络
+						</p>
+						                    </em>
+                  					<em>
+												  <span class="col666 atexp-abstract-author">殷传涛</span>
+						 												<sup class="colorange">
+						  															1 &nbsp;&nbsp;
+													 															2 &nbsp;&nbsp;
+													 													 
+						</sup>       
+																		<!--姓名提示框-->
+												<p class="atexp-abstract-tips">
+							殷传涛（1982-），男，讲师，主要研究方向：智慧城市、数据活化、移动学习等
+						</p>
+						                    </em>
+                  					<em>
+												  <span class="col666 atexp-abstract-author">陈辉</span>
+						 												<sup class="colorange">
+						  															1 &nbsp;&nbsp;
+													 													 													 
+						</sup>       
+																		<!--姓名提示框-->
+												<p class="atexp-abstract-tips">
+							陈辉（1983-），男，助理研究员，智慧城市，数据活化等
+						</p>
+						                    </em>
+                  					<em>
+												<a href="http://www.paper.edu.cn/sq/wesci/mypaper/NQz2g95NMbzVQV3u" target="_blank" class="colblue79 atexp-abstract-author">熊璋</a>
+																		<sup class="colorange">
+						  													 													 															3 &nbsp;&nbsp;
+													 
+						</sup>       
+																		<span class="atexp-abstract-xing"><i class="iconfont icon-youjian"  attr0="xiongz&#64;buaa&#46;edu&#46;cn"  attr1="NUzGgF5QMRzVQI3eQ"></i></span>
+												<!--姓名提示框-->
+												<p class="atexp-abstract-tips">
+							熊璋（1956-），男，教授，智慧城市，数据活化等
+						</p>
+						                    </em>
+                  
+					
+				</div>				
+				<!--私信弹出框-->
+				<!--<div class="sixin-alert">
+					<p class="sixin-alert-title"><b class="left">发送私信</b><i class="right iconfont icon-icon"></i></p>
+					<div class="sixin-alert-content">
+						<p>发送给<span class="name">小明</span></p>
+						<textarea class="sixin-input"></textarea>
+						<button class="right">发送</button>
+					</div>
+				</div>-->
+			</div>
+			<ul class="atexp-abstract-ch atexp-abstract-ch2">
+				  				  				 <li>1、北京航空航天大学中法工程师学院，北京 100191</li>
+                 				 <li>2、深圳北航新兴产业技术研究院，深圳 518057</li>
+                 				 <li>3、北京航空航天大学计算机学院，北京 100191</li>
+                 
+                  			</ul>
+            <p class="atexp-abstract-ch" id="atexp-abstract" style="margin-top: 20px;"><span class="atexp-abstract-bold">摘要：</span>随着互联网的发展和普及，人们对复杂网络的研究越来越多。复杂网络中存在社区结构，而找出社区结构有助于挖掘复杂网络中一些有用的信息，因此社区划分成为了近年来的一个研究热点。目前常见的社区划分算法有基于图论的算法和基于层次聚类的方法，这些算法中，有些需要预先确定社区的数目，有些时间复杂度非常高。本文提出了一种基于层次聚类的社区划分算法，从全局中心节点建立初始社区，再根据联系紧密程度一层一层地扩展社区，最后把一些过小的社区融合到大社区中。另外，本文在模块度的基础上提出了扩展模块度的概念，可以更好的衡量社区划分结果的好坏。</p>
+            <p class="atexp-abstract-ch" id="atexp-abstract-txt" style="margin-top: 20px;"><span class="atexp-abstract-bold">关键词：</span>
+                             <a href="http://www.paper.edu.cn/releasepaper/search?searchType=0&searchContent=社区划分" target="_blank">
+                   社区划分
+                </a>
+                                <a href="http://www.paper.edu.cn/releasepaper/search?searchType=0&searchContent=中心节点" target="_blank">
+                   中心节点
+                </a>
+                                <a href="http://www.paper.edu.cn/releasepaper/search?searchType=0&searchContent=模块度" target="_blank">
+                   模块度
+                </a>
+                                <a href="http://www.paper.edu.cn/releasepaper/search?searchType=0&searchContent=复杂网络" target="_blank">
+                   复杂网络
+                </a>
+                </p>
+           	<p id="showbtn" class="atexp-trans-btn">For information in English, please click here</p>
+           	<!--中文-->
+            <!--<p id="showbtn" class="atexp-trans-btn">点击查看论文中文信息</p>-->
+           	
+           	<div class="atexp-abstract-ehbox">
+            	<p class="atexp-abstract-ehtitle">A method for community detection of complex networks based on hierarchical clustering</p>
+            	<div class="atexp-abstract-authorbox haszuozhe">
+	            	<div class="namebox">
+										<em>
+												  <span class="col666 atexp-abstract-author">ZHU Shuaibing</span>
+						 												<sup class="colorange">
+						  															1 &nbsp;&nbsp;
+													 													 
+						</sup>       
+																		<span class="atexp-abstract-xing"><i class="iconfont icon-youjian" attr0=""  attr1="U"></i></span>
+												<!--姓名提示框-->
+												<p class="atexp-abstract-tips">
+							朱帅兵（1990-），男，硕士研究生，主要研究方向：社交网络
+						</p>
+						                    </em>
+                  					<em>
+												  <span class="col666 atexp-abstract-author">YIN Chuantao</span>
+						 												<sup class="colorange">
+						  															1 &nbsp;&nbsp;
+													 													 
+						</sup>       
+																		<!--姓名提示框-->
+												<p class="atexp-abstract-tips">
+							殷传涛（1982-），男，讲师，主要研究方向：智慧城市、数据活化、移动学习等
+						</p>
+						                    </em>
+                  					<em>
+												  <span class="col666 atexp-abstract-author">CHEN Hui</span>
+						 												<sup class="colorange">
+						  													 															2 &nbsp;&nbsp;
+													 
+						</sup>       
+																		<!--姓名提示框-->
+												<p class="atexp-abstract-tips">
+							陈辉（1983-），男，助理研究员，智慧城市，数据活化等
+						</p>
+						                    </em>
+                  					<em>
+												<a href="http://www.paper.edu.cn/sq/wesci/mypaper/NQz2g95NMbzVQV3u" target="_blank" class="colblue79 atexp-abstract-author">XIONG Zhang</a>
+																		<sup class="colorange">
+						  															1 &nbsp;&nbsp;
+													 													 
+						</sup>       
+																		<span class="atexp-abstract-xing"><i class="iconfont icon-youjian" attr0=""  attr1="NUzGgF5QMRzVQI3eQ"></i></span>
+												<!--姓名提示框-->
+												<p class="atexp-abstract-tips">
+							熊璋（1956-），男，教授，智慧城市，数据活化等
+						</p>
+						                    </em>
+                  
+						
+					</div>	
+				</div>
+            	<ul class="atexp-abstract-ch col999 atexp-abstract-ch2">
+				  				  				 <li>1、Sino-French Engineer School, Beihang University, Beijing 100191</li>
+                 				 <li>2、Research Institute of Beihang University in Shenzhen, Shenzhen 518057</li>
+                 
+                  				</ul>
+            	<p class="atexp-abstract-eh col999" style="margin-top: 20px;"><span class="atexp-abstract-bold">Abstract：</span>Due to Internet's development and popularization, there are more and more researches on complex networks. Researches show that there exists community structure in complex networks. Finding out community structure helps to extract useful information in complex networks, so research on community detection is a hotspot in recent years. Common algorithms for community detection include algorithms based on graph theory and algorithms based on hierarchical clustering. Some existing algorithms for community detection need to know the number of communities, while some have high time complexity. This paper proposed a method for community detection based on hierarchical clustering, starting from global central nodes to initialize communities, then expanding communities layer by layer according to link strength, and at last merge little communities into big communities. In addition, this paper proposed the definition of extensive modularity, which can better evaluate algorithms' quality.</p>
+               <p class="atexp-abstract-eh" style="margin-top: 20px;"><span class="atexp-abstract-bold">Keywords：</span>
+                                 <a href="http://www.paper.edu.cn/releasepaper/search?searchType=0&searchContent=community detection" target="_blank">
+                   community detection
+                </a>
+                                <a href="http://www.paper.edu.cn/releasepaper/search?searchType=0&searchContent=central nodes" target="_blank">
+                    central nodes
+                </a>
+                                <a href="http://www.paper.edu.cn/releasepaper/search?searchType=0&searchContent=modularity" target="_blank">
+                    modularity
+                </a>
+                                <a href="http://www.paper.edu.cn/releasepaper/search?searchType=0&searchContent=complex networks" target="_blank">
+                    complex networks
+                </a>
+                
+            </p>          
+            </div>
+            <p id="hidebtn" class="atexp-trans-btn hide">Click to fold</p> 
+            <!--中文-->
+            <p id="hidebtn" class="atexp-trans-btn hide">点击收起</p> 
+		</div>
+				<!--基金信息-->
+		<div class="atexp-fund" id="atexp-fund">
+			<p class="atexp-abstract-ch"><span class="atexp-abstract-bold">基金：</span></p>
+			<ul>
+				                <li><a href="http://www.paper.edu.cn/releasepaper/search?searchType=3&searchContent=国家自然科学基金">1. 国家自然科学基金（61402028）</a></li>
+                                <li><a href="http://www.paper.edu.cn/releasepaper/search?searchType=3&searchContent=教育部高等学校博士学科点专项科研基金">2. 教育部高等学校博士学科点专项科研基金（20121102110037）</a></li>
+                
+			</ul>
+		</div>
+		<!--论文图表-->
+		<div class="atexp-chart" id="atexp-chart">
+			<p class="atexp-abstract-ch"><span class="atexp-abstract-bold">论文图表：</span></p>
+            <div class="atexp-run-content">
+				            </div>
+		</div>
+		<!--免审推荐-->
+		<!--<div class="atexp-free" id="atexp-free">
+			<p class="atexp-abstract-ch"><span class="atexp-abstract-bold">免审推荐</span></p>
+			<p class="atexp-abstract-author">推荐人：张善忠</p>
+			<p class="atexp-abstract-ch">推荐理由：此处有理由......此处有理由......此处有理由......此处有理由......此处有理由......此处有理由......此处有理由......此处有理由......此处有理由......此处有理由......此处有理由......此处有理由......此处有理由......此处有理由</p>
+		</div>-->
+		
+		<!--引用-->
+		<div class="reference-box">
+			<p class="atexp-abstract-ch"><span class="atexp-abstract-bold">引用</span><i class="iconfont icon-triangle-down-copy"></i></p>
+			<div class="atexp-abstract-appoint">
+				<p>导出参考文献</p>
+				<span><a href="http://www.paper.edu.cn/releasepaper/down/text/JUUGUF2QJRTVlIDeQJUIxJUU1JUI4JTg1JUU1JTg1JUI1JUVGJUJDJThDJUU2JUFFJUI3JUU0JUJDJUEwJUU2JUI2JTlCJUVGJUJDJThDJUU5JTk5JTg4JUU4JUJFJTg5JUVGJUJDJThDJUU3JUFEJTg5LislRTQlQjglODAlRTclQTclOEQlRTUlOUYlQkElRTQlQkElOEUlRTUlQjElODIlRTYlQUMlQTElRTglODElOUElRTclQjElQkIlRTclOUElODQlRTUlQTQlOEQlRTYlOUQlODIlRTclQkQlOTElRTclQkIlOUMlRTclQTQlQkUlRTUlOEMlQkElRTUlODglOTIlRTUlODglODYlRTclQUUlOTclRTYlQjMlOTUlNUJFQiUyRk9MJTVELislRTUlOEMlOTclRTQlQkElQUMlRUYlQkMlOUElRTQlQjglQUQlRTUlOUIlQkQlRTclQTclOTElRTYlOEElODAlRTglQUUlQkElRTYlOTYlODclRTUlOUMlQTglRTclQkElQkYrJTVCMjAxNC0xMi0wMSU1RC4raHR0cCUzQSUyRiUyRnd3dy5wYXBlci5lZHUuY24lMkZyZWxlYXNlcGFwZXIlMkZjb250ZW50JTJGMjAxNDEyLTE0LgeQeQ"><img src="/app/static/1.0/img/paper/wenben1.png"/>.txt</span></a>
+                <span><a href="http://www.paper.edu.cn/releasepaper/down/ris/JUUGUF2QJRTVlIDeQJUIxJUU1JUI4JTg1JUU1JTg1JUI1JUVGJUJDJThDJUU2JUFFJUI3JUU0JUJDJUEwJUU2JUI2JTlCJUVGJUJDJThDJUU5JTk5JTg4JUU4JUJFJTg5JUVGJUJDJThDJUU3JUFEJTg5LislRTQlQjglODAlRTclQTclOEQlRTUlOUYlQkElRTQlQkElOEUlRTUlQjElODIlRTYlQUMlQTElRTglODElOUElRTclQjElQkIlRTclOUElODQlRTUlQTQlOEQlRTYlOUQlODIlRTclQkQlOTElRTclQkIlOUMlRTclQTQlQkUlRTUlOEMlQkElRTUlODglOTIlRTUlODglODYlRTclQUUlOTclRTYlQjMlOTUlNUJFQiUyRk9MJTVELislRTUlOEMlOTclRTQlQkElQUMlRUYlQkMlOUElRTQlQjglQUQlRTUlOUIlQkQlRTclQTclOTElRTYlOEElODAlRTglQUUlQkElRTYlOTYlODclRTUlOUMlQTglRTclQkElQkYrJTVCMjAxNC0xMi0wMSU1RC4raHR0cCUzQSUyRiUyRnd3dy5wYXBlci5lZHUuY24lMkZyZWxlYXNlcGFwZXIlMkZjb250ZW50JTJGMjAxNDEyLTE0LgeQeQ"><img src="/app/static/1.0/img/paper/wenben2.png"/>.ris</span></a>
+                <span><a href="http://www.paper.edu.cn/releasepaper/down/doc/JUUGUF2QJRTVlIDeQJUIxJUU1JUI4JTg1JUU1JTg1JUI1JUVGJUJDJThDJUU2JUFFJUI3JUU0JUJDJUEwJUU2JUI2JTlCJUVGJUJDJThDJUU5JTk5JTg4JUU4JUJFJTg5JUVGJUJDJThDJUU3JUFEJTg5LislRTQlQjglODAlRTclQTclOEQlRTUlOUYlQkElRTQlQkElOEUlRTUlQjElODIlRTYlQUMlQTElRTglODElOUElRTclQjElQkIlRTclOUElODQlRTUlQTQlOEQlRTYlOUQlODIlRTclQkQlOTElRTclQkIlOUMlRTclQTQlQkUlRTUlOEMlQkElRTUlODglOTIlRTUlODglODYlRTclQUUlOTclRTYlQjMlOTUlNUJFQiUyRk9MJTVELislRTUlOEMlOTclRTQlQkElQUMlRUYlQkMlOUElRTQlQjglQUQlRTUlOUIlQkQlRTclQTclOTElRTYlOEElODAlRTglQUUlQkElRTYlOTYlODclRTUlOUMlQTglRTclQkElQkYrJTVCMjAxNC0xMi0wMSU1RC4raHR0cCUzQSUyRiUyRnd3dy5wYXBlci5lZHUuY24lMkZyZWxlYXNlcGFwZXIlMkZjb250ZW50JTJGMjAxNDEyLTE0LgeQeQ"><img src="/app/static/1.0/img/paper/wenben3.png"/>.doc</span></a>
+			</div>
+			<div class="left info">
+				朱帅兵，殷传涛，陈辉，等. 一种基于层次聚类的复杂网络社区划分算法[EB/OL]. 北京：中国科技论文在线 [2014-12-01]. http://www.paper.edu.cn/releasepaper/content/201412-14.
+			</div>
+			<div class="left imgnum" id="seehttp">
+				<div class="left img"><img src="/app/static/1.0/img/paper/reference01.jpg"/></div>
+				<div class="left num">
+					<img src="/app/static/1.0/img/paper/reference02.jpg" alt="" class="atexp-ref"/>
+					<p class="col666 font12">No.4619712101819814****</p>
+				</div>
+			</div>
+		</div>
+
+
+		<!--动态公开评议/同行评议-->
+		<div class="atexp-open" id="atexp-open">
+			<!--同行评议-->
+		     			<div class="atexp-open-title">
+				<p class="atexp-abstract-ch atexp-open-titlep"><span class="atexp-abstract-bold">同行评议</span></p>				
+				<span id="pcheck_rank"></span>
+				<p class="atexp-open-titleblo">共计<span id="pcheck_num">0</span>人参与</p>
+			</div>
+			<ul class="atexp-word-list" id="paperCheck">
+			
+			</ul>
+			
+			<!--动态公开评议-->
+		 		</div>
+		<!--相关论文-->
+		<div class="li-related-paper overafter" id="atex-relate0">
+			<p class="atexp-abstract-ch"><span class="atexp-abstract-bold">相关论文</span><button class="set-btn set-btn-white right chanchan" onclick="changeRelated();">换一换</button></p>
+			<div class="left related-paper-list">
+				<ul class="overafter" id="atex-relate">
+				
+				</ul>
+			</div>
+		</div>
+		<!--评论-->
+		<div class="atexp-comment li-paper-comment" id="atexp-comment">
+			<div class="atexp-comment-title">
+				<p class="atexp-abstract-ch"><span class="atexp-abstract-bold">评论</span></p>
+				<span class="atexp-comment-tinum" id="all_comment">全部评论 </span>
+			</div>
+			<div class="atexp-comment-box">
+				<div class="atexp-comment-con1">
+										<img class="con1-touxiang" src="/app/static/1.0/img/scholar/male.jpg">
+										<div class="atexp-comment-txt">
+						<p class="name" id="comment_name"><button class="likebiao" onclick="loginbox()">登录</button></p>
+						<textarea  id="saytext" name="saytext" class="li-textarea" maxlength="1000" placeholder="我要评论"></textarea>
+						<p class="li-btns">
+							<span class="atexp-comment-boxbq"><img src="/app/static/1.0/img/paper/article-explain-12.png"></span>	
+							<em class="right">
+								<span class="num col999"><i>0</i>/1000</span>
+								<button class="set-btn" id="connbtn" onclick="ajaxComment(this, 0, 'MUTGAFxQORDVEI5eQOAeQeQ','yinchuantao&#64;gmail&#46;com')">评论</button>
+							</em>						
+						</p>
+					</div>					
+				</div>
+				
+			</div>
+			<div class="atexp-comment-contain">           
+				
+				
+			</div>		
+		
+				<!--点击查看更多-->
+				<!--<div class="atex-open-button"><button></button></div>-->		
+			</div>
+		</div>
+	</div>
+
+<!--模态框-->
+<div class="atexp-motai"></div>
+<!--版本协议-->
+<div class="http-xxcontent http-xxcontent-alert">
+	<!--<div class="http-xxcontent-title">
+		<img src="../img/http_xxcontent01.jpg">
+		<div class="right">
+			<img src="../img/http_xxcontent02.jpg">
+			<p>No.47198151487755344</p>
+		</div>
+	</div>
+	<div class="http-xxcontent-text">
+		<p class="http-marP">为了作者的著作权得到有效保护，以及“中国科技论文在线”网站（以下简称论文在线）拥有必要的权利以确保论文可以永久保存与传播，自在论文在线投稿之时起，该电子版权协议自动生成，论文的版权所有人（以下简称“作者”）委托论文提交人将论文不可撤销的、非专有使用权（包括但不仅限于复制权、信息网络传播权）、翻译权、汇编权等授予论文在线，包括该论文修改稿及后印本等的复制权和信息网络传播权。</p>
+		<p><b>作者必须保证在论文在线上传的论文符合以下要求：</b></p>
+		<p>1）论文为原创作品，不涉及任何剽窃、抄袭的行为，作者合法拥有论文完整而有效的著作权，有权对论文进行上传、公开发表等操作。</p>
+		<p>2）论文必须符合科技论文规范，符合科学性、创新性、客观性和实事求是的原则，数据图表真实可靠，无造假行为，符合论文在线的投稿要求。</p>
+		<p>3）论文为首发，即此前未在任何媒介公开发表。</p>
+		<p>4）论文作者署名合理，无遗漏。所有署名作者均对论文有实质性贡献，对署名知情、对排序无异议，均同意发布于论文在线。</p>
+		<p>5）论文中无政治观点错误，符合《保密法》的规定，不涉及军事和科学技术泄密情况，不包含任何违反法律法规以及侵害他人权益的内容。</p>
+		<p class="http-marP">若经查证发现已发论文存在包括但不仅限于学术不端、非首发和涉密的情况，中国科技论文在线有权对论文进行撤稿，并保留进一步追究责任的权利。</p>
+		<p><b>与此同时，论文在线承诺承担以下义务：</b></p>
+		<p>1）合理保存义务：</p>
+		<p>本站将依法承担管理者之注意义务，合理、恰当地管理数字资产，为在本站合法发布的数字资产提供永久保存。</p>
+		<p>2）保护作品完整义务：</p>
+		<p>通过技术措施和法律手段，保护数字资产及用户的合理版权。</p>
+		<p>3）提供首发凭证义务：</p>
+		<p class="http-marP">为在本站发布的论文及时提供刊载证明。</p>
+		<p><b>此外，论文作者负有以下义务：</b></p>
+		<p>1）权利瑕疵担保义务</p>
+		<p>作者必须保证合法拥有完整、有效的著作权，并已妥善解决论文所涉及的版权问题，可对论文进行公开发表，而不存在权利瑕疵。</p>
+		<p>2）告知义务</p>
+		<p>若论文在论文在线发布后又投向其他期刊并获得正式出版，作者应于30天内在个人空间内提交论文收录信息（如期刊名、出版年、卷期号、页码等）；若出版商同意作者对正式出版的论文版本（后印本）进行自存档，请遵照版权约定按期或延期上传后印本。</p>
+		<p>3）应诉义务</p>
+		<p>作者若因违反权利瑕疵担保义务而导致论文在线被第三方主张权利，或论文在线及其用户因使用该论文而被诉侵权，则作者应参与应诉答辩，并对论文在线进行无害举证。</p>
+		<p>4）赔偿义务</p>
+		<p class="http-marP">若由于以上原因造成论文在线及其用户的经济或名誉损失，由作者全权承担。</p>
+		<p class="http-marP">论文在线和作者均必须严格承担《电子版权授让协议》规定的各项义务，不可随意要求撤销论文或更改本协议各条款。本协议自论文在本站发布时起正式生效。版权若未经合法转让，可于有效保护期内在全球范围使用。</p>
+		<p><b>投稿论文信息：</b></p>
+		<p>论文题目： 辐射对胸腺CD8+T细胞阳性选择过程的影响及与β５t的相关性研究 </p>
+		<p>基金赞助： 教育部博士点基金 </p>
+		<p>全部作者： 杜利清,王彦,王月英,孔祥玉,王爽 </p>
+		<p>通信联系人姓名： </p>
+		<p>杜利清 上传人手机：</p>
+		<p>上传人邮箱：duliqing2004@126.com</p>
+		<div class="right">
+			<p>签署人：杜利清</p>
+			<p>签署日期：2016-06-06</p>
+			<i class="http-zhang"></i>
+		</div>
+	</div>-->
+</div>
+<!--勘误表-->
+<div class="erratabox erratabox-http viewerrata ">
+	<p class="title">勘误表 <i class="iconfont icon-icon right"></i></p>
+	<p class="art-title center">一种基于层次聚类的复杂网络社区划分算法</p>
+	<div class="amend">
+		<div class="conn errarNew">
+	
+		</div>
+	</div>
+	<p class="center"><button class="set-btn set-btn-org  new_arrata hide" style="width:auto;" onclick="againErrata();return false;">上传新勘误表</button></p>
+</div>
+
+<!-- js文件写在页面最底部 -->
+<script src="http://www.paper.edu.cn/app/static/1.0/js/jquery.1.12.4.min.js"></script>
+<script type="text/javascript" src="/app/static/1.0/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="/app/static/1.0//js/jquery.qqFace.js" ></script>
+<script type="text/javascript" src="/app/static/1.0/js/paper/wangEditor-1.1.0-min.js"></script>
+<script type="text/javascript" src="/app/static/1.0/js/jqueryui.js"></script>
+<script type="text/javascript" src="/app/static/1.0/js/paper/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/app/static/1.0/js/paper/jquery.iviewer.js"></script>
+<script type="text/javascript" src="/app/static/1.0/js/cropbox.js"></script>
+<!--新增js-->
+<script src="/app/static/1.0/js/funtions.js"></script>
+
+<script src="http://www.paper.edu.cn/app/static/smartadmin/1.8.0/js/plugin/ckeditor/ckeditor.js"></script>
+<script src="/app/static/1.0/js/jquery.form.js"></script>
+<script>
+
+	 var base_url = 'http://www.paper.edu.cn/';
+	 var paper_id = 'NUDGYFxQORTVcIxeQMgeQeQ';
+	 var if_audit = 'MUgGeQFeQQ';
+	 var operator = 'MUTGAFxQORDVEI5eQOAeQeQ';
+	 var user_photo= '';
+	 var user_name ='';
+
+	</script>
+<script src="/app/static/1.0/js/paper/newpaper_info.js"></script>
+
+<!--中国科技论文在线相关-->
+<div class="online-about templateOnline shoufaOnline">
+    <div class="width1100">
+        <div class="alist">
+            <p>
+                <a href="http://www.moe.edu.cn/">中华人民共和国教育部</a>
+                <a href="http://www.dost.moe.edu.cn/">教育部科学技术司</a>
+                <a href="http://www.cutech.edu.cn/cn/index.htm">教育部科技发展中心</a>
+                <a href="http://www.edu.cn/">中国教育与科研计算机网</a>
+                <a href="http://www.cdgdc.edu.cn/">教育部学位与研究生教育发展中心</a>
+                <a href="http://www.csc.edu.cn/" class="nomar">国家留学基金委</a>
+            </p>
+            <p class="linetwo">
+                <a href="http://www.chaxin.edu.cn/">教育部科技查新服务平台</a>
+                <a href="http://www.meeting.edu.cn/">中国学术会议在线</a>
+                <a href="http://teacher.eol.cn/">中国教育人力资源系统</a>
+                <a href="http://www.jyb.cn/">中国教育新闻网</a>
+                <a href="http://www.chisa.edu.cn/">神州学人</a>
+                <a href="http://www.eol.cn/">中国教育在线</a>
+                <a href="http://www.shop.edu.cn/">团队文档库</a>
+                <!-- <a href="http://oa.paper.edu.cn/" class="nomar">OA在线资源集成平台</a> -->
+            </p>
+        </div>
+    </div>
+</div>
+<!--页面底部-->
+<div class="footer">
+    <div class="width1100">
+        <p class="footlist">
+            <span>中国科技论文在线 版权所有</span>
+            <em><a target="_blank" href="http://www.paper.edu.cn/">网站地图</a>|</em>
+            <em><a target="_blank" href="http://www.paper.edu.cn/">在线首页</a>|</em>
+            <em><a target="_blank" href="http://www.paper.edu.cn/templates/introduction.shtml">在线简介</a>|</em>
+            <em><a target="_blank" href="http://www.paper.edu.cn/templates/service.shtml">服务条款</a>|</em>
+            <em><a target="_blank" href="http://www.paper.edu.cn/templates/contact.shtml">联系我们</a></em>
+              <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
+
+        </p>
+        <p class="footer-from">
+            <em>主管 :<a target="_blank" href="http://www.moe.edu.cn/">中华人民共和国教育部</a></em>
+            <em>主办 :<a target="_blank" href="http://www.cutech.edu.cn/cn/index.htm">教育部科技发展中心</a></em>
+            <em class="nomari">技术支持 :<a target="_blank" href="http://www.cernet.com/">赛尔互联（北京）教育科技有限公司</a></em>
+        </p>
+        <p>
+            <span><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11040202430024" target="_blank"><i class="footer-img"></i>京公网安备 11040202430024号</a></span>
+            <span>
+                <!--<a href="http://icp.chinaz.com/info?q=paper.edu.cn" target="_blank">京ICP备15006316号-2</a> -->
+                <a href="https://beian.miit.gov.cn/" target="_blank">京ICP备15006316号-2</a>|
+                <a href="http://www.paper.edu.cn/templates/xuke.shtml" target="_blank">网络出版服务许可证 （总）网出证（京）字第083号</a>
+                | 文保网安备案号：1101080066
+            </span>
+        </p>
+    </div>
+</div>
+<!-- js文件写在页面最底部 -->
+<script src="/app/static/1.0/js/comment.js"></script>
+<script src="/app/static/1.0/js/my_js.js"></script>
+<script src="/app/static/1.0/js/share.js"></script>
+<script src="/app/static/1.0/js/jquery.eventFlow.js"></script>
+<script>
+    $(function(){
+        $.ajax({
+            url: 'http://www.paper.edu.cn/index/getSession',
+            type: "GET",
+            dataType: 'JSON',
+            jsonp: 'callback',
+            jsonpCallback: 'callback',
+            dataFilter: function (data, type) {
+                return data;
+            },
+            success: function (json) {
+                $('#user_login').html(json.msg.user_login);
+                $('#user_logins').html(json.msg.user_login);
+                $('#user_register').html(json.msg.user_register);
+                $('#user_registers').html(json.msg.user_register);
+                $('#user_quit').html(json.msg.user_quit);
+                $('#user_quits').html(json.msg.user_quit);
+                $('.mini-login').html(json.msg.mini_login);
+                //登录名称长度
+                if($('.user-name2').height()>33){
+                    $('.user-name2').css('font-size','18px');
+                }
+                return false;
+            },
+            error: function (XMLHttpRequest, textStatus, errorThrown) {
+                return false;
+            }
+        });
+
+    })
+    
+    $(function(){
+        //	复选框点击切换
+        $('.search-choose span').on('click',function(){
+            if($(this).hasClass('search-checked')){
+                $(this).removeClass('search-checked');
+            }else{
+                $(this).addClass('search-checked');
+            }
+        });
+        $('.goTop').bind('click', function(){
+            $('html, body').animate({
+                scrollTop: 0
+            }, 300);
+        });
+    })
+    
+</script>
+</body>
+</html>
+
+
+
+
+

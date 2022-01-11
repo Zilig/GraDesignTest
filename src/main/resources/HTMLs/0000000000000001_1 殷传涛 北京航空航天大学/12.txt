@@ -1,0 +1,761 @@
+<!DOCTYPE html><html lang="zh"><head><link href="//wkstatic.bdimg.com/static/ndpcwenku/static/ndview/css/xreader.64914fdd82698c94f6f9.css" rel="stylesheet"></head><head>
+    <meta charset="utf-8">
+    <title>北航宇航学院研究生就业现状_趋势及分析_张洪礼 - 百度文库</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="shortcut icon" href="https://www.baidu.com/cache/icon/favicon.ico" type="image/x-icon">
+    <link rel="icon" sizes="any" href="https://www.baidu.com/cache/icon/favicon.svg">
+    <script>
+        window.tsFP = Date.now();
+    </script>
+    
+        
+            <style>#pageNo-1 .reader-parent{visibility: visible;}</style>
+        <style>
+            #pageNo-1 .reader-word-layer {
+                margin-top: --394px;
+            }
+            #pageNo-1 .reader-pic-layer {
+                margin-top: --39px;
+            }
+        </style>
+        
+    
+    
+</head>
+
+<body>
+    <style>
+html {
+    color: #000;
+    background: #fff;
+}
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+legend,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+fieldset,
+img {
+    border: 0;
+}
+
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+strong,
+th,
+var,
+b {
+    font-style: normal;
+    font-weight: normal;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+caption,
+th {
+    text-align: left;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size:100%;
+    font-weight:normal;
+}
+
+
+pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+abbr,
+acronym {
+    border:0;
+    font-variant:normal;
+}
+
+/*
+ * 1. Addresses CSS quotes not supported in IE6/7
+ * 2. Addresses quote property not supported in S4
+ */
+
+/* 1 */
+
+q {
+    quotes: none;
+}
+
+/* 2 */
+
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+/*
+ * Prevents sub and sup affecting line-height in all browsers
+ * gist.github.com/413930
+ */
+
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup {
+    top: -0.5em;
+}
+
+sub {
+    bottom: -0.25em;
+}
+
+/*
+ * links
+ */
+
+/*
+ * Addresses outline displayed oddly in Chrome
+ */
+
+a:focus {
+    outline: thin dotted;
+}
+
+/*
+ * Improves readability when focused and also mouse hovered in all browsers
+ * people.opera.com/patrickl/experiments/keyboard/test
+ */
+
+a:hover,
+a:active {
+    outline: 0;
+}
+
+/*
+ * form
+ */
+
+/*
+ * 1. Corrects color not being inherited in IE6/7/8/9
+ * 2. Corrects text not wrapping in FF3 
+ */
+
+legend {
+    border: 0; /* 1 */
+    white-space: normal; /* 2 */
+    color:#000;
+}
+
+button,
+input,
+select,
+textarea {
+    font-family:inherit;
+    font-size:inherit;
+    font-weight:inherit;
+    vertical-align: baseline;
+    *vertical-align: middle;
+}
+
+/*
+ * Addresses FF3/4 setting line-height on 'input' using !important in the UA stylesheet
+ */
+
+button,
+input {
+    line-height: normal; /* 1 */
+}
+
+/*
+ * 1. Improves usability and consistency of cursor style between image-type 'input' and others
+ * 2. Corrects inability to style clickable 'input' types in iOS
+ * 3. Removes inner spacing in IE7 without affecting normal text inputs
+ *    Known issue: inner spacing remains in IE6
+ */
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    cursor: pointer; /* 1 */
+    -webkit-appearance: button; /* 2 */
+    *overflow: visible;  /* 3 */
+}
+
+/*
+ * 1. Addresses box sizing set to content-box in IE8/9
+ * 2. Removes excess padding in IE8/9
+ * 3. Removes excess padding in IE7
+      Known issue: excess padding remains in IE6
+ */
+
+input[type="checkbox"],
+input[type="radio"] {
+    box-sizing: border-box; /* 1 */
+    padding: 0; /* 2 */
+    *height: 13px; /* 3 */
+    *width: 13px; /* 3 */
+}
+
+
+/*
+ * Removes inner padding and border in FF3+
+ * www.sitepen.com/blog/2008/05/14/the-devils-in-the-details-fixing-dojos-toolbar-buttons/
+ */
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+/*
+ * FF3的一些版本hidden没有隐藏
+ */
+input[type="hidden"] {
+    display: none!important;
+}
+
+/*
+ * 1. Removes default vertical scrollbar in IE6/7/8/9
+ * 2. Improves readability and alignment in all browsers
+ * 3. 不让textarea可以resize
+ */
+
+textarea {
+    overflow: auto; /* 1 */
+    vertical-align: top; /* 2 */
+    resize: none; /* 3 */
+}
+
+/*
+ * font
+ */
+
+/* 
+ * 1.333为默认行高16px(16/12),去除sans-serif防止ie8\9下字体变形
+ */
+body {
+    min-width: 1280px;
+    height:100%;
+    font: 12px/1.333 "\5FAE\8F6F\96C5\9ED1", "Hiragino Sans GB", arial,helvetica,clean;
+}
+
+select,
+input,
+button,
+textarea {
+    font:100% arial,helvetica,clean;
+}
+
+table {
+    font-size: inherit;
+    font: 100%;
+}
+
+/*
+ * Corrects font family set oddly in IE6, S4/5, Chrome
+ * en.wikipedia.org/wiki/User:Davidgothberg/Test59
+ */
+
+pre,
+code,
+kbd,
+samp {
+    font-family: monospace, serif;
+    _font-family: 'courier new', monospace;
+    font-size: 100%;
+    line-height: 100%;
+}
+
+small {
+    font-size: 75%;
+}
+
+.clearfix::after {
+    content: "";
+    display: block;
+    height: 0;
+    visibility: hidden;  
+    clear: both;
+}
+</style>
+
+    
+    <div id="app" :class="viewTheme">
+    <header-wrapper></header-wrapper>
+    <div class="header-wrapper no-full-screen" v-if="!vueMounted">
+    
+
+
+    <div class="search-box-wrapper">
+    <div class="search-box-inner-wrapper">
+        <div class="search-logo-wrap">
+            <a href="/?fr=logo">
+                <span class="wk-logo-icon"></span>
+            </a>
+        </div>
+        <div class="search-tab-wrap">
+            <div class="search-tab-content">
+                <div class="search-tab-item">首页</div>
+                <div class="search-tab-item">文档
+                    <div class="doc-content">
+                        <div class="doc-hint-content">
+                            <div class="doc-hint-item">学前教育</div>
+                            <div class="doc-hint-item">基础教育</div>
+                            <div class="doc-hint-item">高校与高等教育</div>
+                            <div class="doc-hint-item">语言/资格考试</div>
+                            <div class="doc-hint-item">实用模板</div>
+                            <div class="doc-hint-item">法律</div>
+                            <div class="doc-hint-item">建筑</div>
+                            <div class="doc-hint-item">互联网</div>
+                            <div class="doc-hint-item">行业资料</div>
+                            <div class="doc-hint-item">政务民生</div>
+                            <div class="doc-hint-item">说明书</div>
+                            <div class="doc-hint-item">生活娱乐</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="search-tab-item">店铺</div>
+                <div class="search-tab-item">文档工具</div>
+                <div class="search-tab-item">更多</div>
+            </div>
+        </div>
+        <div class="search-input-wrap">
+            <span class="search-input">
+                <input id="kw" maxlength="256" tabindex="1" autocomplete="off" placeholder=""/>
+                <div class="input-hint-content">
+                    <div class="hot-option-word-wrapper"></div>
+                    <div class="sug-wrap" style="display: none;"></div>
+                </div>
+            </span>
+            <div class="search-submit-btn">搜索文档</div>
+        </div>
+        <div class="right-box">
+            <div class="vip-activity-wrap">
+                <div class="vip-activity-content">
+                    <div class="client-icon"></div>
+                    <div class="client-text">续费VIP</div>
+                </div>
+                <div class="vip-activity-hint-content">
+                    <div class="client-default">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                    <div></div>
+                    <div class="vip-hint-btn">立即续费VIP</div>
+                    <div class="vip-hint-content">
+                        <div class="vip-hint-item">会员中心</div>
+                        <div class="vip-hint-item">VIP福利社</div>
+                        <div class="vip-hint-item">VIP免费专区</div>
+                        <div class="vip-hint-item">VIP专属特权</div>
+                    </div>
+                    <div class="vip-hint-footer">
+                        <div
+                            class="vip-hint-footer-img"
+                            style="background-image: url(https://edu-wenku.bdimg.com/v1/pc/header-icon/header-ad.png);"
+                        ></div>
+                    </div>
+                </div>
+            </div>
+            <div class="client-download-wrap">
+                <div class="client-download-content">
+                    <div class="client-icon"></div>
+                    <div class="client-text">客户端</div></div>
+            </div>
+            <div class="browse-history-wrap">
+                <div class="browse-history-content">
+                    <div class="client-icon"></div>
+                    <div class="client-text">看过</div></div>
+                <div class="history-hint-content">
+                    <div class="no-history">暂无浏览记录</div></div>
+            </div>
+            <div class="user-icon-wrap">
+                <div class="user-icon-content login vip">
+                    <div
+                        class="user-icon"
+                        style="background-image: url(http://himg.bdimg.com/sys/portraitn/item/wenku.1.d74ce896.NqYPvfvnzeGHutw2Mnsc2Q.jpg);"
+                    >
+                    </div>
+                    <div class="user-icon-hint-content">
+                        <div class="tab-item">店铺后台</div>
+                        <div class="tab-item">店铺首页</div>
+                        <div class="tab-item">个人中心</div>
+                        <div class="tab-item">会员中心</div>
+                        <div class="tab-item">消息</div>
+                        <div class="tab-item">收藏</div>
+                        <div class="tab-item">意见反馈</div>
+                        <div class="tab-item">退出登录</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+    <div class="content-wrapper">
+        <div class="left-wrapper zoom-scale">
+            <div class="no-full-screen" v-if="!vueMounted">
+    <div class="doc-info-wrapper">
+        <div class="doc-info-main">
+            <div class="doc-info-left">
+                <div class="doc-tag-wrap">
+    
+        <div class="tag">研究生 </div>
+    
+        <div class="tag">研究生入学考试 </div>
+    
+        <div class="tag">高等教育 </div>
+    
+</div>
+                <div class="doc-title-wrap">
+                    <div class="doc-type-icon pdf"></div>
+                    <h3 class="doc-title">北航宇航学院研究生就业现状_趋势及分析_张洪礼</h3>
+                </div>
+                <div class="doc-summary-wrap">
+    
+        <span class="doc-score">
+            2.1分
+            （超过23%的文档）
+        </span>
+    
+    <span class="divider"></span>
+    <span>2424阅读</span>
+    <span class="divider"></span>
+    <span>2下载</span>
+    <span class="divider"></span>
+    <span>2016-07-18上传</span>
+    <span class="divider"></span>
+    <span>2页</span>
+</div>
+
+                <div class="doc-btns-wrap">
+    <div class="small-btn collect-btn">
+        <i class="collect-icon not-collect"></i>
+        <span>收藏</span>
+    </div>
+    <div id="doc-info-share-btn" class="small-btn share-btn">
+        <i class="share-icon"></i>
+        <span>分享</span>
+    </div>
+    <div class="small-btn cloud-storage-btn">
+        <i class="cloud-storage-icon"></i>
+        <span>转存</span>
+    </div>
+    <div class="small-btn report-btn">
+        <i class="report-icon"></i>
+        <span>举报</span>
+    </div>
+    <!-- 由于版权页未上线，故先注释，等待PM @张玉芳通知 -->
+    <div class="small-btn copyright-btn">
+        <i class="copyright-icon"></i>
+        <span>认领</span>
+    </div>
+    <div class="small-btn app-btn">
+        <i class="app-icon"></i>
+        <span>APP</span>
+    </div>
+    <div class="middle-btn client-btn">
+        <i class="client-icon"></i>
+        <span>客户端打开</span>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+            <doc-head-info></doc-head-info>
+            <div class="reader-wrap">
+                <div>
+                    
+                        <reader-topbar @gotopage="gotoPage"></reader-topbar>
+                    
+                    
+    <div id="reader-container"
+        ref="container"
+        :style="{height: readerContainerH}"
+    >
+        
+            <div class="reader-page ssr"
+                id="pageNo-1"
+                data-page-no="1"
+                data-render="1"
+                :data-mate-width="pageWHArr[0].w"
+                :data-mate-height="pageWHArr[0].h"
+                :data-scale="pageWHArr[0].s"
+                :style="{height: pageWHArr[0].ph + 'px'}"
+                style="opacity: 1!important;"
+            >
+                <copy-guide></copy-guide>
+                
+                    
+            <div class="reader-pic-layer" style="z-index:1">
+                <div class="ie-fix"><div class="reader-pic-item" style="background-image: url(https://wkbjcloudbos.bdimg.com/v1/docconvert9655//wk/830e8b2283691d4990d0c0015b009f3b/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Fri%2C%2002%20Jul%202021%2018%3A35%3A32%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2021-05-18T10%3A35%3A32Z%2F3600%2Fhost%2Fec0e16a35af202edbabb504141b3ae8ab31ff218aa72677bdf907a2f2070ded8&x-bce-range=0-219936&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYyMTMzNzczMiwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.PUb06i82uPBVTjHh4k0NLC4CzIZGIJrTTbfVXrCT1lw%3D.1621337732);background-position: 0px 0px;width: 959px;height: 1356px;z-index: 0;left: -7.000699999999995px;top: -9.898799999999937px;opacity: 1;transform: scale(0.9854, 0.9853999999999999);;position: absolute;overflow: hidden;"></div></div></div>
+                
+            </div>
+        
+        <div class="reader-page"
+            v-for="(v, i) in pageWHArr"
+            :key="i"
+            :class="{'reader-page-hidden': curLastPage < v.i}"
+            :id="'pageNo-' + v.i"
+            :data-page-no="v.i"
+            :data-mate-width="v.w"
+            :data-mate-height="v.h"
+            :data-scale="v.s"
+            :style="{height: v.ph + 'px'}"
+            v-if="!(+v.i === 1 && ssr)"
+        >
+            <page-loading ></page-loading>
+        </div>
+    </div>
+
+
+
+                </div>
+                
+                    <fold-page></fold-page>
+                
+            </div>
+
+            <div class="no-full-screen">
+                <tool-bar></tool-bar>
+                
+                    <ad-bottom></ad-bottom>
+                
+                
+                    <lazy-render tip="" :time="1000">
+                        
+                            <relative-recommend></relative-recommend>
+                        
+                        <comment></comment>
+                    </lazy-render>
+                
+            </div>
+        </div>
+
+        <div class="right-wrapper no-full-screen" id="right-wrapper-id">
+            <div class="author-info" v-show="!vueMounted">
+    
+    
+        
+
+
+
+<div class="author-info-wrapper">
+    <div class="title-box">
+        <p class="title">关于作者</p>
+        <div class="line"></div>
+    </div>
+    <div class="user-info">
+        
+        
+            
+        
+        
+        <div class="avatar" style="background-image: url(https://himg.bdimg.com/sys/portraitn/item/wenku.1.2574fdf7.XKTFhtqm4Scgb5QFHBHMuw.jpg);">
+            <div class="v-tag v-tag-UGC"></div>
+        </div>
+        <div class="info">
+            <div class="nick-box">
+                <p class="nickname">
+                    早安077
+                </p>
+                <p class="tag tag-maxw">
+                    文库新人
+                </p>
+            </div>
+            
+        </div>
+    </div>
+    <div class="property">
+        <div class="item">
+            <p class="title">文档</p>
+            <div class="author-info-number">684</div>
+        </div>
+        <div class="item">
+            <p class="title">粉丝</p>
+            <div class="author-info-number">2</div>
+        </div>
+        <div class="item">
+            <p class="title">等级</p>
+            <div class="author-info-number">Lv1</div>
+        </div>
+    </div>
+    
+        <div class="card-action-box">
+            
+                <div class="common unfollow">关注</div>
+            
+            <div class="common user-info">
+                个人主页
+            </div>
+        </div>
+    
+</div>
+    
+</div>
+                
+
+            <author-info></author-info>
+            
+                <right-channel></right-channel>
+                <operation></operation>
+            
+            <relative-search class="sider-edge" :fix="false"></relative-search>
+
+            
+                
+                    <relative-doc class="sider-edge" :fix="false"></relative-doc>
+                    <lazy-render tip="" :time="1000">
+                        <relative-course class="sider-edge" :fix="false"></relative-course>
+                    </lazy-render>
+                
+                <ad-right class="sider-edge"></ad-right>
+            
+
+            
+                <lazy-render tip="" :time="1000">
+                    <recommend-fix></recommend-fix>
+                </lazy-render>
+            
+
+        </div>
+        <div class="no-full-screen">
+            <collection-guide></collection-guide>
+        </div>
+
+        <pure-guide-dialog></pure-guide-dialog>
+    </div>
+    
+        <lazy-render tip="" :time="1000">
+            <div class="footer-wrapper no-full-screen" id="footer-wrapper-id">
+                <propagation></propagation>
+            </div>
+            
+                <sidebar></sidebar>
+            
+            <vip-member-pop></vip-member-pop>
+            <reader-plugin :root-selector="'#reader-container'"></reader-plugin>
+            <wkfooter></wkfooter>
+            <vip-no-ad-dialog></vip-no-ad-dialog>
+        </lazy-render>
+    
+</div>
+
+
+
+    <script>window.tsFMP = +(new Date());</script>
+
+
+    <script>
+        var pageData = {"title":"北航宇航学院研究生就业现状_趋势及分析_张洪礼 - 百度文库","ssr":1,"token":"1621334132_cb9e5500329f20273cd46726e599dc47","viewControl":{"controlType":2,"controlReason":"","oldVersion":false,"isIE":false},"antiClass":"wkwm1797f486534","docInfo2019":{"doc_info":{"show_doc_id":"68a295c788eb172ded630b1c59eef8c75fbf95d8","title":"北航宇航学院研究生就业现状_趋势及分析_张洪礼","view_count":2424,"download_count":2,"score":2.1,"score_percentage":"23","show_create_time":"20160718 15:31:29","create_time":"1468827089","update_time":"1468827089","page":"2","size":"185681","summary":"","flag":"0","type":"7","ishide":"0","zan":0,"cover_url":"https://wkimg.bdimg.com/img/a76331d9a1c7aa00b52acb36?new=1&w=500&p=1","show_store_id":"a76331d9a1c7aa00b52acb36","is_creater":0,"download_token":"2d9f1e25f5916009141ac10d73f90b26","is_vip_free_doc":false,"main_status":"2","forbidden_comment":0,"modifyLock":0,"is_legion_doc":0,"editorDocId":"","professional_doc":0,"isVipHighPriceDoc":0,"vipDocPackSmallFlow":null,"doc_type":1,"is_tumu":0,"is_inroom":0,"typeName":"pdf","view_count_show":"2424","download_count_show":"2","create_time_show":"2016-07-18"},"cover_list":[],"tags":[{"tag":"研究生","url":"https://wenku.baidu.com/ndcore/browse/sub?isType=2&isChild=研究生&fr=view_tag2019_3","type":3},{"tag":"研究生入学考试","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%D1%D0%BE%BF%C9%FA%C8%EB%D1%A7%BF%BC%CA%D4","type":1},{"tag":"高等教育","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%B8%DF%B5%C8%BD%CC%D3%FD","type":1}],"search_words":[],"hot_words":[{"word":"研究生","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%D1%D0%BE%BF%C9%FA"},{"word":"高等教育","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%B8%DF%B5%C8%BD%CC%D3%FD"},{"word":"研究生入学考试","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%D1%D0%BE%BF%C9%FA%C8%EB%D1%A7%BF%BC%CA%D4"}],"creator_info":{"uid_str":"907fa13ff12d2af90242e6b6","uname":"早安077","utype":"UGC","follower_count":"2","have_followed":"0","level":"1","scienceOrg":0,"scienceRepeatSign":0,"tname":"早安077","verify_name":"","doc_count":684,"avadar":"https://himg.bdimg.com/sys/portraitn/item/wenku.1.2574fdf7.XKTFhtqm4Scgb5QFHBHMuw.jpg","title":"文库新人","show_auth":0,"phone":"","level_info":{"content_score":"180","business_score":"0","credit_score":"1000","alive_score":"300","profession_score":"200","total_score":"277","is_keep":"0","level":"1","create_time":"1621063330","update_time":"1621063330","level_name":"文库新人","levelShow":"d","levelText":"银牌店铺"},"shop_follow":{"is_own_shop":0,"follow_count":0,"is_followed":0},"shop_info":{"shop_level":"1","shop_level_name":"银牌店铺","shop_name_show":"undefined的店"},"typeTitle":"个人主页"},"can_read":1,"price_info":{"doc_price":0,"doc_ticket":0,"ispaied":0,"is_payment_doc":0,"shopVoucherInfo":{}},"vip_info":[],"like_info":{"is_liked":0},"attestation_doc_result":0,"is_copyright":0,"is_exclusive":0,"copyright_flag":0,"background_info":{"background_type":"0","background_value":"#F4F4F4","background_skin_id":"classic","background_end_time":-1},"doc_view_rec_test_type":0,"isRepeatDown":0,"controlType":2,"controlReason":"","wk_smallflow":{"testData":{"11":{"shot":"nafe-1509-ok","test1961":"1","isShowNewReadJifenDoc":"1","collectionGuide":"1","vipWithDoc":"2224-1","highPriceDocSendVip":"1","wkWeb2270":"2","version":"2","pcViewGoClientFlow":"1","searchBoxVipEntrance":"3038","wkWeb2967":"1","pureMode":"1","experienceCardTest":"2713-2","vipEntranceAct":"3238","pcTryReadPayBtnTest":"12","wkWeb2781":"0","wkWeb2963":"1","wkWebEid":"121603","wkWeb3191Eid":"011401","ishitZhenxuan":"1","isHitCopyGuid":"1","wkWeb3483":"1","wkWeb3483Eid":"103081","wk-web-3514":"1","isHitDocCopy":"1","wkWeb3563":"2"},"18":{"wkWeb3627":"1"},"19":{"optimization":"1884-1","discountTextColor":"1933","docVoucherType":"1999-1","vipVouchers":"all","docOperation":"notClick","notVipDocVoucher":"2020-1","marquee":"2245-2","channel_sort":"2623-1","cardVoucher":"RedEnvelopeCard-2","keepPay":"3201-1"},"20":{"pcViewGoClientFlow":"1"},"10001":{"goodsList":"1462","dianXinPay":"1010","discountTextColor":"1933","countDown":"2140-1","vipCashierRefactoring":"1944","privilegeTest":"2392-1","voucherPackage":"2212-2","voucherPackageAutoPop":"2212-5","vipMarquee":"2540-1","showWkcoin":"2675","vipCardLeftTopTag":"2390-1","vipCardTag":"2390-2","miniHeight":"3169","addGoods":"test4","newVoucherPackage":"2880-2"},"10019":{"wkWeb1754Group":"1"},"10022":{"pcSearchScreenType":"2","pcSearchStyleType":"2","search_right_rec":"1","pcSearchRebuild":"1"},"40013":{"autoPayCancel":"2986-2"},"40018":{"isNewDown":"1"},"40021":{"userCard":"1"},"40024":{"autoPayText":"3599-2"},"50006":{"wkCoinMarquee":"2898-2"},"50012":{"newUploadV3":"1"},"50014":{"wkWeb3463":"1","pureDialog":"2"},"50015":{"monthlyGoodsPrice":"3425-1","newUserText":"3826-1"}},"testId":"40166,60209,40224,60235,40155,60172","testDataStr":"{\"shot\":\"nafe-1509-ok\",\"test1961\":\"1\",\"isShowNewReadJifenDoc\":\"1\",\"collectionGuide\":\"1\",\"vipWithDoc\":\"2224-1\",\"highPriceDocSendVip\":\"1\",\"wkWeb2270\":\"2\",\"version\":\"2\",\"pcViewGoClientFlow\":\"1\",\"searchBoxVipEntrance\":\"3038\",\"wkWeb2967\":\"1\",\"pureMode\":\"1\",\"experienceCardTest\":\"2713-2\",\"vipEntranceAct\":\"3238\",\"pcTryReadPayBtnTest\":\"12\",\"wkWeb2781\":\"0\",\"wkWeb2963\":\"1\",\"wkWebEid\":\"121603\",\"wkWeb3191Eid\":\"011401\",\"ishitZhenxuan\":\"1\",\"isHitCopyGuid\":\"1\",\"wkWeb3483\":\"1\",\"wkWeb3483Eid\":\"103081\",\"wk-web-3514\":\"1\",\"isHitDocCopy\":\"1\",\"wkWeb3563\":\"2\"}","visible1796":false,"wkWeb2024":0}},"readerInfo2019":{"docId":"68a295c788eb172ded630b1c59eef8c75fbf95d8","storeId":"a76331d9a1c7aa00b52acb36","tpl_key":"html_view","md5sum":"&md5sum=830e8b2283691d4990d0c0015b009f3b&sign=6b21caab36","pageInfo":{"pageHeight":"1356","pageWidth":"959","pageWH":["959","1356"],"other":null,"version":6},"htmlBcs":true,"htmlUrls":"{\"ttf\":[],\"json\":[{\"pageIndex\":1,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9655\\/\\/wk\\/830e8b2283691d4990d0c0015b009f3b\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Fri%2C%2002%20Jul%202021%2018%3A35%3A32%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2021-05-18T10%3A35%3A32Z%2F3600%2Fhost%2F757dc0878989bf1698722d3064e1c2b9de461237eeb30dff7a1669af2df97f81&x-bce-range=0-507&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYyMTMzNzczMiwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.yTixp6V6aj0m9RX1wq%2BXUpcOdasPht3mo5Vt80V9kXI%3D.1621337732\"},{\"pageIndex\":2,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9655\\/\\/wk\\/830e8b2283691d4990d0c0015b009f3b\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Fri%2C%2002%20Jul%202021%2018%3A35%3A32%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2021-05-18T10%3A35%3A32Z%2F3600%2Fhost%2F757dc0878989bf1698722d3064e1c2b9de461237eeb30dff7a1669af2df97f81&x-bce-range=508-&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYyMTMzNzczMiwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.1cCkrXS4xmuxJUhTPX5ZFF%2FZPkdqsbQJxMJQFUljgAc%3D.1621337732\"},{\"pageIndex\":3,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9655\\/\\/wk\\/830e8b2283691d4990d0c0015b009f3b\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Fri%2C%2002%20Jul%202021%2018%3A35%3A32%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2021-05-18T10%3A35%3A32Z%2F3600%2Fhost%2F757dc0878989bf1698722d3064e1c2b9de461237eeb30dff7a1669af2df97f81&x-bce-range=--1&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYyMTMzNzczMiwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.PYzPRbirRO8Rudyp4%2Fczkyz%2BZoSM5bSNEsct4%2FYcQo0%3D.1621337732\"}],\"png\":[{\"pageIndex\":1,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9655\\/\\/wk\\/830e8b2283691d4990d0c0015b009f3b\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Fri%2C%2002%20Jul%202021%2018%3A35%3A32%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2021-05-18T10%3A35%3A32Z%2F3600%2Fhost%2Fec0e16a35af202edbabb504141b3ae8ab31ff218aa72677bdf907a2f2070ded8&x-bce-range=0-219936&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYyMTMzNzczMiwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.PUb06i82uPBVTjHh4k0NLC4CzIZGIJrTTbfVXrCT1lw%3D.1621337732\"},{\"pageIndex\":2,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9655\\/\\/wk\\/830e8b2283691d4990d0c0015b009f3b\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Fri%2C%2002%20Jul%202021%2018%3A35%3A32%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2021-05-18T10%3A35%3A32Z%2F3600%2Fhost%2Fec0e16a35af202edbabb504141b3ae8ab31ff218aa72677bdf907a2f2070ded8&x-bce-range=219937-&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYyMTMzNzczMiwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.mAWQ0q058RLHPFhRWfjOxEtToLDn%2B50pObq78noIsv8%3D.1621337732\"},{\"pageIndex\":3,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9655\\/\\/wk\\/830e8b2283691d4990d0c0015b009f3b\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Fri%2C%2002%20Jul%202021%2018%3A35%3A32%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2021-05-18T10%3A35%3A32Z%2F3600%2Fhost%2Fec0e16a35af202edbabb504141b3ae8ab31ff218aa72677bdf907a2f2070ded8&x-bce-range=--1&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYyMTMzNzczMiwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.HfHKUjWx%2BOLl1wVg%2BzfkEfuWUNXO9UWE2ZHpazEGnkU%3D.1621337732\"}]}","free_page":"2","show_page":"2","page":"2","editor_info":[],"rsign":""},"mixVipAndUserInfo":{"error_no":"2","userInfo":{"isLogin":false,"uip":"10.12.1.234","uipNum":"3925937162","isHadSecuremobil":0,"bjhVtype":0,"bjhVintro":""},"wk_smallflow":{"testData":{"10013":{"gowkapp":"1","monthlyPrice":"1666-2","payDocRecallDialog":"show","payExp":"1","gocollegeapp":"1","highPriceDocSendVip":"1","fufeiDocPage":"2688-3","pageCashier":"2554","topBannerExp":"1","isHitMcp":"1","wkWeb2741":"1","wkWeb3271":"1","wk-web-3514":"1","continueType":"openVip","wkWeb3669":"2"},"40006":{"experienceCard":"3681"},"40007":{"viewBottomBtnConfig":"1"},"40009":{"isHitMcp":"1"},"40015":{"autoPayCancel":"2986-1"},"40016":{"fillQuery":"1"},"40023":{"iswapnew":"1"},"40025":{"testIndex":"1"},"50003":{"viewRecBtnConfig":"1"},"50005":{"unpaid":"3201-1"},"50008":{"show_price":"new","wap_cashier_type":"1","addGoods":"test4"},"50016":{"monthlyGoodsPrice":"3425-1"},"50021":{"wk-web-3693":"1","eid":"140101"}},"testId":"40080,40235"}},"vipInfo":{},"myShopInfo":null,"wkAdBlockStatus":{"errstr":"success","block_status":false},"activity":{"actImg":"https://qn13.tool.lu/202005/24/151913rdYgDQ2kAe4XSces_280x150.png","leftNum":9345,"totalNum":10000,"consume":655,"startTime":1600616459,"endTime":1600963200},"controlFeature":{"pcGrayTheme":false},"hxXapgeDate":{"form_data":{"knowAd":100,"ad":100,"zyStr":5,"searchNewStyleStr":0,"viewFcReqStr":100,"searchFcReqStr":100,"newHxReqStr":100,"viewToSearchReqStr":100,"vipNoAd":{"vipNoAd":{"time":0},"vipNoAdDuiZhao":{"flow":"0/1/2/3/4/5/6/7/8/9/10","time":1440}},"zhishiReqStr":100,"zhishiSearchReqStr":100,"zhishiView":{"oldView":{"flow":"1/2/3/4/5/6/7/8/9/10"}},"searchAdTime":{"together":{"flow":"1/15"},"adAfter":{"flow":"85/100"}},"searchAdSwitch":1,"searchTopBottomAd":{"top":{"flow":"1/2/3/4/5/6/7"},"bottom":{"flow":"8/9/10"}},"guid_to_university_na":{"isopen":false}}},"saleActivityXpage":{"activity_name":"优选文档限时VIP8折","activity_subtitle":"优惠还剩","url":"https://wenku.baidu.com/ndcashier/browse/jiaoyuvipcashier?cashier_code=Viewvip8qipao","start_time":1587398400000,"end_time":1587571200000,"activity_switch":false},"wkSmallflow":{"testData":{"11":{"shot":"nafe-1509-ok","test1961":"1","isShowNewReadJifenDoc":"1","collectionGuide":"1","vipWithDoc":"2224-1","highPriceDocSendVip":"1","wkWeb2270":"2","version":"2","pcViewGoClientFlow":"1","searchBoxVipEntrance":"3038","wkWeb2967":"1","pureMode":"1","experienceCardTest":"2713-2","vipEntranceAct":"3238","pcTryReadPayBtnTest":"12","wkWeb2781":"0","wkWeb2963":"1","wkWebEid":"121603","wkWeb3191Eid":"011401","ishitZhenxuan":"1","isHitCopyGuid":"1","wkWeb3483":"1","wkWeb3483Eid":"103081","wk-web-3514":"1","isHitDocCopy":"1","wkWeb3563":"2"},"18":{"wkWeb3627":"1"},"19":{"optimization":"1884-1","discountTextColor":"1933","docVoucherType":"1999-1","vipVouchers":"all","docOperation":"notClick","notVipDocVoucher":"2020-1","marquee":"2245-2","channel_sort":"2623-1","cardVoucher":"RedEnvelopeCard-2","keepPay":"3201-1"},"20":{"pcViewGoClientFlow":"1"},"10001":{"goodsList":"1462","dianXinPay":"1010","discountTextColor":"1933","countDown":"2140-1","vipCashierRefactoring":"1944","privilegeTest":"2392-1","voucherPackage":"2212-2","voucherPackageAutoPop":"2212-5","vipMarquee":"2540-1","showWkcoin":"2675","vipCardLeftTopTag":"2390-1","vipCardTag":"2390-2","miniHeight":"3169","addGoods":"test4","newVoucherPackage":"2880-2"},"10019":{"wkWeb1754Group":"1"},"10022":{"pcSearchScreenType":"2","pcSearchStyleType":"2","search_right_rec":"1","pcSearchRebuild":"1"},"40013":{"autoPayCancel":"2986-2"},"40018":{"isNewDown":"1"},"40021":{"userCard":"1"},"40024":{"autoPayText":"3599-2"},"50006":{"wkCoinMarquee":"2898-2"},"50012":{"newUploadV3":"1"},"50014":{"wkWeb3463":"1","pureDialog":"2"},"50015":{"monthlyGoodsPrice":"3425-1","newUserText":"3826-1"}},"testId":"40166,60209,40224,60235,40155,60172","testDataStr":"{\"shot\":\"nafe-1509-ok\",\"test1961\":\"1\",\"isShowNewReadJifenDoc\":\"1\",\"collectionGuide\":\"1\",\"vipWithDoc\":\"2224-1\",\"highPriceDocSendVip\":\"1\",\"wkWeb2270\":\"2\",\"version\":\"2\",\"pcViewGoClientFlow\":\"1\",\"searchBoxVipEntrance\":\"3038\",\"wkWeb2967\":\"1\",\"pureMode\":\"1\",\"experienceCardTest\":\"2713-2\",\"vipEntranceAct\":\"3238\",\"pcTryReadPayBtnTest\":\"12\",\"wkWeb2781\":\"0\",\"wkWeb2963\":\"1\",\"wkWebEid\":\"121603\",\"wkWeb3191Eid\":\"011401\",\"ishitZhenxuan\":\"1\",\"isHitCopyGuid\":\"1\",\"wkWeb3483\":\"1\",\"wkWeb3483Eid\":\"103081\",\"wk-web-3514\":\"1\",\"isHitDocCopy\":\"1\",\"wkWeb3563\":\"2\"}","visible1796":false,"wkWeb2024":0},"skinViewStrategy":{"topbar_is_open":true,"topbar_pic_url":"https://edu-tob.bdimg.com/v1/pc/4e48a463c34091a7fa489525833883a6-1618206292859.PNG","topbar_big_pic_url":"https://edu-tob.bdimg.com/v1/pc/c5acde472ba147b110543f7234136810-1618206293340.PNG","topbar_jump_url":"https://wenku.baidu.com/pcactivity/wxCommunity","leftbar_pic1_url":"//edu-wenku.bdimg.com/v1/images/侧边栏头-1576725822251.png","leftbar_pic2_url":"//edu-wenku.bdimg.com/v1/images/%E4%BE%A7%E8%BE%B9%E6%A0%8F%E4%B8%AD-1576725820663.png","leftbar_pic3_url":"//edu-wenku.bdimg.com/v1/images/zsj-leftbar-close.png","leftbar_jump_url":"https://wenku.baidu.com/ndcashier/browse/jiaoyuvipcashier?cashier_code=ChangeFromViewxuanfu","toppos_pic_url":"https://edu-tob.bdimg.com/v1/pc/WPS%E5%9B%BE%E7%89%87-%E4%BF%AE%E6%94%B9%E5%B0%BA%E5%AF%B82-1610458129342.png","toppos_jump_url":"https://wenku.baidu.com/ndcashier/browse/jiaoyuvipcashier?cashier_code=ChangeFromPCviewtop&choose_goods_id=312","leftbar_is_open":false,"toppos_is_open":false,"key":"__wk_view_topbar_2021418"},"giftInfo":{"giftSwitch":true,"iosPay":true,"giftIcon":"https://edu-wenku.bdimg.com/v1/pc/%E6%96%87%E9%9B%86%E4%B9%B0%E8%B5%A0%E9%9D%99%E6%80%81%E5%9B%BE%E6%A0%87/qqmusic.png","priceLimit":2990,"giftCount":{"target":"price","rules":[{"min":"29.9","max":"54.9","value":1},{"min":"54.9","max":"Infinity","value":2}]},"pcWenjiView":{"title":"送{{giftCount}}个月QQ音乐会员"},"pcWenjiPack":{"title":"买就送{{giftCount}}个月QQ音乐会员！","icon":"https://edu-wenku.bdimg.com/v1/pc/%E6%96%87%E9%9B%86%E4%B9%B0%E8%B5%A0%E9%9D%99%E6%80%81%E5%9B%BE%E6%A0%87/qqmusic.png","recommandTip":"赠会员"},"wapWenjiPack":{"title":"买就送{{giftCount}}个月QQ音乐会员！","icon":"https://edu-wenku.bdimg.com/v1/pc/%E6%96%87%E9%9B%86%E4%B9%B0%E8%B5%A0%E9%9D%99%E6%80%81%E5%9B%BE%E6%A0%87/qqmusic-1595224358151.png","recommandTip":"赠会员"},"activityPageCopy":{"wenjiListCopy":"送%s个月QQ音乐会员"},"cashier":[{"actName":"1856_packdoc_qqmusic","icon":"https://edu-wenku.bdimg.com/v1/wap/qq%E9%9F%B3%E4%B9%90-1594957488813.png","title":"送%s个月QQ音乐会员"}],"sucPcPage":[{"actName":"1856_packdoc_qqmusic","icon":"https://edu-wenku.bdimg.com/v1/wap/qq%E9%9F%B3%E4%B9%90-1594957488813.png","title":"恭喜您获得了QQ音乐会员月卡%s张","desc":"兑换码及兑换方式同样会以短信及文库站内信形式发送给您","linkText":"去查看","link":"https://wenku.baidu.com/ndwelfare/browse/cornucopia?source=63"}],"sucWapPage":[{"actName":"1856_packdoc_qqmusic","goodsType":"64","icon":"https://edu-wenku.bdimg.com/v1/wap/qq%E9%9F%B3%E4%B9%90-1594957488813.png","title":"恭喜您获得了QQ音乐会员月卡%s张","desc":"兑换码及兑换方式同样会以短信及站内信发送给您（可在电脑端登录百度文库-个人中心-我的消息查看），请注意查收~","linkText":"去查看","link":"https://wenku.baidu.com/ndwelfare/browse/cornucopia?source=63"},{"actName":"3845_experience-card","goodsType":"3","desc":"若因网络延迟兑换码未展示，可在我的礼品页内查看","linkText":"复制并打开不挂科APP兑换","link":"bdwkst://student/operation"}]},"channelId":"","getGuideNaXpage":[{"guideNARefer":"1020999h","andriodRoute":"https://downpack.baidu.com/baiduwenku_AndroidPhone_1020999h.apk","codeImg":"https://edu-wenku.bdimg.com/v1/pc/sidebar_qr_code-1600926465061.png"}],"pcClientLandingPage":{"pcSwitch":true,"app":{"title":"百度文库 APP","back":"https://edu-wenku.bdimg.com/v1/pc/pcactivity/app-back.png","desc":"作业、做题辅导学习必备神器","tip":"月卡加赠7天","icon":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%96%87%E5%BA%93APPicon-1603434254133.png","qrcodeAndroid":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%96%87%E5%BA%93APP%20%E5%AE%89%E5%8D%93%E7%AB%AF-1602299474435.png","qrcodeIphone":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%96%87%E5%BA%93APP%20iOS%E7%AB%AF-1602299504173.png","imgList":["https://edu-wenku.bdimg.com/v1/na/0807/%E5%AE%9E%E7%94%A8%E6%96%87%E6%A1%A3-1603258168544.png","https://edu-wenku.bdimg.com/v1/na/0807/%E4%B8%93%E4%B8%9A%E8%B5%84%E6%96%99-1603258274377.png","https://edu-wenku.bdimg.com/v1/na/0807/APP%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2-1603434275434.png"]},"college":{"back":"https://edu-wenku.bdimg.com/v1/pc/pcactivity/college-back.png","title":"不挂科APP","desc":"大学生搜题查答案的学习神器","tip":"购会员享时长优惠","icon":"https://edu-wenku.bdimg.com/v1/na/0807/logo-%E5%B8%A6%E5%9C%86%E8%A7%92-1620726048986.png","qrcodeAndroid":"https://edu-wenku.bdimg.com/v1/na/0807/PC%E7%AB%AF-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD-1620726114592.png","qrcodeIphone":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%96%87%E5%BA%93%E5%A4%A7%E5%AD%A6%E7%94%9FiOS%E7%AB%AF-1602316512495.png","imgList":["https://edu-wenku.bdimg.com/v1/na/0807/%E7%9C%8B%E8%A7%A3%E6%9E%90-1603258193717.png","https://edu-wenku.bdimg.com/v1/na/0807/%E6%8B%8D%E7%85%A7-1603258296963.png","https://edu-wenku.bdimg.com/v1/na/0807/%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7-1603258390318.png"]},"mac":{"back":"https://edu-wenku.bdimg.com/v1/pc/pcactivity/pc-back.png","title":"文库Mac(Beta版)","desc":"轻松管理知识，助你高效工作、学习","tip":"最新版本V1.1.1","url":"https://edu-wenku.bdimg.com/v1/na/0807/PC%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%89%88%E6%9C%AC%E5%8C%85/%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93MAC%E7%89%88-1.1.1.dmg","imgList":["https://edu-wenku.bdimg.com/v1/na/0807/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86-1603258145504.png","https://edu-wenku.bdimg.com/v1/na/0807/%E5%85%AC%E5%BC%8F-1603258247848.png","https://edu-wenku.bdimg.com/v1/na/0807/PC-%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2-1603258335349.png"]},"win":{"back":"https://edu-wenku.bdimg.com/v1/pc/pcactivity/pc-back.png","title":"文库Windows(Beta版)","desc":"轻松管理知识，助你高效工作、学习","tip":"最新版本V1.1.2","url":"https://edu-wenku.bdimg.com/v1/pcclient/upgrade/%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%20Setup%201.1.2.exe","imgList":["https://edu-wenku.bdimg.com/v1/na/0807/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86-1603258145504.png","https://edu-wenku.bdimg.com/v1/na/0807/%E5%85%AC%E5%BC%8F-1603258247848.png","https://edu-wenku.bdimg.com/v1/na/0807/PC-%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2-1603258335349.png"]},"pcGoClientBtnSwitch":true},"woniuKeywords":{"search":{"keywords":["报告","股市|市值|招股|5G|新基建|疫情|云计算|工业互联网|直播|MCN|半导体|人工智能|医药|电商汽车|有色金属|物联网|交通运输|房地产|薪酬|营收|蓝皮书|指数|消费者|产品分析|行业|白皮书|生态|洞察"]},"view":{"keywords":["报告","股市|市值|招股|5G|新基建|疫情|云计算|工业互联网|直播|MCN|半导体|人工智能|医药|电商汽车|有色金属|物联网|交通运输|房地产|薪酬|营收|蓝皮书|指数|消费者|产品分析|行业|白皮书|生态|洞察"]}},"appBGKStartup":{"date":"20210518","startup":0},"tplName":"xreader","player":"html_xreader","reader_type":"reader_html_xreader","nodePerf":{"timeReqs":328,"timePureView":183,"timeTotal":328,"timeReqRenderData":182,"timeRenderPure":1,"sizePureHtml":1027,"sizePureStyl":280}};
+        window.pageData = pageData;
+        var docInfo2019 = pageData.docInfo2019;
+        var vipInfo = pageData.vipInfo;
+        var readerInfo2019 = pageData.readerInfo2019;
+        var viewControl = pageData.viewControl || {};
+        var wkSmallflow = pageData.wkSmallflow || {};
+        var priceInfo = docInfo2019.price_info || {};
+        var actInfo = priceInfo.act_info || {};
+        var actPrice = actInfo.act_price || 0;
+        var isPackageDoc = priceInfo.is_package;
+        var ispaied = +priceInfo.ispaied === 1;
+        var isVip = vipInfo.global_vip_status ? 1 : 0;
+        var isPackageDoc = priceInfo.is_package && !(priceInfo.is_discount_doc && isVip);
+        var mixVipAndUserInfo = pageData.mixVipAndUserInfo || {};
+        var userInfo = mixVipAndUserInfo.userInfo || {};
+        var shopVoucherInfo = priceInfo.shopVoucherInfo || {};
+        var docInfo = docInfo2019.doc_info || {};
+        var wkCommonLogParam = {
+            ssr: pageData.ssr,
+            v2020: 1,
+            doc_id: docInfo.show_doc_id,
+            doc_title: docInfo.title,
+            is_login: userInfo.isLogin ? 1 : 0,
+            is_vip: isVip,
+            page: 'view',
+            player: pageData.player,
+            reader_type: pageData.reader_type,
+            type: docInfo2019.doc_info.type,
+            doc_type: docInfo2019.doc_info.doc_type,
+            is_vip_free_doc: +docInfo2019.doc_info.is_vip_free_doc,
+            can_read_all: +(+readerInfo2019.free_page === +readerInfo2019.page),
+            is_downloadable: docInfo2019.price_info.is_downloadable || 0,
+            secret_downloadable: docInfo2019.doc_info.is_downloadable || 0,
+            has_got: +docInfo2019.price_info.ispaied || 0,
+            is_discount_doc: +docInfo2019.price_info.is_discount_doc || 0,
+            coupon_id: shopVoucherInfo.couponId,
+            coupon_drawed: shopVoucherInfo.isDraw ? 1 : 0,
+            wkTestId: wkSmallflow.testId || '',
+            wkTestData: wkSmallflow.testDataStr || '',
+            wkWeb2024: wkSmallflow.wkWeb2024 || 0
+        };
+        switch (+docInfo.doc_type) {
+            case 1:
+                wkCommonLogParam.docTicket = priceInfo.doc_ticket;
+                break;
+            case 2:
+                wkCommonLogParam.payDocType = priceInfo.promotion_strategy_type;
+                break;
+        }
+        window.wkCommonLogParam = wkCommonLogParam;
+    </script>
+    <script type="text/javascript" src="https://edu-wenku.bdimg.com/v1/pc/browserdata/browserdata-min.js"></script>
+    <script src="https://code.bdstatic.com/npm/spy-client@2.0.3/dist/spy-client-basic.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="https://edu-wenku.bdimg.com/v1/pc/protocolcheck/protocolcheck.js" defer></script>
+    <!-- built files will be auto injected -->
+</body>
+</html><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/ndview/js/dll/vendors.00d888a90ab7f2fb878b.dll.js"></script><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/ndview/js/common/core.e538472f6ce5317f73e0.js"></script><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/ndview/js/common/common.91f359a759a0976602a9.js"></script><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/ndview/js/views/xreader.4c3c89ed8db15cadab0f.js"></script>

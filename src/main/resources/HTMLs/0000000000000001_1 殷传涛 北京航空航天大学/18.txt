@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>北航中法工程师学院第七届工程师暨2018届研究生毕业典礼举行-北京航空航天大学电子版《北航校报》</title>
+<meta name="keywords" content="北航中法工程师学院第七届工程师暨2018届研究生毕业典礼举行">
+<meta name="description" content="3月31日上午，北京航空航天大学中法工程师学院第七届工程师暨2018届研究生毕业典礼在新主楼第二报告厅举行。法国驻华大使黎想先生，北京航空航天大学校长徐惠彬院士，法国巴黎中央理工大学集团">
+<base target="_self">
+<link rel="stylesheet" href="template/01/image/css.css" type="text/css">
+    <SCRIPT src="Public/js/jquery-1.9.1.min.js"></SCRIPT>
+	<SCRIPT src="Public/layer/layer.js"></SCRIPT>
+    
+    <script language="javascript" type="text/javascript">	
+	$(function (){
+	    $('.bodypic img').css('cursor','pointer ');
+        $('.bodypic img').click(function(){
+			var img_url = $(this).attr('src');
+			var img = new Image();
+			img.src = img_url;
+			if(img.complete){
+			    if(img.width > 1000){
+				    var imgwidth = 1000;
+					var imgstylewidth = 'style="width:1000px;"';
+				}else{
+				    var imgwidth = img.width;
+				}
+				
+			}else{
+				img.onload = function(){
+					if(img.width > 1000){
+						var imgwidth = 1000;
+						var imgstylewidth = 'style="width:1000px;"';
+					}else{
+					    var imgwidth = img.width;
+					}
+				};
+			}
+			layer.open({
+			  type: 1,
+			  title: false,
+			  closeBtn: 1,
+			  area: imgwidth+'px',
+			  skin: 'layui-layer-nobg',
+			  shadeClose: true,
+			  content: '<div style="width:"'+imgwidth+'"px;" align="center"><img src="'+img_url+'" '+imgstylewidth+'/></div>'
+			});
+        });
+    });
+    </script>
+    
+<body text="#000000" leftmargin="0" topmargin="0" MARGINWIDTH="0" MARGINHEIGHT="0" BGCOLOR="#E8E8D7">
+<center>  <script language="JavaScript" src="template/01/js/small_inc.js"></script> 
+<script language="JavaScript" src="js/remark.js"></script> <A NAME="top"></A><table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#FF0000"> 
+<tr> <td width="5" HEIGHT="147"></td><td HEIGHT="147"> <TABLE WIDTH="100%"  BORDER="0" CELLSPACING="0" CELLPADDING="0"> 
+<TR> <TD HEIGHT="30" BACKGROUND="template/01/pic/home/menu_bg.jpg"><TABLE WIDTH="95%" BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="0"> 
+<TR> <TD HEIGHT="7"></TD><TD CLASS="white12"></TD><TD></TD></TR> <TR> <TD colspan="2" valign="middle">  <SPAN CLASS="mytime"><B><FONT COLOR="#FFFFFF"><a href=index.php><FONT COLOR="#FFFFFF">北京航空航天大学电子版<!--《北航校报》--></FONT></a> - <a href=index.php?release_id=146294><FONT COLOR="#FFFFFF">第1009期</FONT></a>(2018年4月4日) - <a href=index.php?release_id=146294&paper_id=770399><FONT COLOR="#FFFFFF">第01版:第01版</FONT></a></FONT></FONT></B></SPAN> 
+</TD>
+  <TD ALIGN="CENTER">
+                              <A ONCLICK=zoomIn(); HREF="javascript:"><IMG 
+            SRC="template/01/pic/images/da.gif" ALIGN=absMiddle 
+            BORDER=0></A>&nbsp;<A ONCLICK=zoomOut(); HREF="javascript:"><IMG SRC="template/01/pic/images/xiao.gif" ALIGN=absMiddle 
+            BORDER=0></A>&nbsp;<A ONCLICK=zoomAct(); HREF="javascript:"><IMG SRC="template/01/pic/images/zc.gif" ALIGN=absMiddle BORDER=0></A>&nbsp;&nbsp;&nbsp;<A HREF="javascript:readtext(3100370);"><IMG SRC="template/01/pic/images/ting.gif" ALT="语音播报" WIDTH="16" HEIGHT="16" BORDER="0"></A></TD>
+                </TR> 
+</TABLE></TD></TR> </TABLE><TABLE WIDTH="100%" BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="0">
+  <TR><TD ALIGN="CENTER" >&nbsp;</TD></TR><TR><TD  ALIGN="CENTER" HEIGHT="9"></TD></TR> 
+<TR> <TD HEIGHT="39" ALIGN="CENTER" valign="middle"><h1>北航中法工程师学院第七届工程师暨2018届研究生毕业典礼举行</h1></TD></TR> 
+ <TR>
+   <TD HEIGHT="29" align="center" VALIGN="middle" CLASS="morebody"></TD>
+ </TR>
+ <TR> <TD HEIGHT="10" VALIGN="top" CLASS="morebody"> 
+<DIV ID="div_body"  style="ZOOM: 100%"><TABLE WIDTH="96%" BORDER="0" CELLSPACING="0" CELLPADDING="1">
+<TR>
+<TD class="neirong" align="left">
+                        <div class="bodypic">
+                            <center><img alt=""  title=""  hspace="0" src="http://upfile.cuepa.cn/data/image/2019/04/03/20190403161014_328002.jpg" align="baseline" border="0"><br /></center><br/><REC><p>3月31日上午，北京航空航天大学中法工程师学院第七届工程师暨2018届研究生毕业典礼在新主楼第二报告厅举行。法国驻华大使黎想先生，北京航空航天大学校长徐惠彬院士，法国巴黎中央理工大学集团主席彪赛教授、中央理工大学集团全球校区副主席科塞教授，赛峰集团中国区总裁白幻德先生、法国电力集团中国区副总裁艾琳女士，斯伦贝谢人力资源总监夏怡女士等政府、高校和企业界的代表出席了典礼。典礼由中法工程师学院副院长张巍主持。<br />&nbsp;<br />毕业典礼正式开始，所有人员起立，奏唱国歌。随后，中法工程师学院分党委书记、院长洪冠新教授宣读了2018届硕士学位授予名单，法方院长福吉龙教授宣读了2018届法国通用工程师学位授予名单。徐惠彬院士、彪赛教授、科塞教授等为毕业生拨穗并颁发学位。典礼还对北京市优秀毕业生获得者、校优秀硕士论文获得者、“中国商飞-斯伦贝谢”优秀实习奖获得者进行了表彰。<br />&nbsp;<br />硕士生导师代表王蕴红教授在发言中祝贺同学们顺利毕业。她表示，中法工程师学院的学生在多学科交叉、多文化交融的环境下，得到了最全面的教育，拥有了国际化的视野、通用工程师的素质、专业的技能、强大的内心和大格局观，终将成为出类拔萃的人才。她勉励同学们走出校门后，要不忘初心，怀有感恩之心，充满信心，成为母校的骄傲。<br />毕业生代表刘攀、龙星潼分别用中文和法文进行发言，抒发了在中法工程师学院六年多以来学习生活的感想，向老师、学院和学校表达了谢意，并表示将在未来学习和工作的岗位上继续践行“德才兼备，知行合一“的精神，为中法两国的交流和合作贡献力量。<br />法国驻华大使黎想先生在毕业典礼上致辞，他指出，中法工程师学院已经充分融入到法国中央理工大学的优秀传统之中，在北航中法工程师学院的示范和引领作用下，现已成立12家中法合作办学机构。当前，世界面临着生态转型和能源消耗的全新挑战，因此培养能够应对复杂系统和科学问题的国际化工程师人才具有重要的意义。北航中法工程师学院的毕业生是国际化精英青年的代表，将学习成长为优秀的工程师人才。黎想大使勉励毕业生们在未来的发展中保持质疑精神，以多文化的视角融入职场，成为中法两国文化、经济、科技交流与合作的代言人，为中法友谊做出贡献。<br />法国中央理工大学集团主席彪赛教授在致辞中表示，这批毕业生是中法工程师学院培养出的又一批具备跨文化素养的高水平通用工程师。他指出，在瞬息万变的全球化时代，企业面临着工程技术领域复杂性的挑战，需要大量具备严谨科研态度和丰富知识储备的高精尖人才。为了培养这样面向未来、与时俱进的工程师，法国中央理工大学集团也发展了以北航中法工程师学院为代表的5所国际校区网络。<br />北京航空航天大学校长徐惠彬院士最后致辞，他对同学们在融合中法两国文化的先进教育理念中成长，培养了“全球视野、系统思维、协同创新”的优秀素质，锻炼了包容性思考智慧和跨文化沟通交流能力，最终以优异的成绩在中法工程师学院毕业表示热烈祝贺。他指出，作为中法高等工程教育合作的典范，中法工程师学院在国际化通用工程师培养中的探索和尝试、积累和总结，成为了打造北航新时期人才培养模式的重要组成部分。同时，他勉励学生秉持北航人“爱国奉献、敢为人先”的价值追求，锐意进取、砥砺前行，用自己的努力和坚持，创造与成就，去收获精彩的人生。<br />北航中法工程师学院于2004年由北京航空航天大学与法国中央理工大学联合创办，作为北航试点专业获准首批入选教育部“卓越工程师教育培养计划”，国内首个连续两次通过法国工程师职衔委员会（CTI）和欧洲工程师教育体系（EUR-ACE）认证，向学生颁发北航本科和硕士文凭以及法国通用工程师文凭。学院在国内创新性地采用“预科-工程师”与“本科-硕士”相融合的精英教育模式，培养具有扎实理论基础和跨专业知识能力、能够胜任世界多样性和快速适应变化与挑战的工程领域领导和领军人才。到2018年，学院已经培养了7届共602名具有我国硕士和法国通用工程师双学位的毕业生，以创新性的教育培养理念和多样化的合作交流平台在社会上和国际上起到了良好的影响，成为了“中法两国高等教育合作的典范”。<br />（文/殷传涛 摄影/王宇辰 宋超）</p><p>&nbsp;</p><script type="text/javascript" src="http://ziyuan.cuepa.cn/ad/allarticlebottom.js"></script>
+                        </div>
+</TD></TR></TABLE></DIV></TD></TR> 
+<TR> <TD HEIGHT="34" VALIGN="BOTTOM" CLASS="source"> 供稿：</TD></TR> 
+<TR> <TD HEIGHT="20" CLASS="mylabel" ALIGN="CENTER"> <table width="100%" height="31" border="0" cellpadding="0" cellspacing="0">
+  <form name="form1" method="post" action="setpoint.php">
+    <tr bgcolor="#FF99FF">
+      <td align="center" valign="middle">        验证码：<img src=./admin/lib/makecode.php alt='点击更换图片' onClick="this.src='./admin/lib/makecode.php?'+new Date().getTime();" >
+          <input size=6 name=check_num maxlength="6"><input type="hidden" name="doc_id" value=3100370>
+      <input type="submit" name="Submit" value="        我 推 荐 这 篇 文 章        "></td>
+    </tr>
+  </form>
+</table>
+</TD></TR>
+<TR>
+  <TD HEIGHT="20" CLASS="mylabel" ALIGN="CENTER"></TD>
+</TR> 
+</TABLE></td><td width="5" HEIGHT="147"></td></tr><tr><td width="5"></td><td ><TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0"><TR><TD VALIGN="BOTTOM"><TABLE STYLE="BORDER-BOTTOM: #555 1px dashed" CELLSPACING=0 CELLPADDING=6 
+      WIDTH="100%" BORDER=0> <TBODY> <TR BGCOLOR=#d8d9bd> <TD  ALIGN=left BGCOLOR="CED3FF"> 
+<TABLE WIDTH="100%" BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="0"> 
+<TR> <TD WIDTH="62%"><DIV ALIGN="center" CLASS="white12">&nbsp;&nbsp;&nbsp;&nbsp;</DIV></TD><TD CLASS="white12" WIDTH="8%">&nbsp;</TD>
+                        <TD ALIGN="CENTER" WIDTH="30%"><a onClick=zoomIn(); href="javascript:"><img 
+            src="template/01/pic/images/da.gif" align=absMiddle 
+            border=0></a>&nbsp;<a onClick=zoomOut(); href="javascript:"><img src="template/01/pic/images/xiao.gif" align=absMiddle 
+            border=0></a>&nbsp;<a onClick=zoomAct(); href="javascript:"><img src="template/01/pic/images/zc.gif" align=absMiddle border=0></a>&nbsp;&nbsp;&nbsp;<a href="javascript:readtext(3100370);"><img src="template/01/pic/images/ting.gif" alt="语音播报" width="16" height="16" border="0"></a></TD>
+                      </TR> 
+</TABLE></TD></TR><TR><TD  ALIGN=left ><TABLE WIDTH="98%"  BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="1">
+  <TR>
+    <TD colspan="2" BGCOLOR="#6BB2E6" ><TABLE WIDTH="100%"  BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#F1F8FE">
+        <TR bgcolor="#6BB2E6">
+          <TD HEIGHT="20" CLASS="black14">&nbsp;本版其他文章
+            <DIV ALIGN="center"></DIV></TD>
+          </TR>
+    </TABLE></TD>
+  </TR>
+  <TR>
+    <TD valign="top" bgcolor="#E8E8D7"><TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" >
+  <TR><TD  HEIGHT=1></TD></TR> 
+ <TR><TD>
+      <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0"  bgcolor="#E8E8D7">
+        <TR  > 
+          <TD WIDTH="16">?</TD>
+          <TD><A HREF="show_more.php?doc_id=3100367" target="_self" CLASS="yaowen"> 
+            北航召开年度工作会 部署2018年工作 <IMG SRC="./admin/img/pic.gif" BORDER=0 ALT="本文包含图片"> 
+            </A></TD>
+        </TR></TABLE></TD></TR> 
+<TR><TD BACKGROUND="template/01/image/hengxian.gif"  HEIGHT=1></TD></TR> 
+<TR><TD>
+      <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0"  bgcolor="#E0E0C9">
+        <TR  > 
+          <TD WIDTH="16">?</TD>
+          <TD><A HREF="show_more.php?doc_id=3100368" target="_self" CLASS="yaowen"> 
+            我校召开理论学习中心组学习会（扩大）专题学习“两会”精神  
+            </A></TD>
+        </TR></TABLE></TD></TR> 
+<TR><TD BACKGROUND="template/01/image/hengxian.gif"  HEIGHT=1></TD></TR> 
+<TR><TD>
+      <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0"  bgcolor="#E8E8D7">
+        <TR  > 
+          <TD WIDTH="16">?</TD>
+          <TD><A HREF="show_more.php?doc_id=3100369" target="_self" CLASS="yaowen"> 
+            北航中法工程师学院第20次联合管理委员会会议召开  
+            </A></TD>
+        </TR></TABLE></TD></TR> 
+<TR><TD BACKGROUND="template/01/image/hengxian.gif"  HEIGHT=1></TD></TR> 
+<TR><TD>
+      <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0"  bgcolor="#E0E0C9">
+        <TR  > 
+          <TD WIDTH="16">?</TD>
+          <TD><A HREF="show_more.php?doc_id=3100370" target="_self" CLASS="yaowen"> 
+            北航中法工程师学院第七届工程师暨2018届研究生毕业典礼举行 <IMG SRC="./admin/img/pic.gif" BORDER=0 ALT="本文包含图片"> 
+            </A></TD>
+        </TR></TABLE></TD></TR> 
+<TR><TD BACKGROUND="template/01/image/hengxian.gif"  HEIGHT=1></TD></TR> 
+<TR><TD>
+      <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0"  bgcolor="#E8E8D7">
+        <TR  > 
+          <TD WIDTH="16">?</TD>
+          <TD><A HREF="show_more.php?doc_id=3100371" target="_self" CLASS="yaowen"> 
+            我校江雷院士荣膺2017年度德国洪堡研究奖  
+            </A></TD>
+        </TR></TABLE></TD></TR> 
+<TR><TD BACKGROUND="template/01/image/hengxian.gif"  HEIGHT=1></TD></TR> 
+<TR><TD>
+      <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0"  bgcolor="#E0E0C9">
+        <TR  > 
+          <TD WIDTH="16">?</TD>
+          <TD><A HREF="show_more.php?doc_id=3100372" target="_self" CLASS="yaowen"> 
+            中科院黄克智院士做客北航大讲堂同我校学生畅谈学术人生  
+            </A></TD>
+        </TR></TABLE></TD></TR> 
+<TR><TD BACKGROUND="template/01/image/hengxian.gif"  HEIGHT=1></TD></TR> 
+ <TR><TD ALIGN="RIGHT"></TD></TR></TABLE></TD>
+    <TD width="220" align="center" valign="top" bgcolor="#E8E8D7"><A HREF="index.php?release_id=146294&paper_id=770399"><img  alt="本版缩略图" src=http://upfile.cuepa.cn/data/paper/2019/04/03/20190403161009_907043_small.jpg border=0></a></TD>
+  </TR>
+</TABLE>
+    <br>
+    <TABLE WIDTH="98%"  BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="1">
+  <TR>
+    <TD WIDTH="90%" BGCOLOR="#6BB2E6" ><TABLE WIDTH="100%"  BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#F1F8FE">
+        <TR>
+          <TD HEIGHT="20" BGCOLOR="#6BB2E6" CLASS="black14">&nbsp;相关文章
+              <DIV ALIGN="center"></DIV></TD>
+        </TR>
+    </TABLE></TD>
+  </TR>
+  <TR>
+    <TD><TABLE WIDTH="100%"  BORDER="0" CELLSPACING="0" CELLPADDING="2">
+        <TR>
+          <TD WIDTH="78%" BGCOLOR="#FFFFFF">
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" >
+  <TR><TD  HEIGHT=1></TD></TR> 
+ <TR><TD ALIGN="RIGHT"></TD></TR></TABLE></TD>
+        </TR>
+    </TABLE></TD>
+  </TR>
+</TABLE>
+    </TD>
+</TR><TR ><TD  ALIGN=left><TABLE WIDTH="100%"  BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#F1F8FE"> 
+<TR> <TD HEIGHT="24" BGCOLOR="#6BB2E6" CLASS="black14">&nbsp;我有话说</TD></TR> <TR> 
+<TD><TABLE WIDTH="98%"  BORDER="0" ALIGN="center" CELLPADDING="2" CELLSPACING="0"> 
+<TR> <TD WIDTH="78%"> <FORM NAME=frmtg  ENCTYPE="multipart/form-data" ONSUBMIT="return validform(frmtg);"  ACTION=remark.php?doc_id=3100370 METHOD=post > 
+<TEXTAREA NAME="content" COLS="50" ROWS="5"></TEXTAREA> <BR>验证码：<img src=./admin/lib/makecode.php alt='点击更换图片' onClick="this.src='./admin/lib/makecode.php?'+new Date().getTime();" > <INPUT SIZE=6 NAME=check_num MAXLENGTH="6"><INPUT TYPE="hidden" NAME="doc_id" VALUE=3100370>&nbsp;<INPUT NAME="Submit" TYPE="submit" CLASS="input_date" VALUE="   提   交   "> 
+</FORM><DIV ALIGN="center"><A HREF="#" CLASS="yaowen"></A></DIV></TD></TR> </TABLE></TD></TR> 
+</TABLE></TD></TR><TR ><TD  ALIGN=left><TABLE WIDTH="100%"  BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#6BB2E6"> 
+<TR> <TD WIDTH="90%" BGCOLOR="#6BB2E6" ><TABLE WIDTH="100%"  BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#F1F8FE"> 
+<TR> <TD WIDTH="90%" HEIGHT="24" BGCOLOR="#6BB2E6" CLASS="black14">&nbsp;最新评论</TD><TD WIDTH="10%" BGCOLOR="#6BB2E6"><DIV ALIGN="center"><A HREF="remark.php?doc_id=3100370" CLASS="yaowen">查看全部</A></DIV></TD></TR> 
+</TABLE></TD></TR>  </TABLE><BR><TABLE WIDTH="100%"  BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#F1F8FE"> 
+<TR> <TD HEIGHT="24" BGCOLOR="#6BB2E6" CLASS="black14">&nbsp;请您注意</TD></TR> <TR> 
+<TD><TABLE WIDTH="98%"  BORDER="0" ALIGN="center" CELLPADDING="2" CELLSPACING="0"> 
+<TR> <TD WIDTH="78%" CLASS="black12"><A HREF="#" CLASS="yaowen"></A>? 经营许可证编号: 
+京B2-20050528<BR /> ? 尊重网上道德，遵守《全国人大常委会关于维护互联网安全的决定》及中华人民共和国其他各项有关法律法规<BR /> ? 
+尊重网上道德，遵守中华人民共和国的各项有关法律法规<BR /> ? 承担一切因您的行为而直接或间接导致的民事或刑事法律责任<BR /> ? 阅读网新闻留言板管理人员有权保留或删除其管辖留言中的任意内容 
+<BR /> ? 您在阅读网留言板发表的作品，阅读网有权在网站内转载或引用<BR /> ? 参与本留言即表明您已经阅读并接受上述条款 </TD></TR> 
+</TABLE></TD></TR> </TABLE></TD></TR></TBODY></TABLE></TD></TR></TABLE></td><td width="5"></td></tr> 
+</table><BR><BR> </center>
+</body>
+</html>

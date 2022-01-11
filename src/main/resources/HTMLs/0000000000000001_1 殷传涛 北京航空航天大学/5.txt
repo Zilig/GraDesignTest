@@ -1,0 +1,697 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <script type="text/javascript">
+        var currentJs = "views/pub/university/tutor";
+    </script>
+
+    
+
+
+
+
+
+
+
+
+
+<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+
+
+
+
+
+<title>
+    殷传涛 - 北京航空航天大学 - 中法工程师学院
+</title>
+
+<meta name="keywords" content="
+            null,北京航空航天大学,中法工程师学院, 海外,国内, 课题组, 学者, 导师, 化学家, 科学家, 研究员, 教授, 求职, 出国, 博士后, 博后, post, postdoc, offer"/>
+        
+
+<meta name="description" content="全球著名高校、研究所的化学领域课题组信息，检索结果以列表形式展示"/>
+        
+
+<!-- Bootstrap -->
+<link rel="stylesheet" href="https://static.x-mol.com/css/bootstrap_old.css">
+<link rel="stylesheet" href="https://static.x-mol.com/css/flat-ui.css">
+
+<link rel="stylesheet" href="https://static.x-mol.com/css/bootstrap-clockpicker.min.css">
+<link rel="stylesheet" href="https://static.x-mol.com/css/introjs.min.css">
+<link rel="stylesheet" href="https://static.x-mol.com/css/bootstrap-tagsinput.css">
+<link rel="stylesheet" href="https://static.x-mol.com/css/X-style_zh_CN.css?date=20210512">
+<link rel="stylesheet" href="https://static.x-mol.com/css/font-awesome.css">
+
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="http://cdn.bootcss.com/html5shiv/3.7.0/html5shiv.min.js"></script>
+<script src="http://cdn.bootcss.com/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+    var web_is = 1;
+    var web_version = '20210512';
+
+    //TODO
+    var initStack = {loaded: false};
+    window.initStack = initStack;
+    window.contextPath = '';
+    window.staticSitePath = 'https://static.x-mol.com';
+    var imsUrl = '';
+
+    var require = {
+        urlArgs :  'v=' + web_version
+    };
+</script>
+
+<!-- Start Alexa Certify Javascript -->
+
+    
+    
+
+
+<!-- End Alexa Certify Javascript -->
+
+<script src="https://static.x-mol.com/js/require.js"
+        data-main="https://static.x-mol.com/js/built"></script>
+<link rel="shortcut icon" href="https://static.x-mol.com/css/images/favicon.ico"/>
+
+
+
+    <script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?543e8bb9e2ec1a0b9400d55857a600b0";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+
+    
+        <script>
+            (function () {
+                var bp = document.createElement('script');
+                var curProtocol = window.location.protocol.split(':')[0];
+                if (curProtocol === 'https') {
+                    bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+                } else {
+                    bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+                }
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(bp, s);
+            })();
+        </script>
+    
+
+    <!-- Start Alexa Certify Javascript -->
+    <script type="text/javascript">
+        _atrk_opts = {atrk_acct: "sLd7o1IWh110i+", domain: "x-mol.com", dynamic: true};
+        (function () {
+            var as = document.createElement('script');
+            as.type = 'text/javascript';
+            as.async = true;
+            as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(as, s);
+        })();
+    </script>
+    <!-- End Alexa Certify Javascript -->
+
+
+
+</head>
+<body>
+<div id="wrapper">
+    
+
+
+
+
+
+
+<header class="news-white-top-bar">
+    <div class="white-top-bar-content">
+        <ul>
+            
+            
+                <li class="header-top-nav">
+                    <a class="shortcut it-small-white" href="/register/index">
+                        注册
+                    </a>
+                </li>
+                <li class="header-top-nav">
+                    <a class="shortcut it-small-white" href="/login">
+                        登录
+                    </a>
+                </li>
+            
+            
+            <li><a class="it-bold" href="/lw">论文助手</a></li>
+            <li><a href="/zd">文献直达</a></li>
+            <li><a href="/8Paper/list">发Paper</a></li>
+            <li><a href="/job">求职</a></li>
+            <li><a href="/ask">问答</a></li>
+            <li><a href="/university/index">导师</a></li>
+            <li><a href="/paper">期刊</a></li>
+            <li><a href="/news">资讯</a></li>
+            <li><a href="/">首页</a></li>
+        </ul>
+    </div>
+</header>
+
+    
+
+    <div class="main-admin" id="main-content">
+        
+            
+            
+                <div class="container" id="mianBody">
+                    
+
+
+
+
+
+
+
+
+<style type="text/css">
+    .teacher-detail-banner-btn-block {
+        width: 420px;
+        float: left;
+        margin-top: -70px;
+        margin-left: 270px;
+    }
+
+    .teacher-detail-banner-code {
+        width: 340px;
+        float: right;
+        margin-top: -134px;
+    }
+
+    .teacher-detail-banner-code img {
+        width: 100px;
+    }
+
+    .teacher-detail-banner-code-left {
+        float: left;
+    }
+
+    .teacher-detail-banner-code-right {
+        float: left;
+        width: 200px;
+        margin-left: 20px;
+        color: #fff;
+        margin-top: 12px;
+    }
+</style>
+
+
+<div class="teacher-list-bg">
+    <div class="teacher-positionbox-long">
+        <span>
+            当前位置：
+            <a href="/">X-MOL首页</a>
+            ›
+            <a href="/university/index">全球导师</a>
+            ›
+            <a href="/university/china">
+                国内导师
+            </a>
+            › 殷传涛
+        </span>
+    </div>
+    <div class="teacher-list-detail-banner">
+        <img src="https://static.x-mol.com/css/images/teacher-list-detail-banner.jpg">
+    </div>
+    <div class="teacher-detail-banner-btn-block">
+        <a href="/paper/search" target="_blank"
+           class="teacher-banner-another-btn-small spaceleftm10">最便捷的期刊搜索&nbsp;&nbsp;<img
+                src="https://static.x-mol.com/css/images/icon-hand.png"/> </a>
+        <a href="/groups/mgt/apply" target="_blank"
+           class="teacher-banner-another-btn-small spaceleftm10">免费课题组网站&nbsp;&nbsp;<img
+                src="https://static.x-mol.com/css/images/icon-hand.png"/></a>
+    </div>
+    <div class="teacher-detail-banner-code">
+        <div class="teacher-detail-banner-code-left">
+            <img src="https://static.x-mol.com/css/images/teacher-code.png"/>
+        </div>
+        <div class="teacher-detail-banner-code-right">
+            <span class="it18">扫描左侧二维码</span><br>
+            <span>使用公众号菜单</span><br>
+            <span>手机上轻松查询100,000+导师</span>
+        </div>
+    </div>
+    <div class="teacher-list-detail-info">
+        <div class="teacher-list-detail-pic" style="height: 200px;">
+            
+                <img id=null src='https://xpic.x-mol.com/tutor%2F20200720%2FXMGNPWW03377.png?x-oss-process=image/resize,m_lfit,h_200,w_200' />
+            
+            
+        </div>
+        <div class="teacher-list-detail-info-right">
+            <span class="teacher-name-text spacerightm10" style="padding: 0;">
+                殷传涛
+            </span>
+            <span class="teacher-detail-info-text spacerightm10">
+                副教授
+            </span>
+            <span class="teacher-detail-info-text spacerightm10">
+                
+            </span>
+            <span class="teacher-detail-info-fav-text">
+                
+                    
+                    
+                        <a id="cancelFavoBtn" href="javascript:void(0)" style="display: none">
+                            <i class="fa fa-heart spacerightm10" aria-hidden="true"></i>取消收藏
+                        </a>
+                        <a id="favoBtn" href="javascript:void(0)"
+                           onclick="xmol.favoriteTutor(229640)">
+                            <i class="fa fa-heart-o spacerightm10" aria-hidden="true"></i>收藏
+                        </a>
+                    
+                
+              </span>
+
+            <span class="teacher-detail-info-fav-text it-blue">
+                <a href="javascript:void(0);" onclick="xmol.dialogAdvice('229640')">
+                    <i class="fa fa-pencil spacerightm10" aria-hidden="true"></i>完善纠错
+                </a>
+            </span>
+
+            
+                    <span class="teacher-detail-info-fav-text" style="float: right">
+                    
+                    
+                    </span>
+            
+            <br>
+            <span class="teacher-detail-school-btn spacerightm10">
+                <a href="/university/detail/282">北京航空航天大学</a>&nbsp;&nbsp;&nbsp;
+                
+                    <a href="/university/detail/282/department/6567">中法工程师学院</a>
+                
+            </span>
+
+            <br>
+            
+                <a href="/login">
+                    <span class="teacher-detail-info-atten">登录后才能查看导师的联系方式，马上登录... </span>
+                </a>
+            
+            
+            
+        </div>
+    </div>
+
+    <div class="teacher-list-detail-main-content">
+        <div style="float:left;padding-bottom:60px;width:920px;">
+        <form id="tutorEditForm">
+            <input type="hidden" name="tutorId" value="229640">
+            <input type="hidden" name="tutorLang" value="zh">
+            
+                
+                    <article class="teacher-list-detail-article tutor-display">
+                        <h3>个人简介</h3>
+
+                        <p style="white-space:pre-wrap">1、基本信息
+
+姓名：殷传涛
+
+职务：ITR中方负责人，PIC负责人
+
+职称：副教授
+ 
+2、教育背景：
+
+1999年进入西南交通大学计算机与通信工程学院学习，2001被学校公派至法国巴黎中央理工大学（Ecole Centrale Paris）学习，于2003年同时获得巴黎中央理工大学工程师学位及西南交通大学学士学位。2006年获西南交通大学通信与信息系统硕士学位，同年9月赴法国里昂中央理工大学（Ecole Centrale de Lyon）攻读博士学位，2010年1月顺利获得该校的计算机科学与技术专业博士学位。
+
+3、工作经历：
+
+自2010年8月起，在北京航空航天大学中法工程师学院担任青年骨干教师从事科研和教学工作，主持和参加自然科学基金项目、国家“863”主题项目、国际国家科技合作项目等多项科研课题，发表论文10余篇。2014年里尔中央理工大学和2015年里昂中央理工大学访问学者。人工智能学会智能交互专委会委员。
+
+4、主讲课程：
+
+讲授“软件工程”课程，曾讲授“电子学实验”、“人机交互”、“计算机游戏设计”等课程。
+ 
+7、获奖情况：
+
+2013年度北京航空航天大学优秀共产党员</p>
+                    </article>
+                
+                <article style="display: none;" class="teacher-list-detail-article tutor-edit">
+                    <h3>个人简介</h3>
+
+                    <textarea name="introductionZh" style="width: 100%" rows="10">1、基本信息
+
+姓名：殷传涛
+
+职务：ITR中方负责人，PIC负责人
+
+职称：副教授
+ 
+2、教育背景：
+
+1999年进入西南交通大学计算机与通信工程学院学习，2001被学校公派至法国巴黎中央理工大学（Ecole Centrale Paris）学习，于2003年同时获得巴黎中央理工大学工程师学位及西南交通大学学士学位。2006年获西南交通大学通信与信息系统硕士学位，同年9月赴法国里昂中央理工大学（Ecole Centrale de Lyon）攻读博士学位，2010年1月顺利获得该校的计算机科学与技术专业博士学位。
+
+3、工作经历：
+
+自2010年8月起，在北京航空航天大学中法工程师学院担任青年骨干教师从事科研和教学工作，主持和参加自然科学基金项目、国家“863”主题项目、国际国家科技合作项目等多项科研课题，发表论文10余篇。2014年里尔中央理工大学和2015年里昂中央理工大学访问学者。人工智能学会智能交互专委会委员。
+
+4、主讲课程：
+
+讲授“软件工程”课程，曾讲授“电子学实验”、“人机交互”、“计算机游戏设计”等课程。
+ 
+7、获奖情况：
+
+2013年度北京航空航天大学优秀共产党员</textarea>
+                </article>
+
+                
+                    <article class="teacher-list-detail-article tutor-display">
+                        <h3>研究领域</h3>
+                        
+
+                        <p style="white-space:pre-wrap"></p>
+                        <p style="white-space:pre-wrap">智慧城市、智慧学习、教育数据挖掘等。</p>
+                        <p style="white-space:pre-wrap"></p>
+                    </article>
+                
+                <article style="display: none;" class="teacher-list-detail-article tutor-edit">
+                    <h3>研究领域</h3>
+                    <div>
+                        <b>专业：</b>
+                        <input type="text" reg="maxlength:100" name="specialtyZh" style="width: 100%"
+                               value=""/>
+                        <br>
+                        <br>
+                        <b>研究方向：</b>
+                        <textarea name="researchZh" rows="10" style="width: 100%">智慧城市、智慧学习、教育数据挖掘等。</textarea>
+                        <br>
+                        <br>
+                        <b>研究领域和兴趣：</b>
+                        <textarea name="researchInterestsZh" rows="10"
+                                  style="width: 100%"></textarea>
+                    </div>
+                </article>
+
+                
+                    <article class="teacher-list-detail-article tutor-display">
+                        <h3>近期论文</h3>
+                        <div class="teacher-list-detail-article-title-right">
+                            <a class="teacher-title-right-btn" target="_blank"
+                               href="/paper/search/byFaculty/229640">
+                                <img src="https://static.x-mol.com/css/images/icon-hand.png"/> 查看导师最新文章
+                            </a>
+                            <span class="it-small-orange">（温馨提示：请注意重名现象，建议点开原文通过作者单位确认）</span>
+                        </div>
+
+                        <p style="white-space:pre-wrap" class="tutor-display">[1].Zhang B, Yin C, David B, et al.Facilitating professionals' work-based learning with context-aware mobilesystem[J]. Science of Computer Programming, 2016. (SCI)
+
+[2].Wang C, David B, Chalon R, Yin C. Dynamic road lane management study: ASmart City application[J]. Transportation Research Part E: Logistics andTransportation Review, 2016, 89: 272-287. (SCI)
+
+[3].Zhang B, Yin C, David B, et al.A context‐aware mobile system for work‐based learning[J]. ComputerApplications in Engineering Education, 2015. (SCI)
+
+[4].Yin C, Xiong Z, Chen H, et al.A literature survey on smart cities[J]. Science China Information Sciences,2015, 58(10): 1-18. (SCI)
+
+[5].Yin C, Zhang B, David B, et al. A hierarchical ontology context model forwork-based learning[J]. Frontiers of Computer Science, 2015, 9(3): 466-473.(SCI)
+
+[6].Yin C, Zhu S, Chen H, et al. A method for community detection of complexnetworks based on hierarchical clustering[J]. International Journal ofDistributed Sensor Networks, 2015, 2015: 137. (SCI)
+
+[7].Jing G Q, Luo Q, Wang Z, et Yin C. 1170.Micro-analysis of lateral ballast resistance of seismiccharacteristics[J]. Journal of Vibroengineering, 2014, 16(1). (SCI)
+
+[8].Li J, Rong W, Yin C, et al.Dependency Aware Business Process Analysis for ServiceIdentification[C]//Asia-Pacific Services Computing Conference. SpringerInternational Publishing, 2015: 137-152. (EI)
+
+[9].Yin C, Zhang B, David B, et al. Design and Case Study of WoBaLearn--AWork-Based Learning System[C]//2014 IEEE 14th International Conference onAdvanced Learning Technologies. IEEE, 2014: 77-79. (EI)
+
+[10]. Zhang B, Yin C, David B, etal.A Framework of Context-AwareMobile Learning System for Professionals[C]//2013 IEEE 13th InternationalConference on Advanced Learning Technologies. 2013. (EI)
+
+[11]. 《智慧城市》，科学出版社，ISBN: 9787030429605,第1版，2016年7月4日出版.（参与编写）
+
+[12]. 《法国工程师教育》，科学出版社，ISBN:9787030357502,第1版，2013年1月6日出版.（参与编写）</p>
+                    </article>
+                
+                <article style="display: none;" class="teacher-list-detail-article tutor-edit">
+                    <h3>近期论文</h3>
+                    <textarea name="thesis" style="width: 100%" rows="30">[1].Zhang B, Yin C, David B, et al.Facilitating professionals' work-based learning with context-aware mobilesystem[J]. Science of Computer Programming, 2016. (SCI)
+
+[2].Wang C, David B, Chalon R, Yin C. Dynamic road lane management study: ASmart City application[J]. Transportation Research Part E: Logistics andTransportation Review, 2016, 89: 272-287. (SCI)
+
+[3].Zhang B, Yin C, David B, et al.A context‐aware mobile system for work‐based learning[J]. ComputerApplications in Engineering Education, 2015. (SCI)
+
+[4].Yin C, Xiong Z, Chen H, et al.A literature survey on smart cities[J]. Science China Information Sciences,2015, 58(10): 1-18. (SCI)
+
+[5].Yin C, Zhang B, David B, et al. A hierarchical ontology context model forwork-based learning[J]. Frontiers of Computer Science, 2015, 9(3): 466-473.(SCI)
+
+[6].Yin C, Zhu S, Chen H, et al. A method for community detection of complexnetworks based on hierarchical clustering[J]. International Journal ofDistributed Sensor Networks, 2015, 2015: 137. (SCI)
+
+[7].Jing G Q, Luo Q, Wang Z, et Yin C. 1170.Micro-analysis of lateral ballast resistance of seismiccharacteristics[J]. Journal of Vibroengineering, 2014, 16(1). (SCI)
+
+[8].Li J, Rong W, Yin C, et al.Dependency Aware Business Process Analysis for ServiceIdentification[C]//Asia-Pacific Services Computing Conference. SpringerInternational Publishing, 2015: 137-152. (EI)
+
+[9].Yin C, Zhang B, David B, et al. Design and Case Study of WoBaLearn--AWork-Based Learning System[C]//2014 IEEE 14th International Conference onAdvanced Learning Technologies. IEEE, 2014: 77-79. (EI)
+
+[10]. Zhang B, Yin C, David B, etal.A Framework of Context-AwareMobile Learning System for Professionals[C]//2013 IEEE 13th InternationalConference on Advanced Learning Technologies. 2013. (EI)
+
+[11]. 《智慧城市》，科学出版社，ISBN: 9787030429605,第1版，2016年7月4日出版.（参与编写）
+
+[12]. 《法国工程师教育》，科学出版社，ISBN:9787030357502,第1版，2013年1月6日出版.（参与编写）</textarea>
+                </article>
+
+                
+            
+
+            
+
+            
+        </form>
+    </div>
+    
+        <div class="teacher-list-detail-main-content-right">
+            <div class="teacher-list-detail-main-content-right-title">
+                推荐链接
+            </div>
+
+            
+            
+                
+            
+            <div class="teacher-list-detail-main-content-right-item">
+                <ul>
+                    <li><a target="_blank" href="/university/detail/282/department/6567?r_faculty_u">查看北京航空航天大学中法工程师学院更多老师</a></li>
+                    <li><a target="_blank" href="/university/china?r_faculty_c">查看更多学校老师</a></li>
+                    <li><a target="_blank" href="/?r_faculty_h1">超过8,000万篇英文文献供您搜索</a></li>
+                    <li><a target="_blank" href="/?r_faculty_h2">最便捷的查找参考文献方式，通过DOI或期刊名+年+卷+页码，一键直达</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+
+
+                </div>
+            
+        
+    </div>
+    <!-- end page -->
+    
+
+
+
+
+<div class="mol-footer-new" id="footer" style="margin-top: -60px;height: 160px;">
+    <div class="mol-footer-content-new">
+        <div class="mol-footer-content-new-left">
+            <ul>
+                <li>
+                    <a href="/journal/index">
+                        学术期刊
+                    </a>
+                </li>
+
+                <li>
+                    <a href="/news/index">
+                        行业资讯
+                    </a>
+                </li>
+
+                <li>
+                    <a href="/university/index">
+                        全球导师
+                    </a>
+                </li>
+
+
+                <li>
+                    <a href="/ask">
+                        X-MOL问答
+                    </a>
+                </li>
+
+                <li>
+                    <a href="/job">求职广场</a>
+                </li>
+
+                <li>
+                    <a href="/allSite">
+                        网址导航
+                    </a>
+                </li>
+                
+                    
+                        
+                    
+                
+                <li>
+                    <a href="/aboutUs">
+                        关于我们
+                    </a>
+                </li>
+                <li>
+                    <a href="/article/helpCenter/0">
+                        帮助中心
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="mol-footer-text-new">
+            <span>客服邮箱：<a href="mailTo:service@x-mol.com">service@x-mol.com</a> </span></br>
+            <span>官方微信：X-molTeam2 </span></br>
+            <span>邮编：100098 </span></br>
+            <span>地址：北京市海淀区知春路56号中航科技大厦 </span></br>
+        </div>
+        <div class="mol-footer-content-new-right">
+            <img src="https://static.x-mol.com/newCss/images/app-download.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="https://static.x-mol.com/newCss/images/wechat-qr.png">
+        </div>
+    </div>
+    <div class="mol-footer-bottom-new">
+        <span>Copyright © 2014-2020 北京衮雪科技有限公司 All Rights Reserved&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>
+            <a href="http://www.beian.miit.gov.cn/" target="_blank">京ICP备11026495-2号</a> &nbsp;&nbsp;&nbsp;&nbsp;
+                <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802027423"
+                style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+                    <img src="https://static.x-mol.com/css/images/beian.png" style="float:left;"/>
+                京公网安备 11010802027423号
+            </a>
+        </span>
+        <div style="display: none;">
+            
+
+
+
+
+
+
+
+<!-- Piwik -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img style="display: none" src="/test_count/1621333983765?cpr="/>
+
+
+
+        </div>
+    </div>
+</div>
+
+</div>
+
+
+    
+
+<script>
+    window.initStack["sidebarBtn"] = function () {
+    	var adviceAddVali = {};
+        var showGotoTop = function() {
+    		h = 400,
+    		t = $(document).scrollTop(),
+    		t > h ? $("#moquu_top_new").show() : $("#moquu_top_new").hide();
+    	};
+
+    	$(window).scroll(function() {
+    		showGotoTop();
+    	});
+
+    	showGotoTop();
+    	$("#moquu_top_new").click(function() {
+    		$(document).scrollTop(0);
+    	});
+
+    	$("#moquu_wmaps_new").click(function() {
+    		util.dialog({
+    			url : "/adviceFeedback",
+    			callback : function() {
+    				adviceAddVali = $("#adviceAddForm").validate();
+    			}
+    		});
+    	});
+    };
+
+</script>
+
+<div id="moquu_wapp_new" class="moquu_wapp_new"><a href="javascript:void(0)">down<div class="moquu_wapph_new"></div></a></div>
+<div id="moquu_wshare_new" class="moquu_wshare_new"><a href="javascript:void(0)">wechat<div class="moquu_wshareh_new"></div></a></div>
+<div id="moquu_wmaps_new"><a  data-toggle="modal" data-target="#FeedbackModal" class='moquu_wmaps_new'>bug</a></div>
+<a id="moquu_top_new" style="display:block;" href="javascript:void(0)"></a>
+
+
+
+
+
+
+<!-- end footer -->
+</body>
+</html>

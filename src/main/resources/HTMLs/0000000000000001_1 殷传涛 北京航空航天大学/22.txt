@@ -1,0 +1,801 @@
+<!DOCTYPE html><html lang="zh"><head><link href="//wkstatic.bdimg.com/static/ndpcwenku/static/ndview/css/xreader.64914fdd82698c94f6f9.css" rel="stylesheet"></head><head>
+    <meta charset="utf-8">
+    <title>一种基于学习风格的自适应推荐方法及系统 - 百度文库</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="shortcut icon" href="https://www.baidu.com/cache/icon/favicon.ico" type="image/x-icon">
+    <link rel="icon" sizes="any" href="https://www.baidu.com/cache/icon/favicon.svg">
+    <script>
+        window.tsFP = Date.now();
+    </script>
+    
+        
+            <style>.reader-word-s1-3,.reader-word-s1-0 { font-size:222px; } .reader-word-s1-0,.reader-word-s1-2,.reader-word-s1-3,.reader-word-s1-4,.reader-word-s1-5,.reader-word-s1-6,.reader-word-s1-7,.reader-word-s1-8,.reader-word-s1-9,.reader-word-s1-10,.reader-word-s1-11,.reader-word-s1-12,.reader-word-s1-13,.reader-word-s1-14,.reader-word-s1-15,.reader-word-s1-16,.reader-word-s1-17,.reader-word-s1-18,.reader-word-s1-19,.reader-word-s1-20,.reader-word-s1-21,.reader-word-s1-22,.reader-word-s1-23,.reader-word-s1-24,.reader-word-s1-25,.reader-word-s1-26,.reader-word-s1-1 { color:#000000; } .reader-word-s1-0,.reader-word-s1-3,.reader-word-s1-5,.reader-word-s1-7,.reader-word-s1-8,.reader-word-s1-21,.reader-word-s1-23,.reader-word-s1-2 { font-weight: 600;font-family: 'MicrosoftYaHei-Bold', 'cf7e39ca763231126fdb11770010001', 'MicrosoftYaHei-Bold'; } .reader-word-s1-3 { letter-spacing: -0.34px; } .reader-word-s1-4 { font-family: 'TimesNewRomanPSMT', 'cf7e39ca763231126fdb11770020001', 'TimesNewRomanPSMT';font-size:190px; } .reader-word-s1-7,.reader-word-s1-8,.reader-word-s1-5 { font-size:175px; } .reader-word-s1-5,.reader-word-s1-7,.reader-word-s1-8,.reader-word-s1-9,.reader-word-s1-10,.reader-word-s1-18,.reader-word-s1-6 { font-size:175px; } .reader-word-s1-7 { letter-spacing: 0.42000000000000004px; } .reader-word-s1-8 { letter-spacing: -0.6px; } .reader-word-s1-8,.reader-word-s1-9 { letter-spacing: -0.6px; } .reader-word-s1-18,.reader-word-s1-10 { font-family: 'MicrosoftYaHei', 'cf7e39ca763231126fdb11770040001', 'MicrosoftYaHei'; } .reader-word-s1-10,.reader-word-s1-18,.reader-word-s1-11 { font-family: 'MicrosoftYaHei', 'cf7e39ca763231126fdb11770040001', 'MicrosoftYaHei'; } .reader-word-s1-15,.reader-word-s1-16,.reader-word-s1-12 { font-size:158px; } .reader-word-s1-12,.reader-word-s1-15,.reader-word-s1-16,.reader-word-s1-19,.reader-word-s1-20,.reader-word-s1-13 { font-family: 'SimHei', 'cf7e39ca763231126fdb11770030001', 'SimHei'; } .reader-word-s1-12,.reader-word-s1-15,.reader-word-s1-16,.reader-word-s1-25,.reader-word-s1-26,.reader-word-s1-14 { font-size:158px; } .reader-word-s1-15 { letter-spacing: 0.8999999999999999px; } .reader-word-s1-16 { letter-spacing: 0.65px; } .reader-word-s1-16,.reader-word-s1-23,.reader-word-s1-17 { letter-spacing: 0.65px; } .reader-word-s1-18 { letter-spacing: -0.9099999999999999px; } .reader-word-s1-20,.reader-word-s1-19 { font-size:142px; } .reader-word-s1-20 { letter-spacing: -0.8999999999999999px; } .reader-word-s1-23,.reader-word-s1-21 { font-size:205px; } .reader-word-s1-21,.reader-word-s1-23,.reader-word-s1-22 { font-size:205px; } .reader-word-s1-23 { letter-spacing: 0.65px; } .reader-word-s1-24 { letter-spacing: 0.51px; } .reader-word-s1-26,.reader-word-s1-25 { font-family: 'SimSun', 'cf7e39ca763231126fdb11770050001', 'SimSun'; } .reader-word-s1-26 { letter-spacing: 0.49px; } #pageNo-1 .reader-parent{visibility: visible;}</style>
+        <style>
+            #pageNo-1 .reader-word-layer {
+                margin-top: --423px;
+            }
+            #pageNo-1 .reader-pic-layer {
+                margin-top: --42px;
+            }
+        </style>
+        
+    
+    
+</head>
+
+<body>
+    <style>
+html {
+    color: #000;
+    background: #fff;
+}
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+legend,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+fieldset,
+img {
+    border: 0;
+}
+
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+strong,
+th,
+var,
+b {
+    font-style: normal;
+    font-weight: normal;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+caption,
+th {
+    text-align: left;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size:100%;
+    font-weight:normal;
+}
+
+
+pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+abbr,
+acronym {
+    border:0;
+    font-variant:normal;
+}
+
+/*
+ * 1. Addresses CSS quotes not supported in IE6/7
+ * 2. Addresses quote property not supported in S4
+ */
+
+/* 1 */
+
+q {
+    quotes: none;
+}
+
+/* 2 */
+
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+/*
+ * Prevents sub and sup affecting line-height in all browsers
+ * gist.github.com/413930
+ */
+
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup {
+    top: -0.5em;
+}
+
+sub {
+    bottom: -0.25em;
+}
+
+/*
+ * links
+ */
+
+/*
+ * Addresses outline displayed oddly in Chrome
+ */
+
+a:focus {
+    outline: thin dotted;
+}
+
+/*
+ * Improves readability when focused and also mouse hovered in all browsers
+ * people.opera.com/patrickl/experiments/keyboard/test
+ */
+
+a:hover,
+a:active {
+    outline: 0;
+}
+
+/*
+ * form
+ */
+
+/*
+ * 1. Corrects color not being inherited in IE6/7/8/9
+ * 2. Corrects text not wrapping in FF3 
+ */
+
+legend {
+    border: 0; /* 1 */
+    white-space: normal; /* 2 */
+    color:#000;
+}
+
+button,
+input,
+select,
+textarea {
+    font-family:inherit;
+    font-size:inherit;
+    font-weight:inherit;
+    vertical-align: baseline;
+    *vertical-align: middle;
+}
+
+/*
+ * Addresses FF3/4 setting line-height on 'input' using !important in the UA stylesheet
+ */
+
+button,
+input {
+    line-height: normal; /* 1 */
+}
+
+/*
+ * 1. Improves usability and consistency of cursor style between image-type 'input' and others
+ * 2. Corrects inability to style clickable 'input' types in iOS
+ * 3. Removes inner spacing in IE7 without affecting normal text inputs
+ *    Known issue: inner spacing remains in IE6
+ */
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    cursor: pointer; /* 1 */
+    -webkit-appearance: button; /* 2 */
+    *overflow: visible;  /* 3 */
+}
+
+/*
+ * 1. Addresses box sizing set to content-box in IE8/9
+ * 2. Removes excess padding in IE8/9
+ * 3. Removes excess padding in IE7
+      Known issue: excess padding remains in IE6
+ */
+
+input[type="checkbox"],
+input[type="radio"] {
+    box-sizing: border-box; /* 1 */
+    padding: 0; /* 2 */
+    *height: 13px; /* 3 */
+    *width: 13px; /* 3 */
+}
+
+
+/*
+ * Removes inner padding and border in FF3+
+ * www.sitepen.com/blog/2008/05/14/the-devils-in-the-details-fixing-dojos-toolbar-buttons/
+ */
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+/*
+ * FF3的一些版本hidden没有隐藏
+ */
+input[type="hidden"] {
+    display: none!important;
+}
+
+/*
+ * 1. Removes default vertical scrollbar in IE6/7/8/9
+ * 2. Improves readability and alignment in all browsers
+ * 3. 不让textarea可以resize
+ */
+
+textarea {
+    overflow: auto; /* 1 */
+    vertical-align: top; /* 2 */
+    resize: none; /* 3 */
+}
+
+/*
+ * font
+ */
+
+/* 
+ * 1.333为默认行高16px(16/12),去除sans-serif防止ie8\9下字体变形
+ */
+body {
+    min-width: 1280px;
+    height:100%;
+    font: 12px/1.333 "\5FAE\8F6F\96C5\9ED1", "Hiragino Sans GB", arial,helvetica,clean;
+}
+
+select,
+input,
+button,
+textarea {
+    font:100% arial,helvetica,clean;
+}
+
+table {
+    font-size: inherit;
+    font: 100%;
+}
+
+/*
+ * Corrects font family set oddly in IE6, S4/5, Chrome
+ * en.wikipedia.org/wiki/User:Davidgothberg/Test59
+ */
+
+pre,
+code,
+kbd,
+samp {
+    font-family: monospace, serif;
+    _font-family: 'courier new', monospace;
+    font-size: 100%;
+    line-height: 100%;
+}
+
+small {
+    font-size: 75%;
+}
+
+.clearfix::after {
+    content: "";
+    display: block;
+    height: 0;
+    visibility: hidden;  
+    clear: both;
+}
+</style>
+
+    
+    <div id="app" :class="viewTheme">
+    <header-wrapper></header-wrapper>
+    <div class="header-wrapper no-full-screen" v-if="!vueMounted">
+    
+
+
+    <div class="search-box-wrapper">
+    <div class="search-box-inner-wrapper">
+        <div class="search-logo-wrap">
+            <a href="/?fr=logo">
+                <span class="wk-logo-icon"></span>
+            </a>
+        </div>
+        <div class="search-tab-wrap">
+            <div class="search-tab-content">
+                <div class="search-tab-item">首页</div>
+                <div class="search-tab-item">文档
+                    <div class="doc-content">
+                        <div class="doc-hint-content">
+                            <div class="doc-hint-item">学前教育</div>
+                            <div class="doc-hint-item">基础教育</div>
+                            <div class="doc-hint-item">高校与高等教育</div>
+                            <div class="doc-hint-item">语言/资格考试</div>
+                            <div class="doc-hint-item">实用模板</div>
+                            <div class="doc-hint-item">法律</div>
+                            <div class="doc-hint-item">建筑</div>
+                            <div class="doc-hint-item">互联网</div>
+                            <div class="doc-hint-item">行业资料</div>
+                            <div class="doc-hint-item">政务民生</div>
+                            <div class="doc-hint-item">说明书</div>
+                            <div class="doc-hint-item">生活娱乐</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="search-tab-item">店铺</div>
+                <div class="search-tab-item">文档工具</div>
+                <div class="search-tab-item">更多</div>
+            </div>
+        </div>
+        <div class="search-input-wrap">
+            <span class="search-input">
+                <input id="kw" maxlength="256" tabindex="1" autocomplete="off" placeholder=""/>
+                <div class="input-hint-content">
+                    <div class="hot-option-word-wrapper"></div>
+                    <div class="sug-wrap" style="display: none;"></div>
+                </div>
+            </span>
+            <div class="search-submit-btn">搜索文档</div>
+        </div>
+        <div class="right-box">
+            <div class="vip-activity-wrap">
+                <div class="vip-activity-content">
+                    <div class="client-icon"></div>
+                    <div class="client-text">续费VIP</div>
+                </div>
+                <div class="vip-activity-hint-content">
+                    <div class="client-default">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                    <div></div>
+                    <div class="vip-hint-btn">立即续费VIP</div>
+                    <div class="vip-hint-content">
+                        <div class="vip-hint-item">会员中心</div>
+                        <div class="vip-hint-item">VIP福利社</div>
+                        <div class="vip-hint-item">VIP免费专区</div>
+                        <div class="vip-hint-item">VIP专属特权</div>
+                    </div>
+                    <div class="vip-hint-footer">
+                        <div
+                            class="vip-hint-footer-img"
+                            style="background-image: url(https://edu-wenku.bdimg.com/v1/pc/header-icon/header-ad.png);"
+                        ></div>
+                    </div>
+                </div>
+            </div>
+            <div class="client-download-wrap">
+                <div class="client-download-content">
+                    <div class="client-icon"></div>
+                    <div class="client-text">客户端</div></div>
+            </div>
+            <div class="browse-history-wrap">
+                <div class="browse-history-content">
+                    <div class="client-icon"></div>
+                    <div class="client-text">看过</div></div>
+                <div class="history-hint-content">
+                    <div class="no-history">暂无浏览记录</div></div>
+            </div>
+            <div class="user-icon-wrap">
+                <div class="user-icon-content login vip">
+                    <div
+                        class="user-icon"
+                        style="background-image: url(http://himg.bdimg.com/sys/portraitn/item/wenku.1.d74ce896.NqYPvfvnzeGHutw2Mnsc2Q.jpg);"
+                    >
+                    </div>
+                    <div class="user-icon-hint-content">
+                        <div class="tab-item">店铺后台</div>
+                        <div class="tab-item">店铺首页</div>
+                        <div class="tab-item">个人中心</div>
+                        <div class="tab-item">会员中心</div>
+                        <div class="tab-item">消息</div>
+                        <div class="tab-item">收藏</div>
+                        <div class="tab-item">意见反馈</div>
+                        <div class="tab-item">退出登录</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+    <div class="content-wrapper">
+        <div class="left-wrapper zoom-scale">
+            <div class="no-full-screen" v-if="!vueMounted">
+    <div class="doc-info-wrapper">
+        <div class="doc-info-main">
+            <div class="doc-info-left">
+                <div class="doc-tag-wrap">
+    
+        <div class="tag">自适应 </div>
+    
+        <div class="tag">数学 </div>
+    
+        <div class="tag">自然科学 </div>
+    
+</div>
+                <div class="doc-title-wrap">
+                    <div class="doc-type-icon word"></div>
+                    <h3 class="doc-title">一种基于学习风格的自适应推荐方法及系统</h3>
+                </div>
+                <div class="doc-summary-wrap">
+    
+        <span class="doc-score">
+            3.2分
+            （超过34%的文档）
+        </span>
+    
+    <span class="divider"></span>
+    <span>1阅读</span>
+    <span class="divider"></span>
+    <span>0下载</span>
+    <span class="divider"></span>
+    <span>2020-12-07上传</span>
+    <span class="divider"></span>
+    <span>4页</span>
+</div>
+
+                <div class="doc-btns-wrap">
+    <div class="small-btn collect-btn">
+        <i class="collect-icon not-collect"></i>
+        <span>收藏</span>
+    </div>
+    <div id="doc-info-share-btn" class="small-btn share-btn">
+        <i class="share-icon"></i>
+        <span>分享</span>
+    </div>
+    <div class="small-btn cloud-storage-btn">
+        <i class="cloud-storage-icon"></i>
+        <span>转存</span>
+    </div>
+    <div class="small-btn report-btn">
+        <i class="report-icon"></i>
+        <span>举报</span>
+    </div>
+    <!-- 由于版权页未上线，故先注释，等待PM @张玉芳通知 -->
+    <div class="small-btn copyright-btn">
+        <i class="copyright-icon"></i>
+        <span>认领</span>
+    </div>
+    <div class="small-btn app-btn">
+        <i class="app-icon"></i>
+        <span>APP</span>
+    </div>
+    <div class="middle-btn client-btn">
+        <i class="client-icon"></i>
+        <span>客户端打开</span>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+            <doc-head-info></doc-head-info>
+            <div class="reader-wrap">
+                <div>
+                    
+                        <reader-topbar @gotopage="gotoPage"></reader-topbar>
+                    
+                    
+    <div id="reader-container"
+        ref="container"
+        :style="{height: readerContainerH}"
+    >
+        
+            <div class="reader-page ssr"
+                id="pageNo-1"
+                data-page-no="1"
+                data-render="1"
+                :data-mate-width="pageWHArr[0].w"
+                :data-mate-height="pageWHArr[0].h"
+                :data-scale="pageWHArr[0].s"
+                :style="{height: pageWHArr[0].ph + 'px'}"
+                style="opacity: 1!important;"
+            >
+                <copy-guide></copy-guide>
+                
+                    
+            <div class="reader-txt-layer" style="z-index:1">
+                <div class="ie-fix"><p class="reader-word-layer reader-word-s1-0" style="width: 222px;height: 292px;line-height: 292px;top: 1471px;left: 1110px;z-index: 0;;;;;;null;" >（</p><p class="reader-word-layer reader-word-s1-3" style="width: 274px;height: 292px;line-height: 292px;top: 1471px;left: 1333px;z-index: 1;;;;;;false;" >19</p><p class="reader-word-layer reader-word-s1-0" style="width: 3333px;height: 292px;line-height: 292px;top: 1471px;left: 1608px;z-index: 2;letter-spacing: -0.67px;;;;;;false;" >）中华人民共和国国家知识产权局</p></div></div>
+            <div class="reader-pic-layer" style="z-index:2">
+                <div class="ie-fix">
+        <p class="reader-pic-item" style="width: 893px;height: 85px;z-index: 3;left: 26.01983785000004px;top: 233.18715000000003px;opacity: 1;transform: scale(1.0582751127659575, 1.0583);;position: absolute;overflow: hidden;">
+            <img width="893"
+                height="106"
+                style="position: absolute;top: -0px;left: -0px;clip: rect(0px, 893px, 106px, 0px);"
+                src="https://wkbjcloudbos.bdimg.com/v1/docconvert6766//wk/e1c24ba61a1cd333929b37a5f5460720/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Fri%2C%2002%20Jul%202021%2018%3A36%3A26%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2021-05-18T10%3A36%3A26Z%2F3600%2Fhost%2F1b6b01bd2368611a4abaff86c6723574091dc81fd67aa30f84f5a671e260222a&x-bce-range=0-2904&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYyMTMzNzc4NiwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.VppYzC0JNu0nJPaekFOq89U19maxqQy5V6ZfZfr%2BDVQ%3D.1621337786" >
+        </p>
+    </div></div>
+            <div class="reader-txt-layer" style="z-index:3">
+                <div class="ie-fix"><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 249px;line-height: 249px;top: 1505px;left: 4942px;z-index: 4;;;;;;font-family: simsun;;" >&nbsp;
+</p><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 204px;line-height: 204px;top: 3033px;left: 2747px;z-index: 5;;;;;;font-family: simsun;;" >&nbsp;
+</p><p class="reader-word-layer reader-word-s1-0" style="width: 222px;height: 292px;line-height: 292px;top: 2296px;left: 3612px;z-index: 6;;;;;;null;" >（</p><p class="reader-word-layer reader-word-s1-3" style="width: 274px;height: 292px;line-height: 292px;top: 2296px;left: 3835px;z-index: 7;;;;;;false;" >12</p><p class="reader-word-layer reader-word-s1-0" style="width: 1556px;height: 292px;line-height: 292px;top: 2296px;left: 4109px;z-index: 8;letter-spacing: -0.63px;;;;;;false;" >）发明专利申请</p><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 249px;line-height: 249px;top: 2330px;left: 5666px;z-index: 9;;;;;;font-family: simsun;;" >&nbsp;
+</p><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 204px;line-height: 204px;top: 2141px;left: 5931px;z-index: 10;;;;;;font-family: simsun;;" >&nbsp;
+</p><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 204px;line-height: 204px;top: 2775px;left: 3521px;z-index: 11;;;;;;font-family: simsun;;" >&nbsp;
+</p><p class="reader-word-layer reader-word-s1-12" style="width: 158px;height: 170px;line-height: 170px;top: 2796px;left: 5931px;z-index: 12;;;;;;null;" >（</p><p class="reader-word-layer reader-word-s1-15" style="width: 159px;height: 170px;line-height: 170px;top: 2796px;left: 6091px;z-index: 13;;;;;;false;" >10</p><p class="reader-word-layer reader-word-s1-16" style="width: 952px;height: 170px;line-height: 170px;top: 2796px;left: 6249px;z-index: 14;;;;;;false;" >）申请公布号</p><p class="reader-word-layer reader-word-s1-12" style="width: 79px;height: 170px;line-height: 170px;top: 2796px;left: 7202px;z-index: 15;;;;;;font-family: simsun;;" >&nbsp;</p><p class="reader-word-layer reader-word-s1-12" style="width: 952px;height: 158px;line-height: 158px;top: 3001px;left: 5931px;z-index: 16;letter-spacing: 0.29000000000000004px;;;;;;false;" >CN109213863A</p><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 190px;line-height: 190px;top: 2974px;left: 6883px;z-index: 17;;;;;;font-family: simsun;;" >&nbsp;
+</p></div></div>
+            <div class="reader-pic-layer" style="z-index:4">
+                <div class="ie-fix"><div class="reader-pic-item" style="background-image: url(https://wkbjcloudbos.bdimg.com/v1/docconvert6766//wk/e1c24ba61a1cd333929b37a5f5460720/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Fri%2C%2002%20Jul%202021%2018%3A36%3A26%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2021-05-18T10%3A36%3A26Z%2F3600%2Fhost%2F1b6b01bd2368611a4abaff86c6723574091dc81fd67aa30f84f5a671e260222a&x-bce-range=0-2904&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYyMTMzNzc4NiwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.VppYzC0JNu0nJPaekFOq89U19maxqQy5V6ZfZfr%2BDVQ%3D.1621337786);background-position: 0px -90px;width: 686px;height: 3px;z-index: 26;left: 121.59370000000001px;top: 339.80174999999997px;opacity: 1;transform: scale(1.0583, 1.0583);;position: absolute;overflow: hidden;"></div></div></div>
+            <div class="reader-txt-layer" style="z-index:5">
+                <div class="ie-fix"><p class="reader-word-layer reader-word-s1-12" style="width: 158px;height: 158px;line-height: 158px;top: 3207px;left: 5931px;z-index: 27;;;;;;null;" >（</p><p class="reader-word-layer reader-word-s1-15" style="width: 159px;height: 158px;line-height: 158px;top: 3207px;left: 6091px;z-index: 28;;;;;;false;" >43</p><p class="reader-word-layer reader-word-s1-16" style="width: 952px;height: 158px;line-height: 158px;top: 3207px;left: 6249px;z-index: 29;;;;;;false;" >）申请公布日</p><p class="reader-word-layer reader-word-s1-12" style="width: 872px;height: 158px;line-height: 158px;top: 3207px;left: 7202px;z-index: 30;letter-spacing: 0.26px;;;;;;false;" >&nbsp;2019.01.15</p><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 190px;line-height: 190px;top: 3179px;left: 8074px;z-index: 36;;;;;;font-family: simsun;;" >&nbsp;
+</p><p class="reader-word-layer reader-word-s1-5" style="width: 175px;height: 229px;line-height: 229px;top: 3638px;left: 1110px;z-index: 37;;;;;;null;" >（</p><p class="reader-word-layer reader-word-s1-7" style="width: 216px;height: 229px;line-height: 229px;top: 3638px;left: 1286px;z-index: 38;;;;;;false;" >21</p><p class="reader-word-layer reader-word-s1-8" style="width: 699px;height: 229px;line-height: 229px;top: 3638px;left: 1501px;z-index: 39;;;;;;false;" >）申请号</p><p class="reader-word-layer reader-word-s1-5" style="width: 52px;height: 229px;line-height: 229px;top: 3638px;left: 2200px;z-index: 40;;;;;;font-family: simsun;;" >&nbsp;</p><p class="reader-word-layer reader-word-s1-10" style="width: 1632px;height: 229px;line-height: 229px;top: 3638px;left: 2251px;z-index: 41;letter-spacing: -0.3px;;;;;;false;" >CN201810954366.0</p><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 249px;line-height: 249px;top: 3621px;left: 3883px;z-index: 42;;;;;;font-family: simsun;;" >&nbsp;</p><p class="reader-word-layer reader-word-s1-5" style="width: 175px;height: 229px;line-height: 229px;top: 4112px;left: 1110px;z-index: 43;;;;;;null;" >（</p><p class="reader-word-layer reader-word-s1-7" style="width: 216px;height: 229px;line-height: 229px;top: 4112px;left: 1286px;z-index: 44;;;;;;false;" >22</p><p class="reader-word-layer reader-word-s1-8" style="width: 699px;height: 229px;line-height: 229px;top: 4112px;left: 1501px;z-index: 45;;;;;;false;" >）申请日</p><p class="reader-word-layer reader-word-s1-5" style="width: 52px;height: 229px;line-height: 229px;top: 4112px;left: 2200px;z-index: 46;;;;;;font-family: simsun;;" >&nbsp;</p><p class="reader-word-layer reader-word-s1-10" style="width: 902px;height: 229px;line-height: 229px;top: 4112px;left: 2251px;z-index: 47;letter-spacing: -0.36px;;;;;;false;" >2018.08.21</p><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 249px;line-height: 249px;top: 4096px;left: 3155px;z-index: 48;;;;;;font-family: simsun;;" >&nbsp;</p><p class="reader-word-layer reader-word-s1-5" style="width: 175px;height: 229px;line-height: 229px;top: 4587px;left: 1110px;z-index: 49;;;;;;null;" >（</p><p class="reader-word-layer reader-word-s1-7" style="width: 216px;height: 229px;line-height: 229px;top: 4587px;left: 1286px;z-index: 50;;;;;;false;" >71</p><p class="reader-word-layer reader-word-s1-8" style="width: 699px;height: 229px;line-height: 229px;top: 4587px;left: 1501px;z-index: 51;;;;;;false;" >）申请人</p><p class="reader-word-layer reader-word-s1-5" style="width: 52px;height: 229px;line-height: 229px;top: 4587px;left: 2200px;z-index: 52;;;;;;font-family: simsun;;" >&nbsp;</p><p class="reader-word-layer reader-word-s1-10" style="width: 1398px;height: 229px;line-height: 229px;top: 4587px;left: 2251px;z-index: 53;letter-spacing: -0.52px;;;;;;false;" >北京航空航天大学</p><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 249px;line-height: 249px;top: 4571px;left: 3648px;z-index: 54;;;;;;font-family: simsun;;" >&nbsp;</p><p class="reader-word-layer reader-word-s1-5" style="width: 52px;height: 229px;line-height: 229px;top: 5061px;left: 1110px;z-index: 55;;;;;;font-family: simsun;;" >&nbsp;
+</p><p class="reader-word-layer reader-word-s1-5" style="width: 350px;height: 229px;line-height: 229px;top: 5061px;left: 1682px;z-index: 56;;;;;;false;" >地址</p><p class="reader-word-layer reader-word-s1-5" style="width: 52px;height: 229px;line-height: 229px;top: 5061px;left: 2032px;z-index: 57;;;;;;font-family: simsun;;" >&nbsp;</p><p class="reader-word-layer reader-word-s1-10" style="width: 666px;height: 229px;line-height: 229px;top: 5061px;left: 2084px;z-index: 58;letter-spacing: -0.19px;;;;;;false;" >100191&nbsp;</p><p class="reader-word-layer reader-word-s1-10" style="width: 1573px;height: 229px;line-height: 229px;top: 5061px;left: 2751px;z-index: 59;letter-spacing: -0.44999999999999996px;;;;;;false;" >北京市海淀区学院路</p><p class="reader-word-layer reader-word-s1-10" style="width: 205px;height: 229px;line-height: 229px;top: 5061px;left: 4366px;z-index: 60;letter-spacing: 0.15px;;;;;;false;" >37</p><p class="reader-word-layer reader-word-s1-10" style="width: 175px;height: 229px;line-height: 229px;top: 5061px;left: 4616px;z-index: 61;;;;;;null;" >号</p><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 249px;line-height: 249px;top: 5045px;left: 4789px;z-index: 62;;;;;;font-family: simsun;;" >&nbsp;
+</p><p class="reader-word-layer reader-word-s1-5" style="width: 175px;height: 229px;line-height: 229px;top: 5533px;left: 1110px;z-index: 63;;;;;;null;" >（</p><p class="reader-word-layer reader-word-s1-7" style="width: 216px;height: 229px;line-height: 229px;top: 5533px;left: 1286px;z-index: 64;;;;;;false;" >72</p><p class="reader-word-layer reader-word-s1-8" style="width: 699px;height: 229px;line-height: 229px;top: 5533px;left: 1501px;z-index: 65;;;;;;false;" >）发明人</p><p class="reader-word-layer reader-word-s1-5" style="width: 52px;height: 229px;line-height: 229px;top: 5533px;left: 2200px;z-index: 66;;;;;;font-family: simsun;;" >&nbsp;</p><p class="reader-word-layer reader-word-s1-10" style="width: 525px;height: 229px;line-height: 229px;top: 5533px;left: 2251px;z-index: 67;;;;;;false;" >殷传涛</p><p class="reader-word-layer reader-word-s1-10" style="width: 42px;height: 229px;line-height: 229px;top: 5533px;left: 2777px;z-index: 68;;;;;;null;" >;</p><p class="reader-word-layer reader-word-s1-18" style="width: 523px;height: 229px;line-height: 229px;top: 5533px;left: 2819px;z-index: 69;;;;;;false;" >张笑颜</p><p class="reader-word-layer reader-word-s1-10" style="width: 42px;height: 229px;line-height: 229px;top: 5533px;left: 3343px;z-index: 70;;;;;;null;" >;</p><p class="reader-word-layer reader-word-s1-18" style="width: 523px;height: 229px;line-height: 229px;top: 5533px;left: 3385px;z-index: 71;;;;;;false;" >孙鸿陆</p><p class="reader-word-layer reader-word-s1-10" style="width: 42px;height: 229px;line-height: 229px;top: 5533px;left: 3909px;z-index: 72;;;;;;null;" >;</p><p class="reader-word-layer reader-word-s1-10" style="width: 350px;height: 229px;line-height: 229px;top: 5533px;left: 3951px;z-index: 73;;;;;;false;" >乔磊</p><p class="reader-word-layer reader-word-s1-10" style="width: 42px;height: 229px;line-height: 229px;top: 5533px;left: 4302px;z-index: 74;;;;;;null;" >;</p><p class="reader-word-layer reader-word-s1-18" style="width: 523px;height: 229px;line-height: 229px;top: 5533px;left: 4344px;z-index: 75;;;;;;false;" >管明辉</p><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 249px;line-height: 249px;top: 5517px;left: 4865px;z-index: 76;;;;;;font-family: simsun;;" >&nbsp;</p><p class="reader-word-layer reader-word-s1-5" style="width: 175px;height: 229px;line-height: 229px;top: 6008px;left: 1110px;z-index: 77;;;;;;null;" >（</p><p class="reader-word-layer reader-word-s1-7" style="width: 216px;height: 229px;line-height: 229px;top: 6008px;left: 1286px;z-index: 78;;;;;;false;" >74</p><p class="reader-word-layer reader-word-s1-8" style="width: 1222px;height: 229px;line-height: 229px;top: 6008px;left: 1501px;z-index: 79;;;;;;false;" >）专利代理机构</p><p class="reader-word-layer reader-word-s1-5" style="width: 52px;height: 229px;line-height: 229px;top: 6008px;left: 2724px;z-index: 80;;;;;;font-family: simsun;;" >&nbsp;</p><p class="reader-word-layer reader-word-s1-9 reader-word-s1-10" style="width: 2794px;height: 229px;line-height: 229px;top: 6008px;left: 2775px;z-index: 81;letter-spacing: -0.6px;;;;;;false;" >北京国昊天诚知识产权代理有限公司</p><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 249px;line-height: 249px;top: 5992px;left: 5569px;z-index: 82;;;;;;font-family: simsun;;" >&nbsp;</p><p class="reader-word-layer reader-word-s1-5" style="width: 52px;height: 229px;line-height: 229px;top: 6482px;left: 1110px;z-index: 83;;;;;;font-family: simsun;;" >&nbsp;
+</p><p class="reader-word-layer reader-word-s1-5" style="width: 525px;height: 229px;line-height: 229px;top: 6482px;left: 1682px;z-index: 84;;;;;;false;" >代理人</p><p class="reader-word-layer reader-word-s1-5" style="width: 52px;height: 229px;line-height: 229px;top: 6482px;left: 2208px;z-index: 85;;;;;;font-family: simsun;;" >&nbsp;</p><p class="reader-word-layer reader-word-s1-18" style="width: 523px;height: 229px;line-height: 229px;top: 6482px;left: 2259px;z-index: 86;;;;;;false;" >吴家伟</p><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 249px;line-height: 249px;top: 6466px;left: 2781px;z-index: 87;;;;;;font-family: simsun;;" >&nbsp;
+</p><p class="reader-word-layer reader-word-s1-5" style="width: 175px;height: 229px;line-height: 229px;top: 6959px;left: 1110px;z-index: 88;;;;;;null;" >（</p><p class="reader-word-layer reader-word-s1-7" style="width: 216px;height: 229px;line-height: 229px;top: 6959px;left: 1286px;z-index: 89;;;;;;false;" >51</p></div></div>
+            <div class="reader-pic-layer" style="z-index:6">
+                <div class="ie-fix"><div class="reader-pic-item" style="background-image: url(https://wkbjcloudbos.bdimg.com/v1/docconvert6766//wk/e1c24ba61a1cd333929b37a5f5460720/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Fri%2C%2002%20Jul%202021%2018%3A36%3A26%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2021-05-18T10%3A36%3A26Z%2F3600%2Fhost%2F1b6b01bd2368611a4abaff86c6723574091dc81fd67aa30f84f5a671e260222a&x-bce-range=0-2904&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYyMTMzNzc4NiwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.VppYzC0JNu0nJPaekFOq89U19maxqQy5V6ZfZfr%2BDVQ%3D.1621337786);background-position: 0px -98px;width: 686px;height: 3px;z-index: 89;left: 121.59370000000001px;top: 768.41325px;opacity: 1;transform: scale(1.0583, 1.0583);;position: absolute;overflow: hidden;"></div></div></div>
+            <div class="reader-txt-layer" style="z-index:7">
+                <div class="ie-fix"><p class="reader-word-layer reader-word-s1-5" style="width: 175px;height: 229px;line-height: 229px;top: 6959px;left: 1501px;z-index: 90;;;;;;null;" >）</p><p class="reader-word-layer reader-word-s1-5" style="width: 522px;height: 229px;line-height: 229px;top: 6959px;left: 1676px;z-index: 91;letter-spacing: -0.27px;;;;;;false;" >Int.CI&nbsp;</p><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 249px;line-height: 249px;top: 6943px;left: 2196px;z-index: 92;;;;;;font-family: simsun;;" >&nbsp;
+</p><p class="reader-word-layer reader-word-s1-19" style="width: 1000px;height: 142px;line-height: 142px;top: 7412px;left: 6169px;z-index: 93;;;;;;false;" >权利要求说明书</p><p class="reader-word-layer reader-word-s1-20" style="width: 141px;height: 142px;line-height: 142px;top: 7412px;left: 7171px;z-index: 94;;;;;;false;" >&nbsp;&nbsp;</p><p class="reader-word-layer reader-word-s1-19" style="width: 428px;height: 142px;line-height: 142px;top: 7412px;left: 7312px;z-index: 95;;;;;;false;" >说明书</p><p class="reader-word-layer reader-word-s1-20" style="width: 141px;height: 142px;line-height: 142px;top: 7412px;left: 7743px;z-index: 96;;;;;;false;" >&nbsp;&nbsp;</p><p class="reader-word-layer reader-word-s1-19" style="width: 285px;height: 142px;line-height: 142px;top: 7412px;left: 7884px;z-index: 97;;;;;;false;" >幅图</p><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 190px;line-height: 190px;top: 7371px;left: 8169px;z-index: 99;;;;;;font-family: simsun;;" >&nbsp;
+</p><p class="reader-word-layer reader-word-s1-21" style="width: 205px;height: 269px;line-height: 269px;top: 7915px;left: 1110px;z-index: 100;;;;;;null;" >（</p><p class="reader-word-layer reader-word-s1-23" style="width: 254px;height: 269px;line-height: 269px;top: 7915px;left: 1316px;z-index: 101;;;;;;false;" >54</p><p class="reader-word-layer reader-word-s1-21" style="width: 1030px;height: 269px;line-height: 269px;top: 7915px;left: 1571px;z-index: 102;letter-spacing: 0.38px;;;;;;false;" >）发明名称</p><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 249px;line-height: 249px;top: 7931px;left: 2604px;z-index: 103;;;;;;font-family: simsun;;" >&nbsp;</p><p class="reader-word-layer reader-word-s1-21" style="width: 61px;height: 269px;line-height: 269px;top: 8332px;left: 1110px;z-index: 104;;;;;;font-family: simsun;;" >&nbsp;
+</p><p class="reader-word-layer reader-word-s1-11 reader-word-s1-22 reader-word-s1-24" style="width: 3918px;height: 269px;line-height: 269px;top: 8332px;left: 1682px;z-index: 105;
+                    font-family: 'MicrosoftYaHei', 'cf7e39ca763231126fdb11770040001', 'MicrosoftYaHei';
+                font-size: 205px;;;;;;false;" >一种基于学习风格的自适应推荐方法及系统</p><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 249px;line-height: 249px;top: 8348px;left: 5603px;z-index: 106;;;;;;font-family: simsun;;" >&nbsp;
+</p><p class="reader-word-layer reader-word-s1-21" style="width: 205px;height: 269px;line-height: 269px;top: 8845px;left: 1110px;z-index: 107;;;;;;null;" >（</p><p class="reader-word-layer reader-word-s1-23" style="width: 254px;height: 269px;line-height: 269px;top: 8845px;left: 1316px;z-index: 108;;;;;;false;" >57</p><p class="reader-word-layer reader-word-s1-21" style="width: 617px;height: 269px;line-height: 269px;top: 8845px;left: 1571px;z-index: 109;;;;;;false;" >）摘要</p><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 249px;line-height: 249px;top: 8861px;left: 2190px;z-index: 110;;;;;;font-family: simsun;;" >&nbsp;
+</p><p class="reader-word-layer reader-word-s1-25" style="width: 79px;height: 158px;line-height: 158px;top: 9247px;left: 1110px;z-index: 111;;;;;;font-family: simsun;;" >&nbsp;
+</p><p class="reader-word-layer reader-word-s1-25" style="width: 2854px;height: 158px;line-height: 158px;top: 9247px;left: 1682px;z-index: 112;letter-spacing: 0.48px;;;;;;false;" >本发明属于教育技术领域，公开了一种基
+</p><p class="reader-word-layer reader-word-s1-24 reader-word-s1-25" style="width: 3172px;height: 158px;line-height: 158px;top: 9555px;left: 1110px;z-index: 113;letter-spacing: 0.51px;;;;;;false;" >于学习风格的自适应推荐方法及系统，系统包</p><p class="reader-word-layer reader-word-s1-26" style="width: 3330px;height: 158px;line-height: 158px;top: 9864px;left: 1110px;z-index: 114;;;;;;false;" >括：数据的准备和预处理模块，学习风格诊断模</p><p class="reader-word-layer reader-word-s1-26" style="width: 3330px;height: 158px;line-height: 158px;top: 10173px;left: 1110px;z-index: 115;;;;;;false;" >块，聚类分析和学习资源推荐模块；方法包括：</p><p class="reader-word-layer reader-word-s1-26" style="width: 3330px;height: 158px;line-height: 158px;top: 10481px;left: 1110px;z-index: 116;;;;;;false;" >对学习者学习数据的准备和预处理，在得到用户</p><p class="reader-word-layer reader-word-s1-26" style="width: 3330px;height: 158px;line-height: 158px;top: 10790px;left: 1110px;z-index: 117;;;;;;false;" >群体的在线学习平台浏览日志数据之后，对网页</p><p class="reader-word-layer reader-word-s1-26" style="width: 3330px;height: 158px;line-height: 158px;top: 11099px;left: 1110px;z-index: 118;;;;;;false;" >内容进行标记；对学习者进行学习风格诊断，对</p><p class="reader-word-layer reader-word-s1-26" style="width: 3330px;height: 158px;line-height: 158px;top: 11407px;left: 1110px;z-index: 119;;;;;;false;" >学习资源进行标记后，基于学习者行为日志记录</p><p class="reader-word-layer reader-word-s1-26" style="width: 3330px;height: 158px;line-height: 158px;top: 11716px;left: 1110px;z-index: 120;;;;;;false;" >诊断其学习风格；聚类分析和学习资源推荐，基
+</p><p class="reader-word-layer reader-word-s1-4" style="width: 47px;height: 204px;line-height: 204px;top: 9236px;left: 4726px;z-index: 121;;;;;;font-family: simsun;;" >&nbsp;
+</p></div></div>
+                
+            </div>
+        
+        <div class="reader-page"
+            v-for="(v, i) in pageWHArr"
+            :key="i"
+            :class="{'reader-page-hidden': curLastPage < v.i}"
+            :id="'pageNo-' + v.i"
+            :data-page-no="v.i"
+            :data-mate-width="v.w"
+            :data-mate-height="v.h"
+            :data-scale="v.s"
+            :style="{height: v.ph + 'px'}"
+            v-if="!(+v.i === 1 && ssr)"
+        >
+            <page-loading ></page-loading>
+        </div>
+    </div>
+
+
+
+                </div>
+                
+                    <fold-page></fold-page>
+                
+            </div>
+
+            <div class="no-full-screen">
+                <tool-bar></tool-bar>
+                
+                    <ad-bottom></ad-bottom>
+                
+                
+                    <lazy-render tip="" :time="1000">
+                        
+                            <relative-recommend></relative-recommend>
+                        
+                        <comment></comment>
+                    </lazy-render>
+                
+            </div>
+        </div>
+
+        <div class="right-wrapper no-full-screen" id="right-wrapper-id">
+            <div class="author-info" v-show="!vueMounted">
+    
+    
+        
+
+
+
+
+<div class="shop-info-wrapper shop-leve-d">
+    <div class="title-box">
+        <p class="title">银牌店铺</p>
+    </div>
+    <div class="user-info">
+        
+        
+            
+        
+        <div class="avatar" style="background-image: url(https://selfstudyroom-course.cdn.bcebos.com/64761-35673-5c24e534bf61949697054b3f1460f7b4.png);">
+            
+        </div>
+        <div class="info">
+            <div class="nick-box">
+                <p class="shop-name">
+                    掌桥专利旗舰店
+                </p>
+                <p class="shop-intro">
+                    
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="property">
+        <div class="item item-goods">
+            <p class="title">商品</p>
+            <div class="author-info-number">-</div>
+        </div>
+        <div class="item">
+            <p class="title">粉丝</p>
+            <div class="author-info-number">2582</div>
+        </div>
+        <div class="item">
+            <p class="title">等级</p>
+            <div class="author-info-number">Lv2</div>
+        </div>
+    </div>
+    <div class="card-action-box">
+        
+        
+            <div class="btn-common">
+                
+                    取消关注
+                
+            </div>
+        
+        <div class="btn-common btn-shop">进入店铺</div>
+    </div>
+</div>
+    
+</div>
+                
+
+            <author-info></author-info>
+            
+                <right-channel></right-channel>
+                <operation></operation>
+            
+            <relative-search class="sider-edge" :fix="false"></relative-search>
+
+            
+                
+                    <relative-doc class="sider-edge" :fix="false"></relative-doc>
+                    <lazy-render tip="" :time="1000">
+                        <relative-course class="sider-edge" :fix="false"></relative-course>
+                    </lazy-render>
+                
+                <ad-right class="sider-edge"></ad-right>
+            
+
+            
+                <lazy-render tip="" :time="1000">
+                    <recommend-fix></recommend-fix>
+                </lazy-render>
+            
+
+        </div>
+        <div class="no-full-screen">
+            <collection-guide></collection-guide>
+        </div>
+
+        <pure-guide-dialog></pure-guide-dialog>
+    </div>
+    
+        <lazy-render tip="" :time="1000">
+            <div class="footer-wrapper no-full-screen" id="footer-wrapper-id">
+                <propagation></propagation>
+            </div>
+            
+                <sidebar></sidebar>
+            
+            <vip-member-pop></vip-member-pop>
+            <reader-plugin :root-selector="'#reader-container'"></reader-plugin>
+            <wkfooter></wkfooter>
+            <vip-no-ad-dialog></vip-no-ad-dialog>
+        </lazy-render>
+    
+</div>
+
+
+
+    <script>window.tsFMP = +(new Date());</script>
+
+
+    <script>
+        var pageData = {"title":"一种基于学习风格的自适应推荐方法及系统 - 百度文库","ssr":1,"token":"1621334187_c6e3b8da9ee059c6daf62a5431b548af","viewControl":{"controlType":2,"controlReason":"","oldVersion":false,"isIE":false},"antiClass":"wkwm1797f493a06","docInfo2019":{"doc_info":{"show_doc_id":"a87797d2091c59eef8c75fbfc77da26924c5965d","title":"一种基于学习风格的自适应推荐方法及系统","view_count":1,"download_count":0,"score":3.2,"score_percentage":"34","show_create_time":"20201207 19:17:28","create_time":"1607339848","update_time":"1607339848","page":"4","size":"25088","summary":"","flag":"10","type":"1","ishide":"0","zan":0,"cover_url":"https://wkimg.bdimg.com/img/cf7e39ca763231126fdb1177?new=1&w=500&p=1","show_store_id":"cf7e39ca763231126fdb1177","is_creater":0,"download_token":"67fd416d48067d5916956860d1902428","is_vip_free_doc":false,"main_status":"2","forbidden_comment":0,"modifyLock":0,"is_legion_doc":0,"editorDocId":"","professional_doc":1,"isVipHighPriceDoc":0,"vipDocPackSmallFlow":null,"doc_type":3,"is_tumu":0,"is_inroom":0,"typeName":"word","view_count_show":"1","download_count_show":"0","create_time_show":"2020-12-07"},"cover_list":[],"tags":[{"tag":"自适应","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%D7%D4%CA%CA%D3%A6","type":1},{"tag":"数学","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%CA%FD%D1%A7","type":1},{"tag":"自然科学","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%D7%D4%C8%BB%BF%C6%D1%A7","type":1}],"search_words":[],"hot_words":[{"word":"自适应","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%D7%D4%CA%CA%D3%A6"},{"word":"专业资料","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%D7%A8%D2%B5%D7%CA%C1%CF"},{"word":"自然科学","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%D7%D4%C8%BB%BF%C6%D1%A7"},{"word":"数学","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%CA%FD%D1%A7"}],"creator_info":{"uid_str":"eff7812da5e9856a561260d6","uname":"yangbinheheya","utype":"BGC","follower_count":"604","have_followed":"0","level":"2","scienceOrg":0,"scienceRepeatSign":0,"tname":"掌桥科研","verify_type":"","verify_name":"专注学术论文资讯发布","summary":"专注学术论文资讯发布","avadar":"http://pic.rmb.bdstatic.com/0127443f4ee2aac2a0bbb7fbe625b16e.jpeg","doc_count":"25883136","title":"见习作者","view_count":"69371708","value_score":"3.000000","prove_url":"","phone":"","show_auth":0,"level_info":{"content_score":"499","business_score":"827","credit_score":"894","alive_score":"143","profession_score":"200","total_score":"612","is_keep":"0","level":"2","create_time":"1621148298","update_time":"1621148298","level_name":"见习作者","levelShow":"d","levelText":"银牌店铺"},"shop_follow":{"is_own_shop":0,"follow_count":"2582","is_followed":"0"},"shop_info":{"shop_id":"11299","shop_name":"掌桥专利","cid":"15","cid_name":"其它","logo":"https://selfstudyroom-course.cdn.bcebos.com/64761-35673-5c24e534bf61949697054b3f1460f7b4.png","head_pic":"","introduction":"","pc_theme":"1","mb_theme":"1","shop_status":"60","verify_status":"0","verify_type":"0","create_time":"1587530902","update_time":"1602841944","notice_order":0,"verify_endtime":0,"notice_income":0,"notice_audit":0,"shop_id_str":"35a484868762caaedd33d429","shop_level":"2","shop_level_name":"银牌店铺","shop_name_show":"掌桥专利旗舰店"},"typeTitle":"个人主页"},"can_read":1,"price_info":{"doc_price":0,"doc_ticket":0,"ispaied":0,"is_payment_doc":0,"shopVoucherInfo":{}},"vip_info":[],"like_info":{"is_liked":0},"attestation_doc_result":0,"is_copyright":0,"is_exclusive":0,"copyright_flag":0,"background_info":{"background_type":"0","background_value":"#F4F4F4","background_skin_id":"classic","background_end_time":-1},"doc_view_rec_test_type":0,"isRepeatDown":0,"controlType":2,"controlReason":"","wk_smallflow":{"testData":{"11":{"shot":"nafe-1509-ok","test1961":"1","isShowNewReadJifenDoc":"1","collectionGuide":"1","vipWithDoc":"2224-1","highPriceDocSendVip":"1","wkWeb2270":"2","version":"2","pcViewGoClientFlow":"1","searchBoxVipEntrance":"3038","wkWeb2967":"1","pureMode":"1","experienceCardTest":"2713-2","vipEntranceAct":"3238","pcTryReadPayBtnTest":"12","wkWeb2781":"0","wkWeb2963":"1","wkWebEid":"121603","wkWeb3191Eid":"011401","ishitZhenxuan":"1","isHitCopyGuid":"1","wkWeb3483":"1","wkWeb3483Eid":"103081","wk-web-3514":"1","isHitDocCopy":"1","wkWeb3563":"2"},"18":{"wkWeb3627":"1"},"19":{"optimization":"1884-1","discountTextColor":"1933","docVoucherType":"1999-1","vipVouchers":"all","docOperation":"notClick","notVipDocVoucher":"2020-1","marquee":"2245-2","channel_sort":"2623-1","cardVoucher":"RedEnvelopeCard-2","keepPay":"3201-1"},"20":{"pcViewGoClientFlow":"1"},"10001":{"goodsList":"1462","dianXinPay":"1010","discountTextColor":"1933","countDown":"2140-1","vipCashierRefactoring":"1944","privilegeTest":"2392-1","voucherPackage":"2212-2","voucherPackageAutoPop":"2212-5","vipMarquee":"2540-1","showWkcoin":"2675","vipCardLeftTopTag":"2390-1","vipCardTag":"2390-2","miniHeight":"3169","addGoods":"test4","newVoucherPackage":"2880-2"},"10019":{"wkWeb1754Group":"1"},"10022":{"pcSearchScreenType":"2","pcSearchStyleType":"2","search_right_rec":"1","addSugQueryMid":"0","removePgcSp":"0"},"40013":{"autoPayCancel":"2986-2"},"40018":{"isNewDown":"1"},"40021":{"userCard":"1"},"40024":{"autoPayText":"3599-2"},"50006":{"wkCoinMarquee":"2898-2"},"50014":{"wkWeb3463":"1","pureDialog":"2"},"50015":{"monthlyGoodsPrice":"3425-1","newUserText":"3826-0"}},"testId":"114,40200,40224,60236,60172","testDataStr":"{\"shot\":\"nafe-1509-ok\",\"test1961\":\"1\",\"isShowNewReadJifenDoc\":\"1\",\"collectionGuide\":\"1\",\"vipWithDoc\":\"2224-1\",\"highPriceDocSendVip\":\"1\",\"wkWeb2270\":\"2\",\"version\":\"2\",\"pcViewGoClientFlow\":\"1\",\"searchBoxVipEntrance\":\"3038\",\"wkWeb2967\":\"1\",\"pureMode\":\"1\",\"experienceCardTest\":\"2713-2\",\"vipEntranceAct\":\"3238\",\"pcTryReadPayBtnTest\":\"12\",\"wkWeb2781\":\"0\",\"wkWeb2963\":\"1\",\"wkWebEid\":\"121603\",\"wkWeb3191Eid\":\"011401\",\"ishitZhenxuan\":\"1\",\"isHitCopyGuid\":\"1\",\"wkWeb3483\":\"1\",\"wkWeb3483Eid\":\"103081\",\"wk-web-3514\":\"1\",\"isHitDocCopy\":\"1\",\"wkWeb3563\":\"2\"}","visible1796":true,"wkWeb2024":0}},"readerInfo2019":{"docId":"a87797d2091c59eef8c75fbfc77da26924c5965d","storeId":"cf7e39ca763231126fdb1177","tpl_key":"html_view","md5sum":"&md5sum=e1c24ba61a1cd333929b37a5f5460720&sign=a76fff6c74&rtcs_flag=1&rtcs_ver=4","pageInfo":{"pageHeight":"1262.879","pageWidth":"892.979","pageWH":["892.979","1262.879"],"other":null,"version":6},"htmlBcs":true,"htmlUrls":"{\"ttf\":[{\"pageIndex\":1,\"param\":\"&md5sum=e1c24ba61a1cd333929b37a5f5460720&range=0-62897&sign=a76fff6c74\"},{\"pageIndex\":2,\"param\":\"&md5sum=e1c24ba61a1cd333929b37a5f5460720&range=62898-83553&sign=a76fff6c74\"},{\"pageIndex\":3,\"param\":\"&md5sum=e1c24ba61a1cd333929b37a5f5460720&range=83554-105245&sign=a76fff6c74\"}],\"json\":[{\"pageIndex\":1,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert6766\\/\\/wk\\/e1c24ba61a1cd333929b37a5f5460720\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Fri%2C%2002%20Jul%202021%2018%3A36%3A26%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2021-05-18T10%3A36%3A26Z%2F3600%2Fhost%2F997fe6cdef13ae577b43d7e2c7525ee43a6b5bf864441c8dc084781b817826fb&x-bce-range=0-15789&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYyMTMzNzc4NiwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.8a3s9zeJ8uT1DmmH%2BHPfjDHz6hEA7poHJRXlcxWP6vw%3D.1621337786\"},{\"pageIndex\":2,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert6766\\/\\/wk\\/e1c24ba61a1cd333929b37a5f5460720\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Fri%2C%2002%20Jul%202021%2018%3A36%3A26%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2021-05-18T10%3A36%3A26Z%2F3600%2Fhost%2F997fe6cdef13ae577b43d7e2c7525ee43a6b5bf864441c8dc084781b817826fb&x-bce-range=15790-20797&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYyMTMzNzc4NiwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.U%2Bw1CnVaNYXarn%2FUUnY5%2FMKGSfkZ%2FrpvgfxClf0vWoU%3D.1621337786\"},{\"pageIndex\":3,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert6766\\/\\/wk\\/e1c24ba61a1cd333929b37a5f5460720\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Fri%2C%2002%20Jul%202021%2018%3A36%3A26%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2021-05-18T10%3A36%3A26Z%2F3600%2Fhost%2F997fe6cdef13ae577b43d7e2c7525ee43a6b5bf864441c8dc084781b817826fb&x-bce-range=20798-22623&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYyMTMzNzc4NiwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.Z2ua8HvD9fyDlTFe9dsH0LaHJnl8OelExWBwk9YnG1w%3D.1621337786\"}],\"png\":[{\"pageIndex\":1,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert6766\\/\\/wk\\/e1c24ba61a1cd333929b37a5f5460720\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Fri%2C%2002%20Jul%202021%2018%3A36%3A26%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2021-05-18T10%3A36%3A26Z%2F3600%2Fhost%2F1b6b01bd2368611a4abaff86c6723574091dc81fd67aa30f84f5a671e260222a&x-bce-range=0-2904&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYyMTMzNzc4NiwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.VppYzC0JNu0nJPaekFOq89U19maxqQy5V6ZfZfr%2BDVQ%3D.1621337786\"},{\"pageIndex\":2,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert6766\\/\\/wk\\/e1c24ba61a1cd333929b37a5f5460720\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Fri%2C%2002%20Jul%202021%2018%3A36%3A26%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2021-05-18T10%3A36%3A26Z%2F3600%2Fhost%2F1b6b01bd2368611a4abaff86c6723574091dc81fd67aa30f84f5a671e260222a&x-bce-range=2905-2905&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYyMTMzNzc4NiwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.s7spLObi6gH4ltGUG1gyb6llniJ648sjbujf4hesmXg%3D.1621337786\"},{\"pageIndex\":3,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert6766\\/\\/wk\\/e1c24ba61a1cd333929b37a5f5460720\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Fri%2C%2002%20Jul%202021%2018%3A36%3A26%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2021-05-18T10%3A36%3A26Z%2F3600%2Fhost%2F1b6b01bd2368611a4abaff86c6723574091dc81fd67aa30f84f5a671e260222a&x-bce-range=2905-2905&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYyMTMzNzc4NiwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.s7spLObi6gH4ltGUG1gyb6llniJ648sjbujf4hesmXg%3D.1621337786\"}]}","free_page":"1","show_page":"1","page":"4","editor_info":[],"rsign":""},"mixVipAndUserInfo":{"error_no":"2","userInfo":{"isLogin":false,"uip":"10.12.1.57","uipNum":"956369930","isHadSecuremobil":0,"bjhVtype":0,"bjhVintro":""},"wk_smallflow":{"testData":{"10013":{"gowkapp":"1","monthlyPrice":"1666-2","payDocRecallDialog":"show","payExp":"1","gocollegeapp":"1","highPriceDocSendVip":"1","fufeiDocPage":"2688-3","pageCashier":"2554","topBannerExp":"1","isHitMcp":"1","wkWeb2741":"1","wkWeb3271":"1","wk-web-3514":"1","continueType":"openVip","wkWeb3669":"2"},"40006":{"experienceCard":"3681"},"40007":{"viewBottomBtnConfig":"1"},"40009":{"isHitMcp":"1"},"40015":{"autoPayCancel":"2986-1"},"40016":{"fillQuery":"1"},"40023":{"iswapnew":"1"},"40025":{"testIndex":"1"},"50003":{"viewRecBtnConfig":"1"},"50005":{"unpaid":"3201-1"},"50008":{"show_price":"new","wap_cashier_type":"1","addGoods":"test4"},"50016":{"monthlyGoodsPrice":"3425-1","newUserText":"3826-0"},"50021":{"wk-web-3693":"1","eid":"140101"}},"testId":"40231,40235"}},"vipInfo":{},"myShopInfo":null,"wkAdBlockStatus":{"errstr":"success","block_status":false},"activity":{"actImg":"https://qn13.tool.lu/202005/24/151913rdYgDQ2kAe4XSces_280x150.png","leftNum":9345,"totalNum":10000,"consume":655,"startTime":1600616459,"endTime":1600963200},"controlFeature":{"pcGrayTheme":false},"hxXapgeDate":{"form_data":{"knowAd":100,"ad":100,"zyStr":5,"searchNewStyleStr":0,"viewFcReqStr":100,"searchFcReqStr":100,"newHxReqStr":100,"viewToSearchReqStr":100,"vipNoAd":{"vipNoAd":{"time":0},"vipNoAdDuiZhao":{"flow":"0/1/2/3/4/5/6/7/8/9/10","time":1440}},"zhishiReqStr":100,"zhishiSearchReqStr":100,"zhishiView":{"oldView":{"flow":"1/2/3/4/5/6/7/8/9/10"}},"searchAdTime":{"together":{"flow":"1/15"},"adAfter":{"flow":"85/100"}},"searchAdSwitch":1,"searchTopBottomAd":{"top":{"flow":"1/2/3/4/5/6/7"},"bottom":{"flow":"8/9/10"}},"guid_to_university_na":{"isopen":false}}},"saleActivityXpage":{"activity_name":"优选文档限时VIP8折","activity_subtitle":"优惠还剩","url":"https://wenku.baidu.com/ndcashier/browse/jiaoyuvipcashier?cashier_code=Viewvip8qipao","start_time":1587398400000,"end_time":1587571200000,"activity_switch":false},"wkSmallflow":{"testData":{"11":{"shot":"nafe-1509-ok","test1961":"1","isShowNewReadJifenDoc":"1","collectionGuide":"1","vipWithDoc":"2224-1","highPriceDocSendVip":"1","wkWeb2270":"2","version":"2","pcViewGoClientFlow":"1","searchBoxVipEntrance":"3038","wkWeb2967":"1","pureMode":"1","experienceCardTest":"2713-2","vipEntranceAct":"3238","pcTryReadPayBtnTest":"12","wkWeb2781":"0","wkWeb2963":"1","wkWebEid":"121603","wkWeb3191Eid":"011401","ishitZhenxuan":"1","isHitCopyGuid":"1","wkWeb3483":"1","wkWeb3483Eid":"103081","wk-web-3514":"1","isHitDocCopy":"1","wkWeb3563":"2"},"18":{"wkWeb3627":"1"},"19":{"optimization":"1884-1","discountTextColor":"1933","docVoucherType":"1999-1","vipVouchers":"all","docOperation":"notClick","notVipDocVoucher":"2020-1","marquee":"2245-2","channel_sort":"2623-1","cardVoucher":"RedEnvelopeCard-2","keepPay":"3201-1"},"20":{"pcViewGoClientFlow":"1"},"10001":{"goodsList":"1462","dianXinPay":"1010","discountTextColor":"1933","countDown":"2140-1","vipCashierRefactoring":"1944","privilegeTest":"2392-1","voucherPackage":"2212-2","voucherPackageAutoPop":"2212-5","vipMarquee":"2540-1","showWkcoin":"2675","vipCardLeftTopTag":"2390-1","vipCardTag":"2390-2","miniHeight":"3169","addGoods":"test4","newVoucherPackage":"2880-2"},"10019":{"wkWeb1754Group":"1"},"10022":{"pcSearchScreenType":"2","pcSearchStyleType":"2","search_right_rec":"1","addSugQueryMid":"0","removePgcSp":"0"},"40013":{"autoPayCancel":"2986-2"},"40018":{"isNewDown":"1"},"40021":{"userCard":"1"},"40024":{"autoPayText":"3599-2"},"50006":{"wkCoinMarquee":"2898-2"},"50014":{"wkWeb3463":"1","pureDialog":"2"},"50015":{"monthlyGoodsPrice":"3425-1","newUserText":"3826-0"}},"testId":"114,40200,40224,60236,60172","testDataStr":"{\"shot\":\"nafe-1509-ok\",\"test1961\":\"1\",\"isShowNewReadJifenDoc\":\"1\",\"collectionGuide\":\"1\",\"vipWithDoc\":\"2224-1\",\"highPriceDocSendVip\":\"1\",\"wkWeb2270\":\"2\",\"version\":\"2\",\"pcViewGoClientFlow\":\"1\",\"searchBoxVipEntrance\":\"3038\",\"wkWeb2967\":\"1\",\"pureMode\":\"1\",\"experienceCardTest\":\"2713-2\",\"vipEntranceAct\":\"3238\",\"pcTryReadPayBtnTest\":\"12\",\"wkWeb2781\":\"0\",\"wkWeb2963\":\"1\",\"wkWebEid\":\"121603\",\"wkWeb3191Eid\":\"011401\",\"ishitZhenxuan\":\"1\",\"isHitCopyGuid\":\"1\",\"wkWeb3483\":\"1\",\"wkWeb3483Eid\":\"103081\",\"wk-web-3514\":\"1\",\"isHitDocCopy\":\"1\",\"wkWeb3563\":\"2\"}","visible1796":true,"wkWeb2024":0},"skinViewStrategy":{"topbar_is_open":true,"topbar_pic_url":"https://edu-tob.bdimg.com/v1/pc/4e48a463c34091a7fa489525833883a6-1618206292859.PNG","topbar_big_pic_url":"https://edu-tob.bdimg.com/v1/pc/c5acde472ba147b110543f7234136810-1618206293340.PNG","topbar_jump_url":"https://wenku.baidu.com/pcactivity/wxCommunity","leftbar_pic1_url":"//edu-wenku.bdimg.com/v1/images/侧边栏头-1576725822251.png","leftbar_pic2_url":"//edu-wenku.bdimg.com/v1/images/%E4%BE%A7%E8%BE%B9%E6%A0%8F%E4%B8%AD-1576725820663.png","leftbar_pic3_url":"//edu-wenku.bdimg.com/v1/images/zsj-leftbar-close.png","leftbar_jump_url":"https://wenku.baidu.com/ndcashier/browse/jiaoyuvipcashier?cashier_code=ChangeFromViewxuanfu","toppos_pic_url":"https://edu-tob.bdimg.com/v1/pc/WPS%E5%9B%BE%E7%89%87-%E4%BF%AE%E6%94%B9%E5%B0%BA%E5%AF%B82-1610458129342.png","toppos_jump_url":"https://wenku.baidu.com/ndcashier/browse/jiaoyuvipcashier?cashier_code=ChangeFromPCviewtop&choose_goods_id=312","leftbar_is_open":false,"toppos_is_open":false,"key":"__wk_view_topbar_2021418"},"giftInfo":{"giftSwitch":true,"iosPay":true,"giftIcon":"https://edu-wenku.bdimg.com/v1/pc/%E6%96%87%E9%9B%86%E4%B9%B0%E8%B5%A0%E9%9D%99%E6%80%81%E5%9B%BE%E6%A0%87/qqmusic.png","priceLimit":2990,"giftCount":{"target":"price","rules":[{"min":"29.9","max":"54.9","value":1},{"min":"54.9","max":"Infinity","value":2}]},"pcWenjiView":{"title":"送{{giftCount}}个月QQ音乐会员"},"pcWenjiPack":{"title":"买就送{{giftCount}}个月QQ音乐会员！","icon":"https://edu-wenku.bdimg.com/v1/pc/%E6%96%87%E9%9B%86%E4%B9%B0%E8%B5%A0%E9%9D%99%E6%80%81%E5%9B%BE%E6%A0%87/qqmusic.png","recommandTip":"赠会员"},"wapWenjiPack":{"title":"买就送{{giftCount}}个月QQ音乐会员！","icon":"https://edu-wenku.bdimg.com/v1/pc/%E6%96%87%E9%9B%86%E4%B9%B0%E8%B5%A0%E9%9D%99%E6%80%81%E5%9B%BE%E6%A0%87/qqmusic-1595224358151.png","recommandTip":"赠会员"},"activityPageCopy":{"wenjiListCopy":"送%s个月QQ音乐会员"},"cashier":[{"actName":"1856_packdoc_qqmusic","icon":"https://edu-wenku.bdimg.com/v1/wap/qq%E9%9F%B3%E4%B9%90-1594957488813.png","title":"送%s个月QQ音乐会员"}],"sucPcPage":[{"actName":"1856_packdoc_qqmusic","icon":"https://edu-wenku.bdimg.com/v1/wap/qq%E9%9F%B3%E4%B9%90-1594957488813.png","title":"恭喜您获得了QQ音乐会员月卡%s张","desc":"兑换码及兑换方式同样会以短信及文库站内信形式发送给您","linkText":"去查看","link":"https://wenku.baidu.com/ndwelfare/browse/cornucopia?source=63"}],"sucWapPage":[{"actName":"1856_packdoc_qqmusic","goodsType":"64","icon":"https://edu-wenku.bdimg.com/v1/wap/qq%E9%9F%B3%E4%B9%90-1594957488813.png","title":"恭喜您获得了QQ音乐会员月卡%s张","desc":"兑换码及兑换方式同样会以短信及站内信发送给您（可在电脑端登录百度文库-个人中心-我的消息查看），请注意查收~","linkText":"去查看","link":"https://wenku.baidu.com/ndwelfare/browse/cornucopia?source=63"},{"actName":"3845_experience-card","goodsType":"3","desc":"若因网络延迟兑换码未展示，可在我的礼品页内查看","linkText":"复制并打开不挂科APP兑换","link":"bdwkst://student/operation"}]},"channelId":"","getGuideNaXpage":[{"guideNARefer":"1020999h","andriodRoute":"https://downpack.baidu.com/baiduwenku_AndroidPhone_1020999h.apk","codeImg":"https://edu-wenku.bdimg.com/v1/pc/sidebar_qr_code-1600926465061.png"}],"pcClientLandingPage":{"pcSwitch":true,"app":{"title":"百度文库 APP","back":"https://edu-wenku.bdimg.com/v1/pc/pcactivity/app-back.png","desc":"作业、做题辅导学习必备神器","tip":"月卡加赠7天","icon":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%96%87%E5%BA%93APPicon-1603434254133.png","qrcodeAndroid":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%96%87%E5%BA%93APP%20%E5%AE%89%E5%8D%93%E7%AB%AF-1602299474435.png","qrcodeIphone":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%96%87%E5%BA%93APP%20iOS%E7%AB%AF-1602299504173.png","imgList":["https://edu-wenku.bdimg.com/v1/na/0807/%E5%AE%9E%E7%94%A8%E6%96%87%E6%A1%A3-1603258168544.png","https://edu-wenku.bdimg.com/v1/na/0807/%E4%B8%93%E4%B8%9A%E8%B5%84%E6%96%99-1603258274377.png","https://edu-wenku.bdimg.com/v1/na/0807/APP%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2-1603434275434.png"]},"college":{"back":"https://edu-wenku.bdimg.com/v1/pc/pcactivity/college-back.png","title":"不挂科APP","desc":"大学生搜题查答案的学习神器","tip":"购会员享时长优惠","icon":"https://edu-wenku.bdimg.com/v1/na/0807/logo-%E5%B8%A6%E5%9C%86%E8%A7%92-1620726048986.png","qrcodeAndroid":"https://edu-wenku.bdimg.com/v1/na/0807/PC%E7%AB%AF-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD-1620726114592.png","qrcodeIphone":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%96%87%E5%BA%93%E5%A4%A7%E5%AD%A6%E7%94%9FiOS%E7%AB%AF-1602316512495.png","imgList":["https://edu-wenku.bdimg.com/v1/na/0807/%E7%9C%8B%E8%A7%A3%E6%9E%90-1603258193717.png","https://edu-wenku.bdimg.com/v1/na/0807/%E6%8B%8D%E7%85%A7-1603258296963.png","https://edu-wenku.bdimg.com/v1/na/0807/%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7-1603258390318.png"]},"mac":{"back":"https://edu-wenku.bdimg.com/v1/pc/pcactivity/pc-back.png","title":"文库Mac(Beta版)","desc":"轻松管理知识，助你高效工作、学习","tip":"最新版本V1.1.1","url":"https://edu-wenku.bdimg.com/v1/na/0807/PC%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%89%88%E6%9C%AC%E5%8C%85/%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93MAC%E7%89%88-1.1.1.dmg","imgList":["https://edu-wenku.bdimg.com/v1/na/0807/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86-1603258145504.png","https://edu-wenku.bdimg.com/v1/na/0807/%E5%85%AC%E5%BC%8F-1603258247848.png","https://edu-wenku.bdimg.com/v1/na/0807/PC-%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2-1603258335349.png"]},"win":{"back":"https://edu-wenku.bdimg.com/v1/pc/pcactivity/pc-back.png","title":"文库Windows(Beta版)","desc":"轻松管理知识，助你高效工作、学习","tip":"最新版本V1.1.2","url":"https://edu-wenku.bdimg.com/v1/pcclient/upgrade/%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%20Setup%201.1.2.exe","imgList":["https://edu-wenku.bdimg.com/v1/na/0807/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86-1603258145504.png","https://edu-wenku.bdimg.com/v1/na/0807/%E5%85%AC%E5%BC%8F-1603258247848.png","https://edu-wenku.bdimg.com/v1/na/0807/PC-%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2-1603258335349.png"]},"pcGoClientBtnSwitch":true},"woniuKeywords":{"search":{"keywords":["报告","股市|市值|招股|5G|新基建|疫情|云计算|工业互联网|直播|MCN|半导体|人工智能|医药|电商汽车|有色金属|物联网|交通运输|房地产|薪酬|营收|蓝皮书|指数|消费者|产品分析|行业|白皮书|生态|洞察"]},"view":{"keywords":["报告","股市|市值|招股|5G|新基建|疫情|云计算|工业互联网|直播|MCN|半导体|人工智能|医药|电商汽车|有色金属|物联网|交通运输|房地产|薪酬|营收|蓝皮书|指数|消费者|产品分析|行业|白皮书|生态|洞察"]}},"appBGKStartup":{"date":"20210518","startup":0},"tplName":"xreader","player":"html_xreader","reader_type":"reader_html_xreader","nodePerf":{"timeReqs":441,"timePureView":234,"timeTotal":441,"timeReqRenderData":230,"timeRenderPure":4,"sizePureHtml":21757,"sizePureStyl":3124}};
+        window.pageData = pageData;
+        var docInfo2019 = pageData.docInfo2019;
+        var vipInfo = pageData.vipInfo;
+        var readerInfo2019 = pageData.readerInfo2019;
+        var viewControl = pageData.viewControl || {};
+        var wkSmallflow = pageData.wkSmallflow || {};
+        var priceInfo = docInfo2019.price_info || {};
+        var actInfo = priceInfo.act_info || {};
+        var actPrice = actInfo.act_price || 0;
+        var isPackageDoc = priceInfo.is_package;
+        var ispaied = +priceInfo.ispaied === 1;
+        var isVip = vipInfo.global_vip_status ? 1 : 0;
+        var isPackageDoc = priceInfo.is_package && !(priceInfo.is_discount_doc && isVip);
+        var mixVipAndUserInfo = pageData.mixVipAndUserInfo || {};
+        var userInfo = mixVipAndUserInfo.userInfo || {};
+        var shopVoucherInfo = priceInfo.shopVoucherInfo || {};
+        var docInfo = docInfo2019.doc_info || {};
+        var wkCommonLogParam = {
+            ssr: pageData.ssr,
+            v2020: 1,
+            doc_id: docInfo.show_doc_id,
+            doc_title: docInfo.title,
+            is_login: userInfo.isLogin ? 1 : 0,
+            is_vip: isVip,
+            page: 'view',
+            player: pageData.player,
+            reader_type: pageData.reader_type,
+            type: docInfo2019.doc_info.type,
+            doc_type: docInfo2019.doc_info.doc_type,
+            is_vip_free_doc: +docInfo2019.doc_info.is_vip_free_doc,
+            can_read_all: +(+readerInfo2019.free_page === +readerInfo2019.page),
+            is_downloadable: docInfo2019.price_info.is_downloadable || 0,
+            secret_downloadable: docInfo2019.doc_info.is_downloadable || 0,
+            has_got: +docInfo2019.price_info.ispaied || 0,
+            is_discount_doc: +docInfo2019.price_info.is_discount_doc || 0,
+            coupon_id: shopVoucherInfo.couponId,
+            coupon_drawed: shopVoucherInfo.isDraw ? 1 : 0,
+            wkTestId: wkSmallflow.testId || '',
+            wkTestData: wkSmallflow.testDataStr || '',
+            wkWeb2024: wkSmallflow.wkWeb2024 || 0
+        };
+        switch (+docInfo.doc_type) {
+            case 1:
+                wkCommonLogParam.docTicket = priceInfo.doc_ticket;
+                break;
+            case 2:
+                wkCommonLogParam.payDocType = priceInfo.promotion_strategy_type;
+                break;
+        }
+        window.wkCommonLogParam = wkCommonLogParam;
+    </script>
+    <script type="text/javascript" src="https://edu-wenku.bdimg.com/v1/pc/browserdata/browserdata-min.js"></script>
+    <script src="https://code.bdstatic.com/npm/spy-client@2.0.3/dist/spy-client-basic.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="https://edu-wenku.bdimg.com/v1/pc/protocolcheck/protocolcheck.js" defer></script>
+    <!-- built files will be auto injected -->
+</body>
+</html><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/ndview/js/dll/vendors.00d888a90ab7f2fb878b.dll.js"></script><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/ndview/js/common/core.e538472f6ce5317f73e0.js"></script><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/ndview/js/common/common.91f359a759a0976602a9.js"></script><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/ndview/js/views/xreader.4c3c89ed8db15cadab0f.js"></script>

@@ -1,0 +1,878 @@
+<!DOCTYPE html>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="zh">
+<head>
+    
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    
+    <link rel="dns-prefetch" href="//s1.bdstatic.com"/>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="icon" sizes="any" mask href="//www.baidu.com/img/baidu.svg">
+    <script src="/lib/static/scholar/cache/global_30/js/md5.min_fcadbf5.js"></script>
+    <script>var token = 'b79cf14e6c35193cf125f400c24232bb6d60b0bdf938b63fc824a64f9e5bf6a2'</script>
+    <title>一种基于智慧灯杆的POE接口网关装置 - 百度学术</title>
+
+    
+<link rel="stylesheet" href="/lib/static/scholar/cache/paper/css/show_93729be.css">
+
+    
+<script src="/lib/static/scholar/cache/jquery/jquery-1.10.2.min_45ac1eb.js"></script>
+<script src="/lib/static/scholar/cache/global_30/js/env_4700266.js"></script>
+<script type="text/javascript">
+var plat = 'pc';
+var from = uaMatch(navigator.userAgent);
+from = from.platformid;
+// 传入 js 中的字段
+var bds = {
+    se: {},
+    util: {},
+    comm: {
+        // 是否为高级感
+        gj: '1',
+        // bs token
+        bsToken: 'the fisrt two args should be string type:0,1!',
+        // 用户名
+        user: '',
+        username: '',
+        // 用户id
+        uid: '',
+        // 登录之后的行为数组
+        loginAction: [],
+        // host
+        host: window.location.host,
+        // 埋点
+        qid:'4196221728',
+        // ppv domain
+        ppvDomain: 'http://a.xueshu.baidu.com',
+        // 标识是学术的哪个模块
+        tn: 'ae_xueshu_paper',
+        // 标识是学术的哪个页面
+        fr: 'detailpage',
+        // 同一个页面的不同模式，用于图书馆
+        mod: '',
+        // 如果是论文详情，或者期刊详情，需要传
+        wd: 'paperid:(1k790as03w5m0gb05y3r0g00ve083211)',
+        // 结果页搜索url参数，统一为 &tn=SE_baiduxueshu_c1gjeupa&ie=utf-8
+        scUrlComponent: '&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8'
+    }
+};
+
+// 百度统计JS-API部署(http://tongji.baidu.com/open/api/more?p=guide_overview)
+// 方便进行定制化的百度统计开发
+var _hmt = _hmt || [];
+
+/**
+ * 增加xueshu nsclick统计
+ *
+ * @param {Object} q 字段集合
+ * @return {Boolean} 当发送成功时返回true
+ */
+function ns_c_xs(q){
+    var img = window['BD_PS_C' + (new Date()).getTime()] = new Image();
+    var wd = encodeURIComponent('paperid:(' + bds.comm.paperid + ')');
+    // uda打点新增固定参数
+    // 产品id
+    q['bid'] = 1;
+    // 终端渠道标识
+    q['from'] = from;
+    // 平台
+    q['plat'] = plat;
+    // sQ
+    var sQ = '';
+    var sV = '';
+    for (v in q) {
+        switch (v) {
+            case 'title':
+                sV = encodeURIComponent(q[v].replace(/<[^<>]+>/g, ''));
+                break;
+            case 'url':
+                sV = encodeURIComponent(q[v]);
+                break;
+            default:
+                sV = q[v]
+        }
+        sQ += v + '=' + sV + '&';
+    }
+        
+    img.src = ''
+        + 'http://nsclick.baidu.com/v.gif'
+        // 产品线id，固定值201
+        + '?pid=201'
+        // 产品线标识，固定值mp_xueshu
+        + '&pj=mp_xueshu'
+        // 服务器产生的logID
+        + '&qid=' + bds.comm.qid
+        // 当前时间戳
+        + "&t=" + new Date().getTime()
+        // 当前地址的url
+        + "&path=" + encodeURIComponent(window.document.location.href)
+        + "&refer=" + encodeURIComponent(window.document.referrer)
+        // 频道标识
+        + "&tn=" + bds.comm.tn
+        // 具体论文/期刊，如果是论文: paperuri:(paperid), 如果是期刊: journaluri(journalid)
+        + '&wd=' + bds.comm.wd
+        // 统计来自哪个页面
+        + '&fr=' + bds.comm.fr
+        // 同一个页面的不同模式，可标识图书馆，lib_图书馆名称
+        + '&mod=' + bds.comm.mod
+        // 自定义字段内容
+        // rsv_xpath: 交互的具体dom
+        // title: 标题
+        // url: 所点击的链接的url
+        // act_block: 模块作用
+        // fm: 日志标识
+        // - se：检索日志(详情页loading)
+        // - as：点击日志(跳转到结果页，详情页，原地址，收藏引用等按钮)
+        // - beha：交互日志(不跳转的切换，求助全文中的按钮)
+        // - show：展现日志(新增)
+        // longsign: paperid
+        + "&ua=" + navigator.userAgent
+        + "&" + sQ;
+        // 当前页数，暂不提供
+        // + '&pn=' + bds.comm.pn
+        // 暂不提供
+        // + "&oq=" + bds.comm.oq
+        // 暂不提供
+        // + "&rsp=" + bds.comm.rsp
+        // sid，后端暂未提供
+        // + '&rsv_sid=' + bds.comm.sid
+        // 暂不提供
+        // + "f=" + bds.comm.f
+    return true;
+}
+</script>
+<script type="text/javascript">
+
+	var list = {
+        "graph.baidu.com": "http://graph.baidu.com",
+		"p.qiao.baidu.com":"http://p.qiao.baidu.com",
+		"vse.baidu.com":"http://vse.baidu.com",
+		"hdpreload.baidu.com":"http://hdpreload.baidu.com",
+		"lcr.open.baidu.com":"http://lcr.open.baidu.com",
+		"kankan.baidu.com":"http://kankan.baidu.com",
+		"xapp.baidu.com":"http://xapp.baidu.com",
+		"dr.dh.baidu.com":"http://dr.dh.baidu.com",
+		"xiaodu.baidu.com":"http://xiaodu.baidu.com",
+		"sensearch.baidu.com":"http://sensearch.baidu.com",
+		"s1.bdstatic.com":"http://s1.bdstatic.com",
+		"olime.baidu.com":"http://olime.baidu.com",
+		"app.baidu.com":"http://app.baidu.com",
+		"i.baidu.com":"http://i.baidu.com",
+		"c.baidu.com":"http://c.baidu.com",
+		"sclick.baidu.com":"http://sclick.baidu.com",
+		"nsclick.baidu.com":"http://nsclick.baidu.com",
+		"sestat.baidu.com":"http://sestat.baidu.com",
+		"eclick.baidu.com":"http://eclick.baidu.com",
+		"api.map.baidu.com":"http://api.map.baidu.com",
+		"ecma.bdimg.com":"http://ecma.bdimg.com",
+		"ecmb.bdimg.com":"http://ecmb.bdimg.com",
+        "t1.baidu.com":"http://t1.baidu.com",
+        "t2.baidu.com":"http://t2.baidu.com",
+        "t3.baidu.com":"http://t3.baidu.com",
+		"t10.baidu.com":"http://t10.baidu.com",
+		"t11.baidu.com":"http://t11.baidu.com",
+		"t12.baidu.com":"http://t12.baidu.com",
+		"i7.baidu.com":"http://i7.baidu.com",
+		"i8.baidu.com":"http://i8.baidu.com",
+		"i9.baidu.com":"http://i9.baidu.com",
+		"b1.bdstatic.com":"http://b1.bdstatic.com",
+		"ss.bdimg.com":"http://ss.bdimg.com",
+		"opendata.baidu.com":"http://opendata.baidu.com",
+		"api.open.baidu.com":"http://api.open.baidu.com",
+		"tag.baidu.com":"http://tag.baidu.com",
+		"f3.baidu.com":"http://f3.baidu.com",
+		"s.share.baidu.com":"http://s.share.baidu.com",
+		"bdimg.share.baidu.com":"http://bdimg.share.baidu.com",
+        "1.su.bdimg.com":"http://1.su.bdimg.com",
+        "2.su.bdimg.com":"http://2.su.bdimg.com",
+        "3.su.bdimg.com":"http://3.su.bdimg.com",
+        "4.su.bdimg.com":"http://4.su.bdimg.com",
+        "5.su.bdimg.com":"http://5.su.bdimg.com",
+        "6.su.bdimg.com":"http://6.su.bdimg.com",
+        "7.su.bdimg.com":"http://7.su.bdimg.com",
+        "8.su.bdimg.com":"http://8.su.bdimg.com",
+        "hiphotos.baidu.com":"http://hiphotos.baidu.com",
+        "xueshu.baidu.com":"http://xueshu.baidu.com",
+        "baidu.bigan.net":"http://baidu.bigan.net",
+		"a.xueshu.baidu.com":"http://a.xueshu.baidu.com",
+		"ps-scholar-static.bj.bcebos.com":"http://ps-scholar-static.bj.bcebos.com",
+		"newclient.map.baidu.com":"http://newclient.map.baidu.com",
+		"bj.bcebos.com":"http://bj.bcebos.com"
+	};
+//https域名转换工具
+bds.util = bds.util || {};
+bds.util.domain = (function(){
+
+
+var get = function(url) {
+	    // 避免线下测试因数据不全产生异常
+	    if (url == null || url.indexOf('http') === -1) {
+			return url;
+		}
+		if(location.protocol === "http") {
+			return url;
+		}
+
+		var reg = /^(http[s]?:\/\/)?([^\/]+)(.*)/,
+			reg2 = /^(http[s]?:\/\/)?(s1.bdstatic.com\/r\/www\/cache\/mid\/static)(.*)/,
+		matches = url.match(reg),
+		//s1.bdstatic.com静态域名特殊处理
+		matches2 = url.match(reg2);
+		if(matches2){
+			url = "https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/mid/static/protocol/https"+ matches2[3];
+			return url;
+		}else{
+			//判断传入参数是域名还是地址，分别做处理
+			url = list.hasOwnProperty(matches[2])&&(list[matches[2]] + matches[3]) || url;
+			return url;
+		}
+	},
+	set = function(kdomain,vdomain) {
+		list[kdomain] = vdomain;
+	};
+	return {
+		get : get,
+		set : set
+	}
+})();
+</script>
+<script>
+$.extend(bds.comm, {
+    // 是否为学术图书馆
+    lib: '',
+    // 简搜扫码模式
+    jiansou: '0',
+    // 引用走势
+    citedYear: '[{"cited":0,"year":"","total":0}]',
+    paperid: '1k790as03w5m0gb05y3r0g00ve083211',
+    orgTitleUrl: 'https://wenku.baidu.com/view/7c2bcf99a65177232f60ddccda38376baf1fe0a0',
+    // 来源信息
+    typeDescId: '',
+    typeDescName: '',
+    // 论文年份
+    publishedYear: '2020',
+    // 和结果页顶部hint阿拉丁有关
+    isTransShow: 0,
+    // 论文类型
+    paperType: '5',
+    // 是否图书馆已购
+    isPurchase: '0',
+    // 是否图书馆馆藏
+    isCollection: '0',
+    // 期刊issn
+    journal_issn: '',
+    // 是否支持ppv
+    isSupportPpv: false});
+</script>
+
+    
+        <script type="text/javascript">
+bds = bds || {};
+bds.cf = {};
+bds.cf.ts = "1630239749";
+bds.cf.token = "b79cf14e6c35193cf125f400c24232bb6d60b0bdf938b63fc824a64f9e5bf6a2";
+bds.cf.sign = "7a2fa5e1ac2b912a61feaec76deaf295";
+
+function getCfStr() {
+    var ts = parseInt(new Date / 1000, 10);
+    return "&_ts=" + ts
+        + "&_token=" + bds.cf.token 
+        + "&_sign=" + md5(ts +  bds.cf.token + '3b6e2e87fcce6eea8337eeac83b478f5');
+}
+
+function getCfObj() {
+    var ts = parseInt(new Date / 1000, 10);
+    return {
+            '_ts' : ts,
+            '_token' : bds.cf.token,
+            '_sign' : md5(ts +  bds.cf.token + '3b6e2e87fcce6eea8337eeac83b478f5')
+        }
+}
+</script>
+    
+</head>
+
+<body class="">
+    
+    <div id="wrapper">
+    
+        
+
+                                                                                
+
+<div id="head_wr" class="gj "><div id="head" class="LOG_WR gj " data-log="{'actblock': 'head'}"><div class="headCont "><div id="u" class="gj "><span id="setting"><a class="settingicon" href="javascript:;"><i style="font-size:18px;" class="iconfont  head-icon-set-gray">&#xe61b;</i></a><div class="menuarrow"><i class="head-icon head-icon-menu-triangle"></i></div><div id="setMenu" class="menuDropList"><div><a href="javascript:;" class="feedback">意见反馈</a></div></div></span><a id="lb" href="https://passport.baidu.com/v2/?login&tpl=xueshu&u=http%3A%2F%2Fxueshu.baidu.com%2F">登录</a><a href="https://passport.baidu.com/v2/?reg&regType=1&tpl=xueshu&u=http%3A%2F%2Fxueshu.baidu.com%2F" target="_blank" class="reg">注册</a></div>
+
+                            <a href="/" class="s_logo">
+                    <div class="s_logo_img" alt="到学术首页" title="到学术首页"></div>
+                </a>
+            
+            <div class="s_form_wr">
+                <form class="fm" id="form" action="//xueshu.baidu.com/s">
+                    <div class="s_ipt_wr">
+                        <input name="wd" autocomplete="off" id="kw" value="" maxlength="256">
+                    </div>
+
+                                        <div class="sc_adv_search_btn">
+                        <input type="submit" value="百度一下">
+                    </div>
+                    
+                    <input type="hidden" name="ie" value="utf-8">
+<input type="hidden" name="tn" value="SE_baiduxueshu_c1gjeupa">
+<input type="hidden" name="sc_from" value=""/>
+<input type="hidden" name="sc_as_para" value="sc_lib:"/>
+
+
+                                    </form>
+
+<div class="sc_adv_triangle_down gj">
+            <span class="sc_adv_btn">高级搜索</span>
+    </div>
+
+<div id="sc_adv">
+<form action="//xueshu.baidu.com/s" id="sc_adv_frm">
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">包含全部检索词</span>
+        <span><input type="text" placeholder="" data-type="all" data-name="" class="sc_adv_keyword_ipt sc-input sc_adv_keyword1" maxlength="100" value=""></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">包含精确检索词</span>
+        <span><input type="text" placeholder="多个检索词以逗号，分隔" data-type="precise" data-name="" class="sc_adv_keyword_ipt sc-input sc_adv_keyword2" maxlength="100" value=""></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">包含至少一个检索词</span>
+        <span><input type="text" placeholder="多个检索词以逗号，分隔" data-type="or" data-name="" class="sc_adv_keyword_ipt sc-input" maxlength="100" value=""></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">不包含检索词</span>
+        <span><input type="text" placeholder="多个检索词以逗号，分隔" data-type="not" data-name="" class="sc_adv_keyword_ipt sc-input" maxlength="100" value=""></span>
+    </div>
+    <div class="sc_adv_hatr" style="margin-bottom:23px;">
+        <span class="sc_adv_label">出现检索词的位置</span>
+        <span class="sc_adv_keyword_pos">
+            <div class="sc_adv_dropdown_btn">
+                <span class="sc_adv_dropdown_text">
+                                    <a href="javascript:;"  data-name="">文章任何位置</a>
+                                </span>
+                <i class="sc_adv-icon c-icon-arrow-down-gray"></i>
+                <div class="sc_adv_dropdown_group sc_adv_dropdown_group1 sc_adv_dropgroup_title" data-index="1">
+                                    <a href="javascript:;"  data-name="intitle">位于文章标题</a>
+                                </div>
+            </div>
+        </span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">作者</span>
+        <span><input type="text" placeholder="请输入作者名字" data-name="author" class="sc_adv_txin sc-input sc_adv_author" maxlength="50" value=""></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">机构</span>
+        <span><input type="text" placeholder="请输入机构名称" data-name="affs" class="sc_adv_txin sc-input sc_adv_affs" maxlength="50" value=""></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">出版物</span>
+        <span class="sc_adv_jour_conf">
+            <span class="sc_adv_dropdown_btn">
+                <span class="sc_adv_dropdown_text">
+                                        <a href="javascript:;"  data-name="journal" data-holder="请输入期刊名称">期刊</a>
+                                    </span>
+                <i class="sc_adv-icon c-icon-arrow-down-gray"></i>
+                <div class="sc_adv_dropdown_group sc_adv_dropgroup_pub" data-index="2">
+                                        <a href="javascript:;" data-name="conference" data-holder="请输入会议名称">会议</a>
+                                    </div>
+            </span>
+            <input type="text" placeholder="请输入期刊名称" data-name="journal" class="sc-input sc_adv_txin sc_adv_pubipt" maxlength="100" value="">
+        </span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">发表时间</span>
+        <span class="sc_adv_year">
+        <input type="text" data-nolog="1" pattern="[0-9]*" size="4" placeholder="年" maxlength="4" name="" class="sc-input sc-input-xmini sc_adv_input_ylo" value="">&nbsp;-&nbsp;<input type="text" data-nolog="1" pattern="[0-9]*" size="4" placeholder="年" maxlength="4" name="" class="sc-input sc-input-xmini sc_adv_input_yhi" value="">
+        </span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">语言检索范围</span>
+                    <span class="sc_adv_dropdown_btn">
+                <span class="sc_adv_dropdown_text sc_adv_lang_sel">
+                    <a href="javascript:;" data-id="0">不限</a>
+                </span>
+                <i class="sc_adv-icon c-icon-arrow-down-gray"></i>
+                <div class="sc_adv_dropdown_group sc_adv_dropgroup_lang">
+                                        <a href="javascript:;" data-id="0" class="sc_adv_lang_hide">不限</a>
+                                        <a href="javascript:;" data-id="1">英文</a>
+                                        <a href="javascript:;" data-id="2">中文</a>
+                                    </div>
+            </span>
+            </div>
+    <span class="sc_adv_wd_hidden"></span>
+    <input type="hidden" name="ie" value="utf-8">
+    <input type="hidden" name="bcp" value="2">
+    <input type="hidden" name="tn" value="SE_baiduxueshu_c1gjeupa">
+    <input type="hidden" name="sc_f_para" value="sc_tasktype={firstAdvancedSearch}">
+    <input type="hidden" name="sc_from" value=""/>
+    <input type="hidden" name="sc_as_para" value="sc_lib:"/>
+
+    <span class="sc_adv_sub s_btn_wr"><input type="submit" value="搜索" class="sc_adv_sub_btn s_btn"></span>
+</form>
+</div>
+
+                                            </div>
+        </div>
+    </div>
+</div>
+
+
+        
+
+        <div id="container">
+            
+                
+<div id="left_menu_content" class="LOG_WR gj" data-log="{'actblock':'menu'}">
+    <div class="left_menu_logo">
+        <a href="/">
+        <div class="sologan onlyOn"></div>
+        <i class="iconfont onlyOff logosim">&#xe607;</i>
+        </a>
+    </div>
+    <div class="main_menu_wr">
+        <div class="sch_main_menu">
+            <div class="menu_listitem">
+                <a href="/" class="active"  data-log="{'type':'xueshu_sch'}" target="_blank">
+                    <i class="iconfont i-wx"></i><span>文献</span>
+                </a>
+            </div>
+            <div class="menu_listitem">
+                <a href="/usercenter/journal/navigation?language=1" class="" data-log="{'type':'journal'}">
+                <i class="iconfont i-qk"></i><span>期刊</span>
+                </a>
+            </div>
+            <div class="menu_listitem dotPromote">
+                <a href="/usercenter/data/authorchannel?cmd=frontpage" data-log="{'type':'authorchannel'}" class="">
+                <i class="iconfont i-xz"></i><span>学者</span>
+                </a>
+            </div>
+            <div class="splite-line"></div>
+            <div class="menu_listitem">
+                <a href="/usercenter/" data-log="{'type':'mymessage'}" class="need-login ">
+                    <i class="iconfont i-dy"></i><span>订阅</span><i id="msimsg"></i>
+                </a>
+            </div>
+
+            <div class="menu_listitem">
+                <a href="/usercenter/?tab=collect" data-log="{'type':'mycollect'}" class="need-login ">
+                    <i class="iconfont i-sc"></i><span>收藏</span>
+                </a>
+            </div>
+            <div class="menu_listitem dotPapaecheck">
+                <a href="/usercenter/papercheck/index" data-log="{'type':'papercheck'}" class="paperCheck ">
+                    <i class="iconfont i-lwck"></i><span>论文查重</span>
+                    <em class="dot_tag">优惠</em>
+                    <i class="iconfont redDot">&#xe62e;</i>
+                </a>
+            </div>
+            <div class="menu_listitem stanardPapaecheck">
+                <a href="/usercenter/papercheck/index" data-log="{'type':'papercheck'}" class="paperCheck ">
+                    <i class="iconfont i-lwck"></i><span>论文查重</span>
+                </a>
+            </div>
+            <div class="menu_listitem">
+                <a href="/u/biye/?tag=paper" class="" data-log="{'type':'ktfx'}">
+                    <i class="iconfont i-ktfx"></i><span>开题分析</span>
+                </a>
+            </div>
+            <div class="menu_listitem">
+                <a href="/u/ppv" data-log="{'type':'ppv'}" class="">
+                    <i class="iconfont i-dpgm"></i><span>单篇购买</span>
+                </a>
+            </div>
+            <div class="menu_listitem">
+                <a href="/u/paperhelp" data-log="{'type':'paperhelp'}" class="">
+                    <i class="iconfont i-wxhz"></i><span>文献互助</span>
+                </a>
+            </div>
+            <div class="splite-line"></div>
+            <div class="menu_listitem">
+                <a href="/u/user" class="need-login " data-log="{'type':'user'}">
+                    <i class="iconfont i-yhzx"></i><span>用户中心</span><i id="ucimsg"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function() {
+        $('.sch_main_menu a').on('click', function(event) {
+            var btn_tp = $(this).attr('data-log');
+            if (!btn_tp) {
+                return;
+            }
+            btn_tp = btn_tp.replace(/'/g, '"');
+            btn_tp = JSON.parse(btn_tp);
+            ns_c_xs({
+                'fm' : 'as',
+                'act_block': 'left_nav',
+                'button_tp' : btn_tp.type
+            });
+        });
+    });
+</script>
+
+
+                <div id="right_content" class="content_wr">
+                
+                    <div class="right_content_main">
+                    
+<div id="dtl_main" class="xpath-log" data-click="{'fm':'as','longsign':'1k790as03w5m0gb05y3r0g00ve083211'}">
+    <div id="dtl_l">
+        
+
+
+
+<div class="main-info">
+<h3>
+        <a href="https://wenku.baidu.com/view/7c2bcf99a65177232f60ddccda38376baf1fe0a0" target="_blank"
+                    data-click="{'act_block':'main','button_tp':'title'}"
+        >
+        一种基于智慧灯杆的POE接口网关装置
+    </a>
+        </h3>
+<div class="c_content" data-click="{'act_block': 'main'}">
+    <div class="love_wr">
+                <div class="label-ll">
+            <span>来自</span>
+            <a href="https://wenku.baidu.com/view/7c2bcf99a65177232f60ddccda38376baf1fe0a0" target="_blank"
+                                    data-click="{'button_tp':'from_nm'}"
+                >
+                百度文库
+            </a>
+            <span class="love_wr_distr"></span>
+        </div>
+                <div class="label-l">
+            <a href="javascript:;" class="love-wr-link" data-click="{'button_tp': 'like', 'fm': 'beha'}">
+                <i class="iconfont love-wr-icon">&#xe60e;</i>
+                <span class="like-amount-txt">喜欢</span>
+                <span class="like-amount-num">0</span>
+            </a>
+        </div>
+        <div class="label-r">
+            <p class="">阅读量：</p>
+            <p>10</p>
+        </div>
+    </div>
+            <!-- 专利论文 -->
+
+<div class="common_wr">
+    <p class="label_l">专利类型：</p>
+    <p class="kw_main_l" data-click="{'button_tp':'patent_type'}">
+        实用新型
+            </p>
+</div>
+
+<div class="common_wr">
+    <p class="label_l">申请(专利)号：</p>
+    <p class="kw_main_l" data-click="{'button_tp':'appid'}">
+        CN201921357160.6
+    </p>
+</div>
+
+<div class="common_wr">
+    <p class="label_l">申请日期：</p>
+    <p class="kw_main_l" data-click="{'button_tp':'apptime'}">
+        20190820
+    </p>
+</div>
+
+<div class="common_wr">
+    <p class="label_l">公开/公告号：</p>
+    <p class="kw_main_l" data-click="{'button_tp':'pubid'}">
+        CN210015357U    </p>
+</div>
+
+<div class="common_wr">
+    <p class="label_l">公开/公告日期：</p>
+    <p class="kw_main_l" data-click="{'button_tp':'paper_published_time'}">
+        20200204
+    </p>
+</div>
+
+<div class="common_wr">
+    <p class="label_l">申请(专利权)人：</p>
+    <p class="kw_main_l">
+                <span>瑞金市得明光电科技有限公司</span>
+            </p>
+</div>
+
+<div class="author_wr" data-shorth="">
+    <p class="label_l">发明人：</p>
+    <p class="kw_main_l">
+                <span><a href="//xueshu.baidu.com/s?wd=author%3A%28%E6%9C%B1%E6%98%A5%E5%BC%BA%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" class="" data-click="{'button_tp':'author'}">朱春强</a></span>，<span><a href="//xueshu.baidu.com/s?wd=author%3A%28%E5%8D%A2%E7%90%A6%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" class="" data-click="{'button_tp':'author'}">卢琦</a></span>，<span><a href="//xueshu.baidu.com/s?wd=author%3A%28%E5%BC%A0%E7%BB%9F%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" class="" data-click="{'button_tp':'author'}">张统</a></span>，<span><a href="//xueshu.baidu.com/s?wd=author%3A%28%E9%BE%9A%E4%BC%8A%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" class="" data-click="{'button_tp':'author'}">龚伊</a></span>
+    </p>
+    <p class="author_more OP_LOG_BTN" data-open="1" data-click="{'button_tp':'author_more','fm':'beha'}"><span>展开</span><i class="iconfont">&#xe634;</i></p>
+</div>
+
+<div class="common_wr">
+    <p class="label_l">国省代号：</p>
+    <p class="kw_main_l" data-click="{'button_tp':'area_id'}">
+        CN360781
+    </p>
+</div>
+
+
+
+<div class="abstract_wr" data-shorth="">
+    <p class="label_l">摘要：</p>
+    <p class="abstract kw_main_l" data-sign="">本实用新型公开了属于电子技术领域的一种基于智慧灯杆的POE接口网关装置,包括电源供电电路,电源供电电路分别于中央处理控制电路以及若干个POE支路电路连接,中央处理控制电路还与若干个POE支路电路连接,中央处理MCU芯片U4通过FSMC接口分别与外扩SRAM芯片U5和外扩FLASH芯片U6连接,中央处理MCU芯片U4还通过SPI接口与实时时钟芯片U7连接.本实用新型的中央处理电路扩展大容量SRAM及FLASH和实时时钟能有效保证网关本地复杂事件处理能力,能够满足后期升级及功能扩展资源;本实用新型的POE接口采用可扩展支路电路架构,最大程度满足系统对不同应用的需求来设定不同的扩展支路数量,本装置中POE可扩展支路达20路可实现80个POE端口的有效扩展.</p>
+    <p class="abstract_more OP_LOG_BTN" data-open="1" data-click="{'button_tp':'abstract_more','fm':'beha'}"><span>展开</span><i class="iconfont">&#xe634;</i></p>
+</div>
+
+    </div>
+<div class="dtl_subinfo" data-click="{'act_block': 'main'}">
+    <div class="subinfo_tool">
+        <a class="paper_collect" href="#" target="_blank" data-url="" data-click="{'button_tp':'collect'}" data-paperid=1k790as03w5m0gb05y3r0g00ve083211 data-urlmd="38ed9856daffe271fbf867d4df71f9ac">
+            <i class="iconfont icon-heart">&#xe638;</i>
+            <span>收藏</span>
+        </a>
+                <a class="paper_q" href="javascript:;" data-link="" data-sign="" data-click="{'button_tp':'cite'}">
+            <i id="cite_source" style="display: none;" allversion="[{&quot;paperid&quot;:&quot;1k790as03w5m0gb05y3r0g00ve083211&quot;,&quot;anchor&quot;:&quot;\u767e\u5ea6\u6587\u5e93&quot;,&quot;url&quot;:&quot;https:\/\/wenku.baidu.com\/view\/7c2bcf99a65177232f60ddccda38376baf1fe0a0&quot;,&quot;partner&quot;:&quot;&quot;,&quot;score&quot;:10,&quot;create_time&quot;:&quot;2021-08-26 09:07:46&quot;,&quot;update_time&quot;:&quot;2021-08-26 09:07:46&quot;,&quot;open_in_iframe&quot;:false,&quot;anchor_icon&quot;:&quot;https:\/\/bj.bcebos.com\/ps-scholar\/xueshu\/1582281977\/71201\/55a36816cddf6a3382d8c9c66d922b48.jpg&quot;,&quot;anchor_desc&quot;:&quot;&quot;,&quot;domain&quot;:&quot;wenku.baidu.com&quot;,&quot;sort_type&quot;:1},{&quot;paperid&quot;:&quot;1k790as03w5m0gb05y3r0g00ve083211&quot;,&quot;anchor&quot;:&quot;\u638c\u6865\u79d1\u7814&quot;,&quot;url&quot;:&quot;https:\/\/www.zhangqiaokeyan.com\/patent-detail\/06120210014852.html&quot;,&quot;partner&quot;:&quot;64&quot;,&quot;score&quot;:7,&quot;create_time&quot;:&quot;2020-11-26 16:15:43&quot;,&quot;update_time&quot;:&quot;2020-11-26 16:15:43&quot;,&quot;open_in_iframe&quot;:false,&quot;anchor_icon&quot;:&quot;https:\/\/bj.bcebos.com\/v1\/ps-scholar-amis\/archived\/2020-1\/1578562692820\/zqkj.png&quot;,&quot;anchor_desc&quot;:&quot;&quot;,&quot;domain&quot;:&quot;www.zhangqiaokeyan.com&quot;,&quot;sort_type&quot;:2}]"></i>
+            <i class="iconfont icon-cite">&#xe612;</i>
+            <span>引用</span>
+        </a>
+
+        <a target="_blank" class="sc_batch" href="javascript:;" data-click="{'button_tp':'batch'}" urlmd="38ed9856daffe271fbf867d4df71f9ac"><i class="iconfont icon-piliang">&#xe631;</i><span>批量引用</span></a>
+                <a href="javascript:;" class="feedback" onmousedown="return ns_c_xs({'fm':'behs','tab':'tj_feedback'})"><i class="iconfont icon-piliang">&#xe637;</i>报错</a>
+        <a class="paper_share" href="javascript:;" data-link="" data-sign="" data-click="{'button_tp':'share'}">
+            <i class="iconfont icon-paper-share">&#xe61e;</i>
+            <span>分享</span>
+            <div class="sc_share_box_content" style="display: none;">
+                <div class="sc_share_box"></div>
+            </div>
+        </a>
+    </div>
+</div>
+</div>
+        <div class="paper_src_wr">
+                                                                                                    
+                                                            
+                    
+    
+    <div class="paper_src_tab OP_LOG_BTN" data-click="{'fm':'beha','button_tp':'tab'}">
+                <a href="javascript:;" class="src_tabitem paper-source-tar tab_cur" 
+            data-target="allversion_wr"
+            data-click="{'act_block':'paper_source'}">
+            全部来源        </a>
+                    <a href="javascript:;" class="src_tabitem paperhelp-tar" data-target="help_r" data-click="{'act_block':'paperhelp'}">求助全文</a>
+                </div>
+
+    <div class="paper_src_content">
+    <div id="authority_wr" class="src_container" data-click="{'act_block':'paper_authority'}" >
+    <div class="authority_content">
+                <input type="hidden" id="log-all-office-init-value" value="">
+    </div>
+</div>
+
+<div id="allversion_wr" class="src_container" data-click="{'act_block':'paper_source'}" style="display:block">
+    <div class="allversion_content">
+                                                <span class="dl_item_span ">
+                <a class="dl_item " target="_blank" href="https://wenku.baidu.com/view/7c2bcf99a65177232f60ddccda38376baf1fe0a0?fr=xueshu" data-url="https://wenku.baidu.com/view/7c2bcf99a65177232f60ddccda38376baf1fe0a0?fr=xueshu" data-embed="0"  data-isclick="2"
+                            data-click="{'button_tp':'down_link','libbuy':'0', 'pub_name':'wenku.baidu.com'}"
+            >
+
+                        <span class="dl_icon"><img src="https://bj.bcebos.com/ps-scholar/xueshu/1582281977/71201/55a36816cddf6a3382d8c9c66d922b48.jpg" width="16" height="16"></span>
+            
+                            <span class="dl_source" title="百度文库">百度文库</span>
+                    </a>
+
+            
+                    </span>
+                                                        <span class="dl_item_span ">
+                <a class="dl_item " target="_blank" href="https://www.zhangqiaokeyan.com/patent-detail/06120210014852.html" data-url="https://www.zhangqiaokeyan.com/patent-detail/06120210014852.html" data-embed="0"  data-isclick="2"
+                            data-click="{'button_tp':'down_link','libbuy':'0','ch':3,'act_id':'100001','partner_id':'64','pub_name':'www.zhangqiaokeyan.com'}"
+            >
+
+                        <span class="dl_icon"><img src="https://bj.bcebos.com/v1/ps-scholar-amis/archived/2020-1/1578562692820/zqkj.png" width="16" height="16"></span>
+            
+                            <span class="dl_source" title="掌桥科研">掌桥科研</span>
+                    </a>
+
+            
+                    </span>
+                <input type="hidden" id="log-all-sources-init-value" value="wenku.baidu.com|www.zhangqiaokeyan.com">
+            </div>
+</div>
+
+<i class="reqdata" style="display:none;" urlmd="38ed9856daffe271fbf867d4df71f9ac" url="https://wenku.baidu.com/view/7c2bcf99a65177232f60ddccda38376baf1fe0a0" longsign="1k790as03w5m0gb05y3r0g00ve083211" diversion=""></i>
+
+    
+
+    <div id="help_r" class="src_container" data-click="{'act_block':'paperhelp'}" >
+	<div class="help_content">
+		<p>通过<a href="//xueshu.baidu.com/u/paperhelp" target="_blank" data-click="{'button_tp':'help_link','fm':'beha'}">文献互助</a>平台发起求助，成功后即可免费获取论文全文。</p>
+		<p>您可以选择<strong>微信</strong>扫码或<strong>财富值</strong>支付求助。</p>
+	</div>
+	<a href="javascript:;" target="_blank" class="sc_paperhelp gethelp" data-click="{'button_tp':'help_btn','fm':'beha'}" data-longsign="1k790as03w5m0gb05y3r0g00ve083211" data-title="一种基于智慧灯杆的POE接口网关装置" data-author="" >
+        <span class="paperhelp_text">我要求助</span>
+    </a>
+</div>
+
+        <div id="purchase_wr" class="src_container" data-click="{'act_block':'purchased'}">
+	<div class="purchase_content">
+		<p>我们已与文献出版商建立了直接购买合作。</p>
+		<p class="info1">你可以通过身份认证进行实名认证，认证成功后本次下载的费用将由您所在的图书馆支付</p>
+		<p class="info2">您可以直接购买此文献，1~5分钟即可下载全文，部分资源由于网络原因可能需要更长时间，请您耐心等待哦~</p>
+
+	</div>
+	<a href="javascript:;" target="_blank" class="sc_bind getbind" data-click="{'button_tp':'bind_btn','fm':'beha'}" data-longsign="1k790as03w5m0gb05y3r0g00ve083211" data-title="一种基于智慧灯杆的POE接口网关装置" data-author="">
+        <span>身份认证</span>
+    </a>
+    <a href="javascript:;" target="_blank" class="sc_download getdownload" data-click="{'button_tp':'download_btn','fm':'beha'}" data-longsign="1k790as03w5m0gb05y3r0g00ve083211" data-title="一种基于智慧灯杆的POE接口网关装置" data-author="">
+        <span>付费下载</span>
+	</a>
+	</div>
+        </div>
+</div>
+<div class="list-tab-site"></div>
+<div class="list-tab-out">
+    <div class="list_tab OP_LOG_BTN" data-click="{'fm':'beha','button_tp':'top_tab'}">
+        <p class="list_tab_item rel_tab select" type="related" data-click="{'act_block':'related_recm'}">相似文献</p>
+        <p class="list_tab_item ref_tab" type="reference" data-click="{'act_block':'reference_recm'}">参考文献</p>
+        <p class="list_tab_item cit_tab" type="citation" data-click="{'act_block':'citation_recm'}">引证文献</p>
+        <span class="more-tab-bor"></span>         
+    </div>
+</div>
+
+<div class="relative_content">
+    <div class="con_related" data-click="{'act_block':'related_recm'}" style="display:none;"></div>
+    <div class="con_reference" data-click="{'act_block':'reference_recm'}" style="display:none;"></div>
+    <div class="con_citation" data-click="{'act_block':'citation_recm'}" style="display:none;"></div>
+</div>
+
+<i class="reqdata" style="display:none;" urlmd="38ed9856daffe271fbf867d4df71f9ac" url="https://wenku.baidu.com/view/7c2bcf99a65177232f60ddccda38376baf1fe0a0" longsign="1k790as03w5m0gb05y3r0g00ve083211" diversion=""></i>
+
+
+    </div>
+    <div id="dtl_r">
+                                <div class="dtl_r_item" style="display: none;">
+    <div class="dtl_banner">
+        <h3>站内活动</h3>
+        <div class="banner_list xpath-log"></div>
+    </div>
+</div>
+
+
+
+
+    </div>
+</div>
+<div class="batch-container">
+	<div id="citeBlock"></div>
+    <div class="batch-btn-wr">
+        <!-- 线下ubs调研，为后续保留
+			<div class="batch-btn btn-dy">有奖调研
+			<a href="https://iwenjuan.baidu.com/?code=d7ru1g">
+				<img src="https://bj.bcebos.com/v1/ps-scholar-amis-standard/2020-11/1605800371695/130.png" />
+			</a>
+        </div> -->
+		<div class="batch-btn btn-collect">
+			<i class="gj-icon-batch-add"></i><span>0</span>
+			<p>引用</p>
+		</div>
+		<div class="batch-btn btn-up">
+			<i class="gj-icon-uniE604"></i>
+		</div>
+        <div class="batch-btn-tip">
+            <p>文献可以<span>批量引用</span>啦~<br>欢迎点我试用！<p>
+        </div>
+    </div>
+</div>
+
+                    </div>
+                
+                </div>
+                
+                
+                
+<div class="pagefoot gj" style="display:none;"><div class="footcon"><span class="lawinfo"><h4>关于我们</h4><p>百度学术集成海量学术资源，融合人工智能、深度学习、大数据分析等技术，为科研工作者提供全面快捷的学术服务。在这里我们保持学习的态度，不忘初心，砥砺前行。<br><a href="/usercenter/show/baiducas?cmd=page" target="_blank" style="color: #38f;">了解更多>></a></p></span><span class="yqLink"><h4>友情链接</h4><div class="innerCont"><a href="https://cloud.baidu.com/" target="_blank"><img src="https://bj.bcebos.com/v1/ps-scholar-amis-standard/2020-11/1606363009781/baiduyun.png" alt="百度云"></a><a href="https://fanyi.baidu.com/?hmsr=1&hmpl=&hmcu=&hmkw=&hmci=" target="_blank"><img src="https://bj.bcebos.com/v1/ps-scholar-amis-standard/2021-5/1621326465289/baidufanyi.png" alt="百度翻译"></a></div></span><span class="contact"><h4>联系我们</h4><div class="innerCont"><a href="http://weibo.com/baiduxueshu" target="_blank"><p class="wb"><span class="qrcode webocode"></span></p></a><p class="wx"><span class="qrcode weixincode"></span></p><a href="mailto:xueshu_support@baidu.com" target="_blank"><p class="help"></p></a></div></span><span class="moreinfo"><h4>合作与服务</h4><span class="moreinfo_item"> <a href="//xueshu.baidu.com/usercenter/show/baiducas?cmd=journal" target="_blank">期刊合作</a></span><span class="moreinfo_item"> <a href="//xueshu.baidu.com/usercenter/show/baiducas?cmd=library" target="_blank">图书馆合作</a></span><span class="moreinfo_item"> <a href="https://bj.bcebos.com/v1/ps-scholar-amis-standard/archived/2021-4/1617263148292/BaiduScholar-20210401.pdf" target="_blank">下载产品手册</a></span><span class="moreinfo_item"><a href="javascript:;" class="feedback">意见反馈</a></span></span></div><p class="foottext">©2021 Baidu 百度学术声明 <a href="https://www.baidu.com/duty/" target="_blank">使用百度前必读</a></p></div>                
+            
+        </div>
+        <div class="dialog_bg hover-screen"></div>
+    </div>
+
+    
+<script>
+bds.comm.libNavNum = '0';
+bds.comm.sc_wkfrom = '';
+// 显示的第一个tab名称
+bds.comm.firstTab = 'allversion';
+</script>
+<script src="/lib/static/scholar/cache/paper/js/show_cfbc852.js"></script>
+<!-- 论文详情页引入智瞳爬虫流量监控 -->
+<script>
+    window['__abbaidu_2053_subidgetf'] = function () {
+        return 'ae_xueshu_paper';
+    }
+    window['__abbaidu_2053_cb'] = function (responseData) {
+        var data = JSON.parse(responseData);
+        var d = new Date();
+        d.setTime(d.getTime() + (24 * 60 * 60 * 1000));
+        var expires = ";expires="+ d.toUTCString();
+        document.cookie = "antispam_data=" + data.data + expires + ";path=/;";
+        document.cookie = "antispam_key_id=" + data.key_id + expires + ";path=/;";
+        document.cookie = "antispam_sign=" + data.sign + expires + ";path=/;";
+        document.cookie = "antispam_site=ae_xueshu_paper" + expires + ";path=/;";
+    }
+</script>
+<script async="" src="https://dlswbr.baidu.com/heicha/mw/abclite-2053-s.js"> </script>
+
+    
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?20c5d09058effeaad8703343e5fa9c95";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+
+</body>
+</html>

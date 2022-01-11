@@ -1,0 +1,294 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=1200">
+
+<meta name="Description" content="">
+        <title>向榜样致敬——中法工程师学院获多项荣誉-北航中法工程师学院</title><META Name="keywords" Content="学科网站,榜样,致敬,中法,工程师学,工程师,工程,学院,多项,项荣,荣誉" />
+<META Name="description" Content="为纪念中国共产党成立97周年，北京航空航天大学党委对先进分党委、先进党支部、优秀共产党员、优秀党务工作者、优秀党支部书记进行了表彰，中法工程师学院获得两项个人荣誉，一项集体荣誉。徐平教授被评为 “优秀共产党员”、“共产党员十杰”；殷传涛副教授被评为“优秀共产党员”；2014级本科生党支部开展的以“站稳鲜明的政治立场”为主线的一系列活动荣获优秀党日活动三等奖。徐平教授于1985年加入中国共产党，1990年进入北..." />
+
+        <link rel="stylesheet" href="../../css/common.css" />
+        <link rel="stylesheet" href="../../css/two-stage.css" />
+        <link rel="stylesheet" href="../../css/style.css" />
+    <!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e78475c52555742000000034754 -->
+<link rel="stylesheet" type="text/css" href="../../campus-life-detalis2.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1977,'/campus-life-detalis2.jsp',5800,1302343303)</script>
+</head>
+    <body>
+    <div class="gcsxy_top">
+        <div class="gcsxy_top_cont clearfix">
+            <a href="../../index.htm" class="gcsxy_logo fl">
+                <img src="../../images/logo.jpg" />
+            </a>
+            <div class="gcsxy_yuyan fr">
+                <div class="yuyan_cont clearfix">
+                    
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<script language="javascript" src="/system/resource/js/ajax.js"></script><script language="javascript">_getBatchClickTimes('null',1302343303,'wbnews','u0')</script>
+<script>function seeContenta0(contentid,size,displayid){	document.getElementById(contentid).innerHTML = '[';	for(var i=0;i<=size;i++){		var allcontentid = contentid+(i+1);		if(allcontentid==displayid){			document.getElementById(contentid).innerHTML += " <span id='"+allcontentid+"' name='"+allcontentid+"'  >"+(i+1)+"</span> ";			document.getElementById(displayid).style.display = 'block';		}else{			document.getElementById(contentid).innerHTML += " <span style='cursor:pointer' id='"+allcontentid+"' name='"+allcontentid+"' onclick=seeContenta0('"+contentid+"','"+size+"','"+allcontentid+"')  >"+(i+1)+"</span> ";			document.getElementById(allcontentid).style.display = 'none';		}	}	document.getElementById(contentid).innerHTML += ']';}</script>
+<script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<script>_addDynClicks('wbnews',1302343303,7562)</script>
+<a href="javascript:;" class="fl weixin" style="display:none;">
+	<span class="weixi-m"></span>
+</a>
+<a href="http://ecpknfr.buaa.edu.cn/" class="fr">Fran&ccedil;ais</a>
+<a href="http://ecpknen.buaa.edu.cn/" class="fr">English</a>
+<a href="http://ecpkn.buaa.edu.cn/" class="yuyan_active fr">中文</a>
+                </div>
+                <div class="bhzf_so">
+                    <script type="text/javascript">
+    function _nl_ys_check() {
+
+        var keyword = document.getElementById('showkeycode149848').value;
+        if (keyword == null || keyword == "") {
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if (window.toFF == 1) {
+            document.getElementById("lucenenewssearchkey149848").value = Simplized(keyword);
+        } else {
+            document.getElementById("lucenenewssearchkey149848").value = keyword;
+        }
+        var base64 = new Base64();
+        document.getElementById("lucenenewssearchkey149848").value = base64.encode(document.getElementById("lucenenewssearchkey149848").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode149848"));
+        return true;
+    } 
+</script>
+<form action="../../searchlist.jsp?wbtreeid=1977" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkey149848" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype149848" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope149848" name="searchScope" value="1">
+<input name="showkeycode" placeholder="请输入检索内容" class="txt" id="showkeycode149848" type="text">
+<input type="submit" class="sub" value="">
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="gcsxy_nav">
+        <div class="gcsxy_nav_cont">
+            <ul class="bhzf_navC">
+                	<li class="fl"><a href="../../index.htm">首页</a></li>
+	    <li class="fl">
+		<a href="../../xygk/xyjj.htm">学院概况</a>
+		<div class="nav_drop_down">
+		    <a href="../../xygk/xyjj.htm">学院简介</a>
+		    <a href="../../xygk/xcsp.htm">宣传视频</a>
+		    <a href="../../xygk/ccfz.htm">传承发展</a>
+		    <a href="../../xygk/yzjy.htm">院长寄语</a>
+		    <a href="../../xygk/zzjg.htm">组织机构</a>
+		    <a href="../../xygk/zylgjt.htm">中央理工集团</a>
+		    <a href="../../xygk/hzhb.htm">合作伙伴</a>
+		    <a href="../../xygk/yxxy.htm">优秀校友</a>
+		    <a href="../../xygk/lxwm.htm">联系我们</a>
+		</div>
+	    </li>
+	    <li class="fl">
+		<a href="../../rcpy1/pymb.htm">人才培养</a>
+		<div class="nav_drop_down">
+		    <a href="../../rcpy1/pymb.htm">培养目标</a>
+		    <a href="../../rcpy1/pyms.htm">培养模式</a>
+		    <a href="../../rcpy1/pyts.htm">培养特色</a>
+		    <a href="../../rcpy1/xlxw.htm">学历学位</a>
+		    <a href="../../rcpy1/zsjy.htm">招生就业</a>
+		    <a href="../../rcpy1/fyjx.htm">法语教学</a>
+		    <a href="../../rcpy1/xqhz.htm">校企合作</a>
+		</div>
+	    </li>
+	    <li class="fl">
+		<a href="../../kxyj1/kygk.htm">科学研究</a>
+		<div class="nav_drop_down">
+		    <a href="../../kxyj1/kygk.htm">科研概况</a>
+		    <a href="../../kxyj1/jxkysys.htm">教学科研实验室</a>
+		    <a href="../../kxyj1/zflhsys.htm">中法联合实验室</a>
+		    <a href="../../kxyj1/zffxkxygcsys.htm">中法风险科学与工程实验室</a>
+		</div>
+	    </li>
+	    <li class="fl">
+		<a href="../../gjhz/xsgjjl.htm">国际合作</a>
+		<div class="nav_drop_down">
+		    <a href="../../gjhz/xsgjjl.htm">学生国际交流</a>
+		    <a href="../../gjhz/jsgjjl.htm">教师国际交流</a>
+		    <a href="../../gjhz/xmxxfx.htm">项目信息分享</a>
+		    <a href="../../gjhz/qt.htm">其他</a>
+		</div>
+	    </li>
+	    <li class="fl">
+		<a href="../../szdw/szgc.htm">师资队伍</a>
+		<div class="nav_drop_down">
+		    <a href="../../szdw/szgc.htm">师资构成</a>
+		    <a href="../../szdw/fyjx.htm">法语教学</a>
+		    <a href="../../szdw/zyjx.htm">专业教学</a>
+		    <a href="../../szdw/syjx.htm">实验教学</a>
+		    <a href="../../szdw/wysd.htm">外院硕导</a>
+		    <a href="../../szdw/zpxx.htm">招聘信息</a>
+		</div>
+	    </li>
+	    <li class="fl">
+		<a href="../../zffc/xysh.htm">中法风采</a>
+		<div class="nav_drop_down">
+		    <a href="../../zffc/xysh.htm">校园生活</a>
+		    <a href="../../zffc/stzz.htm">社团组织</a>
+		    <a href="../../zffc/lxs.htm">留学生</a>
+		    <a href="../../zffc/zfrfc.htm">中法人风采</a>
+		    <a href="../../zffc/mtsdzf.htm">媒体上的中法</a>
+		</div>
+	    </li>
+	    <li class="fl">
+		<a href="../../jcdj/djhd.htm">基层党建</a>
+		<div class="nav_drop_down">
+		    <a href="../../jcdj/djhd.htm">党建活动</a>
+		    <a href="../../jcdj/dygf.htm">党员规范</a>
+		    <a href="../../jcdj/gztz.htm">工作通知</a>
+		    <a href="../../jcdj/xxnr.htm">学习内容</a>
+		</div>
+	    </li>
+
+            </ul>
+        </div>
+    </div>
+
+        <div class="banner-s b1"></div>
+        <div class="bhzf-content clearfix">
+            <div class="content-nav">    
+                <p class="nav-title">
+
+
+
+	校园新闻
+</p>
+                <ul class="nav_list">
+                    
+                </ul>
+            </div>
+            <div class="content-r fr">
+                <div class="content-title clearfix">
+                    <span class="fl title-txt">
+
+
+
+	校园新闻
+</span>
+                    <div class="con fr"><span>当前位置：</span>
+                        <a href="../../index.htm">首页</a>
+                >
+                正文
+</div>
+                </div>
+                <div class="life-detalis-cont">
+                    
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><LINK href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><link rel="stylesheet" Content-type="text/css" href="/system/resource/style/component/news/content/format2.css"><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname"><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<p class="life-detalis-title">向榜样致敬——中法工程师学院获多项荣誉</p>
+<p class="detalis-xinxi"><span class="zhushi_s1">发布者：</span><span class="zhushi_s2">发布日期：2018-07-13</span>
+<span class="zhushi_s3"> 来源：
+
+</span><a href="javascript:history.back(-1)" class="zhushi_back">返回</a></p>
+<div class="detalis-cont">
+<p><div id="vsb_content_2"><div class="v_news_content">
+<div>
+ <p class="vsbcontent_start">为纪念中国共产党成立97周年，北京航空航天大学党委对先进分党委、先进党支部、优秀共产党员、优秀党务工作者、优秀党支部书记进行了表彰，中法工程师学院获得两项个人荣誉，一项集体荣誉。徐平教授被评为 “优秀共产党员”、“共产党员十杰”；殷传涛副教授被评为“优秀共产党员”；2014级本科生党支部开展的以“站稳鲜明的政治立场”为主线的一系列活动荣获优秀党日活动三等奖。</p>
+ <p class="vsbcontent_img"><img width="227" height="341" src="/__local/8/8A/31/3666A8CFF96013C5D5C69D21C5A_C3A08B0B_35FB.jpg" vsbhref="vurl" orisrc="/__local/8/8A/31/3666A8CFF96013C5D5C69D21C5A_C3A08B0B_35FB.jpg" vurl="/_vsl/88A313666A8CFF96013C5D5C69D21C5A/C3A08B0B/35FB" vheight="341" vwidth="227" class="img_vsb_content"></p>
+ <p>徐平教授于1985年加入中国共产党，1990年进入北京航空航天大学工作，现任中法工程师学院教授、副院长、党委委员。他一直以党员的身份严格要求自己，并起到先锋模范作用；在思想和作风上自律自省，在工作中勇于探索创新，乐于奉献，团结同志，关爱学生，受到了师生的一致好评，获得过北京市师德先进个人、北京市教学名师、国家教学成果二等奖、北京市教学成果一等奖、宝钢优秀教师奖等奖励。作为一名大学时代就加入中国共产党、从学生党员成长起来的教师党员，徐平教授能准确把握学生的思想特点，做好学生的学业指导和与家长沟通工作，有效保证了试点学院教学改革和人才培养模式探索创新的顺利进行。他深入学习宣传贯彻党的十九大精神，认真学习习近平新时代中国特色社会主义思想，并结合实际工作，积极倡导和践行引进、消化吸收、发展创新的建设理念，努力打造具有北航特色的国际化工程师学院；大局意识和守土意识强，在协调处理中外合作办学过程中的各类问题时，能从学生利益、学校利益、国家利益出发，根据学院的办学实际，配合院长做好分管的教学、人事等各项工作。徐平教授勇于探索创新，在教学和人才培养模式改革等方面取得了突出的成绩。他在担任中法研工程师学院究生教学副院长期间，与法方专家和同事们通力合作，主持首次完成了融合中法两种教学模式、具有鲜明北航特色的研究生培养方案，有效保障了首届学生顺利毕业并获得硕士和工程师证书；在担任实验中心负责人和本科教学副院长期间，在课程建设、工程师培养模式探索等方面取得显著成果：引进并发展完善了法国工程师培养模式基础物理实验课程体系和工业科学实验课程体系，并在北航和北京市部分高校推广应用；初步实现了法国通用工程师与我国硕士培养体系的融合；对法国预科体系与我国本科培养体系的融合及发展完善起到了关键推进作用。他在中法学院和物理学院主讲了3门本科生和2门研究生课程，能结合学生专业特点对教学内容和方法进行改革发展；主持过3项省部级以上教改项目，发表教改论文30多篇，参与出版教材和专著7部。</p>
+ <p class="vsbcontent_img"><img width="230" height="345" src="/__local/2/19/EA/8B06F8D1D6A92CC5A86F1916261_D5FE3C90_47F3.jpg" vsbhref="vurl" orisrc="/__local/2/19/EA/8B06F8D1D6A92CC5A86F1916261_D5FE3C90_47F3.jpg" vurl="/_vsl/219EA8B06F8D1D6A92CC5A86F1916261/D5FE3C90/47F3" vheight="345" vwidth="230" class="img_vsb_content"></p>
+ <p>殷传涛副教授于2010年8月进入北京航空航天大学中法工程师学院，任学院专业教师，学院教职工党支部书记，学院信息专业负责人，学院创新团队项目负责人。殷传涛同志努力刻苦，以党员的身份严格要求自己，在教学和科研中勇于创新，在党支部和学院管理工作中一丝不苟、热情奉献，热爱同学，关爱同事，受到了大家的高度认可，在历次年终考核中，均获得校级优秀和院级优秀评价。自2017年3月起开始担任党支部书记之后，他认真带领支部成员做好“三会一课”，推进“两学一做”学习教育常态化，配合落实中央巡视整改工作，大力宣传“反腐倡廉”，深入学习全国高校思政工作会议精神，强化教职工思想政治工作意识，深入开展学习宣传贯彻党的十九大精神，认真学习习近平新时代中国特色社会主义思想，认真履行基层党建职责，规范党支部建设工作。同时，他在支部活动中，注意形式多样、灵活多变，结合学院教学业务，体现国际化学院特色，并重视新媒体和网络平台的作用，取得了良好的效果，使得党支部的凝聚作用大大增强。殷传涛副教授主讲和参与了7门本科及研究生课程，并在教学过程中注重中、英、法三种语言的配合。在教学过程之中，他与同事配合默契，形成了良好的国际合作关系和模式，并承担学院的信息方向负责人、创新团队项目负责人等多项教学管理职务。承担了本科和研究生教改项目10余项，发表多篇教改论文。在科研工作上，他辛勤工作，大胆创新，承担科研项目与课题10余项，发表国际期刊和会议论文20多篇。他在教学和科研工作中，始终热爱学生，把学生的诉求和利益放在第一位。同时，在工作中，他诚实谦和，宽容忍让，热情友好地对待每一位同事，时刻准备着在工作和生活中帮助他人。</p>
+ <p>徐平教授和殷传涛副教授拥党爱党，为人勤勉踏实，待人谦和真诚，爱岗敬业，勇于探索，受到了师生们的广泛好评，成为了党员和群众心中共同的优秀共产党员。</p>
+ <p>学院2014级本科生党支部从2017年6月起，开展了以“站稳鲜明的政治立场”为主线的一系列活动。借助互联网优势平台，开展了线上和线下结合的理论学习。包括观看十九大直播，举办讨论交流会，组织观看高宁老师的网络直播，聆听高宁老师从理论层面解读十九大报告精神。邀请研究生党支部书记朱博康学长为支部成员做了主题为“全面从严治党”的党课。组织观看习近平总书记在北京大学师生座谈会上的讲话和在马克思诞辰两百周年大会上的讲话视频，举办了交流分享会并撰写感想心得。在实践活动中，党支部组织支部成员观看“砥砺奋进的五年”成就展，参加北航首届学生党支部组织力大赛并获得了三等奖。举办时政讨论会并策划开展以“马克思经典理论学习”为主题的党小组读书会活动，让支部成员党的理论知识认识更加深刻，理解更加透彻，眼界更加宽广。在遇到网络舆论时，能够以正确的方式表达自己的意见，能够时刻牢记自身的党员身份，能够站稳自己的政治立场，时时刻刻跟着党中央的步伐，在实践中检验和发展真理。2014级本科生党支部的情况比较特殊，有很多党员同志正在国外留学。在国外生活和学习的过程中，都能坚定表明自己的党员身份，明确自身的政治立场，心系祖国，在国外发好中国声音、讲好中国故事、传递好中国能量、塑造好中国形象。不忘初心，牢记使命，不负重托，永葆党员纯洁本质。</p>
+ <p class="vsbcontent_img"><img width="547" height="410" src="/__local/8/AB/4F/D3A997BFD39F9AF24B1F77D0416_2F7C1AF2_A10A.jpg" vsbhref="vurl" orisrc="/__local/8/AB/4F/D3A997BFD39F9AF24B1F77D0416_2F7C1AF2_A10A.jpg" vurl="/_vsl/8AB4FD3A997BFD39F9AF24B1F77D0416/2F7C1AF2/A10A" vheight="410" vwidth="547" class="img_vsb_content"></p>
+ <p>党支部组织观看习近平总书记讲话录像</p>
+ <p class="vsbcontent_img"><img width="547" height="410" src="/__local/2/E2/34/1D9C4F0C4F2D03ECE7C96531D0F_710D631A_9634.jpg" vsbhref="vurl" orisrc="/__local/2/E2/34/1D9C4F0C4F2D03ECE7C96531D0F_710D631A_9634.jpg" vurl="/_vsl/2E2341D9C4F0C4F2D03ECE7C96531D0F/710D631A/9634" vheight="410" vwidth="547" class="img_vsb_content"></p>
+ <p>党支部成员针对“精日言论”事件热烈讨论</p>
+ <p class="vsbcontent_img"><img width="550" height="413" src="/__local/E/B6/99/FA536445392750B8E156A4D0533_5B986F32_9CA2.jpg" vsbhref="vurl" orisrc="/__local/E/B6/99/FA536445392750B8E156A4D0533_5B986F32_9CA2.jpg" vurl="/_vsl/EB699FA536445392750B8E156A4D0533/5B986F32/9CA2" vheight="413" vwidth="550" class="img_vsb_content"></p>
+ <p>支部成员参观“砥砺奋进的五年”成就展</p>
+ <p class="vsbcontent_img"><img width="550" height="413" src="/__local/5/6E/4D/1EF7C2A38B3634BC2AA0AB8DCD3_E3E62F66_8A01.jpg" vsbhref="vurl" orisrc="/__local/5/6E/4D/1EF7C2A38B3634BC2AA0AB8DCD3_E3E62F66_8A01.jpg" vurl="/_vsl/56E4D1EF7C2A38B3634BC2AA0AB8DCD3/E3E62F66/8A01" vheight="413" vwidth="550" class="img_vsb_content"></p>
+ <p>朱博康学长为支部成员讲党课</p>
+ <p class="vsbcontent_end">学院将通过大力宣传获奖同志和集体的先进事迹，通过向榜样学习，充分发挥先进典型示范作用，引导和激励广大共产党员、党务工作者继续加强党性修养，改进工作作风，做合格党员，当时代先锋，彰显共产党人的本色，不断凝聚见贤思齐、争创一流的正能量。</p>
+</div>
+</div></div></p>
+</div>
+
+<div class="detalis_cont_page">
+	<a href="5802.htm" style="color:#000;">上一篇：全球视野下的工程师 “网络化”培养---中法工程师学院与加拿大魁北克大学高等技术学院签署合作协议</a>
+	<a href="5789.htm" style="color:#000;">下一篇：北京卓越联盟成功举办2018年度暑期学校</a>
+</div>
+</form>
+
+
+
+                    
+                </div>
+            </div>
+        </div>
+        <div class="bhzf-footer">
+            <div class="bhzf-footerC">
+                
+
+
+
+
+<script language="javascript" src="/system/resource/js/ajax.js"></script><script language="javascript">_getBatchClickTimes('null',1302343303,'wbnews','u9')</script>
+<script>function seeContenta9(contentid,size,displayid){	document.getElementById(contentid).innerHTML = '[';	for(var i=0;i<=size;i++){		var allcontentid = contentid+(i+1);		if(allcontentid==displayid){			document.getElementById(contentid).innerHTML += " <span id='"+allcontentid+"' name='"+allcontentid+"'  >"+(i+1)+"</span> ";			document.getElementById(displayid).style.display = 'block';		}else{			document.getElementById(contentid).innerHTML += " <span style='cursor:pointer' id='"+allcontentid+"' name='"+allcontentid+"' onclick=seeContenta9('"+contentid+"','"+size+"','"+allcontentid+"')  >"+(i+1)+"</span> ";			document.getElementById(allcontentid).style.display = 'none';		}	}	document.getElementById(contentid).innerHTML += ']';}</script>
+
+<script>_addDynClicks('wbnews',1302343303,7562)</script>
+<div class="bhzf-xinxi">
+<p class="bhzf-xinxi-t1">地址：海淀区学院路37号 北京航空航天大学2号楼中法工程师学院</p>
+<p class="bhzf-xinxi-t2">邮编：100191</p>
+<p class="bhzf-xinxi-t3">电话/传真：010-8233 9307 / 010-8233 8123</p>
+
+</div>
+<div class="bhzf-banquan">
+<p>
+	<select name="jumpMenu" id="jumpMenu" onchange="javascript:location.href=this.value;"> 
+	<option value="javascript;:">站点资源</option> 
+	<option value="#">教学系统网站链接</option> 
+	<option value="http://10.200.21.61:7001/ieas2.1/welcome">教务管理系统入口</option> 
+	<option value="http://bjzy.buaa.edu.cn">北京卓越联盟</option> 
+	<!--<option value="/system/go.jsp?treeid=1998&apptype=treetemp&urltype=tree.TreeTempUrl">法研中心</option>-->
+	<option value="http://cref.buaa.edu.cn">法研中心</option> 
+	<option value="/system/go.jsp?treeid=1999&apptype=treetemp&urltype=tree.TreeTempUrl">多媒体平台</option> 
+	</select>
+	
+	<a href="http://ecpkn.buaa.edu.cn/contact.jsp?urltype=tree.TreeTempUrl&wbtreeid=1945">联系我们</a>
+	<a href="http://ecpkn.buaa.edu.cn/campus-life2.jsp?urltype=tree.TreeTempUrl&wbtreeid=1985">其他链接</a>
+</p>
+<p class="banquan">版权所有 2013 北京航空航天大学    京ICP备05004617-3</p>
+</div>
+            </div>
+        </div>
+        <script type="text/javascript" src="../../js/bdtxkmin.min.js"></script>
+    <script type="text/javascript" src="../../js/style.js"></script>
+        <script type="text/javascript">
+            $(function(){
+                $('.bhzf-login').toggle(function(){
+                    $(this).children('.login-xinxi').show();
+                    $(this).addClass('active')
+                },function(){
+                    $(this).children('.login-xinxi').hide();
+                    $(this).removeClass('active')
+                });
+                $('.login-xinxi').click(function(e){
+                    e.stopPropagation();
+                });
+                $('.weixin,.weibo').hover(function(){
+                    $(this).children().show();
+                },function(){
+                    $(this).children().hide();
+                });
+                //侧导航
+                //$('.nav-list>li>a').toggle(function(){
+                //  $(this).siblings().show();
+                //},function(){
+                //  $(this).siblings().hide();
+                //})
+            });
+        </script>
+    </body>
+</html>

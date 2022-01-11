@@ -1,0 +1,650 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html xmlns:wb="http://open.weibo.com/wb">
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <title>北航计算机应用技术专业导师介绍：殷传涛_聚英北航考研网</title>
+    <meta name="keywords" content="考研导师,硕士生导师,研究生导师介绍,硕士生导师介绍,研究生导师,硕士生导师名单,考研复试老师">
+    <meta name="description" content="聚创考研网导师栏目为大家收集了硕士生导师名单,以及研究生导师介绍，了解考研导师,也就是硕士生导师的一些研究方向和最新成果是很有必要的。">
+    <!--全网共用的样式-->
+    <link href="http://www.juyingonline.com:80/static/front/Css/Share1.css" rel="stylesheet"/>
+    <!--此页面单用的样式-->
+    <link href="http://www.juyingonline.com:80/static/front/Css/news_list.css" rel="stylesheet"/>
+    <!--列表页左下部分共用的样式-->
+    <link href="http://www.juyingonline.com:80/static/front/Css/news_list_bottom.css" rel="stylesheet"/>
+    <!-- 页面图标 -->
+    <link rel="shortcut icon" href="http://www.juyingonline.com:80/static/favicon.ico" type="image/x-icon"/>
+</head>
+<body>
+<!--头部公用部分开始 全网共用-->
+
+
+
+
+
+<!--头部-->
+<script type="text/javascript">
+    /*检测是否移动设备来访否则跳转*/
+    if (browserRedirect()) {
+        var url = location.href;
+        if (url.indexOf("www.") == -1) { //不包含
+            location.href = "m." + url;
+        } else {
+            location.href = url.replace("www.", "m.");
+        }
+
+    }
+
+    //检测是否移动设备来访
+    function browserRedirect() {
+        var sUserAgent = navigator.userAgent.toLowerCase();
+        var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";
+        var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
+        var bIsMidp = sUserAgent.match(/midp/i) == "midp";
+        var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+        var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";
+        var bIsAndroid = sUserAgent.match(/android/i) == "android";
+        var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";
+        var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
+        if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid
+            || bIsCE || bIsWM) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+</script>
+
+<header class="header font14">
+    <div class="w11">
+        <ul class="top_nav fl">
+            <li><a href="http://www.juyingonline.com:80/" target="_blank">聚创考研网</a><span>|</span></li>
+            <li><a href="http://www.juchuang2021.com" target="_blank">考研辅导班</a><span>|</span></li>
+            <li><a href="http://www.juchuang2021.cn" target="_blank">考研专业课资料</a><span>|</span></li>
+            <li><a href="http://www.juyingonline.com:80/school" target="_blank">考研院校库</a><span>|</span></li>
+            <li><a href="http://www.juyingonline.com:80/Home/Map" target="_blank">网站地图</a></li>
+        </ul>
+        <ul class="guanzhu fr">
+            <li class="weixin">
+                微信
+
+                <img src="http://www.juyingonline.com:80//static/front/images/right/gongzonghao.png" class="weixin_img position_a"
+                     alt="聚创考研网官方微信"/>
+
+
+                
+            </li>
+            <li class="weibo">
+                微博
+
+                <img src="http://www.juyingonline.com:80//static/front/images/right/gongzonghao.png" class="weibo_img position_a"
+                     alt="聚创考研网官方微博"/>
+
+                
+            </li>
+        </ul>
+    </div>
+</header>
+<!--头部中间部分-->
+<section class="index_main">
+    <div class="w11">
+        <a href="/"><img src="http://www.juyingonline.com:80//static/front/images/index2/logo_2019.png" class="fl logo"
+                         alt="聚创考研网官方logo"/></a>
+        <div class="searchMenu fl">
+            <form action="http://www.juyingonline.com:80/search" method="post">
+                <div class="search fl">
+                    <select id="searchType" name="searchType" class="font16">
+                        <option value="1" selected>资讯</option>
+                        <option value="2">图书</option>
+                        <option value="3" >资料
+                        </option>
+                    </select>
+                    <div class="fl shuxian"></div>
+                    <input name="keyword" id="keyword" class="mykeywords font18 fl" value=""
+                           placeholder="请输入关键字" type="text">
+                </div>
+                <input id="search_btn" type="submit" name="" class="search_btn fl" value="">
+            </form>
+            <div class="keywords">
+                <span class="fl c000">热搜词：</span>
+                
+                    <div class="hui-hot-sreach-keys">
+	<li>
+		<span style="color:#e53333;"><span style="font-size:14px;"><a href="http://www.juyingonline.com/school/0/0/0/0" target="_blank"><span style="color:#E53333;">拟录取名单</span></a></span></span> 
+	</li>
+	<li>
+		<span style="font-size:14px;color:#006600;"><a href="https://www.juchuang2021.com/fudaoban/detail/299040" target="_blank"><span style="color:#9933E5;">考研寄宿营</span></a></span> 
+	</li>
+	<li>
+		<span style="color:#9933e5;"><span style="font-size:14px;"><a href="http://www.juchuang2021.cn/?proxyCode=33" target="_blank">历年真题</a></span></span> 
+	</li>
+</div>
+                
+                
+            </div>
+        </div>
+
+
+        
+        
+        
+        <img src="http://www.juyingonline.com:80//static/front/images/index2/header_dh2.jpg" class="fl phone" alt="聚创考研网官方联系电话"/>
+        
+        
+        
+        <div class="users fl">
+            <ul class="users_list">
+                <li><a href="http://www.juyingonline.com:80/login?currentPath=user/userCenter" class="c333 font18">登录</a></li>
+                <li><a href="http://www.juyingonline.com:80/reg?currentPath=user/userCenter" class="c333 font18">注册</a></li>
+            </ul>
+        </div>
+        
+    </div>
+</section>
+<!--头部导航部分-->
+<nav class="index_menu font18 clear">
+    <div class="w11">
+        <ul class="nav">
+            <li><a href="/">聚创考研网</a></li>
+            <li><a href="http://www.juyingonline.com:80/school">考研院校库</a></li>
+            <li>
+                <a href="http://www.juyingonline.com:80/news/kyxx">考研信息<em></em></a>
+                <ul class="font16">
+                    <li><a href="http://www.juyingonline.com:80/news/dagang">考研大纲</a></li>
+                    <li><a href="http://www.juyingonline.com:80/news/zhengce">考研资讯</a></li>
+                    <li><a href="http://www.juyingonline.com:80/news/changshi">考研常识</a></li>
+                    <li><a href="http://www.juyingonline.com:80/news/ganhuo">考研干货</a></li>
+
+                </ul>
+            </li>
+            <li>
+                <a href="http://www.juyingonline.com:80/down">资料下载<em></em></a>
+                <ul class="font16">
+                    <!-- <li><a href="">历年真题</a></li> -->
+                    <li><a href="http://www.juyingonline.com:80/down/yingyu/all-0">考研英语</a></li>
+                    <li><a href="http://www.juyingonline.com:80/down/zhengzhi/all-0">考研政治</a></li>
+                    <li><a href="http://www.juyingonline.com:80/down/shuxue/all-0">考研数学</a></li>
+                    <li><a href="http://www.juyingonline.com:80/down/zhunayeke/all-0">考研专业课</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="http://www.juyingonline.com:80/news/bkzd">备考指导<em></em></a>
+                <ul class="font16">
+                    <li><a href="http://www.juyingonline.com:80/news/zhuanyeke">专业课</a></li>
+                    <li><a href="http://www.juyingonline.com:80/news/ggk">公共课</a></li>
+                    <li><a href="http://www.juyingonline.com:80/news/zhuanyesh">专业硕士</a></li>
+                    <li><a href="http://www.juyingonline.com:80/news/guanlian">199管联</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="http://www.juchuang2021.cn" target="_blank">考研图书<em></em></a>
+                <ul class="font16">
+                    <li><a href="http://www.juchuang2021.cn/ziliao/zhaunyeke/0/0" target="_blank">考研专业课</a></li>
+                    <li><a href="http://www.juchuang2021.cn/ziliao/shuxue/0/0" target="_blank">考研数学</a></li>
+                    <li><a href="http://www.juchuang2021.cn/ziliao/yingyu/0/0" target="_blank">考研英语</a></li>
+                    <li><a href="http://www.juchuang2021.cn/ziliao/zhengzhi/0/0" target="_blank">考研政治</a></li>
+                    <li><a href="http://www.juchuang2021.cn/ziliao/other/0/0" target="_blank">专业硕士</a></li>
+                    <li><a href="http://www.juchuang2021.cn/ziliao/dalibao/0/0" target="_blank">考研资料大礼包</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="http://www.juyingonline.com:80/news/kyfstj">复试调剂<em></em></a>
+                <ul class="font16">
+                    <li><a href="http://www.juyingonline.com:80/news/330867.html">34所自主划线</a></li>
+                    <li><a href="http://www.juyingonline.com:80/news/330869.html">历年国家线</a></li>
+                    <li><a href="http://www.juyingonline.com:80/news/fushi">复试信息</a></li>
+                    <li><a href="http://www.juyingonline.com:80/news/tiaoji">调剂信息</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="">各地分校<em></em></a>
+                <ul class="font16">
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    <li><a href="http://www.juyingonline.com:80/fenxiao/1" target="_blank">厦门</a></li>
+                    <li><a href="http://www.juyingonline.com:80/fenxiao/2" target="_blank">福州</a></li>
+                    <li><a href="http://www.juyingonline.com:80/fenxiao/3" target="_blank">江西</a></li>
+                    <li><a href="http://www.juyingonline.com:80/fenxiao/4" target="_blank">广东</a></li>
+                    <li><a href="http://www.juyingonline.com:80/fenxiao/5" target="_blank">重庆</a></li>
+                    <li><a href="http://www.juyingonline.com:80/fenxiao/6" target="_blank">浙江</a></li>
+                    <li><a href="http://www.juyingonline.com:80/fenxiao/7" target="_blank">湖南</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+
+    
+        
+    
+
+    
+
+        
+    
+
+    
+    
+<!--头部公用部分结束-->
+<section class="panel-1 w11 clear" style="overflow: hidden;">
+    <!--面包屑-->
+    <div class="top_menu w11 font16 c666">
+        <a href="http://www.juyingonline.com:80/" target="_blank" class="c666">聚创考研网</a>
+        <span>&gt;</span>
+        
+            <a class="c666" href="http://www.juyingonline.com:80/school" target="_blank">考研院校库</a>
+            <span>&gt;</span>
+            
+                <a class="c666" href="http://www.juyingonline.com:80/school/buaa"
+                   target="_blank">北京航空航天大学</a>
+                <span>&gt;</span>
+            
+        
+        
+            <a class="c666" href="http://www.juyingonline.com:80/school/buaa?categoryTitle=导师介绍"
+               target="_blank">导师介绍</a>
+            
+            <span>&gt;</span>
+        
+        <a href="" target="_blank" class="c666">正文</a>
+    </div>
+    <div class="panel1_left fl">
+        <!--新闻内容-->
+        <div class="panel1_content">
+            <h1 class="c333"> 北航计算机应用技术专业导师介绍：殷传涛</h1>
+            <p class="tc c999 font12 fabu">
+                <span>作者：聚创北航考研网-小黑老师</span>
+                <span class="dianji">点击量： 684</span>
+                <span>发布时间： 2015-07-14 13:41</span>
+                <span class="clan wxhover">【微信号：扫码加咨询】</span>
+                <img src="http://www.juyingonline.com:80//static/front/images/right/weixin.jpg" class="xiaohei" width="150"/>
+                
+            </p>
+            
+                <div class="advertw"><a href="https://jq.qq.com/?_wv=1027&k=56pA99b" target="_blank"></a><a href="https://m.jylearning.com/zt/qk_fudao2_2020?proxyCode=33" target="_blank" style="white-space:normal;"></a><a href="https://gytk5.kuaishang.cn/bs/im.htm?cSource=1&cas=69369___993501&fi=90697&ri=19145278805&vi=d3d9187684fe4ae48b1046ad2be345a8&dp=http%3A%2F%2Fwww.juyingonline.com%2Fnews%2F294792.html&_d=1576822848888&cSourceTitle=%E8%80%83%E7%A0%94%E7%9A%84%E8%AF%95%E5%8D%B7%E8%A2%8B%E8%A6%81%E8%87%AA%E5%B7%B1%E6%8B%86%E5%B0%81%EF%BC%9F%E5%9B%BE%E8%A7%A3%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E6%8B%86%E5%B0%81%E8%AF%95%E5%8D%B7%EF%BC%81_%E8%81%9A%E8%8B%B1%E8%81%9A%E5%88%9B%E8%80%83%E7%A0%94%E7%BD%91&_tk=d1a57446" target="_blank"></a><a href="https://gytk5.kuaishang.cn/bs/im.htm?cSource=1&cas=69369___993501&fi=90697&ri=19169702311&vi=2cef229ddaec4f788a06dcdae2e77056&dp=http%3A%2F%2Fwww.juyingonline.com%2Fschool%2F315670.html&_d=1582708661381&cSourceTitle=%E8%A5%BF%E5%8D%97%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6%E9%87%91%E8%9E%8D%E5%AD%A6%E9%99%A22019%E5%B9%B4%E6%94%BB%E8%AF%BB%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D%E7%A0%94%E7%A9%B6%E7%94%9F%E5%85%A5%E5%AD%A6%E8%80%83%E8%AF%95%E5%A4%8D%E8%AF%95%E5%BD%95%E5%8F%96%E5%B7%A5%E4%BD%9C%E7%BB%86%E5%88%99_%E8%81%9A%E8%8B%B1%E8%A5%BF%E8%B4%A2%E5%A4%A7%E8%80%83%E7%A0%94%E7%BD%91&_tk=9256133f" target="_blank"></a><a href="https://gytk5.kuaishang.cn/bs/im.htm?cSource=1&cas=69369___993501&fi=90697&ri=19169736765&vi=2cef229ddaec4f788a06dcdae2e77056&dp=http%3A%2F%2Fwww.juyingonline.com%2F&_d=1582709588887&cSourceTitle=聚创考研网_考研信息网-聚英聚创考研官网&_tk=14a85c6f" target="_blank" style="white-space:normal;"></a><a href="https://gytk5.kuaishang.cn/bs/im.htm?cas=69369___993501&fi=90697&ism=1" target="_blank"></a><a href="http://www.juchuang2021.com/zt/erzhan_jixunying_2020" target="_blank" style="white-space:normal;"></a><a href="https://www.juchuang2021.com/fudaoban/detail/298925" target="_blank"></a><a href="https://www.juchuang2021.com/zt/fstj" target="_blank"></a><a href="https://jq.qq.com/?_wv=1027&k=TetOUs2h" target="_blank"></a><a href="https://www.juchuang2021.com/zt/fstj" target="_blank"></a><a href="https://hztk5.kuaishang.cn/bs/im.htm?cas=118909___563947&fi=132536" target="_blank"><a href="https://m.juchuang2021.com/fudaoban/detail/299040" target="_blank"><img alt="" src="/upload/202104/06/202104061421473745.gif" width="750" height="63" title="" align="" /></a></a></div>
+                <br>
+            
+            <div class="panel1_cont font14 c666">
+                
+                   <p>
+	　　<strong><strong><strong></strong></strong>个人简介</strong><br />
+	　　姓名：殷传涛<br />
+	　　性别：男<br />
+	　　出生年份：1982<br />
+	　　职称：讲师<br />
+	　　院系：中法工程师学院<br />
+	　　首次聘任导师时间：2012<br />
+	　　现聘任导师一级学科名称：计算机科学与技术<br />
+	　　现聘任导师二级学科名称：计算机应用技术<br />
+	　　主要研究方向及特色：多年来主要从事移动学习、人机交互、增强现实、移动服务、学习理论、资源管理和用户体验等方面的研究工作，并在相关领域的国际会议与期刊中发表10余篇学术论文。<br />
+	<br />
+	　　<strong><strong></strong></strong><strong>联系方式</strong><br />
+	　　电子信箱：chuantao.yin@buaa.edu.cn<br />
+	　　办公电话：010-82316629<br />
+	　　办公地点：北京市海淀区学院路37号北京航空航天大学教学区2号楼410<br />
+	　　通信地址：北京市海淀区学院路37号北京航空航天大学中法工程师学院<br />
+	<br />
+	　　<strong><strong><strong></strong></strong>学习及工作经历</strong><br />
+	　　1999年进入西南交通大学通信工程系，2001被学校公派至法国巴黎中央理工大学（Ecole Centrale Paris）学习，于2003年同时获得巴黎中央理工大学工程师学位及西南交通大学学士学位。2006年获西南交通大学通信与信息系统专业硕士学位，同年9月被国家留学基金委通过&ldquo;法国五所中央理工大学博士生项目&rdquo;公派至法国里昂中央理工大学（Ecole Centrale de Lyon）攻读博士学位，于2010年1月顺利获得该校的计算机科学与技术专业博士学位。2010年8月起，作为海外优秀人才引入北京航空航天大学中法工程师学院担任青年骨干教师从事科研和教学工作,参与国家&ldquo;863&rdquo;、国际科技合作项目、海外优秀人才等多项科研项目。<br />
+	<br />
+	　　<strong><strong><strong></strong></strong>人才培养方面</strong><br />
+	　　讲授本科二年级《电子学实验》，1门次共72学时；参与讲授研究生一年级《计算机游戏设计》2门次共80学时；参与讲授研究生二年级《信息系统》2门次共32学时、《软件工程》1门次共16学时、《人机交互》1门次共16学时。指导本科生毕业设计共4组17人；指导硕士生共2人；协助指导联合培养博士生2人。指导冯如杯项目1组共4人，SRTP项目3组12人，ESTA项目2组8人。赴深圳指导学生暑期实习2批次共33人。主持校级研究生教改基金重点项目1项；主持校一般教改项目1项。参与《CTI工程师教育认证指南》、《法国工程师教育》两本书的编写工作。<br />
+	<br />
+	　　<strong><strong></strong></strong><strong>科学研究</strong><br />
+	　　参与863重点项目&ldquo;智慧城市（一期）&rdquo;项目；参与国家国际科技合作专项项目&ldquo;大飞机全生命周期数据活化与网络服务技术联合研发&rdquo;项目（2010），以及&ldquo;智慧城市与云计算：数据密集型处理与现代服务技术联合研发&rdquo;项目（2011）；参与完成&ldquo;智慧宝安&rdquo;规划项目。主持&ldquo;海外回国优秀人才&rdquo;基金1项；主持&ldquo;唯实&rdquo;基金1项；主持&ldquo;领航基金物联网专项&rdquo;基金1项。主持&ldquo;**会议总务子系统&rdquo;项目的研制。发表学术论文2篇；参与《Handbook of Mobile Learning》一书的编写工作。<br />
+	<br />
+	　　<strong><strong><strong></strong></strong>学院工作</strong><br />
+	　　辅助院长的教学事务处理工作；负责学院机房和网络设备的管理工作；担任两个班的班主任工作；负责&ldquo;中法教育合作联盟&rdquo;和北京市&ldquo;卓越工程师教育培养计划&rdquo;高校联盟的成立筹备工作，先后组织举办5次相关工作会议。组织&ldquo;2010智慧城市-中法信息学术研讨会&rdquo;、&ldquo;2011巴黎智慧城市学术研讨会&rdquo;和&ldquo;北航-中央理工学术研讨会智慧城市分会&rdquo;等三次国际学术研讨会。邀请法国专家来华访问1次，授课1门，联合培养博士生2人。</p>
+                
+                <br>
+                <div class="panel1_cont_guding">
+                    <p>以上是<a
+                            href="http://www.juyingonline.com:80/"
+                            title="聚创考研网"
+                            target="_blank">聚创考研网</a>为考生整理的"北航计算机应用技术专业导师介绍：殷传涛"的相关考研信息，希望对大家考研备考有所帮助！
+                        备考过程中如有疑问，也可以添加老师<span class="clan">微信juchuang114</span>进行咨询。
+                    </p>
+
+                    <p style="color: black">免责声明：本网站发表的部分公开资料来源于互联网，目的在于传递更多信息及用于网络分享，并不代表本站赞同其观点和对其真实性负责。</p>
+                    <p>
+                        
+                    </p></div>
+                <img src="http://www.juyingonline.com:80//static/front/images/right/gongzonghao.png" class=""
+                     alt="聚创考研网官方微信"/>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <div class="weibo-div-guanzhu">
+                    <wb:follow-button uid="5406888190" type="red_3" width="136" height="24"></wb:follow-button>
+                </div>
+                <div id="baidu-share" style="width:222px;margin:0 auto 15px auto;">
+                    <div class="bdsharebuttonbox"><span class="bds_more" style="background:none;">分享：</span><a href="#"
+                                                                                                               class="bds_more"
+                                                                                                               data-cmd="more"></a><a
+                            href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#"
+                                                                                               class="bds_tsina"
+                                                                                               data-cmd="tsina"
+                                                                                               title="分享到新浪微博"></a><a
+                            href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#"
+                                                                                               class="bds_douban"
+                                                                                               data-cmd="douban"
+                                                                                               title="分享到豆瓣网"></a><a
+                            href="#" class="bds_isohu" data-cmd="isohu" title="分享到我的搜狐"></a></div>
+                    <script>window._bd_share_config = {
+                        "common": {
+                            "bdSnsKey": {},
+                            "bdText": "",
+                            "bdMini": "1",
+                            "bdMiniList": false,
+                            "bdPic": "",
+                            "bdStyle": "0",
+                            "bdSize": "16"
+                        },
+                        "share": {},
+                        "selectShare": {
+                            "bdContainerClass": null,
+                            "bdSelectMiniList": ["weixin", "tsina", "qzone", "douban", "isohu"]
+                        }
+                    };
+                    with (document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=' + ~(-new Date() / 36e5)];</script>
+                </div>
+            </div>
+        </div>
+        <!--上下翻篇-->
+        <div class="fanpian clear font12">
+            
+                <a class="fl c666"
+                   href="http://www.juyingonline.com:80/school/143971.html">上一篇：北航计算机应用技术专业导师介绍：舒敏</a>
+            
+            
+            <div class="shuxian"></div>
+            
+                <a class="fl c666"
+                   href="http://www.juyingonline.com:80/school/143973.html">下一篇：北航计算机应用技术专业导师介绍：杜跃进</a>
+            
+            
+        </div>
+        
+        
+        
+    </div>
+    <div class="panel2_right fr">
+        
+        <!--辅助工具-->
+        <div class="fz_gongju mgt">
+            <div class="title font16">辅助工具</div>
+            <ul class="hidden">
+                <li><a href="http://www.juyingonline.com:80/school" target="_blank" class="font14 c666">院校库查询</a></li>
+                <li><a href="http://www.juyingonline.com:80/#kaoyanlc" target="_blank" class="font14 c666">考研流程</a></li>
+                <li><a href="http://www.juyingonline.com:80/#kaoyanxx" target="_blank" class="font14 c666">考研信息</a></li>
+                <li><a href="http://www.juyingonline.com:80/#ziliaoxz" target="_blank" class="font14 c666">资料下载</a></li>
+                <li><a href="http://www.juyingonline.com:80/#beikaozd" target="_blank" class="font14 c666">备考指导</a></li>
+                <li><a href="http://www.juyingonline.com:80/#fuxitj" target="_blank" class="font14 c666">复试调剂</a></li>
+                <li><a href="http://www.juyingonline.com:80/#kaoyants" target="_blank" class="font14 c666">考研图书</a></li>
+            </ul>
+        </div>
+        <!--广告位1-->
+        
+        <!--学习QQ群-->
+        <div class="qun_qq">
+            <div class="title">
+                <div class="fl font16 clan">学习QQ群</div>
+                <a href="http://www.juyingonline.com:80/qqgroup"
+                   target="_blank" class="fr font12 c999">MORE</a>
+            </div>
+            <ul class="hidden">
+                
+                
+                    
+                        <li>
+                            <div class="fl">21考研复试交流学习群</div>
+                            <div class="fr"><a target="_blank" href="https://jq.qq.com/?_wv=1027&k=TetOUs2h"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="21考研复试交流学习群" title="21考研复试交流学习群"></a></div>
+                        </li>
+                    
+                        <li>
+                            <div class="fl">聚创考研22粉丝交流群</div>
+                            <div class="fr"><a target="_blank" href="https://jq.qq.com/?_wv=1027&k=BdNLhMxr"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="聚创考研22粉丝交流群" title="聚创考研22粉丝交流群"></a></div>
+                        </li>
+                    
+                
+
+                
+
+            </ul>
+        </div>
+        <!--浏览记录-->
+        <div class="jilu_liulan">
+            <div class="title">
+                <div class="fl font16 clan">浏览记录</div>
+                <a href="http://www.juyingonline.com:80/daoshi"
+                   target="_blank" class="fr font12 c999">MORE</a>
+            </div>
+            <ul class="hidden">
+                
+                    <li>
+                        <a href="http://www.juyingonline.com:80/school/143765.html"
+                           title="北京航空航天大学可靠性与系统工程学院导师介绍：洪晟" target="_blank" class="font12 c666">北京航空航天大学可靠性与系统工程学院导师介绍：洪晟</a></li>
+                
+                    <li>
+                        <a href="http://www.juyingonline.com:80/school/143769.html"
+                           title="北京航空航天大学电子信息工程学院导师介绍：白琳" target="_blank" class="font12 c666">北京航空航天大学电子信息工程学院导师介绍：白琳</a></li>
+                
+                    <li>
+                        <a href="http://www.juyingonline.com:80/school/143774.html"
+                           title="北京航空航天大学电子信息工程学院导师介绍：丁文锐" target="_blank" class="font12 c666">北京航空航天大学电子信息工程学院导师介绍：丁文锐</a></li>
+                
+                    <li>
+                        <a href="http://www.juyingonline.com:80/school/143779.html"
+                           title="北京航空航天大学电子信息工程学院导师介绍：伍前红" target="_blank" class="font12 c666">北京航空航天大学电子信息工程学院导师介绍：伍前红</a></li>
+                
+            </ul>
+        </div>
+        <!--浏览过该网页的还看了-->
+        
+
+
+			<div class="kc_wenti fr">
+            <div class="kc_wenti_tit font16 c000 ">
+                <div class="fl bg_all"></div>
+                <span class="fl">浏览过该网页的还看了</span>
+                <a href="http://www.juchuang2021.com/" class="fr clan font14 more">MORE</a>
+            </div>
+            <ul>
+            
+                <li>
+                    <img alt="" src="http://www.juchuang2021.com/upload/201909/06/201909060942070910.jpg" class="fl">
+                    <div class="fr cont font12 c666">
+                        <p>2022考研形势分析及备考规划</p>
+                        <div class="btn font12">
+                            <a href="http://www.juchuang2021.com/fudaoban/detail/298489" target="_blank" class="fl clan">免费试听</a> <a href="http://www.juchuang2021.com/fudaoban/detail/298489" class="fr c999">￥9.90</a>
+                        </div>
+                    </div>
+                </li>
+                
+                <li>
+                    <img alt="" src="http://www.juchuang2021.com/upload/202101/12/202101121426259548.jpg" class="fl">
+                    <div class="fr cont font12 c666">
+                        <p>2022考研数学基础通关班</p>
+                        <div class="btn font12">
+                            <a href="http://www.juchuang2021.com/fudaoban/detail/298636" target="_blank" class="fl clan">免费试听</a> <a href="http://www.juchuang2021.com/fudaoban/detail/298636" class="fr c999">￥99.00</a>
+                        </div>
+                    </div>
+                </li>
+                
+                <li>
+                    <img alt="" src="http://www.juchuang2021.com/upload/202012/24/202012241600115406.jpg" class="fl">
+                    <div class="fr cont font12 c666">
+                        <p>2022考研英语基础通关班</p>
+                        <div class="btn font12">
+                            <a href="http://www.juchuang2021.com/fudaoban/detail/298637" target="_blank" class="fl clan">免费试听</a> <a href="http://www.juchuang2021.com/fudaoban/detail/298637" class="fr c999">￥99.00</a>
+                        </div>
+                    </div>
+                </li>
+                
+            </ul>
+        </div>
+        <!--                      <div class="kc_wenti fr">
+                    <div class="kc_wenti_tit font16 c000 ">
+                        <span class="fl">新浪微博</span>
+                    </div>
+                        <iframe width="100%" height="492" class="share_self" frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&amp;width=0&amp;height=495&amp;fansRow=1&amp;ptype=1&amp;speed=0&amp;skin=9&amp;isTitle=0&amp;noborder=0&amp;isWeibo=1&amp;isFans=0&amp;uid=5406888190&amp;verifier=7f45079e&amp;dpc=1"></iframe>
+                </div> -->
+    </div>
+</section>
+
+<!--网页底部 公共部分开始 全网共用-->
+
+
+
+<footer class="main_footer main_footer1 clear">
+    <div class="w11 tc cfff">
+        <p>公司名称：厦门市思明区聚创教育培训中心&nbsp;&nbsp;地址：厦门市集美区珩山街993号</p>
+        <p>闽ICP备17024727号-1&nbsp;&nbsp;<a target="_blank"
+                                          href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=35020302001452">闽公网安备
+            35020302001452号</a></p>
+        <p>版权所有&nbsp;&copy;2016-2020&nbsp;http://www.juyingonline.com/</p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </div>
+</footer>
+<footer class="main_footer2"></footer>
+
+
+
+
+<link href="http://www.juyingonline.com:80//static/front/Css/Share1.css" rel="stylesheet"/>
+
+<ul class="return_kefu">
+    <li>
+        <a href="https://hztk5.kuaishang.cn/bs/im.htm?cas=118909___563947&fi=132536" target="_blank">
+            <img src="http://www.juyingonline.com:80/static/front/images/right/kefu.jpg" alt="">
+        </a>
+
+    </li>
+    <li>
+        <img src="http://www.juyingonline.com:80/static/front/images/right/qq.jpg" alt="511916342" class="mobile-qq">
+        <p class="mobile-qq-p" >511916342</p>
+    </li>
+    <li>
+        <img src="http://www.juyingonline.com:80/static/front/images/right/mobile.jpg" alt="13306030226" class="mobile-image">
+        <p class="mobile-p" >13306030226</p>
+    </li>
+
+    <li>
+        <img src="http://www.juyingonline.com:80//static/front/images/index2/xuanfu_weixin.jpg" alt="聚创考研网校微信" class="xuanfu_weixin">
+        <img src="http://www.juyingonline.com:80//static/front/images/right/weixin.jpg" alt="聚创考研网校微信" class="xuanfu_weixin1">
+    </li>
+
+
+</ul>
+
+<div class="return_top">
+    <img src="http://www.juyingonline.com:80//static/front/images/index2/return_top.png">
+</div>
+<script src="http://www.juyingonline.com:80//static/front/js/Index2/jquery-1.9.1.min.js"></script>
+<script type="text/javascript">
+    $(function () {
+        $('.return_top').bind('click', function () {
+            $(window).scrollTop(0);
+        });
+    });
+</script>
+
+
+
+
+
+<!--全网共用-->
+<!--搜索下拉框-->
+<script src="http://www.juyingonline.com:80//static/front/js/Index2/jquery-1.9.1.min.js"></script>
+<script src="http://www.juyingonline.com:80//static/front/js/Index2/jquery.selectlist.js"></script>
+<script type="text/javascript">
+    $(function () {
+
+        $("select[name='searchType']").selectlist({
+            zIndex: 100
+        });
+    })
+</script>
+<!--搜索下拉框 end-->
+<!--二级导航-->
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("ul.nav li").hover(function () {
+                $(this).addClass("on");
+            },
+            function () {
+                $(this).removeClass("on");
+            })
+    });
+</script>
+<script type="text/javascript">
+    $(function () {
+        $('.return_top').bind('click', function () {
+            $(window).scrollTop(0);
+        });
+    });
+</script>
+
+<!-- 百度流量统计 -->
+
+<script>
+    var _hmt = _hmt || [];
+    (function () {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?bf62bcb832a6e7599524822c461271a5";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+<!-- 自动推送 -->
+<script>
+    (function () {
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        }
+        else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+<!-- 360 -->
+<script>(function () {
+    var src = (document.location.protocol == "http:") ? "http://js.passport.qihucdn.com/11.0.1.js?ff4f125bf187547efbef05cd9ccce433" : "https://jspassport.ssl.qhimg.com/11.0.1.js?ff4f125bf187547efbef05cd9ccce433";
+    document.write('<script src="' + src + '" id="sozz"><\/script>');
+})();
+</script>
+<!--全网共用  end-->
+</body>
+</html>
+ 

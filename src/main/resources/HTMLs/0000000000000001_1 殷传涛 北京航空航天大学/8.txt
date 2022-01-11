@@ -1,0 +1,458 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>向榜样致敬——中法工程师学院获多项荣誉-新闻网</title><META Name="keywords" Content="新闻网,校园风采,向" />
+<META Name="description" Content="北航新闻网7月13日电（通讯员 陈静）为纪念中国共产党成立 97 周年，北京航空航天大学党委对先进分党委、先进党支部、优秀共产党员、优秀党务工作者、优秀党支部书记进行了表彰，中法工程师学院获得两项个人荣誉，一项集体荣誉。徐平教授被评为 “优秀共产党员”、“共产党员十杰”；殷传涛副教授被评为“优秀共产党员”；2014级本科生党支部开展的以“站稳鲜明的政治立场”为主线的一系列活动荣获优秀党日活动三等奖。..." />
+
+<link rel="stylesheet" type="text/css" href="../../dfiles/12596/dfiles/12596/css/headerfooter.css" />
+<link rel="stylesheet" type="text/css" href="../../dfiles/12596/dfiles/12596/css/style.css" />
+<script type="text/javascript" src="../../dfiles/12596/dfiles/12596/js/js.js"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../dfiles/12596/_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../dfiles/12596/_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e7847545254574503060004 -->
+<link rel="stylesheet" type="text/css" href="../../dfiles/12596/content.vsb.css" />
+
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e78475c52555742000000034754 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1004,'/content.jsp',44683,1405936382)</script>
+</head>
+
+<body>
+
+
+    
+<div class="header auto">
+        <div class="headerbox w1102">
+             <div class="logo auto">
+            
+            
+          
+
+
+
+<a href="../../index.htm"><img src="../../dfiles/12596/images/logo.png" /></a>
+            
+            
+            </div>
+            <div class="search auto">
+          
+
+<script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode50866').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey50866").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey50866").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey50866").value = base64.encode(document.getElementById("lucenenewssearchkey50866").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode50866"));
+        return true;
+    } 
+</script>
+<form action="../../ssjg.jsp?wbtreeid=1004" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkey50866" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype50866" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope50866" name="searchScope" value="1">
+
+<input name="showkeycode" id="showkeycode50866" class="searchtext">
+<input type="submit" class="searchsub" value="">
+</form>
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+
+
+
+
+            </div>
+            <div class="topnav auto">
+                
+                
+                
+                
+                   <script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><a href="http://www.buaa.edu.cn/">北航官网</a>
+<a href="http://oldnews.buaa.edu.cn/">旧版新闻网</a>
+<a href="http://ev.buaa.edu.cn/">ENGLISH</a>
+<a href="http://i.buaa.edu.cn/">IHome</a>
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+    
+<div class="nav auto">
+        <div class="navbox w1102">
+            <ul>
+    <li><a href="../../index.htm">首页</a></li>
+    <li><a href="../../zhxw.htm">综合新闻</a></li>
+    <li><a href="../../ztxw_new.htm">专题新闻</a></li>
+    <li><a href="../../bhrw.htm">北航人物</a></li>
+    <li><a href="../../xyfc_new.htm" class="current">校园风采</a></li>
+    <li><a href="../../kjzx_new.htm">科教在线</a></li>
+    <li><a href="../../mtbh_new.htm">媒体北航</a></li>
+    <li><a href="../../gybh_new.htm">光影北航</a></li>
+    <li><a href="../../spxw1.htm">视频新闻</a></li>
+    <li><a href="../../wyyd_new.htm">文艺园地</a></li>
+    <li><a href="../../xxgg_new.htm">信息公告</a></li>
+    <li><a href="../../xsjwhhd_new.htm">学术及文化活动</a></li>
+    <li><a href="http://10.111.3.83/system/contribute/loginnew.jsp">网上投稿</a></li>
+</ul>
+        </div>
+    </div>      
+    
+    <div class="subnav auto">
+        /<span>
+
+
+
+校园风采</span>
+    </div>
+    
+    <div class="main w1102">
+        
+       <script language="javascript" src="../../dfiles/12596/_dwr/interface/newsvotedwr.js"></script><script language="javascript" src="../../dfiles/12596/_dwr/engine.js"></script><script language="javascript" src="../../dfiles/12596/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(42574,'1323473998','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><link href="../../dfiles/12596/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="../../dfiles/12596/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><script language="javascript" src="../../dfiles/12596/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+
+
+
+
+ 
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><LINK href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><div class="newsleft auto">
+            <div class="newslefttit auto">
+                <h1>向榜样致敬——中法工程师学院获多项荣誉</h1>
+            </div>
+            <div class="newsleftcon auto">
+                <div class="newsleftconmes auto">
+                    <p><span class="lf"></span><span class="ri">点击数:<script>_showDynClicks("wbnews", 1405936382, 44683)</script>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;加入时间:2018-07-13</span></p>
+                </div>
+                <div class="newsleftconbox auto" id="vsb_content">
+               <div id="vsb_content"><div class="v_news_content">
+<p class="vsbcontent_start"><strong><span style="font-size: 14px">北航新闻网7月13日电（通讯员 陈静）</span></strong>为纪念中国共产党成立 97 周年，北京航空航天大学党委对先进分党委、先进党支部、优秀共产党员、优秀党务工作者、优秀党支部书记进行了表彰，中法工程师学院获得两项个人荣誉，一项集体荣誉。徐平教授被评为 “优秀共产党员”、“共产党员十杰”；殷传涛副教授被评为“优秀共产党员”；2014级本科生党支部开展的以“站稳鲜明的政治立场”为主线的一系列活动荣获优秀党日活动三等奖。</p>
+<p style="text-align: center">
+ <img width="546" src="/__local/A/E7/78/F0262AF8C285FD6706F28F3D936_10CA4C90_7855D.png" vsbhref="vurl" orisrc="/__local/A/E7/78/F0262AF8C285FD6706F28F3D936_10CA4C90_7855D.png" vurl="/_vsl/AE778F0262AF8C285FD6706F28F3D936/10CA4C90/7855D" vheight="" vwidth="546" class="img_vsb_content"></p>
+<p>徐平于1985年加入中国共产党，1990年进入北京航空航天大学工作，现任中法工程师学院教授、副院长、党委委员。他一直以党员的身份严格要求自己，并起到先锋模范作用；在思想和作风上自律自省，在工作中勇于探索创新，乐于奉献，团结同志，关爱学生，受到了师生的一致好评，获得过北京市师德先进个人、北京市教学名师、国家教学成果二等奖、北京市教学成果一等奖、宝钢优秀教师奖等奖励。作为一名大学时代就加入中国共产党、从学生党员成长起来的教师党员，徐平能准确把握学生的思想特点，做好学生的学业指导和与家长沟通工作，有效保证了试点学院教学改革和人才培养模式探索创新的顺利进行。他深入学习宣传贯彻党的十九大精神，认真学习习近平新时代中国特色社会主义思想，并结合实际工作，积极倡导和践行引进、消化吸收、发展创新的建设理念，努力打造具有北航特色的国际化工程师学院；大局意识和守土意识强，在协调处理中外合作办学过程中的各类问题时，能从学生利益、学校利益、国家利益出发，根据学院的办学实际，配合院长做好分管的教学、人事等各项工作。徐平勇于探索创新，在教学和人才培养模式改革等方面取得了突出的成绩。他在担任中法工程师学院研究生教学副院长期间，与法方专家和同事们通力合作，主持首次完成了融合中法两种教学模式、具有鲜明北航特色的研究生培养方案，有效保障了首届学生顺利毕业并获得硕士和工程师证书；在担任实验中心负责人和本科教学副院长期间，在课程建设、工程师培养模式探索等方面取得显著成果：引进并发展完善了法国工程师培养模式基础物理实验课程体系和工业科学实验课程体系，并在北航和北京市部分高校推广应用；初步实现了法国通用工程师与我国硕士培养体系的融合；对法国预科体系与我国本科培养体系的融合及发展完善起到了关键推进作用。他在中法学院和物理学院主讲了3门本科生和2门研究生课程，能结合学生专业特点对教学内容和方法进行改革发展；主持过3项省部级以上教改项目，发表教改论文30多篇，参与出版教材和专著7部。</p>
+<p>殷传涛于2010年8月进入北京航空航天大学中法工程师学院，任学院专业教师，学院教职工党支部书记，学院信息专业负责人，学院创新团队项目负责人。殷传涛同志努力刻苦，以党员的身份严格要求自己，在教学和科研中勇于创新，在党支部和学院管理工作中一丝不苟、热情奉献，热爱同学，关爱同事，受到了大家的高度认可，在历次年终考核中，均获得校级优秀和院级优秀评价。自2017年3月起开始担任党支部书记之后，他认真带领支部成员做好“三会一课”，推进“两学一做”学习教育常态化，配合落实中央巡视整改工作，大力宣传“反腐倡廉”，深入学习全国高校思政工作会议精神，强化教职工思想政治工作意识，深入开展学习宣传贯彻党的十九大精神，认真学习习近平新时代中国特色社会主义思想，认真履行基层党建职责，规范党支部建设工作。同时，他在支部活动中，注意形式多样、灵活多变，结合学院教学业务，体现国际化学院特色，并重视新媒体和网络平台的作用，取得了良好的效果，使得党支部的凝聚力大大增强。殷传涛主讲和参与了7门本科及研究生课程，并在教学过程中注重中、英、法三种语言的配合。在教学过程之中，他与同事配合默契，形成了良好的国际合作关系和模式，并承担学院的信息方向负责人、创新团队项目负责人等多项教学管理职务。承担了本科和研究生教改项目10余项，发表多篇教改论文。在科研工作上，他辛勤工作，大胆创新，承担科研项目与课题10余项，发表国际期刊和会议论文20多篇。他在教学和科研工作中，始终热爱学生，把学生的诉求和利益放在第一位。同时，在工作中，他诚实谦和，宽容忍让，热情友好地对待每一位同事，时刻准备着在工作和生活中帮助他人。</p>
+<p>徐平和殷传涛拥党爱党，为人勤勉踏实，待人谦和真诚，爱岗敬业，勇于探索，受到了师生们的广泛好评，成为了党员和群众心中共同的优秀共产党员。</p>
+<p>学院2014级本科生党支部从2017年6月起，开展了以“站稳鲜明的政治立场”为主线的一系列活动。借助互联网优势平台，开展了线上和线下结合的理论学习。包括观看十九大直播，举办讨论交流会，组织观看高宁老师的网络直播，聆听高宁老师从理论层面解读十九大报告精神。邀请研究生党支部书记朱博康为支部成员做了主题为“全面从严治党”的党课。组织观看习近平总书记在北京大学师生座谈会上的讲话和在马克思诞辰两百周年大会上的讲话视频，举办了交流分享会并撰写感想心得。在实践活动中，党支部组织支部成员观看“砥砺奋进的五年”成就展，参加北航首届学生党支部组织力大赛并获得了三等奖。举办时政讨论会并策划开展以“马克思经典理论学习”为主题的党小组读书会活动，让支部成员党的理论知识认识更加深刻，理解更加透彻，眼界更加宽广。在遇到网络舆论时，能够以正确的方式表达自己的意见，能够时刻牢记自身的党员身份，能够站稳自己的政治立场，时时刻刻跟着党中央的步伐，在实践中检验和发展真理。2014级本科生党支部的情况比较特殊，有很多党员同志正在国外留学。在国外生活和学习的过程中，都能坚定表明自己的党员身份，明确自身的政治立场，心系祖国，在国外发好中国声音、讲好中国故事、传递好中国能量、塑造好中国形象。不忘初心，牢记使命，不负重托，永葆党员纯洁本质。</p>
+<p class="vsbcontent_end">学院将通过大力宣传获奖同志和集体的先进事迹，通过向榜样学习，充分发挥先进典型示范作用，引导和激励广大共产党员、党务工作者继续加强党性修养，改进工作作风，做合格党员，当时代先锋，彰显共产党人的本色，不断凝聚见贤思齐、争创一流的正能量。</p>
+<p class="vsbcontent_end" style="text-align: right">编辑：宋超</p>
+</div></div><div id="div_vote_id"></div>
+                </div>
+            </div>
+            
+        </div>
+<!--leftOver-->
+        
+        <div class="newsright auto">
+            
+            <div class="newsright1 auto">
+                <a href="#" onclick="javascript:window.print()">打印</a>
+                <script type="text/javascript"><!--
+var SubjectLine=''+top.location.href; 
+var BodyText='Address:'+top.location.href;
+var Message='<A CLASS=tomail HREF="mailto:?SUBJECT='+escape(SubjectLine)+'&BODY='+escape(BodyText)+'" OnMouseOver="status=\'\'; return true;" TITLE="">发送邮件<\/A>';
+var MessageIE='<A CLASS=tomail HREF="mailto:?SUBJECT='+(SubjectLine)+'&BODY='+(BodyText)+'" OnMouseOver="status=\'\'; return true;" TITLE="">发送邮件<\/A>';
+if(document.all) { document.write(MessageIE); }
+else { document.write(Message); }
+//--></script> 
+            </div>
+            
+            <div class="newsright2 auto">
+                <div class="newsright2tit auto">分享</div>
+                <div class="newsright2con auto">
+                    <div class="bdshare"> <span style="float:left"><a href="#"><img src="../../dfiles/12596/dfiles/12596/images/shareicon1.jpg" /></a></span>
+<div class="bshare-custom"><div class="bsPromo bsPromo2"></div>
+<a title="分享到新浪微博" class="bshare-sinaminiblog" style="background: url(../../js/top_logos_sprite.png) no-repeat 0 -270px;"></a>
+<a title="分享到QQ空间" class="bshare-qzone" href="javascript:void(0);" style="background: url(../../js/top_logos_sprite.png) no-repeat 0 -234px;"></a>
+<a title="分享到人人网" class="bshare-renren" style="background: url(../../js/top_logos_sprite.png) no-repeat 0 -252px;"></a>
+<a title="分享到腾讯微博" class="bshare-qqmb" style="background: url(../../js/top_logos_sprite.png) no-repeat 0 -198px;"></a>
+<a title="分享到豆瓣" class="bshare-douban" href="javascript:void(0);" style="background: url(../../js/top_logos_sprite.png) no-repeat 0 -36px;"></a>
+<a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis" style="background: url(../../js/more-style-addthis.png) no-repeat;"></a></div>
+<script type="text/javascript" charset="utf-8" src="../../js/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh"></script>
+<script type="text/javascript" charset="utf-8" src="../../js/bshareC0.js"></script>
+                                                 
+                  </div>
+                </div>
+                
+            </div>
+
+
+
+        
+  
+
+</form>
+
+            
+            <div class="newsright3 auto">
+                <div class="newsright3tit auto"><img src="../../dfiles/12596/dfiles/12596/images/showsidetit.jpg" /></div>
+                <div class="newsright3con auto">
+                    <script language="javascript" src="/system/resource/js/centerCutImg.js"></script><ul>
+   <li>
+                                     <a href="../1002/53949.htm"><img src="/__local/0/DC/A2/18B2BAC48B16BCC357787063712_2611FEFE_34466.jpg" /></a> 
+         
+                                              
+                                               <p><a href="../1002/53949.htm" target="_blank" title="中央第十三巡视组巡视北京航空航天大学党委工作动员会召开">中央第十三巡视组巡视北京航空航天大学党委工作动员会召开</a></p>
+                        </li>
+<li>
+                                     
+         
+                                              
+                                               <p><a href="../1002/53940.htm" target="_blank" title="《北航学报（社科版）》重归CSSCI扩展版来源期刊">《北航学报（社科版）》重归CSSCI扩展版来源期刊</a></p>
+                        </li>
+<li>
+                                     
+         
+                                              
+                                               <p><a href="../1002/53938.htm" target="_blank" title="北航举办2021年教职工入党积极分子、预备党员培训班">北航举办2021年教职工入党积极分子、预备党员培训班</a></p>
+                        </li>
+<li>
+                                     
+         
+                                              
+                                               <p><a href="../1002/53939.htm" target="_blank" title="处级干部党史学习教育读书班首次交流研讨活动举办">处级干部党史学习教育读书班首次交流研讨活动举办</a></p>
+                        </li>
+</ul>
+<script>_showDynClickBatch(['dynclicks_u7_53949','dynclicks_u7_53940','dynclicks_u7_53938','dynclicks_u7_53939'],[53949,53940,53938,53939],"wbnews", 1405936382)</script>
+
+                </div>
+            </div>
+            
+        </div><!--rightOver-->
+        
+    </div><!--main1Over-->
+    
+    <div class="showmain2 w1102">
+        <div class="showmain2tit w1102">更多新闻</div>
+        <div class="showmain2left2box w1102">
+   <div class="main2left2box auto">
+                <div class="main2left2date auto">05
+月<br /><span>
+09
+</span></div>
+                <div class="main2left2img auto">
+<img src="/__local/0/DC/A2/18B2BAC48B16BCC357787063712_2611FEFE_34466.jpg" width="80" height="80" />
+</div>
+                <div class="main2left2text auto">
+                    <a href="../1002/53949.htm" target="_blank">            中央第十三巡视组巡视北京航空航天大学党委...
+    </a>
+                    <p></p>
+                    <span>点击数:<span id="dynclicks_u8_53949" name="dynclicks_u8_53949"></span><br />加入时间:2021-05-09</span>
+                </div>
+            </div>
+            
+
+             
+   <div class="main2left2box auto">
+                <div class="main2left2date auto">05
+月<br /><span>
+07
+</span></div>
+                <div class="main2left2img auto">
+<img src="/__local/1/19/CC/E135C2B08D8D8C432162C006668_812E23CA_5C7C7.jpg" width="80" height="80" />
+</div>
+                <div class="main2left2text auto">
+                    <a href="../1002/53940.htm" target="_blank">            《北航学报（社科版）》重归CSSCI扩展版来源...
+    </a>
+                    <p></p>
+                    <span>点击数:<span id="dynclicks_u8_53940" name="dynclicks_u8_53940"></span><br />加入时间:2021-05-07</span>
+                </div>
+            </div>
+            
+
+             
+   <div class="main2left2box auto">
+                <div class="main2left2date auto">05
+月<br /><span>
+07
+</span></div>
+                <div class="main2left2img auto">
+<img src="/__local/1/74/94/42D482C7A68CD975EA5A6BF134E_458BFBD6_DA07E.png?e=.png" width="80" height="80" />
+</div>
+                <div class="main2left2text auto">
+                    <a href="../1002/53938.htm" target="_blank">            北航举办2021年教职工入党积极分子、预备党...
+    </a>
+                    <p></p>
+                    <span>点击数:<span id="dynclicks_u8_53938" name="dynclicks_u8_53938"></span><br />加入时间:2021-05-07</span>
+                </div>
+            </div>
+            
+
+             
+   <div class="main2left2box auto">
+                <div class="main2left2date auto">05
+月<br /><span>
+07
+</span></div>
+                <div class="main2left2img auto">
+<img src="/__local/0/4B/91/6B9C8347BD17D3DF07813689BB3_A9CD86E3_156E1B.png?e=.png" width="80" height="80" />
+</div>
+                <div class="main2left2text auto">
+                    <a href="../1002/53939.htm" target="_blank">            处级干部党史学习教育读书班首次交流研讨活...
+    </a>
+                    <p></p>
+                    <span>点击数:<span id="dynclicks_u8_53939" name="dynclicks_u8_53939"></span><br />加入时间:2021-05-07</span>
+                </div>
+            </div>
+            
+
+             
+   <div class="main2left2box auto">
+                <div class="main2left2date auto">05
+月<br /><span>
+04
+</span></div>
+                <div class="main2left2img auto">
+<img src="/__local/D/90/51/F52F008EE29099E03082735DE21_2810B812_44CAA.jpg?e=.jpg" width="80" height="80" />
+</div>
+                <div class="main2left2text auto">
+                    <a href="../1002/53900.htm" target="_blank">            首届北航艺术节“唱支歌儿给党听”学生歌咏...
+    </a>
+                    <p></p>
+                    <span>点击数:<span id="dynclicks_u8_53900" name="dynclicks_u8_53900"></span><br />加入时间:2021-05-04</span>
+                </div>
+            </div>
+            
+
+             
+   <div class="main2left2box auto">
+                <div class="main2left2date auto">05
+月<br /><span>
+01
+</span></div>
+                <div class="main2left2img auto">
+<img src="/__local/1/19/CC/E135C2B08D8D8C432162C006668_812E23CA_5C7C7.jpg" width="80" height="80" />
+</div>
+                <div class="main2left2text auto">
+                    <a href="../1002/53899.htm" target="_blank">            领略老劳模风采 感悟新时代精神——记北航老...
+    </a>
+                    <p></p>
+                    <span>点击数:<span id="dynclicks_u8_53899" name="dynclicks_u8_53899"></span><br />加入时间:2021-05-01</span>
+                </div>
+            </div>
+            
+
+             
+   <div class="main2left2box auto">
+                <div class="main2left2date auto">04
+月<br /><span>
+30
+</span></div>
+                <div class="main2left2img auto">
+<img src="/__local/A/88/79/468AD3D6AA49D310DCA516620AB_B2A55060_66009C.jpg" width="80" height="80" />
+</div>
+                <div class="main2left2text auto">
+                    <a href="../1002/53898.htm" target="_blank">            我校召开分党委书记联席会 传达部署近期重点...
+    </a>
+                    <p></p>
+                    <span>点击数:<span id="dynclicks_u8_53898" name="dynclicks_u8_53898"></span><br />加入时间:2021-04-30</span>
+                </div>
+            </div>
+            
+
+             
+   <div class="main2left2box auto">
+                <div class="main2left2date auto">04
+月<br /><span>
+30
+</span></div>
+                <div class="main2left2img auto">
+<img src="/__local/C/9A/BE/4B8126C9D19F60707694AACC47F_6FD139AC_281AFA.jpg" width="80" height="80" />
+</div>
+                <div class="main2left2text auto">
+                    <a href="../1002/53897.htm" target="_blank">            北航2021年社会实践启动仪式暨第二届“中国...
+    </a>
+                    <p></p>
+                    <span>点击数:<span id="dynclicks_u8_53897" name="dynclicks_u8_53897"></span><br />加入时间:2021-04-30</span>
+                </div>
+            </div>
+            
+
+             
+</div><script>_showDynClickBatch(['dynclicks_u8_53949','dynclicks_u8_53940','dynclicks_u8_53938','dynclicks_u8_53939','dynclicks_u8_53900','dynclicks_u8_53899','dynclicks_u8_53898','dynclicks_u8_53897'],[53949,53940,53938,53939,53900,53899,53898,53897],"wbnews", 1405936382)</script>
+<script>_showDynClickBatch(['dynclicks_u7_42574','dynclicks_u7_42654','dynclicks_u7_42593','dynclicks_u7_42592','dynclicks_u7_42621','dynclicks_u7_42607','dynclicks_u7_42613','dynclicks_u7_42590'],[42574,42654,42593,42592,42621,42607,42613,42590],"wbnews", 1323473998)</script>
+
+    </div>
+    
+    <!--main2Over-->
+    
+    
+<div class="footertext auto">
+        <div class="copyright lf auto">
+         <!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>
+    版权所有&nbsp;2010&nbsp;北京航空航天大学&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://beian.miit.gov.cn" target="_blank" style="color:#323232;">京ICP备05004617</a>&nbsp;&nbsp;&nbsp;&nbsp;文保网安备案号1101080018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;地址：北京市海淀区学院路37号&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮编：100083&nbsp;&nbsp;电话：82317114
+</p>
+<div style="display: none;">
+    <script>var _hmt = _hmt || []; 
+(function() { 
+var hm = document.createElement("script"); 
+hm.src = "https://hm.baidu.com/hm.js?f2dfd8a15ace140a5d7c5f1bbc89b6b4"; 
+var s = document.getElementsByTagName("script")[0]; 
+s.parentNode.insertBefore(hm, s); 
+})();</script>
+</div>
+
+
+ <br />
+         
+         
+               
+ <a href="#" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1405936382, 3941)">网站地图</a>
+
+
+ <a href="#" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1405936382, 3942)">联系我们</a>
+
+
+ <a href="#" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1405936382, 3943)">版权隐私</a>
+
+
+ <a href="#" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1405936382, 3944)">友情链接</a>
+
+
+            
+            
+        </div>
+
+<div style="display:none">
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?f2dfd8a15ace140a5d7c5f1bbc89b6b4";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</div>
+    </div><script src="../../dfiles/12596/dfiles/12596/cms/web/d89b55b8e7ba7b4c6eb7565dc45864ba_writelog.jpg.js"></script>
+    
+</body></html>

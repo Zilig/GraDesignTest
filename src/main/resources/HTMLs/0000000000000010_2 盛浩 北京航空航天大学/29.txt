@@ -1,0 +1,1383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Cache-control" content="no-cache" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="format-detection" content="telephone=no" />
+<meta name="keywords" content="2015保研名单已出，北航计算机考研名额只剩80个,计算机考研" />
+<meta name="description" content=" 2015保研名单已出，北航计算机考研名额只剩80个 ,考研论坛" />
+<title>2015保研名单已出，北航计算机考研名额只剩80个_北京航空航天大学_考研论坛（kaoyan.com） -  手机版</title>
+
+<link rel="stylesheet" href="static/image/mobile/style.css" type="text/css" media="all">
+
+<link rel="stylesheet" href="static/image/mobile/assets/css/reset_m.css" type="text/css" media="all">
+<link rel="stylesheet" href="static/image/mobile/assets/css/common.css" type="text/css" media="all">
+<link rel="stylesheet" href="static/image/mobile/assets/css/style.css" type="text/css" media="all">
+
+<script src="static/js/mobile/jquery-1.8.3.min.js?gTt" type="text/javascript"></script>
+
+<script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'gTt', charset = 'utf-8', discuz_uid = '0', cookiepre = 'GgTR_e0c0_', cookiedomain = '.kaoyan.com', cookiepath = '/', showusercard = '0', attackevasive = '0', disallowfloat = 'nav|usergroups', creditnotice = '1|威望|,2|K币|元', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5rYW95YW4uY29tL3Q1NTI4OTQ4cDE=', SITEURL = 'http://bbs.kaoyan.com/', JSPATH = 'data/cache/';</script>
+
+<script src="static/js/mobile/common.js?gTt" type="text/javascript" charset="utf-8"></script>
+<script src="//img.kaoyan.com/js/statistics/bang.js" type="text/javascript"></script>
+<style>
+    
+
+    .fixed-top {
+      width: 100%;
+      height: 2.92rem;
+      background: #F2F7FF;
+      align-items: center;
+      justify-content: space-between;
+      box-sizing: border-box;
+      padding: 0 .426rem;
+      display: flex;
+      position: relative;
+      z-index: 999;
+      top: 0;
+      left: 0;
+    }
+
+    .fixed-top-left {
+      display: flex;
+      align-items: center;
+    }
+
+    .fixed-title {
+      /* font-size: .426rem; */
+      font-family: PingFangSC-Semibold, PingFang SC;
+      font-weight: 600;
+      color: #000000;
+      line-height: .64rem;
+    }
+
+    .fixed-text {
+      /* font-size: .373rem; */
+      font-family: PingFangSC-Regular, PingFang SC;
+      font-weight: 400;
+      color: #000000;
+      line-height: 21px;
+    }
+
+    .text-download {
+      width: 3.66rem;
+      height: 1.33rem;
+      background: #3394E7;
+      border-radius: .75rem;
+      display: block;
+      text-align: center;
+      line-height: 1.33rem;
+      /* font-size: .373rem; */
+      font-weight: 400;
+      color: #FFFFFF!important;
+      padding: .1rem;
+    }
+
+    .fixed-top-img {
+      width: 2.28rem;
+      height: 2.28rem;
+    }
+
+    .fixed-title {
+      margin-left: .213rem;
+    }
+</style>
+</head>
+
+<body class="bg">
+
+
+<style>
+.keyword {padding:0 10px;margin-bottom: 100px;}
+.keyword a{ background:#FFF;border: 1px solid #DDDDDD; color: #336699; display: inline-block; margin-bottom: 10px; margin-right: 10px; padding: 3px 10px; white-space: nowrap;}
+.keyword a:hover {background-color: none;}
+</style>
+<script type="text/javascript">
+$(document).ready(function() {
+var obj = $('#searchform');
+if(obj.length > 0) {
+var getstr = {mod:'search', srchtype:'title', srhfid:0, srhlocality:'forum::viewthread', source:'txt.form_nor.a', wap:'yes', fId:0};getstr.sId = '1645010';
+getstr.ts = '1621336923';
+getstr.cuId = '0';
+getstr.cuName = '';
+getstr.gId = '7';
+getstr.agId = '0';
+getstr.egIds = '';
+getstr.fmSign = '';
+getstr.ugSign7 = '';
+getstr.sign = 'a9d1132cdd5a20f67ea23bd4af8d55a0';
+getstr.charset = 'utf-8';
+
+var str = '';
+for(var i in getstr) {
+str += '<input type="hidden" name="'+ i +'" value="'+ getstr[i] +'">';
+}
+obj.append(str);
+obj.attr('action', 'http://search.bbs.kaoyan.com/f/discuz').attr('method', 'get');
+
+obj.on('submit', function() {
+obj.append('<input type="hidden" name="q" value="' + $('#scform_srchtxt').val() + '">');
+});
+
+
+var str = '';
+str += '<div class="keyword cl">';
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E5%A4%8F%E4%BB%A4%E8%90%A5&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">夏令营</a>';
+
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E4%BC%81%E4%B8%9A%E7%AE%A1%E7%90%86&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">企业管理</a>';
+
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E8%8B%B1%E8%AF%AD%E4%BA%8C&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">英语二</a>';
+
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E7%A7%9F%E6%88%BF&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">租房</a>';
+
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E5%BF%83%E7%90%86%E5%AD%A6&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">心理学</a>';
+
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E5%9C%A8%E8%81%8C%E7%A0%94%E7%A9%B6%E7%94%9F&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">在职研究生</a>';
+
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">考研英语二</a>';
+
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">考研政治</a>';
+
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">考研英语</a>';
+
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E5%8D%97%E4%BA%AC%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">南京财经大学</a>';
+
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E5%A4%8D%E4%B9%A0&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">考研英语复习</a>';
+
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E4%B8%AD%E5%A4%AE%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">中央财经大学</a>';
+
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E5%A4%8D%E4%B9%A0%E5%85%A8%E4%B9%A6&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">复习全书</a>';
+
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E7%BF%BB%E8%AF%91%E7%A1%95%E5%A3%AB&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">翻译硕士</a>';
+
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E4%B8%8A%E6%B5%B7%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">上海财经大学</a>';
+
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">考研数学</a>';
+
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E9%80%9A%E7%9F%A5%E4%B9%A6&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">通知书</a>';
+
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">行政管理</a>';
+
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E8%8B%8F%E5%B7%9E%E5%A4%A7%E5%AD%A6&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">苏州大学</a>';
+
+str += '<a href="http://search.bbs.kaoyan.com/f/discuz?q=%E6%95%99%E8%82%B2%E5%AD%A6&source=txt.hotsearch_nor.a&sId=1645010&ts=1621336923&cuId=0&cuName=&gId=7&agId=0&egIds=&fmSign=&ugSign7=&sign=a9d1132cdd5a20f67ea23bd4af8d55a0&charset=utf-8&wap=yes" target="_blank" sc="1">教育学</a>';
+
+str += '</div>';
+obj.after(str);
+
+}
+});
+</script>
+
+
+
+<!-- 下载app start -->
+<!-- <div class="down_app2" id="J_down_app">
+    <div class="inner">
+        <img class="logo" src="http://img.kaoyan.com/images/m/3g/logo_ky.png" alt="考研帮">
+        <span class="text">考研帮, 90%的考研人正在用</span>
+        <a href="http://bang.kaoyan.com/?c=32&amp;source=forumtop" name="【下载触发】论坛顶部"   class="btn_download"><span>打开看看</span></a>
+    </div>
+</div> -->
+<!-- 新顶部 -->
+  <div class="fixed-top">
+    <div class="fixed-top-left">
+      <img class="fixed-top-img" src="http://img.kybimg.com/bang/images/pc/attractPc/logo-radius.png" alt="">
+      <p class="fixed-title">
+        考研帮App <br />
+        <span class="fixed-text">百万考研人的学习聚集地</span>
+      </p>
+    </div>
+    <div class="fixed-top-right">
+      <a class="text-download" href="http://img.kybimg.com/bangxuetang/play/down_kyb.html?source=BTN_topbanner">立即下载</a>
+    </div>
+  </div>
+
+
+<!-- <div class="down_guide" id="J_down_guide">
+    <div class="inner">
+        <div class="btn_area">
+            <a href="#" class="btn_close">暂不使用</a>
+            <a href="http://bang.kaoyan.com/down?c=32" class="btn_use" target="_blank"><span>马上使用</span></a>
+        </div>
+    </div>
+</div> -->
+
+<script>
+if($('#J_down_app')[0]){
+    $('.btn_close','#J_down_app').on('click',function(e){
+        e.preventDefault();
+        $('#J_down_app').addClass('hide');
+    });
+}
+// if($('#J_down_guide')[0]){
+//     $('.btn_close','#J_down_guide').on('click',function(e){
+//         e.preventDefault();
+//         $('#J_down_guide').addClass('hide');
+//     });
+// }
+
+$(function(){
+      if(getQueryString("arguments")=="test"){
+        $(".fixed-top").show();
+        let objHeight = $(".fixed-top").height();
+
+        $(document).on('scroll',function(){
+          let scrolltopTemp = document.documentElement.scrollTop||document.body.scrollTop;
+          if(scrolltopTemp > objHeight) {
+            $(".fixed-top").css({ position:"fixed" });
+          } else {
+            $(".fixed-top").css({ position:"relative" });
+          }
+        })
+      }
+    })
+    function getQueryString(name){
+          var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+          var r = window.location.search.substr(1).match(reg);
+          if(r!=null)return  unescape(r[2]); return null;
+        }
+
+</script>
+<!-- 下载app end -->
+<!-- header start -->
+<div class="sub_header">
+    <a href="forum.php?mod=forumdisplay&fid=91&&amp;mobile=2"
+        class="btn_back">返回</a>
+    <span class="sub_head_title">
+        北京航空航天大学</span>
+    <!--<button id="replyid" class="btn_replay btn_pn_grey btn_pn_blue" disable="false"><span>回复</span></button>-->
+    <a href="forum.php?mod=post&amp;action=reply&amp;fid=91&amp;tid=5528948&amp;mobile=2"
+        class="btn_replay btn_pn_grey btn_pn_blue"><span>回复</span></a>
+</div>
+<!-- header end -->
+
+
+<div class="post_info">
+    <div class="post_main_title">2015保研名单已出，北航计算机考研名额只剩80个</div>
+    <div class="post_params clearfix">
+        <a href="forum.php?mod=forumdisplay&fid=91&&amp;mobile=2"
+            class="belong">来自：<span>
+                北京航空航天大学</span>
+            <strong>&gt;</strong></a>
+        <div class="post_tools">
+            <ul class="clearfix">
+                <!-- <li class="pinglun"><a href="javascript:;">评论</a></li> -->
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+<!-- main postlist start -->
+<div class="floor_list">
+                
+
+
+    <!-- 楼层 start -->
+    <div class="floor">
+        <div class="inner clearfix">
+            <div class="floor_info clearfix">
+                <span class="img_wrap">
+                    <img src="http://cdn2.kybimg.com/avatar/003/00/54/68_avatar_small.jpg"
+                        alt=""
+                        onerror="this.onerror=null;this.src='http://cdn2.kybimg.com/avatar/noavatar_small.gif'" />
+                </span>
+                <dl>
+                    <dt><a href="home.php?mod=space&amp;uid=3005468&amp;mobile=2" class="blue" >月牙天冲</a></dt>
+                    <dd>
+                        <span>
+                                                        楼主                                                                                </span>
+                        <span>
+                            2014-10-27 18:44                        </span>
+                    </dd>
+                </dl>
+                <div class="post_tools">
+
+                    <ul class="clearfix">
+                        
+                        <li id="replybtn_52767744" class="pinglun replybtn" display="true">
+                            <input type="button" class="redirect button"
+                                href="forum.php?mod=post&amp;action=reply&amp;fid=91&amp;tid=5528948&amp;repquote=52767744&amp;extra=&amp;page=1&amp;mobile=2"
+                                value="回复">
+                        </li>
+
+
+
+
+                    </ul>
+                </div>
+            </div>
+            <div class="message first_floor">
+
+                                                
+                                
+                                                                北航官方链接：<br />
+<br />
+2015北航计算机学院保送生名单公示<br />
+<br />
+<br />
+&nbsp; &nbsp;&nbsp; &nbsp; <strong>北航计算机学院接收2015推免研究生名单</strong><br />
+<br />
+<br />
+<table><tr><td><div align="center"><font face="宋体"><font size="3">姓名</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">性别</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">母校名称</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">录取类别</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">面试成绩</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">导师姓名</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">拟录取专业</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">曹英杰</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">139</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">李建欣</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">陈欢</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">中南大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">135</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">牛建伟</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">陈强</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">四川大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">139</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">王蕴红</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">仇宇星</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">145</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">赵沁平</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">杜炼</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">138</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">沃天宇</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">杜绍敏</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">太原理工大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">123</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">梁晓辉</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">符阳</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">四川大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">139</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">孙海龙</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">付强</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">135</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">李未</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">软件工程</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">顾育豪</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">138</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">白跃彬</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">顾泽鹏</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">144</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">李未</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">软件工程</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">黄剑锟</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">139</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">吴文峻</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">黄新越</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">137</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">张莉</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">软件工程</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">姜楠</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">浙江工业大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">137</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">荣文戈</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">李鹤兮</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">女</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">四川大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">134</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">吴威</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">李嘉艺</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">女</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北京交通大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">135</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">晏海华</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">软件工程</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">李晓聪</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北京交通大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">141</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">张莉</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">软件工程</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">李璇</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">女</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">西南交通大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">138</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">吴际</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">软件工程</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">李雪</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">145</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">怀进鹏</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">李莹莹</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">女</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">河北工业大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">122</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">马帅</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">李紫豪</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">137</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">栾钟治</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">梁明月</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">141</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">李舟军</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">林硕</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">河北工业大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">134</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">韩军</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">刘飞鹏</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">四川大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">136</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">王莉莉</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">刘伟麟</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">大连理工大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">131</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">熊璋</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">刘阳</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">135</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">熊璋</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">栾贝迪</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北京航空航天大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">122</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">李舟军</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">毛凯莉</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">137</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">牛建伟</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">秦晶杰</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">139</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">刘旭东</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">戎烈烽</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">浙江工业大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">124</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">许可</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">宋宜豪</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">吉林大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">136</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">郭华</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">苏涛</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">内蒙古大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">120</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">王莉莉</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">孙晓阳</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">郑州大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">131</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">胡春明</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">谭特</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">西安电子科技大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">137</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">尚力宏</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">滕延林</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">139</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">郎波</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">软件工程</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">王皓悦</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">140</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">怀进鹏</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">王惠群</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">136</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">王蕴红</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">王婧仪</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">135</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">怀进鹏</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">王旭阳</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">141</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">怀进鹏</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">王宇杰</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">南京理工大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">138</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">冷彪</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">魏萍</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">女</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">电子科技大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">137</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">巢文涵</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">吴渊渊</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">133</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">丁嵘</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">夏正林</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">144</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">刘旭东</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">邢畅</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">140</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">吴威</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">燕保跃</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">东北大学信息科学与工程学院</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">135</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">龙翔</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">杨帆</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">135</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">马世龙</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">软件工程</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">杨志刚</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北京化工大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">130</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">吴壮志</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">余锋伟</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">141</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">史晓华</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">软件工程</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">袁政</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">141</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">李舟军</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">原菁菁</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">女</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">中央民族大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">137</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">郝爱民</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">原铭</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">139</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">李舟军</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">张墨涵</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">中国地质大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">129</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">夏春和</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">张绍铭</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">133</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">刘旭东</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">张晓鹏</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">山东大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">120</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">张辉</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">张恿</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">144</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">徐洁</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">周萱</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">134</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">吴文峻</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">周彧聪</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">137</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">刘轶</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">朱金海</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">134</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">马帅</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">朱润凯</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">学术硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">136</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">赵沁平</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机科学与技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">常久龙</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">大连理工大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">102</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">肖利民</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">陈汉腾</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">123</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">李建欣</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">陈溪</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">女</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">华北电力大学（北京）</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">119</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">马世龙</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">陈兴岳</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">125</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">王蕴红</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">葛凌宇</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">129</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">白跃彬</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">贺薇</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">女</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北京交通大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">109</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">张日崇</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">胡京徽</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">131</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">刘超</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">李经纬</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">130</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">许可</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">李鸣盛</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">东北大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">124</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">李欢</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">李旭桥</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">127</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">李超</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">梁野</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">131</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">吕卫锋</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">林剑颖</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">汕头大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">136</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">刘瑞</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">刘俊琦</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">127</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">周忠</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">刘赟</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">四川大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">118</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">张小明</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">孟方旭</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">四川大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">118</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">陈小武</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">齐之平</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">129</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">牛建伟</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">秦林芳</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">女</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">吉林大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">120</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">熊桂喜</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">邵彬</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">西南交通大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">125</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">孙海龙</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">史胜阳</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">大连理工大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">95</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">唐文忠</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">唐翠</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">女</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">南京航空航天大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">125</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">欧阳元新</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">王福全</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北京交通大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">134</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">小李波</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">王涛</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北京航空航天大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">111</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">王静远</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">王元宏</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北京交通大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">118</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">蒲菊华</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">肖慧慧</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">女</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">安徽大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">125</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">李波</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">许凡</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">女</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">大连理工大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">97</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">百晓</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">闫德辉</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">127</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">郝爱民</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">于雷</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">128</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">龙翔</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">翟宜凯</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">女</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北京科技大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">127</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">沃天宇</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">张泽华</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北京航空航天大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">115</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">阮莉</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">赵腾</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">大连理工大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">105</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">曹庆华</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">赵羿帅</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">129</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">郎波</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">赵泽星</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">吉林大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">100</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">李波</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">周安</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">127</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">许可</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">周潇</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">女</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北京工业大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">专业学位硕士</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">120</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">盛浩</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">匡麒</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">直博</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">137</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">陈小武</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机应用技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">兰天</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">直博</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">141</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">怀进鹏</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机软件与理论</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">李嘉然</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">直博</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">140</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">怀进鹏</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机软件与理论</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">李龙</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">男</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北京理工大学</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">直博</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">141</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">陈小武</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机应用技术</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">李智</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">直博</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">135</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">李舟军</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机软件与理论</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">刘昊岩</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">直博</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">140</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">李舟军</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机软件与理论</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">刘宏宇</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">直博</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">140</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">郎波</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">软件工程</font></font></div></td></tr><tr><td><div align="center"><font face="宋体"><font size="3">骆煦芳</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">　</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">北航</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">直博</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">142</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">王蕴红</font></font></div></td><td><div align="center"><font face="宋体"><font size="3">计算机应用技术</font></font></div></td></tr></table><br />
+<br />
+备注：<font face="Verdana, Helvetica, Arial, sans-serif">以上共计<strong>100人</strong>（涉及的专业方向为：</font><strong>计算机科学与技术+软件工程+计算机技术</strong><font face="Verdana, Helvetica, Arial, sans-serif">），</font><br />
+<br />
+<font face="Verdana, Helvetica, Arial, sans-serif">此外，根据学院之前的官方文件，另有</font><strong>20人</strong><font face="Verdana, Helvetica, Arial, sans-serif">的 </font><strong><font color="#0000ff">网络信息与安全班</font></strong><font face="Verdana, Helvetica, Arial, sans-serif"> 也属于是</font><strong>推免保送</strong><font face="Verdana, Helvetica, Arial, sans-serif">名额，且大部分名额已划拨给了6系信息安全班的本校生（北航从11级开始在</font><strong>本科层次</strong><font face="Verdana, Helvetica, Arial, sans-serif">专门设立有一个信息安全班，培养模式与传统计算机学科不同，四年是单另培养的）。</font><br />
+<br />
+<font face="Verdana, Helvetica, Arial, sans-serif"><font size="3"><strong>因此：</strong></font></font><br />
+<br />
+<font size="4"><font style="background-color:rgb(249, 249, 249)"><font face="Verdana, Helvetica, Arial, sans-serif">2015招生简章公布的</font></font><font color="#0000ff"><font style="background-color:rgb(249, 249, 249)"><font face="Verdana, Helvetica, Arial, sans-serif">含保送生</font></font></font><font style="background-color:rgb(249, 249, 249)"><font face="Verdana, Helvetica, Arial, sans-serif">的</font></font><strong>180人</strong><font style="background-color:rgb(249, 249, 249)"><font face="Verdana, Helvetica, Arial, sans-serif"> — 计算机学院官网公布的保送人数</font></font><strong>100人</strong><font style="background-color:rgb(249, 249, 249)"><font face="Verdana, Helvetica, Arial, sans-serif"> <strong>= </strong></font></font><font style="background-color:rgb(249, 249, 249)"><font face="Verdana, Helvetica, Arial, sans-serif">考研招生人数 </font></font><strong><font color="#ff0000">80</font>人</strong><font style="background-color:rgb(249, 249, 249)"><font face="Verdana, Helvetica, Arial, sans-serif">（学硕+专硕）</font></font></font><br />
+<font face="Verdana, Helvetica, Arial, sans-serif"><font size="3"><font size="2"><br />
+</font></font></font><br />
+<font face="Verdana, Helvetica, Arial, sans-serif">P.S.</font><font face="楷体, 楷体_GB2312"> 网络安全班的20个<strong>推免保送</strong>名额，根据学院公告，<font color="#ff0000">已经划拨给了推免保送生</font>，并且是单另给出的，不算在招生简章公布的180人内。</font><br />
+<br />
+<font face="Verdana, Helvetica, Arial, sans-serif">另外，北航的软件学院，</font><strong>不接受</strong><font face="Verdana, Helvetica, Arial, sans-serif">任何形式的（双证硕士）调剂，只能一志愿报考。</font><font face="Verdana, Helvetica, Arial, sans-serif"><font size="3"><font size="2"><br />
+</font></font></font><br />
+<br />
+<br />
+<br />
+                                                <div>
+                    <div><a href="http://www.kaoyan.com/z2020/kaoyangaofen/?3gyilou" style="font-weight: bold;color: red;">速戳，考研高分上岸秘籍免费分享</a></div>                </div>
+                
+                
+                                                                    </div>
+                        <div class="watch_more" id="J_watch_more">
+                <span class="btn_wathc_more">阅读原文</span>
+                <div class="watch_more_cont">
+                    <div class="watch_txt">
+                                                关于<span class="watch_title">2015保研名单已出，北航计算机考研名额只剩80个</span>有<span
+                            class="watch_record">13</span>名研友在考研帮APP发表了观点。
+                                            </div>
+                    <a data-href="//img.kybimg.com/bangxuetang/play/down_kyb.html?source=BTN_bbsfirstfloor&amp;bbsid=5528948"
+                        data-type="firstfloor" name="【下载触发】论坛主贴下方" class="btn_download btn-sensor">下载考研帮，立即查看全部内容</a>
+                    <!-- <div class="watch_go">我有考研帮的，<a href="kaoyan://?act=club_subject&amp;id=5528948">打开看全文</a></div> -->
+                </div>
+            </div>
+            
+            <!-- 资料下载页 start -->
+            <!-- 这个模块在（休闲空间，kaoyan.com大家庭）板块不显示 -->
+                        <!-- 资料下载页 end -->
+
+                                                            <div class="main_floor_tool">
+                <ul class="clearfix">
+                                        <li>
+                        <a href="forum.php?mod=viewthread&amp;tid=5528948&amp;page=1&amp;authorid=3005468&amp;mobile=2"
+                            class="tool_btn btn_only_view"><img
+                                src="static/image/mobile/assets/images/icon_view.png" alt=""><span>只看楼主</span></a>
+                    </li>
+                    <li>
+                        <a href="home.php?mod=spacecp&amp;ac=favorite&amp;type=thread&amp;id=5528948&amp;mobile=2"
+                            class="tool_btn btn_collect favbtn"><img
+                                src="static/image/mobile/assets/images/icon_star.png" alt=""><span>收藏</span></a>
+                    </li>
+                    <li>
+                        <a href="#" class="tool_btn btn_share"><img
+                                src="static/image/mobile/assets/images/icon_share.png" alt=""><span>分享</span></a>
+                    </li>
+                                        <!--<li>-->
+                    <!--<a href="#" class="tool_btn btn_more"><img src="static/image/mobile/assets/images/icon_dot.png" alt=""><span>更多</span></a>-->
+                    <!--<div class="more_list">-->
+                    <!--&lt;!&ndash;&ndash;&gt;-->
+                    <!--<a href="#">反馈</a>-->
+                    <!--</div>-->
+                    <!--</li>-->
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- 楼层 end -->
+                    
+
+
+    <!-- 楼层 start -->
+    <div class="floor">
+        <div class="inner clearfix">
+            <div class="floor_info clearfix">
+                <span class="img_wrap">
+                    <img src="http://cdn2.kybimg.com/avatar/006/91/74/43_avatar_small.jpg"
+                        alt=""
+                        onerror="this.onerror=null;this.src='http://cdn2.kybimg.com/avatar/noavatar_small.gif'" />
+                </span>
+                <dl>
+                    <dt><a href="home.php?mod=space&amp;uid=6917443&amp;mobile=2" class="blue" >胖子__跑吧、、</a></dt>
+                    <dd>
+                        <span>
+                                                        沙发                                                                                </span>
+                        <span>
+                            2014-10-28 18:54                        </span>
+                    </dd>
+                </dl>
+                <div class="post_tools">
+
+                    <ul class="clearfix">
+                        
+                        <li id="replybtn_52791779" class="pinglun replybtn" display="true">
+                            <input type="button" class="redirect button"
+                                href="forum.php?mod=post&amp;action=reply&amp;fid=91&amp;tid=5528948&amp;repquote=52791779&amp;extra=&amp;page=1&amp;mobile=2"
+                                value="回复">
+                        </li>
+
+
+
+
+                    </ul>
+                </div>
+            </div>
+            <div class="message ">
+
+                                                
+                                
+                                                那调剂到专硕可能性大不呢<p style="padding:15px 0;"><a href="http://bang.kaoyan.com/" target="_blank" class="app-type">来自Android客户端</a></p>                
+                                                <br><br>
+                <a class="btn-sensor" name="【下载触发】论坛跟帖小尾巴" data-type="comment"
+                    data-href="//img.kybimg.com/bangxuetang/play/down_kyb.html?source=BTN_bbscomment2">自从我用了考研帮后，考研备考思路清晰了很多，里面有很多学长学姐交流经验，还有心仪学校的各种信息，能全面掌握考研的各种情况，对考研帮助挺大的。点击这里下载>>><span
+                        style="color:#4191cf">【考研帮app】</span>
+                    <<<< /a>
+                                                            </div>
+            
+            <!-- 资料下载页 start -->
+            <!-- 这个模块在（休闲空间，kaoyan.com大家庭）板块不显示 -->
+                        <!-- 资料下载页 end -->
+
+                                                            <div class="main_floor_tool">
+                <ul class="clearfix">
+                                        <!--<li>-->
+                    <!--<a href="#" class="tool_btn btn_more"><img src="static/image/mobile/assets/images/icon_dot.png" alt=""><span>更多</span></a>-->
+                    <!--<div class="more_list">-->
+                    <!--&lt;!&ndash;&ndash;&gt;-->
+                    <!--<a  href="misc.php?mod=report&amp;rtype=post&amp;rid=52791779&amp;tid=5528948&amp;fid=91&amp;mobile=2" >举报</a>-->
+                    <!--&lt;!&ndash;&ndash;&gt;-->
+                    <!--<a href="#">反馈</a>-->
+                    <!--</div>-->
+                    <!--</li>-->
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- 楼层 end -->
+                    
+
+
+    <!-- 楼层 start -->
+    <div class="floor">
+        <div class="inner clearfix">
+            <div class="floor_info clearfix">
+                <span class="img_wrap">
+                    <img src="http://cdn2.kybimg.com/avatar/008/43/13/30_avatar_small.jpg"
+                        alt=""
+                        onerror="this.onerror=null;this.src='http://cdn2.kybimg.com/avatar/noavatar_small.gif'" />
+                </span>
+                <dl>
+                    <dt><a href="home.php?mod=space&amp;uid=8431330&amp;mobile=2" class="blue" >北航高材生</a></dt>
+                    <dd>
+                        <span>
+                                                        板凳                                                                                </span>
+                        <span>
+                            2014-10-28 21:15                        </span>
+                    </dd>
+                </dl>
+                <div class="post_tools">
+
+                    <ul class="clearfix">
+                        
+                        <li id="replybtn_52794711" class="pinglun replybtn" display="true">
+                            <input type="button" class="redirect button"
+                                href="forum.php?mod=post&amp;action=reply&amp;fid=91&amp;tid=5528948&amp;repquote=52794711&amp;extra=&amp;page=1&amp;mobile=2"
+                                value="回复">
+                        </li>
+
+
+
+
+                    </ul>
+                </div>
+            </div>
+            <div class="message ">
+
+                                                
+                                
+                                                我的天，！！！！                
+                                                                    </div>
+            
+            <!-- 资料下载页 start -->
+            <!-- 这个模块在（休闲空间，kaoyan.com大家庭）板块不显示 -->
+                        <!-- 资料下载页 end -->
+
+                                                            <div class="main_floor_tool">
+                <ul class="clearfix">
+                                        <!--<li>-->
+                    <!--<a href="#" class="tool_btn btn_more"><img src="static/image/mobile/assets/images/icon_dot.png" alt=""><span>更多</span></a>-->
+                    <!--<div class="more_list">-->
+                    <!--&lt;!&ndash;&ndash;&gt;-->
+                    <!--<a  href="misc.php?mod=report&amp;rtype=post&amp;rid=52794711&amp;tid=5528948&amp;fid=91&amp;mobile=2" >举报</a>-->
+                    <!--&lt;!&ndash;&ndash;&gt;-->
+                    <!--<a href="#">反馈</a>-->
+                    <!--</div>-->
+                    <!--</li>-->
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- 楼层 end -->
+                    
+
+
+    <!-- 楼层 start -->
+    <div class="floor">
+        <div class="inner clearfix">
+            <div class="floor_info clearfix">
+                <span class="img_wrap">
+                    <img src="http://cdn2.kybimg.com/avatar/000/97/68/18_avatar_small.jpg"
+                        alt=""
+                        onerror="this.onerror=null;this.src='http://cdn2.kybimg.com/avatar/noavatar_small.gif'" />
+                </span>
+                <dl>
+                    <dt><a href="home.php?mod=space&amp;uid=976818&amp;mobile=2" class="blue" >lancon</a></dt>
+                    <dd>
+                        <span>
+                                                        地板                                                                                </span>
+                        <span>
+                            2014-10-29 00:09                        </span>
+                    </dd>
+                </dl>
+                <div class="post_tools">
+
+                    <ul class="clearfix">
+                        
+                        <li id="replybtn_52800685" class="pinglun replybtn" display="true">
+                            <input type="button" class="redirect button"
+                                href="forum.php?mod=post&amp;action=reply&amp;fid=91&amp;tid=5528948&amp;repquote=52800685&amp;extra=&amp;page=1&amp;mobile=2"
+                                value="回复">
+                        </li>
+
+
+
+
+                    </ul>
+                </div>
+            </div>
+            <div class="message ">
+
+                                                
+                                
+                                                <div class="grey quote">引用: <font size="2"><a href="http://bbs.kaoyan.com/forum.php?mod=redirect&amp;goto=findpost&amp;pid=52791779&amp;ptid=5528948" target="_blank"><font color="#999999">胖子__跑吧、、 发表于 2014-10-28 18:54</font></a></font><br />
+那调剂到专硕可能性大不呢</div><br />
+学硕和专硕是统一划分数线的，不过<br />
+<br />
+一志愿报<strong>学硕</strong>如果被刷，可以调剂到专硕；<br />
+<br />
+一志愿报<strong>专硕</strong>不可以调剂到学硕，如果被刷，只能直接回家了！                
+                                                                                <br><br>
+                        <a class="btn-sensor" name="【下载触发】论坛跟帖小尾巴" data-type="comment"
+                            data-href="//img.kybimg.com/bangxuetang/play/down_kyb.html?source=BTN_bbscomment4">以前有很多考研相关的问题不太明白，考研帮里的学长学姐很有耐心的帮我解答问题，同时在考研帮找到了很多有用有价值的考研资料，让我省下不少时间。点击这里下载>>><span
+                                style="color:#4191cf">【考研帮app】</span>
+                            <<<< /a>
+                                            </div>
+            
+            <!-- 资料下载页 start -->
+            <!-- 这个模块在（休闲空间，kaoyan.com大家庭）板块不显示 -->
+                        <!-- 资料下载页 end -->
+
+                                                            <div class="main_floor_tool">
+                <ul class="clearfix">
+                                        <!--<li>-->
+                    <!--<a href="#" class="tool_btn btn_more"><img src="static/image/mobile/assets/images/icon_dot.png" alt=""><span>更多</span></a>-->
+                    <!--<div class="more_list">-->
+                    <!--&lt;!&ndash;&ndash;&gt;-->
+                    <!--<a  href="misc.php?mod=report&amp;rtype=post&amp;rid=52800685&amp;tid=5528948&amp;fid=91&amp;mobile=2" >举报</a>-->
+                    <!--&lt;!&ndash;&ndash;&gt;-->
+                    <!--<a href="#">反馈</a>-->
+                    <!--</div>-->
+                    <!--</li>-->
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- 楼层 end -->
+                    
+
+
+    <!-- 楼层 start -->
+    <div class="floor">
+        <div class="inner clearfix">
+            <div class="floor_info clearfix">
+                <span class="img_wrap">
+                    <img src="http://cdn2.kybimg.com/avatar/008/41/19/17_avatar_small.jpg"
+                        alt=""
+                        onerror="this.onerror=null;this.src='http://cdn2.kybimg.com/avatar/noavatar_small.gif'" />
+                </span>
+                <dl>
+                    <dt><a href="home.php?mod=space&amp;uid=8411917&amp;mobile=2" class="blue" >fly5599</a></dt>
+                    <dd>
+                        <span>
+                                                        5楼                                                                                </span>
+                        <span>
+                            2014-10-30 15:54                        </span>
+                    </dd>
+                </dl>
+                <div class="post_tools">
+
+                    <ul class="clearfix">
+                        
+                        <li id="replybtn_52837255" class="pinglun replybtn" display="true">
+                            <input type="button" class="redirect button"
+                                href="forum.php?mod=post&amp;action=reply&amp;fid=91&amp;tid=5528948&amp;repquote=52837255&amp;extra=&amp;page=1&amp;mobile=2"
+                                value="回复">
+                        </li>
+
+
+
+
+                    </ul>
+                </div>
+            </div>
+            <div class="message ">
+
+                                                
+                                
+                                                泪奔～                
+                                                                    </div>
+            
+            <!-- 资料下载页 start -->
+            <!-- 这个模块在（休闲空间，kaoyan.com大家庭）板块不显示 -->
+                        <!-- 资料下载页 end -->
+
+                                                            <div class="main_floor_tool">
+                <ul class="clearfix">
+                                        <!--<li>-->
+                    <!--<a href="#" class="tool_btn btn_more"><img src="static/image/mobile/assets/images/icon_dot.png" alt=""><span>更多</span></a>-->
+                    <!--<div class="more_list">-->
+                    <!--&lt;!&ndash;&ndash;&gt;-->
+                    <!--<a  href="misc.php?mod=report&amp;rtype=post&amp;rid=52837255&amp;tid=5528948&amp;fid=91&amp;mobile=2" >举报</a>-->
+                    <!--&lt;!&ndash;&ndash;&gt;-->
+                    <!--<a href="#">反馈</a>-->
+                    <!--</div>-->
+                    <!--</li>-->
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- 楼层 end -->
+                    
+
+
+    <!-- 楼层 start -->
+    <div class="floor">
+        <div class="inner clearfix">
+            <div class="floor_info clearfix">
+                <span class="img_wrap">
+                    <img src="http://cdn2.kybimg.com/avatar/000/97/68/18_avatar_small.jpg"
+                        alt=""
+                        onerror="this.onerror=null;this.src='http://cdn2.kybimg.com/avatar/noavatar_small.gif'" />
+                </span>
+                <dl>
+                    <dt><a href="home.php?mod=space&amp;uid=976818&amp;mobile=2" class="blue" >lancon</a></dt>
+                    <dd>
+                        <span>
+                                                        6楼                                                                                </span>
+                        <span>
+                            2014-11-3 16:16                        </span>
+                    </dd>
+                </dl>
+                <div class="post_tools">
+
+                    <ul class="clearfix">
+                        
+                        <li id="replybtn_52931751" class="pinglun replybtn" display="true">
+                            <input type="button" class="redirect button"
+                                href="forum.php?mod=post&amp;action=reply&amp;fid=91&amp;tid=5528948&amp;repquote=52931751&amp;extra=&amp;page=1&amp;mobile=2"
+                                value="回复">
+                        </li>
+
+
+
+
+                    </ul>
+                </div>
+            </div>
+            <div class="message ">
+
+                                                
+                                
+                                                最近看了新闻，有消息称，貌似明年开始考研一年变成两次（6月和12月）了，呵呵，现在的娃娃们好幸福啊！                
+                                                                    </div>
+            
+            <!-- 资料下载页 start -->
+            <!-- 这个模块在（休闲空间，kaoyan.com大家庭）板块不显示 -->
+                        <!-- 资料下载页 end -->
+
+                                                            <div class="main_floor_tool">
+                <ul class="clearfix">
+                                        <!--<li>-->
+                    <!--<a href="#" class="tool_btn btn_more"><img src="static/image/mobile/assets/images/icon_dot.png" alt=""><span>更多</span></a>-->
+                    <!--<div class="more_list">-->
+                    <!--&lt;!&ndash;&ndash;&gt;-->
+                    <!--<a  href="misc.php?mod=report&amp;rtype=post&amp;rid=52931751&amp;tid=5528948&amp;fid=91&amp;mobile=2" >举报</a>-->
+                    <!--&lt;!&ndash;&ndash;&gt;-->
+                    <!--<a href="#">反馈</a>-->
+                    <!--</div>-->
+                    <!--</li>-->
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- 楼层 end -->
+                    
+
+
+    <!-- 楼层 start -->
+    <div class="floor">
+        <div class="inner clearfix">
+            <div class="floor_info clearfix">
+                <span class="img_wrap">
+                    <img src="http://cdn2.kybimg.com/avatar/008/59/06/02_avatar_small.jpg"
+                        alt=""
+                        onerror="this.onerror=null;this.src='http://cdn2.kybimg.com/avatar/noavatar_small.gif'" />
+                </span>
+                <dl>
+                    <dt><a href="home.php?mod=space&amp;uid=8590602&amp;mobile=2" class="blue" >胖萝卜</a></dt>
+                    <dd>
+                        <span>
+                                                        7楼                                                                                </span>
+                        <span>
+                            2014-12-2 10:03                        </span>
+                    </dd>
+                </dl>
+                <div class="post_tools">
+
+                    <ul class="clearfix">
+                        
+                        <li id="replybtn_53580194" class="pinglun replybtn" display="true">
+                            <input type="button" class="redirect button"
+                                href="forum.php?mod=post&amp;action=reply&amp;fid=91&amp;tid=5528948&amp;repquote=53580194&amp;extra=&amp;page=1&amp;mobile=2"
+                                value="回复">
+                        </li>
+
+
+
+
+                    </ul>
+                </div>
+            </div>
+            <div class="message ">
+
+                                                
+                                
+                                                那软件学院的软件工程还剩多少个啊<p style="padding:15px 0;"><a href="http://bang.kaoyan.com/" target="_blank" class="app-type">来自Android客户端</a></p>                
+                                                                    </div>
+            
+            <!-- 资料下载页 start -->
+            <!-- 这个模块在（休闲空间，kaoyan.com大家庭）板块不显示 -->
+                        <!-- 资料下载页 end -->
+
+                                                            <div class="main_floor_tool">
+                <ul class="clearfix">
+                                        <!--<li>-->
+                    <!--<a href="#" class="tool_btn btn_more"><img src="static/image/mobile/assets/images/icon_dot.png" alt=""><span>更多</span></a>-->
+                    <!--<div class="more_list">-->
+                    <!--&lt;!&ndash;&ndash;&gt;-->
+                    <!--<a  href="misc.php?mod=report&amp;rtype=post&amp;rid=53580194&amp;tid=5528948&amp;fid=91&amp;mobile=2" >举报</a>-->
+                    <!--&lt;!&ndash;&ndash;&gt;-->
+                    <!--<a href="#">反馈</a>-->
+                    <!--</div>-->
+                    <!--</li>-->
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- 楼层 end -->
+                    
+
+
+    <!-- 楼层 start -->
+    <div class="floor">
+        <div class="inner clearfix">
+            <div class="floor_info clearfix">
+                <span class="img_wrap">
+                    <img src="http://cdn2.kybimg.com/avatar/008/84/01/13_avatar_small.jpg"
+                        alt=""
+                        onerror="this.onerror=null;this.src='http://cdn2.kybimg.com/avatar/noavatar_small.gif'" />
+                </span>
+                <dl>
+                    <dt><a href="home.php?mod=space&amp;uid=8840113&amp;mobile=2" class="blue" >shmilybj</a></dt>
+                    <dd>
+                        <span>
+                                                        8楼                                                                                </span>
+                        <span>
+                            2015-1-7 08:30                        </span>
+                    </dd>
+                </dl>
+                <div class="post_tools">
+
+                    <ul class="clearfix">
+                        
+                        <li id="replybtn_54561632" class="pinglun replybtn" display="true">
+                            <input type="button" class="redirect button"
+                                href="forum.php?mod=post&amp;action=reply&amp;fid=91&amp;tid=5528948&amp;repquote=54561632&amp;extra=&amp;page=1&amp;mobile=2"
+                                value="回复">
+                        </li>
+
+
+
+
+                    </ul>
+                </div>
+            </div>
+            <div class="message ">
+
+                                                
+                                
+                                                <div class="grey quote">引用: <font color="#999999">lancon 发表于 2014-11-3 16:16</font><br />
+<font color="#999999">最近看了新闻，有消息称，貌似明年开始考研一年变成两次（6月和12月）了，呵呵，现在的娃娃们好幸福啊！ ...</font></div><br />
+真的吗？<p style="padding:15px 0;"><a href="http://bang.kaoyan.com/" target="_blank" class="app-type">来自Android客户端</a></p>                
+                                                                    </div>
+            
+            <!-- 资料下载页 start -->
+            <!-- 这个模块在（休闲空间，kaoyan.com大家庭）板块不显示 -->
+                        <!-- 资料下载页 end -->
+
+                                                            <div class="main_floor_tool">
+                <ul class="clearfix">
+                                        <!--<li>-->
+                    <!--<a href="#" class="tool_btn btn_more"><img src="static/image/mobile/assets/images/icon_dot.png" alt=""><span>更多</span></a>-->
+                    <!--<div class="more_list">-->
+                    <!--&lt;!&ndash;&ndash;&gt;-->
+                    <!--<a  href="misc.php?mod=report&amp;rtype=post&amp;rid=54561632&amp;tid=5528948&amp;fid=91&amp;mobile=2" >举报</a>-->
+                    <!--&lt;!&ndash;&ndash;&gt;-->
+                    <!--<a href="#">反馈</a>-->
+                    <!--</div>-->
+                    <!--</li>-->
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- 楼层 end -->
+                    
+
+
+    <!-- 楼层 start -->
+    <div class="floor">
+        <div class="inner clearfix">
+            <div class="floor_info clearfix">
+                <span class="img_wrap">
+                    <img src="http://cdn2.kybimg.com/avatar/008/61/25/13_avatar_small.jpg"
+                        alt=""
+                        onerror="this.onerror=null;this.src='http://cdn2.kybimg.com/avatar/noavatar_small.gif'" />
+                </span>
+                <dl>
+                    <dt><a href="home.php?mod=space&amp;uid=8612513&amp;mobile=2" class="blue" >lixiaonagpf</a></dt>
+                    <dd>
+                        <span>
+                                                        9楼                                                                                </span>
+                        <span>
+                            2015-3-2 10:43                        </span>
+                    </dd>
+                </dl>
+                <div class="post_tools">
+
+                    <ul class="clearfix">
+                        
+                        <li id="replybtn_56030250" class="pinglun replybtn" display="true">
+                            <input type="button" class="redirect button"
+                                href="forum.php?mod=post&amp;action=reply&amp;fid=91&amp;tid=5528948&amp;repquote=56030250&amp;extra=&amp;page=1&amp;mobile=2"
+                                value="回复">
+                        </li>
+
+
+
+
+                    </ul>
+                </div>
+            </div>
+            <div class="message ">
+
+                                                
+                                
+                                                如果一年考两次就太好了！又多了些上研的机会和运气！                
+                                                                    </div>
+            
+            <!-- 资料下载页 start -->
+            <!-- 这个模块在（休闲空间，kaoyan.com大家庭）板块不显示 -->
+                        <!-- 资料下载页 end -->
+
+                                                            <div class="main_floor_tool">
+                <ul class="clearfix">
+                                        <!--<li>-->
+                    <!--<a href="#" class="tool_btn btn_more"><img src="static/image/mobile/assets/images/icon_dot.png" alt=""><span>更多</span></a>-->
+                    <!--<div class="more_list">-->
+                    <!--&lt;!&ndash;&ndash;&gt;-->
+                    <!--<a  href="misc.php?mod=report&amp;rtype=post&amp;rid=56030250&amp;tid=5528948&amp;fid=91&amp;mobile=2" >举报</a>-->
+                    <!--&lt;!&ndash;&ndash;&gt;-->
+                    <!--<a href="#">反馈</a>-->
+                    <!--</div>-->
+                    <!--</li>-->
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- 楼层 end -->
+                    
+
+
+    <!-- 楼层 start -->
+    <div class="floor">
+        <div class="inner clearfix">
+            <div class="floor_info clearfix">
+                <span class="img_wrap">
+                    <img src="http://cdn2.kybimg.com/avatar/007/77/17/61_avatar_small.jpg"
+                        alt=""
+                        onerror="this.onerror=null;this.src='http://cdn2.kybimg.com/avatar/noavatar_small.gif'" />
+                </span>
+                <dl>
+                    <dt><a href="home.php?mod=space&amp;uid=7771761&amp;mobile=2" class="blue" >理想也一念之间</a></dt>
+                    <dd>
+                        <span>
+                                                        10楼                                                                                </span>
+                        <span>
+                            2015-9-2 23:55                        </span>
+                    </dd>
+                </dl>
+                <div class="post_tools">
+
+                    <ul class="clearfix">
+                        
+                        <li id="replybtn_64109788" class="pinglun replybtn" display="true">
+                            <input type="button" class="redirect button"
+                                href="forum.php?mod=post&amp;action=reply&amp;fid=91&amp;tid=5528948&amp;repquote=64109788&amp;extra=&amp;page=1&amp;mobile=2"
+                                value="回复">
+                        </li>
+
+
+
+
+                    </ul>
+                </div>
+            </div>
+            <div class="message ">
+
+                                                
+                                
+                                                看到了我同学                
+                                                                    </div>
+            
+            <!-- 资料下载页 start -->
+            <!-- 这个模块在（休闲空间，kaoyan.com大家庭）板块不显示 -->
+                        <!-- 资料下载页 end -->
+
+                                                            <div class="main_floor_tool">
+                <ul class="clearfix">
+                                        <!--<li>-->
+                    <!--<a href="#" class="tool_btn btn_more"><img src="static/image/mobile/assets/images/icon_dot.png" alt=""><span>更多</span></a>-->
+                    <!--<div class="more_list">-->
+                    <!--&lt;!&ndash;&ndash;&gt;-->
+                    <!--<a  href="misc.php?mod=report&amp;rtype=post&amp;rid=64109788&amp;tid=5528948&amp;fid=91&amp;mobile=2" >举报</a>-->
+                    <!--&lt;!&ndash;&ndash;&gt;-->
+                    <!--<a href="#">反馈</a>-->
+                    <!--</div>-->
+                    <!--</li>-->
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- 楼层 end -->
+                <!-- <div class="watch_more watch_more_page" id="watch_more_cont">
+        <div class="watch_more_cont">
+            <div class="watch_txt">
+                使用考研帮APP，一起参与话题，查看全部<span class="watch_record">13</span>条回复
+            </div>
+            <a data-href="http://bang.kaoyan.com/down?c=243&amp;source=forumbottom" name="【下载触发】论坛帖子底部" data-type="forumbottom" class="btn_download btn-sensor">下载考研帮，立即查看全部内容</a>
+        </div>
+    </div> -->
+    <style>
+        .add-part-all {
+            /* display: none; */
+        }
+
+        .add-part {
+            border-top: 1px solid #D9DAD9;
+            padding: .7rem .7rem;
+            box-sizing: border-box;
+            background: #ffffff;
+        }
+
+        .add-part2 {
+            margin-top: .5rem;
+            background: #ffffff;
+            padding: .7rem .7rem;
+            box-sizing: border-box;
+        }
+
+        .add-part-text {
+            /* font-size: .373rem; */
+            font-family: PingFangSC-Regular, PingFang SC;
+            font-weight: 400;
+            color: rgba(0, 0, 0, 0.6);
+            line-height: .53rem;
+            margin-bottom: .53rem;
+        }
+
+        .part-con {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: .53rem;
+        }
+
+        .part-con-left {
+            display: flex;
+            align-items: center;
+        }
+
+        .part-icon {
+            width: 1.58rem;
+            height: 1.58rem;
+            background: #D8D8D8;
+            border-radius: 50%;
+            margin-right: .24rem;
+        }
+
+        .part-con-text {
+            /* font-size: .43rem; */
+            font-family: PingFangSC-Medium, PingFang SC;
+            font-weight: 500;
+            color: rgba(0, 0, 0, 0.8);
+            line-height: .586rem;
+        }
+
+        .add-bottom-text {
+            /* font-size: .43rem; */
+            font-family: PingFangSC-Regular, PingFang SC;
+            font-weight: 400;
+            color: rgba(0, 0, 0, 0.8);
+            line-height: .586rem;
+            text-align: center;
+            margin-bottom: .5rem;
+        }
+
+
+        .part-con-target {
+            text-decoration: none;
+            height: .853rem;
+            border-radius: .11rem;
+            border: 1px solid #3394E7;
+            /* font-size: .373rem; */
+            font-family: PingFangSC-Regular, PingFang SC;
+            font-weight: 400;
+            color: #3394E7!important;
+            text-align: center;
+            line-height: .853rem;
+            display: block;
+            padding: .2rem;
+        }
+
+        .part-bottom-text {
+            /* font-size: .32rem; */
+            font-family: PingFangSC-Regular, PingFang SC;
+            font-weight: 400;
+            color: rgba(0, 0, 0, 0.6);
+            line-height: .64rem;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+
+        .part-jion-part {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .part-jion-part p {
+            margin-right: .2rem;
+        }
+
+
+        .right-icon {
+            background: url("http://img.kybimg.com/bang/images/pc/attractPc/icon-right.png");
+            width: .32rem;
+            height: .32rem;
+            display: inline-block;
+            vertical-align: middle;
+            background-size: 100% 100%;
+        }
+
+        .part-bottom-text.second {
+            margin: 0 .53rem;
+        }
+
+        .open-app-new,.add-part2 .btn_download {
+            display: block;
+            width: 13.7rem;
+            margin: 1.1rem auto 1rem;
+            height: 2rem;
+            line-height: 2rem;
+            color: #FFF;
+            border-radius: .2rem;
+            text-align: center;
+            background: #3494e8;
+            
+        }
+    </style>
+    <!-- 新增板块 -->
+    <div class="add-part-all">
+        <div class="add-part">
+            <p class="add-bottom-text">打开App，查看更多回复</p>
+            <a data-href="//img.kybimg.com/bangxuetang/play/down_kyb.html?source=BTN_bbsbottom&amp;bbsid=5528948"
+                data-type="forumbottom" class="btn_download btn-sensor open-app-new">打开App，发表评论</a>
+        </div>
+        <div class="add-part2">
+            <p class="add-part-text">该帖子来自版块：</p>
+            <div class="part-con">
+                <div class="part-con-left">
+                    <div class="part-icon"></div>
+                    <p>
+                        2021考研帮 <br />
+                        324468人关注
+                    </p>
+                </div>
+                <div class="part-con-right">
+                    <a class="part-con-target"
+                        href="//img.kybimg.com/bangxuetang/play/down_kyb.html?source=BTN_bbsfollow&amp;bbsfid=91">+去App关注</a>
+                </div>
+            </div>
+            <a data-href="//img.kybimg.com/bangxuetang/play/down_kyb.html?source=BTN_bbsmore&amp;bbsplate=home"
+                data-type="forumbottom" class="btn_download btn-sensor">打开App，查看更多考研版块</a>
+            <p class="part-bottom-text">你可以在考研App的论坛内：</p>
+            <div class="part-jion-part">
+                <p>参与讨论 <span class="right-icon"></span></p>
+                <p>寻找道友 <span class="right-icon"></span></p>
+                <p>阅读备考经验 <span class="right-icon"></span></p>
+            </div>
+        </div>
+    </div>
+    <script>
+        // if (getQueryString("arguments") == "test"){
+        //     $(".add-part-all").show();
+        //     $("#watch_more_cont").hide();
+        // };
+        function getQueryString(name){
+            var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+            var r = window.location.search.substr(1).match(reg);
+            if(r!=null)return  unescape(r[2]); return null;
+          }
+    </script>
+    <!--subtemplate forum/forumdisplay_fastpost 快速回复20170324-->
+
+</div>
+
+
+
+<!-- main postlist end -->
+
+<!-- <div class="pg"><strong>1</strong><a href="forum.php?mod=viewthread&tid=5528948&amp;extra=&amp;page=2&amp;mobile=2">2</a><label><input type="text" name="custompage" class="px" size="2" title="输入页码，按回车快速跳转" value="1" onkeydown="if(event.keyCode==13) {window.location='forum.php?mod=viewthread&tid=5528948&amp;extra=&amp;page='+this.value;; doane(event);}" /><span title="共 2 页"> / 2 页</span></label><a href="forum.php?mod=viewthread&tid=5528948&amp;extra=&amp;page=2&amp;mobile=2" class="nxt">下一页</a></div> 分页20170324-->
+
+
+
+<!-- 分享 start -->
+<div class="share_widget" id="J_share_widget">
+    <div class="share_hd">分享到</div>
+    <div class="share_bd">
+        <div class="bd_share" id="shareBtn">
+            <div class="bd_share_btn bdsharebuttonbox">
+                <a href="#" class="bds_sina" data-cmd="tsina" title="分享到新浪微博"><span>新浪微博</span></a>
+                <a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"><span>QQ空间</span></a>
+            </div>
+        </div>
+    </div>
+    <div class="share_ft">
+        <span class="btn_cancel_share">取消</span>
+    </div>
+</div>
+<!-- 分享 end -->
+<script type="text/javascript">
+    $('.btn_collect').on('click', function () {
+        var obj = $(this);
+        $.ajax({
+            type: 'POST',
+            url: obj.attr('href') + '&handlekey=favbtn&inajax=1',
+            data: { 'favoritesubmit': 'true', 'formhash': '6934a287' },
+            dataType: 'xml',
+        })
+            .success(function (s) {
+                popup.open(s.lastChild.firstChild.nodeValue);
+                evalscript(s.lastChild.firstChild.nodeValue);
+            })
+            .error(function () {
+                window.location.href = obj.attr('href');
+                popup.close();
+            });
+        return false;
+    });
+
+    //
+    if ($('#J_watch_more')[0]) {
+        var Box = $('#J_watch_more'),
+            oBtnMore = $('.btn_wathc_more', Box),
+            oArtcle = $('.first_floor');
+
+        oBtnMore.on('click', function () {
+            oArtcle.css('height', 'auto');
+            oBtnMore.remove();
+            Box.css('marginTop', 0);
+            $('.watch_more_cont', Box).css('border', 0);
+        });
+    }
+
+</script>
+<script>
+    $(function () {
+        //百度分享
+        if ($('#J_share_widget')[0]) {
+            window._bd_share_config = {
+                "common": {
+                    "bdSnsKey": {},
+                    "bdText": "",
+                    "bdMini": "2",
+                    "bdMiniList": false,
+                    "bdPic": "",
+                    "bdStyle": "0",
+                    "bdSize": "32"
+                },
+                "share": {}
+            };
+            with (document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=' + ~(-new Date() / 36e5)];
+        }
+
+        $('.btn_more').bind('click', function (e) {
+            e.preventDefault();
+            hideLayer();
+            var oParent = $(this).parent();
+            $('.more_list', oParent).fadeIn();
+            e.stopPropagation();
+        });
+
+        $('.btn_share').bind('click', function (e) {
+            e.preventDefault();
+            hideLayer();
+            $('#J_share_widget').addClass('show');
+            e.stopPropagation();
+        })
+
+        $('body').on('click', function () {
+            hideLayer();
+        });
+
+        $('#J_share_widget .btn_cancel_share').on('click', function () {
+            $('#J_share_widget').removeClass('show');
+        });
+
+        // $(window).on('scroll',function(){
+        //     var scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+        //     if(parseInt(scrollTop) > 0){
+
+        //         if($('#J_down_app')[0]){
+        //             $('#J_down_app .btn_close').click();
+        //         }
+        //         // if($('#J_down_guide')[0]){
+        //         //     $('#J_down_guide .btn_close').click();
+        //         // }
+        //         $('.sub_header').addClass('posi_fixed');
+        //     }else{
+        //         $('.sub_header').removeClass('posi_fixed');
+        //     }
+        // });
+
+        function hideLayer() {
+            $('.more_list, .manage_more').hide();
+            $('#J_share_widget').removeClass('show');
+        }
+
+    })
+
+</script>
+<script type="text/javaScript">
+  window.sensorsConf = {
+          pid: 0, // 未登录传0
+          env: "production", // production正式 development 测试
+          log: true, // 是否展示日志
+          batch: false,
+          track: {
+            project: "ky", // 业务标识（必传）
+            platform: "h5", // 渠道标识（必传）
+            product_line: "ky-h5", // 产品标识（必传）
+          }
+        };
+    var a="title",c='element_position',d='case',e='element_content';      
+    var titleObj = {};
+    $(".btn-sensor").each(function(val){
+        $(this).on("click",function(){
+        if(window.kmfSensors){
+            if($(this).data('type') == 'firstfloor') {
+            titleObj[a]= "论坛详情页";
+            titleObj[c]= "论坛主贴下方";
+            // titleObj[e]= "【下载触发】论坛主贴下方";
+            var eventParams=$.extend({},window.sensorsConf.track,titleObj)
+            } else if($(this).data('type') == 'forumbottom') {
+                titleObj[a]= "论坛详情页";
+                titleObj[c]= "论坛帖子底部";
+                // titleObj[e]= "【下载触发】论坛帖子底部";
+            var eventParams=$.extend({},window.sensorsConf.track,titleObj)
+            } else {
+                titleObj[a]= "论坛详情页";
+                titleObj[c]="论坛跟帖小尾巴";
+                // titleObj[e]= "【下载触发】论坛跟帖小尾巴";
+            var eventParams=$.extend({},window.sensorsConf.track,titleObj)
+            }
+            window.kmfSensors.track('KYmobileAppDownload',eventParams);
+            window.location.href = $(this).data('href');
+        }       
+        })
+    })
+</script>
+<script src="//img.kaoyan.com/js/statistics/bang.js" type="text/javascript"></script>
+<a href="javascript:;" title="返回顶部" class="scrolltop bottom"></a><img src="http://pingtcss.qq.com/pingd?r2=1645010&ui=0&rt=forum&md=viewthread&fi=91&ti=5528948&pn=1&qq=000&url=/t5528948p1&arg=&tz=-8&dm=bbs.kaoyan.com&pvi=1272653307&si=s133344000&rnd=748903319&ext=mt=0" height="1" width="1" style="float:right" noerror="true" />
+<div id="mask" style="display:none;"></div>
+
+
+
+<!-- footer start -->
+<div class="new_footer mt10">
+    <div class="subnav">
+        <ul class="clearfix">
+            <li><span>|</span><a href="http://m.kaoyan.com/www/baokao/">报考</a></li>
+            <li><span>|</span><a href="http://m.kaoyan.com/www/beikao/">备考</a></li>
+            <li><span>|</span><a href="http://m.kaoyan.com/yanzhao/">研招</a></li>
+            <li><span>|</span><a href="http://bbs.kaoyan.com/">论坛</a></li>
+            <li><span>|</span><a href="http://m.kaoyan.com/www/fushi/">复试</a></li>
+            <li><span>|</span><a href="http://m.kaoyan.com/www/tiaoji/">调剂</a></li>
+        </ul>
+    </div>
+    <div class="edition_switch">
+        <a href="http://bbs.kaoyan.com/forum.php?mod=viewthread&tid=5528948&page=1&mobile=no">电脑版</a><span>|</span><a href="//img.kybimg.com/bangxuetang/play/down_kyb.html?source=BTN_bottom" name="【下载触发】底部小字">考研帮客户端</a>
+            </div>
+</div>
+<script>
+$(function(){
+    //返回按钮
+    if($('.btn_back')[0]){
+        $('.btn_back').on('click',function(){
+            window.location.href="javascript:history.go(-1)";
+        });
+    }
+})
+</script>
+<!-- footer end -->
+
+
+
+
+<div style="display:none;"><script>
+document.write(unescape("%3Cscript src=' http://hm.baidu.com/h.js%3Fd49310205bb84832b8827fd95bdfe1af' type='text/javascript'%3E%3C/script%3E"));
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-25432568-8', 'kaoyan.com');
+ga('send', 'pageview');
+</script></div>
+
+</body>
+</html>

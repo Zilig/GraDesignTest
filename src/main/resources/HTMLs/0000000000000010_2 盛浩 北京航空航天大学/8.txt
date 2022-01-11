@@ -1,0 +1,1225 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1">
+        <!--[if IE 8]> 
+            <meta http-equiv="X-UA-Compatible" content="IE=8" />
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	
+    
+    盛浩
+
+
+</title><link rel="stylesheet" type="text/css" href="/css/globa.css" /><link href="/css/jquery.autocomplete.css" rel="stylesheet" type="text/css" /><link href="/scripts/asyncbox/skins/ZCMS/asyncbox.css" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/css/base.css" /><link rel="stylesheet" type="text/css" href="/css/itemBase.css" /><link rel="stylesheet" type="text/css" href="/css/selectDefault.css" /><link rel="stylesheet" type="text/css" href="/css/style.css" />
+    <script type="text/javascript" src="/scripts/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/scripts/libextentions.min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.easyselectbox.min.js"></script>
+    <script type="text/javascript" src="/scripts/common.min.js"></script>
+    <script type="text/javascript" src="/scripts/searchexpression.yui.js"></script>
+    <script type="text/javascript" src="/scripts/searchrelativesubject.min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.belatedPNG.min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.autocomplete.min.js"></script>
+    <script type="text/javascript" src="/scripts/asyncbox/AsyncBox.v1.4.js"></script>
+    <script type="text/javascript" src="/scripts/AnHuiAddAttention.js"></script>
+    <script type="text/javascript" src="/scripts/common.js"></script><!--下拉框、复选框等-->
+
+    <!--[if IE 6]>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("img[src$='.png']").fixPng();
+        });
+    </script>
+    <![endif]-->
+    
+    <link type="text/css" href="/css/search.css" rel="stylesheet" />
+    <link type="text/css" href="/css/object.css" rel="stylesheet" />
+    <script type="text/javascript" src="/scripts/json2.min.js"></script>
+    
+</head>
+<body>
+   <div id="all">
+    <div class="header">
+    	<div class="content clr">
+        	<!--顶部部分开始-->
+            <div class="top">
+            	<div class="fl top_left"><a href="/ServiceSourceLinkList.aspx?cid=4">企业门户群集</a> | <a href="/ServiceSourceLinkList.aspx?cid=12">产业门户群集</a> | <a href="/ServiceSourceLinkList.aspx?cid=13">县域门户群集</a></div>
+                <div class="fr top_right" id="loginLoading">
+                    正在加载，请稍候...
+                </div>
+            </div>
+            <!--顶部部分结束-->
+            <div class="wfull clr">
+                <div class="wfull mt10 fl">
+                    <!--logo部分开始-->
+                    <div class="logo fl"><img src="/images/logo.png"/></div>
+                    <!--logo部分结束-->
+                    <!--搜索栏部分开始-->
+                    
+<div class="search mt20 fr">
+    <!--关键词开始-->
+    <div class="word">
+        <div class="word_bg fl" id="searchDiv">
+            <a searchType="article" class="current" href="javascript:void(0);"><span>文献检索</span></a>
+            <!--<tt class="fl">|</tt>-->
+            <a searchType="website" class="" href="javascript:void(0);"><span>站内检索</span></a>
+        </div>
+    </div>
+    <!--搜索文本框开始-->
+    <div class="search_box clr">
+        <div class="search_text clr">
+            <div class="fl" id="selSearType">
+                <div class="rule-single-select">
+                <select id="articleSearchType">
+                    <option value="-1">全部</option>
+                    <option value="1">期刊文章</option><option value="2">学位论文</option><option value="3">会议</option><option value="4">专利</option><option value="5">标准</option><option value="6">成果</option><option value="7">专著</option><option value="8">产品</option><option value="9">科技报告</option><option value="10">政策法规</option><option value="99">引文</option>
+                </select>
+            </div>
+            </div>
+            <input type="hidden" id="searchType" value="article" />
+            <input class="input fl" type="text" placeholder="请输入需要的文字" onkeydown="search_enterKeydown(event);" id="txtMainSearchType"/>
+            <input class="search-btn fr" type="button" id="btnMainSearchType" value="点击检索" name=""/>
+        </div>
+        <div class="search_adv fr" id="seniorSearchBox">
+            <a href="javascript:void(0);" onclick="onidshow('pagesearch-factor')">高级检索</a>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    //初始化
+    $(function () {
+        var request = g_getUrlParms();
+        var searchType = request["type"];
+        var artType = request["artType"];
+        if (searchType != undefined || searchType != '') {
+            $('#searchDiv>a').removeClass('current');
+            switchBindSearchType(searchType);
+        }
+        if (artType && artType != "Articles") {
+            $("#articleSearchType").val(artType);
+            var text = $("#articleSearchType").find("option[value='" + artType + "']").html();
+            $(".select-items").find("li:selected").removeClass("selected");
+            $(".select-items").find("li:contains('" + text + "')").addClass("selected");
+            $(".select-tit span").html(text);
+            $(".search-term span").prepend("文献类型=" + text + "；");
+        }
+        else {
+            $(".search-term span").prepend("文献类型=全部；");
+        }
+        bindSearchKeys();
+        $('#searchDiv>a').click(function () {
+            $('#searchDiv>a').attr('class', '');
+            $('#searchType').val($(this).attr('searchType'));
+            $(this).addClass('current');
+            var searchType = $('#searchType').val();
+            if (searchType == "article") {
+                $("#seniorSearchBox").show();
+            }
+            else if (searchType == "website") {
+                $("#seniorSearchBox").hide();
+            }
+            switchBindSearchType(searchType);
+            bindSearchKeys();
+        });
+        //简单检索
+        $("#btnMainSearchType").on("click", function () {
+            search();
+        });
+
+        //绑定自动补全
+        bindAutoComplete();
+    });
+
+    function switchBindSearchType(searchType) {
+        switch (searchType) {
+            case "article":
+                $('#searchDiv>a[searchType="article"]').addClass('short current');
+                $('#searchType').val('article');
+                $('#selSearType').show();
+                $('#txtMainSearchType').css('width', '220px');
+                break;
+            case "website":
+                $('#searchDiv>a[searchType="website"]').addClass('short current');
+                $('#searchType').val('website');
+                $('#selSearType').hide();
+                $('#txtMainSearchType').css('width', '330px');
+                break;
+            default:
+                $('#searchDiv>a[searchType="article"]').addClass('short current');
+                $('#searchType').val('article');
+                break;
+        }
+    }
+
+    function bindSearchKeys() {
+        var request = g_getUrlParms();
+        var searchKeys = request["key"];
+        if (searchKeys) {
+            var uvalue = searchKeys.match(/U=[^\[]*/i);
+            if (uvalue) {
+                var value = uvalue[0].split('=');
+                var searchvalue = value[1].replace(/(0x005b)/g, "[").replace(/(0x005d)/g, "]").replace(/(0x005a)/g, "=").replace(/(‘)/g, "'").replace(/(’)/g, "'").replace(/(\“)/g, "\"").replace(/(\”)/g, "\"");
+                $("#txtMainSearchType").val(searchvalue); //检索框赋值
+            } else {
+                
+            }
+        } else {
+            
+        }
+    }
+
+    //自动补全方法
+    function bindAutoComplete() {
+        var searchType = $('#searchType').val();
+        if (searchType == "website")
+            return;
+        $("#txtMainSearchType").AutoComplete({
+            'data': "/ajax/AutoCompleteHandler.ashx",
+            "ajaxParams": function () {
+                var type = "articles";
+                if ($("#hifOutObjectType").val()) {
+                    type = $("#hifOutObjectType").val();
+                }
+                return { "objtype": type.toLowerCase() };
+            },
+            'ajaxDataType': 'json',
+            'width': 'auto', //490
+            'itemHeight': 25,
+            'leftOffset': -6,
+            'maxItems': 30,
+            'maxHeight': 232,
+            'beforeLoadDataHandler': function (keyword) {
+                return keyword.length >= 2;
+            },
+            'onerror': function (msg) { alert(msg); },
+            "afterSelectedHandler": function () {
+                search();
+            }
+        });
+    }
+
+    //简单检索表达式
+    function search() {
+        var searType = $('#searchType').val();
+        var type = "";
+        type = $('#articleSearchType option').eq($('.select-items > ul > li[class="selected"]').index()).val();
+        var value = $("#txtMainSearchType").val().replace(/(\;|\,|\<|\>)/g, "").replace(/(\))/g, "）").replace(/(\()/g, "（").replace(/(\[)/g, "0x005b").replace(/(\])/g, "0x005d").replace(/(\')/g, "‘").replace(/(\')/g, "’").replace(/(\")/g, "“").replace(/(\")/g, "”").replace(/(\=)/g, "0x005a");
+        var key = "U";
+        if (value == "" || $("#txtMainSearchType").hasClass('watermark')) {
+            alert("请输入检索条件");
+            return false;
+        } else {
+            if (searType == 'article') {
+                geturl(type, key + "=" + value);
+            }
+            else {
+                location.href = '/websearch.aspx?type=website&keywords=' + value;
+            }
+        }
+    }
+    function geturl(type, str, searType, rf, index) {
+        var url = "", key = "";
+        if (str) {
+            str = encodeURIComponent(str);
+            key = "?key=" + str;
+        }
+        if (type && type != "-1") {
+            artType = encodeURIComponent(rf);
+            if (key.indexOf("?") != -1) {
+                key += "&artType=" + type;
+            } else {
+                key += "?artType=" + type;
+            }
+        }
+        if (rf) {
+            rf = encodeURIComponent(rf);
+            if (key.indexOf("?") != -1) {
+                key += "&rf=" + rf;
+            } else {
+                key += "?rf=" + rf;
+            }
+        }
+        if (index) {
+            if (key.indexOf("?") != -1) {
+                key += "&uf=" + index;
+            } else {
+                key += "?uf=" + index;
+            }
+        }
+        if (key.length > 1000) {
+            alert("检索表达式位数超出");
+            return false;
+        }
+        url = "/zk/search.aspx?";
+        switch (searType) {
+            case "Writer":
+                url = "/writer/writersearch.aspx";
+                break; //人物
+            case "Organ":
+                url = "/organ/organsearch.aspx";
+                break; //机构
+            case "Subject":
+                url = "/subject/subjectsearch.aspx";
+                break; //主题
+            case "Journal":
+                url = "/journal/journalsearch.aspx";
+                break; //期刊
+            case "Fund":
+                url = "/fund/fundsearch.aspx";
+                break; //资助
+            case "Domain":
+                url = "/domain/domainsearch.aspx";
+                break; //学科
+            case "Area":
+                url = "/area/areasearch.aspx";
+                break; //地区
+            case "Articles":
+                url = "/zk/search.aspx";
+                break; //文献
+            default:
+                url = "/zk/search.aspx";
+                break;
+        }
+        location.href = url + key;
+    }
+
+    //回车检索
+    function search_enterKeydown(event) {
+        var e = $.event.fix(event);
+        if (e.keyCode === 13) {
+            search();
+        }
+    }
+
+    //URL参数获取
+    function GetQueryString(name) {
+        var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+        var r = decodeURIComponent(window.location.search.substr(1)).match(reg);
+        if (r != null) return unescape(r[2]); return null;
+    }
+</script>
+
+                    <!--搜索栏部分结束-->
+                </div>
+                
+                    <!--导航部分 开始-->
+                    <div class="wfull mt10 fl">
+    	                <div class="content nav">
+                            <div class="pr" style="z-index:100;">
+                                <ul class="clr" id="navUL">
+                                    <li navMark="index">
+                                        <a href="/Index.aspx">平台首页</a>
+                                    </li>                             
+                                    <li navMark="newsCenter">
+                                        <a href="/Newscenter.aspx">动态要文</a>
+                                        <div class="sun_nav" style="display:;">
+                                            <ul class="clr">
+                                                
+            	                                        <li><a href="/newscenter.aspx?nt=1" title="科技动态">科技动态</a></li>
+                                                    
+            	                                        <li><a href="/newscenter.aspx?nt=2" title="工作动态">工作动态</a></li>
+                                                    
+            	                                        <li><a href="/newscenter.aspx?nt=3" title="通知公告">通知公告</a></li>
+                                                    
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li navMark="sourceLink">
+                                        <a href="/SourceLinkList.aspx">科技资源</a>
+                                        <div class="sun_nav" style="display:;">
+                                            <ul class="clr">
+                                                
+            	                                        <li><a href="/SourceLinkList.aspx?cid=27" title="高新技术企业">高新技术...</a></li>
+                                                    
+            	                                        <li><a href="/SourceLinkList.aspx?cid=28" title="院士博士工作站">院士博士...</a></li>
+                                                    
+            	                                        <li><a href="/SourceLinkList.aspx?cid=29" title="工程技术研究中心">工程技术...</a></li>
+                                                    
+            	                                        <li><a href="/SourceLinkList.aspx?cid=5" title="高校">高校</a></li>
+                                                    
+            	                                        <li><a href="/SourceLinkList.aspx?cid=6" title="众创空间">众创空间</a></li>
+                                                    
+            	                                        <li><a href="/SourceLinkList.aspx?cid=9" title="科研院所及产业院所">科研院所...</a></li>
+                                                    
+            	                                        <li><a href="/SourceLinkList.aspx?cid=33" title="重点实验室">重点实验...</a></li>
+                                                    
+            	                                        <li><a href="/SourceLinkList.aspx?cid=34" title="孵化器">孵化器</a></li>
+                                                    
+                                            </ul>
+                                        </div>
+                                    </li>      
+                                    <li navMark="business">
+                                        <a href="/BusinessList.aspx">情报服务</a>
+                                        <div class="sun_nav" style="display:;">
+                                            <ul class="clr">
+                                                
+            	                                        <li><a href="/BusinessList.aspx?cid=2" title="科技查新">科技查新</a></li>
+                                                    
+            	                                        <li><a href="/BusinessList.aspx?cid=1" title="科技统计">科技统计</a></li>
+                                                    
+            	                                        <li><a href="/BusinessList.aspx?cid=3" title="科技宣传">科技宣传</a></li>
+                                                    
+            	                                        <li><a href="/BusinessList.aspx?cid=4" title="论文查重">论文查重</a></li>
+                                                    
+            	                                        <li><a href="/BusinessList.aspx?cid=5" title="战略研究">战略研究</a></li>
+                                                    
+            	                                        <li><a href="/BusinessList.aspx?cid=6" title="全文检索">全文检索</a></li>
+                                                    
+            	                                        <li><a href="/BusinessList.aspx?cid=7" title="科技评估">科技评估</a></li>
+                                                    
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li navMark="hotwriter"><a href="/writer/HotWriter.aspx">领域专家</a></li>
+                                    <li navMark="hotorgan"><a href="/organ/HotOrgan.aspx">机构推荐</a></li>
+                                    <li navMark="hotsubject"> <a href="/subject/HotSubject.aspx">热门主题</a></li>
+                                    <li navMark="selfLink"><a href="/SelfSourceLinkList.aspx">自建数据库</a></li>
+                                    <li navMark="serviceLink"> <a href="/ServiceSourceLinkList.aspx">科技文献地区服务站</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!--导航部分 结束-->
+                
+            </div>
+        </div>
+        <!--logo导航部分结束-->
+    </div>
+    
+    
+    
+    <div id="body">
+        
+    
+<input type="hidden" name="hfldSearchConditionValue" id="hfldSearchConditionValue" value="" autocomplete="off"/>
+<input type="hidden" name="hfldRelField" id="hfldRelField"  value="relwriter" autocomplete="off"/>
+<input type="hidden" name="hfldRelFieldValue" id="hfldRelFieldValue"  value="100000001458400" autocomplete="off"/>
+<input type="hidden" name="hfldFilterValue" id="hfldFilterValue"  value="OLC=0" autocomplete="off"/>
+<input type="hidden" name="hfldObjectType" id="hfldObjectType" value="fund" autocomplete="off"/>
+    
+<div class="m-part object-intro">
+    <dl class='object-writer' ><dt><h1>盛浩</h1></dt> <dd class='object-index'><span>作品数：<a href='/writer/article.aspx?id=100000001458400' id='zkfwcount'>17</a></span><span>被引量：39</span><span>H指数：4</span></dd><dd class='object-op'><a href="javascript:void(0);" onclick="GetParms($('.object-intro dl dt h1').html(),'Writer')"><b class="op-ico gz"></b>加关注<span class="gz-box" style="display:none;"><span class="gz-arrow"></span><span class="gz-close" onclick="$('.gz-box').hide();"></span><span class="gz-intro">用中文期刊手机助手扫描关注</span><span class="gz-pic"><img src="/ajax/QRCodeHandler.ashx?qrstr=OBJ%7cWriter%7c100000001458400" height="114px" alt=""></span></span></a><span id='bdshare' class='bdshare_t bds_tools get-codes-bdshare baidufx'><span><span class='bds_more' style='display: block; width: 67px; height: 29px; background: url(/images/share.gif) no-repeat!important; padding: 0;'></span></span></span><a href='/writer/report.aspx?id=100000001458400'><b class='op-ico bg'></b>导出分析报告</a></dd><dd class='line'><strong>供职机构：</strong><span>北京航空航天大学</span><a class='more' href='/writer/organ.aspx?id=100000001458400'>更多&gt;&gt;</a></dd><dd class='line'><strong>发文主题：</strong><span>电子警察</span><span>抓拍</span><span>感知</span><span>时空信息</span><span>智慧城市</span><a class='more' href='/writer/subject.aspx?id=100000001458400'>更多&gt;&gt;</a></dd><dd class='line'><strong>发文领域：</strong><span>自动化与计算机技术</span><span>机械工程</span><span>天文地球</span><span>交通运输工程</span><a class='more' href='/writer/domain.aspx?id=100000001458400'>更多&gt;&gt;</a></dd><dd class='line'><strong>发文期刊：</strong><span>《北京航空航天大学学报》</span><span>《计算机教育》</span><span>《计算机与数字工程》</span><span>《汽车科技》</span><a class='more' href='/writer/journal.aspx?id=100000001458400'>更多&gt;&gt;</a></dd><dd class='line'><strong>所获基金：</strong><span>国家高技术研究发展计划</span><span>国家自然科学基金</span><span>上海市“科技创新行动计划”</span><span>建设部科学技术计划项目</span><a class='more' href='/writer/fund.aspx?id=100000001458400'>更多&gt;&gt;</a></dd></dl>
+    <div id="content_content_ObjectDetailSummary_IsShow" class="object-min-graph">
+        <a href="/writer/atlas.aspx?id=100000001458400"></a>
+            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="objectDetailSummaryFalsh"
+                codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab"
+                width="180" height="200">
+                <param name="movie" value="/flash/graphic.swf" />
+                <param name="quality" value="high" />
+                <param value="opaque" name="wmode" />
+                <param name="flashVars" value="dType=9&amp;treeUrl=/flashdata/ly_data_tree.html&amp;offx=1&amp;offy=-1&amp;dataUrl=%2fflashdata%2fly_data_360.aspx%3fcid%3d100000001458400%26tid%3d6%26cname%3d%e7%9b%9b%e6%b5%a9%26sn%3d1%2c1%2c1%2c1%2c1%2c1%2c1&amp;drawWidth=&amp;drawHeight=&amp;Zoom=1.2&amp;ShowZoom=0" />
+                <param name="allowScriptAccess" value="sameDomain" />
+                <embed src="/flash/graphic.swf" quality="high" width="180" height="200"
+                    name="objectDetailSummaryFalsh" align="middle" wmode="opaque" play="true" loop="false"
+                    quality="high" allowscriptaccess="sameDomain" type="application/x-shockwave-flash"
+                    pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars='dType=9&amp;treeUrl=/flashdata/ly_data_tree.html&amp;offx=1&amp;offy=-1&amp;dataUrl=%2fflashdata%2fly_data_360.aspx%3fcid%3d100000001458400%26tid%3d6%26cname%3d%e7%9b%9b%e6%b5%a9%26sn%3d1%2c1%2c1%2c1%2c1%2c1%2c1&amp;drawWidth=&amp;drawHeight=&amp;Zoom=1.2&amp;ShowZoom=0'>
+                </embed>
+            </object>
+        
+    </div>
+</div>
+<input type="hidden" name="ctl00$ctl00$content$content$ObjectDetailSummary$hidObjectDetailSummary" id="hidObjectDetailSummary" value="0" />
+<script type="text/javascript">
+    $(function () {
+        if ($("#hidObjectDetailSummary").val() == "1") {
+            $(".object-area").css("padding-left", "0");
+        }
+    });
+</script>
+<script type="text/javascript" src="/scripts/AnHuiAddAttention.js"></script>
+    <div class="m-part object-detail">
+        
+	<div class="object-select">
+        <ul><li class=''><a href='/writer/article.aspx?id=100000001458400'>发表作品</a></li><li class=''><a href='/writer/organ.aspx?id=100000001458400'>供职机构</a></li><li class=''><a href='/writer/writer.aspx?id=100000001458400'>相关作者</a></li><li class=''><a href='/writer/journal.aspx?id=100000001458400'>发文期刊</a></li><li class=''><a href='/writer/subject.aspx?id=100000001458400'>发文主题</a></li><li class='current'><a href='/writer/fund.aspx?id=100000001458400'>所获基金</a></li><li class=''><a href='/writer/domain.aspx?id=100000001458400'>发文领域</a></li><li class=''><a href='/writer/atlas.aspx?id=100000001458400'>360°网络图</a></li><li class=''><a href='/writer/report.aspx?id=100000001458400'>分析报告</a></li></ul>
+    </div>
+
+        <div class="search-object">
+            <div class="left-cluster">
+                
+<script type="text/javascript" src="/scripts/rightclustertools.min.js"></script>
+<div class="search-refine" id="resultAdd">
+    
+<div class="refine-item">
+    <div class="sel">
+        <select name="dropResultAdd">
+            <option value="1#A" selected="selected">作者</option>
+            <option value="1#S">机构</option>
+            <option value="1#SC">主题</option>
+            <option value="1#JC">期刊</option>
+            <option value="1#FC">基金</option>
+            <option value="1#CC">学科</option>
+            <option value="1#AC">地区</option>
+            <option value="0#U">任意字段</option>
+        </select>
+    </div>
+    <div class="input">
+        <input type="text" name="txtResultAdd" />
+    </div>
+</div>
+<div class="refine-item">
+    <div class="sel">
+       <select name="dropResultAdd">
+            <option value="1#S" selected="selected">机构</option>
+            <option value="1#A">作者</option>
+            <option value="1#SC">主题</option>
+            <option value="1#JC">期刊</option>
+            <option value="1#FC">基金</option>
+            <option value="1#CC">学科</option>
+            <option value="1#AC">地区</option>
+            <option value="0#U">任意字段</option>
+        </select>
+    </div>
+    <div class="input">
+        <input type="text" name="txtResultAdd" />
+    </div>
+</div>
+    <div id="content_content_DetailLeftCluster1_yearRange" class="refine-item">
+        <div class="t">
+            <select name="dropStartYear" id="dropStartYear">
+	<option value="1989">1989</option>
+	<option value="1990">1990</option>
+	<option value="1991">1991</option>
+	<option value="1992">1992</option>
+	<option value="1993">1993</option>
+	<option value="1994">1994</option>
+	<option value="1995">1995</option>
+	<option value="1996">1996</option>
+	<option value="1997">1997</option>
+	<option value="1998">1998</option>
+	<option value="1999">1999</option>
+	<option value="2000">2000</option>
+	<option value="2001">2001</option>
+	<option value="2002">2002</option>
+	<option value="2003">2003</option>
+	<option value="2004">2004</option>
+	<option value="2005">2005</option>
+	<option value="2006">2006</option>
+	<option value="2007">2007</option>
+	<option value="2008">2008</option>
+	<option value="2009">2009</option>
+	<option value="2010">2010</option>
+	<option value="2011">2011</option>
+	<option value="2012">2012</option>
+	<option value="2013">2013</option>
+	<option value="2014">2014</option>
+	<option value="2015">2015</option>
+	<option value="2016">2016</option>
+	<option value="2017">2017</option>
+	<option value="2018">2018</option>
+	<option value="2019">2019</option>
+	<option value="2020">2020</option>
+	<option value="2021">2021</option>
+</select>
+        </div>
+        <span>-</span>
+        <div class="t">
+            <select name="dropEndYear" id="dropEndYear">
+	<option value="2021">2021</option>
+	<option value="2020">2020</option>
+	<option value="2019">2019</option>
+	<option value="2018">2018</option>
+	<option value="2017">2017</option>
+	<option value="2016">2016</option>
+	<option value="2015">2015</option>
+	<option value="2014">2014</option>
+	<option value="2013">2013</option>
+	<option value="2012">2012</option>
+	<option value="2011">2011</option>
+	<option value="2010">2010</option>
+	<option value="2009">2009</option>
+	<option value="2008">2008</option>
+	<option value="2007">2007</option>
+	<option value="2006">2006</option>
+	<option value="2005">2005</option>
+	<option value="2004">2004</option>
+	<option value="2003">2003</option>
+	<option value="2002">2002</option>
+	<option value="2001">2001</option>
+	<option value="2000">2000</option>
+	<option value="1999">1999</option>
+	<option value="1998">1998</option>
+	<option value="1997">1997</option>
+	<option value="1996">1996</option>
+	<option value="1995">1995</option>
+	<option value="1994">1994</option>
+	<option value="1993">1993</option>
+	<option value="1992">1992</option>
+	<option value="1991">1991</option>
+	<option value="1990">1990</option>
+	<option value="1989">1989</option>
+</select>
+        </div>
+    </div>
+    <div class="refine-submit">
+        <a href="javascript:void(0)" onclick="g_resultAdd();" class="submit">在结果中检索</a>
+    </div>
+</div>
+<div class="cluster" id="searchReport">
+    <h2>检索结果分析</h2>
+    
+                        <div id="content_content_DetailLeftCluster1_DetailRelationCluster1_detailrelationcluster" class="cluster-group">
+    <h3>基金类型<tt><a class="open" href="javascript:void(0)"></a></tt></h3>
+    <div class="list">
+        <ul>
+            <li><input type='radio' value='0' name='radDetailRelationCluster' checked >全部</li><li><input type='radio' value='1' name='radDetailRelationCluster'  >基金项目</li><li><input type='radio' value='2' name='radDetailRelationCluster'  >基金课题</li>
+        </ul>
+    </div>
+</div>
+
+                    
+    
+    
+    
+    
+    
+    
+    
+    <div id="content_content_DetailLeftCluster1_classcluster" class="cluster-group">
+        <h3 class="domain">学科<tt><a class="close" href="javascript:void(0)"></a></tt></h3>
+        <div class="list">
+            <ul class='level0' style='height:118px'><li title='自动化与计算机技术'><tt>15个</tt><input type='checkbox' autocomplete='off' value='ZY=21#自动化与计算机技术' dataitem='classids_s#21'><a class='show' href='javascript:void(0)'></a><span>自动化与计算...</span></li><li title='天文地球'><tt>12个</tt><input type='checkbox' autocomplete='off' value='ZY=10#天文地球' dataitem='classids_s#10'><a class='show' href='javascript:void(0)'></a><span>天文地球</span></li><li title='电子电信'><tt>12个</tt><input type='checkbox' autocomplete='off' value='ZY=19#电子电信' dataitem='classids_s#19'><a class='show' href='javascript:void(0)'></a><span>电子电信</span></li><li title='水利工程'><tt>11个</tt><input type='checkbox' autocomplete='off' value='ZY=23#水利工程' dataitem='classids_s#23'><a class='show' href='javascript:void(0)'></a><span>水利工程</span></li><li title='交通运输工程'><tt>11个</tt><input type='checkbox' autocomplete='off' value='ZY=26#交通运输工程' dataitem='classids_s#26'><a class='show' href='javascript:void(0)'></a><span>交通运输工程</span></li><li title='航空宇航科学技术'><tt>11个</tt><input type='checkbox' autocomplete='off' value='ZY=27#航空宇航科学技术' dataitem='classids_s#27'><a class='show' href='javascript:void(0)'></a><span>航空宇航科学...</span></li><li title='环境科学与工程'><tt>11个</tt><input type='checkbox' autocomplete='off' value='ZY=28#环境科学与工程' dataitem='classids_s#28'><a class='show' href='javascript:void(0)'></a><span>环境科学与工...</span></li><li title='经济管理'><tt>10个</tt><input type='checkbox' autocomplete='off' value='ZY=2#经济管理' dataitem='classids_s#2'><a class='show' href='javascript:void(0)'></a><span>经济管理</span></li><li title='化学工程'><tt>10个</tt><input type='checkbox' autocomplete='off' value='ZY=12#化学工程' dataitem='classids_s#12'><a class='show' href='javascript:void(0)'></a><span>化学工程</span></li><li title='冶金工程'><tt>10个</tt><input type='checkbox' autocomplete='off' value='ZY=15#冶金工程' dataitem='classids_s#15'><a class='show' href='javascript:void(0)'></a><span>冶金工程</span></li><li title='金属学及工艺'><tt>10个</tt><input type='checkbox' autocomplete='off' value='ZY=16#金属学及工艺' dataitem='classids_s#16'><a class='show' href='javascript:void(0)'></a><span>金属学及工艺</span></li><li title='机械工程'><tt>10个</tt><input type='checkbox' autocomplete='off' value='ZY=17#机械工程' dataitem='classids_s#17'><a class='show' href='javascript:void(0)'></a><span>机械工程</span></li><li title='动力工程及工程热物理'><tt>10个</tt><input type='checkbox' autocomplete='off' value='ZY=18#动力工程及工程热物理' dataitem='classids_s#18'><a class='show' href='javascript:void(0)'></a><span>动力工程及工...</span></li><li title='电气工程'><tt>10个</tt><input type='checkbox' autocomplete='off' value='ZY=20#电气工程' dataitem='classids_s#20'><a class='show' href='javascript:void(0)'></a><span>电气工程</span></li><li title='建筑科学'><tt>10个</tt><input type='checkbox' autocomplete='off' value='ZY=22#建筑科学' dataitem='classids_s#22'><a class='show' href='javascript:void(0)'></a><span>建筑科学</span></li><li title='轻工技术与工程'><tt>10个</tt><input type='checkbox' autocomplete='off' value='ZY=25#轻工技术与工程' dataitem='classids_s#25'><a class='show' href='javascript:void(0)'></a><span>轻工技术与工...</span></li><li title='医药卫生'><tt>10个</tt><input type='checkbox' autocomplete='off' value='ZY=30#医药卫生' dataitem='classids_s#30'><a class='show' href='javascript:void(0)'></a><span>医药卫生</span></li><li title='一般工业技术'><tt>10个</tt><input type='checkbox' autocomplete='off' value='ZY=257#一般工业技术' dataitem='classids_s#257'><a class='show' href='javascript:void(0)'></a><span>一般工业技术</span></li><li title='社会学'><tt>10个</tt><input type='checkbox' autocomplete='off' value='ZY=258#社会学' dataitem='classids_s#258'><a class='show' href='javascript:void(0)'></a><span>社会学</span></li><li title='自然科学总论'><tt>10个</tt><input type='checkbox' autocomplete='off' value='ZY=266#自然科学总论' dataitem='classids_s#266'><a class='show' href='javascript:void(0)'></a><span>自然科学总论</span></li></ul>
+        </div>
+    </div>
+    
+    
+    
+    <div id="content_content_DetailLeftCluster1_subjectcluster" class="cluster-group">
+        <h3 class="subject">主题<tt><a class="close" href="javascript:void(0)"></a></tt></h3>
+        <div class="list">
+            <ul style='height:118px'><li title='图像'><tt>13个</tt><input type='checkbox' autocomplete='off' value='SCC=2698176#图像' dataitem='subjectids_s#2698176'><span>图像</span></li><li title='地理信息'><tt>12个</tt><input type='checkbox' autocomplete='off' value='SCC=197866#地理信息' dataitem='subjectids_s#197866'><span>地理信息</span></li><li title='地理信息系统'><tt>12个</tt><input type='checkbox' autocomplete='off' value='SCC=198083#地理信息系统' dataitem='subjectids_s#198083'><span>地理信息系统</span></li><li title='信息系统'><tt>12个</tt><input type='checkbox' autocomplete='off' value='SCC=607128#信息系统' dataitem='subjectids_s#607128'><span>信息系统</span></li><li title='网络'><tt>12个</tt><input type='checkbox' autocomplete='off' value='SCC=3808392#网络' dataitem='subjectids_s#3808392'><span>网络</span></li><li title='文本'><tt>11个</tt><input type='checkbox' autocomplete='off' value='SCC=3922564#文本' dataitem='subjectids_s#3922564'><span>文本</span></li><li title='代理'><tt>10个</tt><input type='checkbox' autocomplete='off' value='SCC=28584#代理' dataitem='subjectids_s#28584'><span>代理</span></li><li title='带宽'><tt>9个</tt><input type='checkbox' autocomplete='off' value='SCC=24021#带宽' dataitem='subjectids_s#24021'><span>带宽</span></li><li title='代理模型'><tt>9个</tt><input type='checkbox' autocomplete='off' value='SCC=29091#代理模型' dataitem='subjectids_s#29091'><span>代理模型</span></li><li title='带通'><tt>8个</tt><input type='checkbox' autocomplete='off' value='SCC=25156#带通' dataitem='subjectids_s#25156'><span>带通</span></li><li title='代码'><tt>8个</tt><input type='checkbox' autocomplete='off' value='SCC=29732#代码' dataitem='subjectids_s#29732'><span>代码</span></li><li title='代数'><tt>8个</tt><input type='checkbox' autocomplete='off' value='SCC=30506#代数' dataitem='subjectids_s#30506'><span>代数</span></li><li title='单点'><tt>8个</tt><input type='checkbox' autocomplete='off' value='SCC=44072#单点' dataitem='subjectids_s#44072'><span>单点</span></li><li title='带宽分配'><tt>7个</tt><input type='checkbox' autocomplete='off' value='SCC=24111#带宽分配' dataitem='subjectids_s#24111'><span>带宽分配</span></li><li title='代谢'><tt>7个</tt><input type='checkbox' autocomplete='off' value='SCC=31519#代谢' dataitem='subjectids_s#31519'><span>代谢</span></li><li title='代谢产物'><tt>7个</tt><input type='checkbox' autocomplete='off' value='SCC=31560#代谢产物' dataitem='subjectids_s#31560'><span>代谢产物</span></li><li title='代谢动力学'><tt>7个</tt><input type='checkbox' autocomplete='off' value='SCC=31628#代谢动力学' dataitem='subjectids_s#31628'><span>代谢动力学</span></li><li title='代谢机制'><tt>6个</tt><input type='checkbox' autocomplete='off' value='SCC=31740#代谢机制' dataitem='subjectids_s#31740'><span>代谢机制</span></li><li title='大五人格'><tt>5个</tt><input type='checkbox' autocomplete='off' value='SCC=745#大五人格' dataitem='subjectids_s#745'><span>大五人格</span></li><li title='大细胞'><tt>5个</tt><input type='checkbox' autocomplete='off' value='SCC=1117#大细胞' dataitem='subjectids_s#1117'><span>大细胞</span></li></ul>
+        </div>
+    </div>
+    <div id="content_content_DetailLeftCluster1_organcluster" class="cluster-group">
+        <h3 class="organ">机构<tt><a class="close" href="javascript:void(0)"></a></tt></h3>
+        <div class="list">
+            <ul class='level0' style='height:118px'><li title='北京航空航天大学'><tt>15个</tt><input type='checkbox' autocomplete='off' value='OCC=1553#北京航空航天大学' dataitem='organids_s#1553'><a class='show' href='javascript:void(0)'></a><span>北京航空航天...</span></li><li title='北京大学'><tt>11个</tt><input type='checkbox' autocomplete='off' value='OCC=426#北京大学' dataitem='organids_s#426'><a class='show' href='javascript:void(0)'></a><span>北京大学</span></li><li title='复旦大学'><tt>10个</tt><input type='checkbox' autocomplete='off' value='OCC=325#复旦大学' dataitem='organids_s#325'><a class='show' href='javascript:void(0)'></a><span>复旦大学</span></li><li title='安徽师范大学'><tt>10个</tt><input type='checkbox' autocomplete='off' value='OCC=407#安徽师范大学' dataitem='organids_s#407'><a class='show' href='javascript:void(0)'></a><span>安徽师范大学</span></li><li title='东北大学'><tt>9个</tt><input type='checkbox' autocomplete='off' value='OCC=86#东北大学' dataitem='organids_s#86'><a class='show' href='javascript:void(0)'></a><span>东北大学</span></li><li title='贵州大学'><tt>9个</tt><input type='checkbox' autocomplete='off' value='OCC=150#贵州大学' dataitem='organids_s#150'><a class='show' href='javascript:void(0)'></a><span>贵州大学</span></li><li title='河海大学'><tt>9个</tt><input type='checkbox' autocomplete='off' value='OCC=199#河海大学' dataitem='organids_s#199'><a class='show' href='javascript:void(0)'></a><span>河海大学</span></li><li title='大连海事大学'><tt>9个</tt><input type='checkbox' autocomplete='off' value='OCC=286#大连海事大学' dataitem='organids_s#286'><a class='show' href='javascript:void(0)'></a><span>大连海事大学</span></li><li title='北京跟踪与通信技术研究所'><tt>8个</tt><input type='checkbox' autocomplete='off' value='OCC=20#北京跟踪与通信技术研究所' dataitem='organids_s#20'><a class='show' href='javascript:void(0)'></a><span>北京跟踪与通...</span></li><li title='北京工商大学'><tt>8个</tt><input type='checkbox' autocomplete='off' value='OCC=21#北京工商大学' dataitem='organids_s#21'><a class='show' href='javascript:void(0)'></a><span>北京工商大学</span></li><li title='广西科技大学'><tt>8个</tt><input type='checkbox' autocomplete='off' value='OCC=136#广西科技大学' dataitem='organids_s#136'><a class='show' href='javascript:void(0)'></a><span>广西科技大学</span></li><li title='哈尔滨工程大学'><tt>8个</tt><input type='checkbox' autocomplete='off' value='OCC=168#哈尔滨工程大学' dataitem='organids_s#168'><a class='show' href='javascript:void(0)'></a><span>哈尔滨工程大...</span></li><li title='河北农业大学'><tt>8个</tt><input type='checkbox' autocomplete='off' value='OCC=189#河北农业大学' dataitem='organids_s#189'><a class='show' href='javascript:void(0)'></a><span>河北农业大学</span></li><li title='北京邮电大学'><tt>8个</tt><input type='checkbox' autocomplete='off' value='OCC=257#北京邮电大学' dataitem='organids_s#257'><a class='show' href='javascript:void(0)'></a><span>北京邮电大学</span></li><li title='长沙理工大学'><tt>8个</tt><input type='checkbox' autocomplete='off' value='OCC=270#长沙理工大学' dataitem='organids_s#270'><a class='show' href='javascript:void(0)'></a><span>长沙理工大学</span></li><li title='常州工学院'><tt>8个</tt><input type='checkbox' autocomplete='off' value='OCC=272#常州工学院' dataitem='organids_s#272'><a class='show' href='javascript:void(0)'></a><span>常州工学院</span></li><li title='大连理工大学'><tt>8个</tt><input type='checkbox' autocomplete='off' value='OCC=287#大连理工大学' dataitem='organids_s#287'><a class='show' href='javascript:void(0)'></a><span>大连理工大学</span></li><li title='安徽工业大学'><tt>7个</tt><input type='checkbox' autocomplete='off' value='OCC=2#安徽工业大学' dataitem='organids_s#2'><a class='show' href='javascript:void(0)'></a><span>安徽工业大学</span></li><li title='安徽医科大学'><tt>7个</tt><input type='checkbox' autocomplete='off' value='OCC=9#安徽医科大学' dataitem='organids_s#9'><a class='show' href='javascript:void(0)'></a><span>安徽医科大学</span></li><li title='长春理工大学'><tt>7个</tt><input type='checkbox' autocomplete='off' value='OCC=55#长春理工大学' dataitem='organids_s#55'><a class='show' href='javascript:void(0)'></a><span>长春理工大学</span></li></ul>
+        </div>
+    </div>
+    <div id="content_content_DetailLeftCluster1_writercluster" class="cluster-group">
+        <h3 class="writer">作者<tt><a class="close" href="javascript:void(0)"></a></tt></h3>
+        <div class="list">
+            <ul style='height:118px'><li title='盛浩'><tt>15个</tt><input type='checkbox' autocomplete='off' value='WCC=100000001458400#盛浩' dataitem='writerids_s#100000001458400'><span>盛浩</span></li><li title='熊璋'><tt>8个</tt><input type='checkbox' autocomplete='off' value='WCC=100000004974961#熊璋' dataitem='writerids_s#100000004974961'><span>熊璋</span></li><li title='李超'><tt>7个</tt><input type='checkbox' autocomplete='off' value='WCC=100000018794755#李超' dataitem='writerids_s#100000018794755'><span>李超</span></li><li title='丁建宁'><tt>6个</tt><input type='checkbox' autocomplete='off' value='WCC=100000000002115#丁建宁' dataitem='writerids_s#100000000002115'><span>丁建宁</span></li><li title='欧阳元新'><tt>5个</tt><input type='checkbox' autocomplete='off' value='WCC=100000004031499#欧阳元新' dataitem='writerids_s#100000004031499'><span>欧阳元新</span></li><li title='万涛'><tt>4个</tt><input type='checkbox' autocomplete='off' value='WCC=100000000006116#万涛' dataitem='writerids_s#100000000006116'><span>万涛</span></li><li title='何品晶'><tt>4个</tt><input type='checkbox' autocomplete='off' value='WCC=100000000029461#何品晶' dataitem='writerids_s#100000000029461'><span>何品晶</span></li><li title='冯钰锜'><tt>4个</tt><input type='checkbox' autocomplete='off' value='WCC=100000000055590#冯钰锜' dataitem='writerids_s#100000000055590'><span>冯钰锜</span></li><li title='刘剑锋'><tt>4个</tt><input type='checkbox' autocomplete='off' value='WCC=100000000065111#刘剑锋' dataitem='writerids_s#100000000065111'><span>刘剑锋</span></li><li title='刘敏'><tt>4个</tt><input type='checkbox' autocomplete='off' value='WCC=100000000080214#刘敏' dataitem='writerids_s#100000000080214'><span>刘敏</span></li><li title='刘昌明'><tt>4个</tt><input type='checkbox' autocomplete='off' value='WCC=100000000081883#刘昌明' dataitem='writerids_s#100000000081883'><span>刘昌明</span></li><li title='卢海林'><tt>4个</tt><input type='checkbox' autocomplete='off' value='WCC=100000000110368#卢海林' dataitem='writerids_s#100000000110368'><span>卢海林</span></li><li title='卢涛'><tt>4个</tt><input type='checkbox' autocomplete='off' value='WCC=100000000110454#卢涛' dataitem='writerids_s#100000000110454'><span>卢涛</span></li><li title='吴士筠'><tt>4个</tt><input type='checkbox' autocomplete='off' value='WCC=100000000128780#吴士筠' dataitem='writerids_s#100000000128780'><span>吴士筠</span></li><li title='姚远'><tt>4个</tt><input type='checkbox' autocomplete='off' value='WCC=100000000172913#姚远' dataitem='writerids_s#100000000172913'><span>姚远</span></li><li title='刘敏'><tt>3个</tt><input type='checkbox' autocomplete='off' value='WCC=100000000080775#刘敏' dataitem='writerids_s#100000000080775'><span>刘敏</span></li><li title='周获'><tt>3个</tt><input type='checkbox' autocomplete='off' value='WCC=100000000156105#周获' dataitem='writerids_s#100000000156105'><span>周获</span></li><li title='唐勇'><tt>3个</tt><input type='checkbox' autocomplete='off' value='WCC=100000000159119#唐勇' dataitem='writerids_s#100000000159119'><span>唐勇</span></li><li title='崔正威'><tt>3个</tt><input type='checkbox' autocomplete='off' value='WCC=100000000217620#崔正威' dataitem='writerids_s#100000000217620'><span>崔正威</span></li></ul>
+        </div>
+    </div>
+    
+    <div id="content_content_DetailLeftCluster1_mediacluster" class="cluster-group">
+        <h3 class="media">期刊<tt><a class="close" href="javascript:void(0)"></a></tt></h3>
+        <div class="list">
+            <ul style='height:118px'><li title='计算机研究与发展'><tt>12个</tt><input type='checkbox' autocomplete='off' value='MCCS=2295#计算机研究与发展' dataitem='mediaids_s#2295'><span>计算机研究与...</span></li><li title='计算机应用研究'><tt>12个</tt><input type='checkbox' autocomplete='off' value='MCCS=3641#计算机应用研究' dataitem='mediaids_s#3641'><span>计算机应用研...</span></li><li title='北京航空航天大学学报'><tt>11个</tt><input type='checkbox' autocomplete='off' value='MCCS=5940#北京航空航天大学学报' dataitem='mediaids_s#5940'><span>北京航空航天...</span></li><li title='测绘学报'><tt>10个</tt><input type='checkbox' autocomplete='off' value='MCCS=1919#测绘学报' dataitem='mediaids_s#1919'><span>测绘学报</span></li><li title='工业安全与环保'><tt>9个</tt><input type='checkbox' autocomplete='off' value='MCCS=44#工业安全与环保' dataitem='mediaids_s#44'><span>工业安全与环...</span></li><li title='现代化工'><tt>9个</tt><input type='checkbox' autocomplete='off' value='MCCS=131#现代化工' dataitem='mediaids_s#131'><span>现代化工</span></li><li title='计算机集成制造系统'><tt>9个</tt><input type='checkbox' autocomplete='off' value='MCCS=190#计算机集成制造系统' dataitem='mediaids_s#190'><span>计算机集成制...</span></li><li title='分析化学'><tt>8个</tt><input type='checkbox' autocomplete='off' value='MCCS=6#分析化学' dataitem='mediaids_s#6'><span>分析化学</span></li><li title='资源科学'><tt>8个</tt><input type='checkbox' autocomplete='off' value='MCCS=100#资源科学' dataitem='mediaids_s#100'><span>资源科学</span></li><li title='生态学报'><tt>8个</tt><input type='checkbox' autocomplete='off' value='MCCS=103#生态学报' dataitem='mediaids_s#103'><span>生态学报</span></li><li title='环境工程'><tt>8个</tt><input type='checkbox' autocomplete='off' value='MCCS=129#环境工程' dataitem='mediaids_s#129'><span>环境工程</span></li><li title='塑料'><tt>8个</tt><input type='checkbox' autocomplete='off' value='MCCS=175#塑料' dataitem='mediaids_s#175'><span>塑料</span></li><li title='系统工程与电子技术'><tt>8个</tt><input type='checkbox' autocomplete='off' value='MCCS=176#系统工程与电子技术' dataitem='mediaids_s#176'><span>系统工程与电...</span></li><li title='北京科技大学学报'><tt>8个</tt><input type='checkbox' autocomplete='off' value='MCCS=193#北京科技大学学报' dataitem='mediaids_s#193'><span>北京科技大学...</span></li><li title='城市发展研究'><tt>7个</tt><input type='checkbox' autocomplete='off' value='MCCS=133#城市发展研究' dataitem='mediaids_s#133'><span>城市发展研究</span></li><li title='世界华人消化杂志'><tt>7个</tt><input type='checkbox' autocomplete='off' value='MCCS=169#世界华人消化杂志' dataitem='mediaids_s#169'><span>世界华人消化...</span></li><li title='分子科学学报：中英文版'><tt>6个</tt><input type='checkbox' autocomplete='off' value='MCCS=18#分子科学学报：中英文版' dataitem='mediaids_s#18'><span>分子科学学报...</span></li><li title='中国科技论坛'><tt>6个</tt><input type='checkbox' autocomplete='off' value='MCCS=63#中国科技论坛' dataitem='mediaids_s#63'><span>中国科技论坛</span></li><li title='中国临床药理学杂志'><tt>6个</tt><input type='checkbox' autocomplete='off' value='MCCS=65#中国临床药理学杂志' dataitem='mediaids_s#65'><span>中国临床药理...</span></li><li title='中华精神科杂志'><tt>5个</tt><input type='checkbox' autocomplete='off' value='MCCS=49#中华精神科杂志' dataitem='mediaids_s#49'><span>中华精神科杂...</span></li></ul>
+        </div>
+    </div>
+    
+    <!--默认不显示，只有作品才需要显示-->
+    
+    
+    
+</div>
+
+            </div>
+            <div class="search-result">
+                <div class="search-top clear">
+                    
+                    
+<div class="search-count">共 <i class="yellow" id="searchzkfwcount"><img src="/images/zoomloader.gif"/></i> 条 记 录，以下是1-10</div>
+<script type="text/javascript">
+    $(document).ready(function() {
+        var recordcounts = "15";
+        var showrecordcounts = "15";
+        if ($("#zkfwcount").html()) {
+            showrecordcounts = formatNum($("#zkfwcount").html().trim());
+        }
+         
+        var isshowrecordcount = "False";
+        var islastpage = "False";
+        if (isshowrecordcount == "True") {
+            $("#searchzkfwcount").html(showrecordcounts);
+            if (islastpage == "True" && recordcounts != showrecordcounts) {
+                $("#divLimited").show();
+                $("#spanLimitedCount").html(parseInt(showrecordcounts.replace(",", "")) - parseInt(recordcounts.replace(",", "")));
+            }
+        } else {
+            $("#searchzkfwcount").html(recordcounts);
+        }
+    });
+</script>
+                </div>
+                <div class="search-op">
+                    
+<script type="text/javascript" src="/scripts/selectedexport.min.js"></script>
+<div class="search-op-sel">
+    <input type="hidden" name="hfldSelectedIds" id="hfldSelectedIds" value="" autocomplete="off" />
+      <a href="javascript:void(0)" onclick="g_selectedAll();">全选</a><a href="javascript:void(0)" onclick="g_clearAll();">清除</a><a href="javascript:void(0)" onclick="g_exportList();">导出</a>
+</div>
+                    <div class="search-op-sort">
+                        <span>排序：</span>
+                        <span class="sel">
+                            <select name="dropSort" id="dropSort">
+	<option selected="selected" value="0">相关作品数排序</option>
+	<option value="1">相关被引量排序</option>
+</select>
+                        </span>
+                    </div>
+                </div>
+                <div class='search-result-list object-list 15'><dl class=''><dd class="sel"><input type="checkbox" value="183" name="vcubeid" autocomplete='off' /></dd><dt><span class="title">国家高技术研究发展计划</span></dt><dd class="sort-about"><a href="/writer/article.aspx?id=100000001458400&rf=FCC%3d183%23%e5%9b%bd%e5%ae%b6%e9%ab%98%e6%8a%80%e6%9c%af%e7%a0%94%e7%a9%b6%e5%8f%91%e5%b1%95%e8%ae%a1%e5%88%92"><img src="/images/sort-about.gif" alt="查看相关作品" /></a></dd><dd class="index"><span><strong>作品数：</strong><a href='/fund/article.aspx?id=183' target="_blank" class='yellow'>253535</a></span><span><strong>被引量：</strong>1110676</span><span><strong>H指数：</strong>165</span></dd><dd><strong>相关主题：</strong><span>数值模拟 水稻 仿真 遗传算法 机器人 </span></dd><dd><strong>相关领域：</strong><span>自动化与计算机技术 农业科学 电子电信 医药卫生 生物学 </span></dd></dl><dl class=''><dd class="sel"><input type="checkbox" value="211" name="vcubeid" autocomplete='off' /></dd><dt><span class="title">国家自然科学基金</span></dt><dd class="sort-about"><a href="/writer/article.aspx?id=100000001458400&rf=FCC%3d211%23%e5%9b%bd%e5%ae%b6%e8%87%aa%e7%84%b6%e7%a7%91%e5%ad%a6%e5%9f%ba%e9%87%91"><img src="/images/sort-about.gif" alt="查看相关作品" /></a></dd><dd class="index"><span><strong>作品数：</strong><a href='/fund/article.aspx?id=211' target="_blank" class='yellow'>2563113</a></span><span><strong>被引量：</strong>5452546</span><span><strong>H指数：</strong>320</span></dd><dd><strong>相关主题：</strong><span>数值模拟 影响因素 稳定性 遗传算法 神经网络 </span></dd><dd><strong>相关领域：</strong><span>医药卫生 理学 自动化与计算机技术 农业科学 经济管理 </span></dd></dl><dl class=''><dd class="sel"><input type="checkbox" value="6933" name="vcubeid" autocomplete='off' /></dd><dt><span class="title">上海市“科技创新行动计划”</span></dt><dd class="sort-about"><a href="/writer/article.aspx?id=100000001458400&rf=FCC%3d6933%23%e4%b8%8a%e6%b5%b7%e5%b8%82%e2%80%9c%e7%a7%91%e6%8a%80%e5%88%9b%e6%96%b0%e8%a1%8c%e5%8a%a8%e8%ae%a1%e5%88%92%e2%80%9d"><img src="/images/sort-about.gif" alt="查看相关作品" /></a></dd><dd class="index"><span><strong>作品数：</strong><a href='/fund/article.aspx?id=6933' target="_blank" class='yellow'>2694</a></span><span><strong>被引量：</strong>10148</span><span><strong>H指数：</strong>32</span></dd><dd><strong>相关主题：</strong><span>柔鱼 茎柔鱼 小鼠 支持向量机 脑卒中 </span></dd><dd><strong>相关领域：</strong><span>医药卫生 自动化与计算机技术 农业科学 电气工程 经济管理 </span></dd></dl><dl class=''><dd class="sel"><input type="checkbox" value="886849" name="vcubeid" autocomplete='off' /></dd><dt><span class="title">建设部科学技术计划项目(2010-K9-40)</span></dt><dd class="sort-about"><a href="/writer/article.aspx?id=100000001458400&rf=FCC%3d886849%23%e5%bb%ba%e8%ae%be%e9%83%a8%e7%a7%91%e5%ad%a6%e6%8a%80%e6%9c%af%e8%ae%a1%e5%88%92%e9%a1%b9%e7%9b%ae%ef%bc%882010-K9-40%ef%bc%89"><img src="/images/sort-about.gif" alt="查看相关作品" /></a></dd><dd class="index"><span><strong>作品数：</strong><a href='/fund/article.aspx?id=886849' target="_blank" class='yellow'>2</a></span><span><strong>被引量：</strong>1</span><span><strong>H指数：</strong>1</span></dd><dd><strong>相关主题：</strong><span>信任机制 信任测度 信任 基于用户 社会属性 </span></dd><dd><strong>相关领域：</strong><span>自动化与计算机技术 </span></dd></dl><dl class=''><dd class="sel"><input type="checkbox" value="1135331" name="vcubeid" autocomplete='off' /></dd><dt><span class="title">国家高技术研究发展计划(2010AA122202)</span></dt><dd class="sort-about"><a href="/writer/article.aspx?id=100000001458400&rf=FCC%3d1135331%23%e5%9b%bd%e5%ae%b6%e9%ab%98%e6%8a%80%e6%9c%af%e7%a0%94%e7%a9%b6%e5%8f%91%e5%b1%95%e8%ae%a1%e5%88%92%ef%bc%882010AA122202%ef%bc%89"><img src="/images/sort-about.gif" alt="查看相关作品" /></a></dd><dd class="index"><span><strong>作品数：</strong><a href='/fund/article.aspx?id=1135331' target="_blank" class='yellow'>47</a></span><span><strong>被引量：</strong>142</span><span><strong>H指数：</strong>6</span></dd><dd><strong>相关主题：</strong><span>嫦娥一号 月球 CE-1 立体相机 嫦娥 </span></dd><dd><strong>相关领域：</strong><span>天文地球 自动化与计算机技术 航空宇航科学技术 矿业工程 环境科学与工程 </span></dd></dl><dl class=''><dd class="sel"><input type="checkbox" value="313" name="vcubeid" autocomplete='off' /></dd><dt><span class="title">建设部科学技术计划项目</span></dt><dd class="sort-about"><a href="/writer/article.aspx?id=100000001458400&rf=FCC%3d313%23%e5%bb%ba%e8%ae%be%e9%83%a8%e7%a7%91%e5%ad%a6%e6%8a%80%e6%9c%af%e8%ae%a1%e5%88%92%e9%a1%b9%e7%9b%ae"><img src="/images/sort-about.gif" alt="查看相关作品" /></a></dd><dd class="index"><span><strong>作品数：</strong><a href='/fund/article.aspx?id=313' target="_blank" class='yellow'>3146</a></span><span><strong>被引量：</strong>15876</span><span><strong>H指数：</strong>38</span></dd><dd><strong>相关主题：</strong><span>抗震性能 混凝土 有限元分析 数值模拟 力学性能 </span></dd><dd><strong>相关领域：</strong><span>建筑科学 环境科学与工程 自动化与计算机技术 交通运输工程 经济管理 </span></dd></dl><dl class=''><dd class="sel"><input type="checkbox" value="4022" name="vcubeid" autocomplete='off' /></dd><dt><span class="title">国家重点实验室开放基金</span></dt><dd class="sort-about"><a href="/writer/article.aspx?id=100000001458400&rf=FCC%3d4022%23%e5%9b%bd%e5%ae%b6%e9%87%8d%e7%82%b9%e5%ae%9e%e9%aa%8c%e5%ae%a4%e5%bc%80%e6%94%be%e5%9f%ba%e9%87%91"><img src="/images/sort-about.gif" alt="查看相关作品" /></a></dd><dd class="index"><span><strong>作品数：</strong><a href='/fund/article.aspx?id=4022' target="_blank" class='yellow'>37279</a></span><span><strong>被引量：</strong>181480</span><span><strong>H指数：</strong>89</span></dd><dd><strong>相关主题：</strong><span>数值模拟 性能研究 力学性能 遗传算法 复合材料 </span></dd><dd><strong>相关领域：</strong><span>理学 自动化与计算机技术 天文地球 电子电信 农业科学 </span></dd></dl><dl class=''><dd class="sel"><input type="checkbox" value="4176" name="vcubeid" autocomplete='off' /></dd><dt><span class="title">航天支撑技术基金</span></dt><dd class="sort-about"><a href="/writer/article.aspx?id=100000001458400&rf=FCC%3d4176%23%e8%88%aa%e5%a4%a9%e6%94%af%e6%92%91%e6%8a%80%e6%9c%af%e5%9f%ba%e9%87%91"><img src="/images/sort-about.gif" alt="查看相关作品" /></a></dd><dd class="index"><span><strong>作品数：</strong><a href='/fund/article.aspx?id=4176' target="_blank" class='yellow'>1341</a></span><span><strong>被引量：</strong>5864</span><span><strong>H指数：</strong>25</span></dd><dd><strong>相关主题：</strong><span>仿真 图像融合 自适应 高超声速飞行器 遗传算法 </span></dd><dd><strong>相关领域：</strong><span>自动化与计算机技术 航空宇航科学技术 电子电信 一般工业技术 理学 </span></dd></dl><dl class=''><dd class="sel"><input type="checkbox" value="904728" name="vcubeid" autocomplete='off' /></dd><dt><span class="title">国家高技术研究发展计划(2002AA113070)</span></dt><dd class="sort-about"><a href="/writer/article.aspx?id=100000001458400&rf=FCC%3d904728%23%e5%9b%bd%e5%ae%b6%e9%ab%98%e6%8a%80%e6%9c%af%e7%a0%94%e7%a9%b6%e5%8f%91%e5%b1%95%e8%ae%a1%e5%88%92%ef%bc%882002AA113070%ef%bc%89"><img src="/images/sort-about.gif" alt="查看相关作品" /></a></dd><dd class="index"><span><strong>作品数：</strong><a href='/fund/article.aspx?id=904728' target="_blank" class='yellow'>5</a></span><span><strong>被引量：</strong>22</span><span><strong>H指数：</strong>3</span></dd><dd><strong>相关主题：</strong><span>企业门户 资源整合 隐私保护 个性化 门户 </span></dd><dd><strong>相关领域：</strong><span>自动化与计算机技术 </span></dd></dl><dl class=''><dd class="sel"><input type="checkbox" value="198" name="vcubeid" autocomplete='off' /></dd><dt><span class="title">国家留学基金</span></dt><dd class="sort-about"><a href="/writer/article.aspx?id=100000001458400&rf=FCC%3d198%23%e5%9b%bd%e5%ae%b6%e7%95%99%e5%ad%a6%e5%9f%ba%e9%87%91"><img src="/images/sort-about.gif" alt="查看相关作品" /></a></dd><dd class="index"><span><strong>作品数：</strong><a href='/fund/article.aspx?id=198' target="_blank" class='yellow'>12411</a></span><span><strong>被引量：</strong>52989</span><span><strong>H指数：</strong>63</span></dd><dd><strong>相关主题：</strong><span>影响因素 实证研究 数值模拟 高等教育 翻译 </span></dd><dd><strong>相关领域：</strong><span>经济管理 文化科学 政治法律 自动化与计算机技术 医药卫生 </span></dd></dl></div>
+                <div class="search-op no-border">
+                    
+<script type="text/javascript" src="/scripts/selectedexport.min.js"></script>
+<div class="search-op-sel">
+    <input type="hidden" name="hfldSelectedIds" id="hfldSelectedIds" value="" autocomplete="off" />
+      <a href="javascript:void(0)" onclick="g_selectedAll();">全选</a><a href="javascript:void(0)" onclick="g_clearAll();">清除</a><a href="javascript:void(0)" onclick="g_exportList();">导出</a>
+</div>
+                    <script src="/scripts/pager.min.js" type="text/javascript">
+
+</script><div class="pages">
+	<input type='hidden' id='hidPageSize' value='10'/><input type='hidden' id='hidPageIndex' value='1'/><input type='hidden' id='hidRecordCount' value='15'/><span class='total'>共2页</span><span class="page"><a>&lt;</a><span class="page-num"><a class="current">1</a><a href="javascript:void(g_GetGotoPage(&#39;2&#39;))">2</a></span><a href="javascript:void(g_GetGotoPage(&#39;2&#39;))">&gt;</a></span>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="tools">
+        
+<a class="tools-btn" href="javascript:void(0)" id="btnRetrieveReport">检索报告</a>
+<a class="tools-btn" href="javascript:void(0)" id="btnGoToCompare">对象比较</a>
+<a class="tools-btn" href="javascript:void(0)" id="btnClusterTool" >聚类工具<span id="selectNumber" class="sel-num" style="display:none;">0</span></a>
+<div class="cluster-selected" id="divClusterTool" style="display:none;">
+        <input type="hidden" name="selectCondition" id="selectCondition" value=""  autocomplete="off"/>
+        <ul id="cplist" class="cluster-selected-list">
+        </ul>
+        <div class="submit">
+        <a id="submitExecute" href="javascript:void(0)" class="submit-btn">执行</a> <a id="hideCondition" href="javascript:void(0)" class="clear-btn">隐藏</a><a id="clearAllCondition" href="javascript:void(0)" class="clear-btn">清空</a>
+        </div>
+</div>
+<a class="tools-btn" href="javascript:void(0)"  id="backtop">返回顶部</a>
+    </div>
+
+    </div>
+    <div class="export-msg">
+    </div>
+    <script id="bdshare_js" data="type=tools&uid=0" type="text/javascript"></script>
+    
+    <script type="text/javascript">
+        $(function () {
+            //隐藏对象比较按钮
+            $("#btnGoToCompare").hide();
+            $("#bdshare_js").attr("src", "http://bdimg.share.baidu.com/static/js/bds_s_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000));
+            //控制对象下的对象 右边进度条的样式
+            //$(".search-result-list dl").css("min-height","100px");
+            //for (var i = 0; i < 10; i++) {
+            //    $(".sort-about").eq(i).css("height", $(".sort-about").parent().eq(i).innerHeight());
+            //}
+        })
+    </script>
+
+    <div class="layer-bg" style="display: none;"></div>
+    
+<script type="text/javascript" src="/scripts/login.yui.js"></script>
+<script type="text/javascript" src="/scripts/des.js"></script>
+<div class="layer-box login" id="divLoginBox" style="display: none;">
+    <div class="close"><a href="javascript:void(0);" id="btnLoginClose">
+        <img src="/images/layer-close.png" width="21" height="21" alt="" title="关闭" /></a></div>
+    <h5 class="layer-title">用户登录</h5>
+    <div class="layer-cnt">
+        <div class="search-list adv-object">
+            <div class="login-alert" id="divLoginError"></div>
+            <div class="sinput">
+                <div class="input"><span class="user-ico"></span>
+                    <input type="text" id="txtLUsername" name="txtLUsername" maxlength="20"></div>
+            </div>
+            <div class="sinput">
+                <div class="input"><span class="psw-ico"></span>
+                    <input type="password" id="txtLPassword" name="txtLPassword" maxlength="20"></div>
+            </div>
+            <div class="sinput">
+                <div class="input" style="width:60%;float:left;padding-left:0">
+                    <input type="text" class="" placeholder="验证码" id="ValidCode" name="ValidCode" style="width:auto" />
+                </div>
+                <img class="validCode" id="validCode_img" onclick='$(this).attr("src", "/ajax/getauthcode.ashx?key=Login_ValidCode&random=" + Math.random() * 1000 );'
+                                     style="cursor: pointer;  height:36px; width:30%; margin-left:5px; float:left" />
+            </div>
+            <div class="submit">
+                <input type="button" value="登录" onclick="return normalLogin(loginAfter)" name="" class="btn-s">
+            </div>
+            <div class="sinput">
+                <span class="regist"><a href="/user/register.aspx">注册新用户</a></span><span class="forget"><a href="/user/getbackpassword.aspx">忘记密码</a></span>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $(function () {
+        $("#validCode_img").trigger("click");
+    })
+</script>
+    
+
+<div class="layer-box advance" style="display:none" id="objectsearch-factor">
+    <div class="close"><a href="javascript:void(0);" onclick="onidclose('objectsearch-factor')">
+        <img src="/images/layer-close.png" width="21" height="21" alt="" /></a></div>
+    <h5 class="layer-title"><a href="javascript:void(0);" onclick="isshowclose('pagesearch-factor','objectsearch-factor')">基本检索</a><a class="current" href="javascript:void(0);" onclick="isshowclose('objectsearch-factor','pagesearch-factor')">检索式检索</a></h5>
+    <div class="layer-cnt"  id="object-factor">
+            <div class="format-intro">
+            	<p><strong>检索规则说明：</strong>AND代表“并且”；OR代表“或者”；NOT代表“不包含”；(注意必须大写,运算符两边需空一格)</p>
+                <p><strong>检 索 范 例 ：</strong>范例一： (K=图书馆学 OR K=情报学) AND A=范并思&#12288;&#12288;&#12288;&#12288;范例二：J=计算机应用与软件 AND (U=C++ OR U=Basic) NOT M=Visual</p>
+                <textarea class="input-area" name="" cols="" rows="" id="searchusercontent"></textarea>
+            </div>
+            <h6 class="layer-cnt-h">时间限定
+            </h6>
+            <div class="filter" id="re_searchtimefilter">
+                <strong>
+                    <input name="radresearhtime" type="radio" value="1" checked="checked"/>时间：</strong>
+                <div class="t">
+                    <select name="re_dropAiStartTime" id="re_dropAiStartTime">
+	<option value="1989">1989</option>
+	<option value="1990">1990</option>
+	<option value="1991">1991</option>
+	<option value="1992">1992</option>
+	<option value="1993">1993</option>
+	<option value="1994">1994</option>
+	<option value="1995">1995</option>
+	<option value="1996">1996</option>
+	<option value="1997">1997</option>
+	<option value="1998">1998</option>
+	<option value="1999">1999</option>
+	<option value="2000">2000</option>
+	<option value="2001">2001</option>
+	<option value="2002">2002</option>
+	<option value="2003">2003</option>
+	<option value="2004">2004</option>
+	<option value="2005">2005</option>
+	<option value="2006">2006</option>
+	<option value="2007">2007</option>
+	<option value="2008">2008</option>
+	<option value="2009">2009</option>
+	<option value="2010">2010</option>
+	<option value="2011">2011</option>
+	<option value="2012">2012</option>
+	<option value="2013">2013</option>
+	<option value="2014">2014</option>
+	<option value="2015">2015</option>
+	<option value="2016">2016</option>
+	<option value="2017">2017</option>
+	<option value="2018">2018</option>
+	<option value="2019">2019</option>
+	<option value="2020">2020</option>
+	<option value="2021">2021</option>
+</select>
+                </div>
+                <span>-</span>
+                <div class="t">
+                      <select name="re_dropAiEndTime" id="re_dropAiEndTime">
+	<option value="2021">2021</option>
+	<option value="2020">2020</option>
+	<option value="2019">2019</option>
+	<option value="2018">2018</option>
+	<option value="2017">2017</option>
+	<option value="2016">2016</option>
+	<option value="2015">2015</option>
+	<option value="2014">2014</option>
+	<option value="2013">2013</option>
+	<option value="2012">2012</option>
+	<option value="2011">2011</option>
+	<option value="2010">2010</option>
+	<option value="2009">2009</option>
+	<option value="2008">2008</option>
+	<option value="2007">2007</option>
+	<option value="2006">2006</option>
+	<option value="2005">2005</option>
+	<option value="2004">2004</option>
+	<option value="2003">2003</option>
+	<option value="2002">2002</option>
+	<option value="2001">2001</option>
+	<option value="2000">2000</option>
+	<option value="1999">1999</option>
+	<option value="1998">1998</option>
+	<option value="1997">1997</option>
+	<option value="1996">1996</option>
+	<option value="1995">1995</option>
+	<option value="1994">1994</option>
+	<option value="1993">1993</option>
+	<option value="1992">1992</option>
+	<option value="1991">1991</option>
+	<option value="1990">1990</option>
+	<option value="1989">1989</option>
+</select>
+                </div>
+                <strong style="margin-left: 40px;">
+                    <input name="radresearhtime" type="radio" value="2" />更新时间：</strong>
+                <div class="sel">
+                    <select id="re_searchtimeupdatefilter" class="endtime">
+                        <option value="1">一个月内</option>
+                        <option value="2">三个月内</option>
+                        <option value="3">半年内</option>
+                        <option value="4">一年内</option>
+                        <option value="5">当年内</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="submit">
+                <input type="button" value="检索" onclick="RetrievalSearchExpression()" name="" class="btn-s" />
+                <input value="取消" type="reset" class="btn-c" onclick="onidclose('objectsearch-factor')" />
+            </div>
+    </div>
+</div>
+
+
+<div class="layer-box advance" id="pagesearch-factor" style="display: none">
+    <div class="close"><a href="javascript:void(0);" onclick="onidclose('pagesearch-factor')">
+        <img src="/images/layer-close.png" width="21" height="21" alt="" /></a></div>
+    <h5 class="layer-title"><a href="javascript:void(0);" class="current" onclick="isshowclose('pagesearch-factor','objectsearch-factor')">基本检索</a>
+        <a href="javascript:void(0);" onclick="isshowclose('objectsearch-factor','pagesearch-factor')">检索式检索</a></h5>
+    <div class="layer-cnt">
+        <div>
+            <div class="search-list adv-object"  id="basic-factor">
+                <div class="sinput-top">
+                    <div class="sel">
+                        <input id="hidAikey1" type="hidden" value="M"/>
+                        <select id="Select11" value="M">
+                             <option value="U">U=任意字段</option>
+                            <option value="M" selected="selected">M=题名/关键词</option> 
+                            <option value="T">T=题名</option>
+                            <option value="K">K=关键词</option>
+                            <option value="R">R=文摘</option>
+                            <option value="A">A=作者</option>
+                            <option value="F">F=第一作者</option>
+                            <option value="S">S=机构</option>
+                            <option value="J">J=刊名</option>
+                            <option value="C">C=分类号</option>
+                            <option value="Y">Y=参考文献</option>
+                            <option value="Z">Z=作者简介</option>
+                            <option value="I">I=基金资助</option>
+                             <option value="L">L=栏目信息</option>
+                        </select>
+                    </div>
+                    <div class="input">
+                        <input type="text" id="Text3" name="txtSearchArticles">
+                         <span class="in-sel">
+                             <input id="hidAijq1" type="hidden" value="%"/>
+                         <select id="Select25" value="%">
+                             <option value="&" class="exact">精确</option>
+                              <option value="%" selected="selected">模糊</option>
+                         </select>
+                        </span>
+                    </div>
+                    
+                </div>
+                <div class="sinput">
+                    <div class="s">
+                         <select id="Select13">
+                            <option value="*" selected="selected">与</option>
+                            <option value="+">或</option>
+                            <option value="!">非</option>
+                       </select>
+                    </div>
+                    <div class="sel">
+                       <select id="Select12" value="A">
+                            <option value="U">U=任意字段</option>
+                            <option value="M">M=题名/关键词</option> 
+                            <option value="T">T=题名</option>
+                            <option value="K">K=关键词</option>
+                            <option value="R">R=文摘</option>
+                            <option value="A" selected="selected">A=作者</option>
+                            <option value="F">F=第一作者</option>
+                            <option value="S">S=机构</option>
+                            <option value="J">J=刊名</option>
+                            <option value="C">C=分类号</option>
+                            <option value="Y">Y=参考文献</option>
+                            <option value="Z">Z=作者简介</option>
+                            <option value="I">I=基金资助</option>
+                             <option value="L">L=栏目信息</option>
+                        </select>
+                    </div>
+                    <div class="input">
+                        <input type="text" id="Text4" name="txtSearchArticles">
+                         <span class="in-sel">
+                         <select id="Select26" value="%">
+                             <option value="&" class="exact" >精确</option>
+                              <option value="%" selected="selected">模糊</option>
+                         </select>
+                        </span>
+                    </div>
+                    
+                </div>
+                <div class="sinput" style="display: none">
+                    <div class="s">
+                        <input id="hidAigx3" type="hidden" value="*"/>
+                        <select id="Select14">
+                            <option value="*" selected="selected">与</option>
+                            <option value="+">或</option>
+                            <option value="!">非</option>
+                       </select>
+                    </div>
+                    <div class="sel">
+                       <select id="Select15" value="C">
+                             <option value="U">U=任意字段</option>
+                            <option value="M">M=题名/关键词</option> 
+                            <option value="T">T=题名</option>
+                            <option value="K">K=关键词</option>
+                            <option value="R">R=文摘</option>
+                            <option value="A">A=作者</option>
+                            <option value="F">F=第一作者</option>
+                            <option value="S">S=机构</option>
+                            <option value="J">J=刊名</option>
+                            <option value="C" selected="selected">C=分类号</option>
+                            <option value="Y">Y=参考文献</option>
+                            <option value="Z">Z=作者简介</option>
+                            <option value="I">I=基金资助</option>
+                             <option value="L">L=栏目信息</option>
+                        </select>
+                    </div>
+                    <div class="input">
+                        <input type="text" id="Text5" name="txtSearchArticles">
+                         <span class="in-sel">
+                         <select id="Select27" value="%">
+                             <option value="&" class="exact">精确</option>
+                              <option value="%" selected="selected">模糊</option>
+                         </select>
+                        </span>
+                    </div>
+                    
+                </div>
+                <div class="sinput" style="display: none">
+                    <div class="s">
+                       <select id="Select17">
+                            <option value="*" selected="selected">与</option>
+                            <option value="+">或</option>
+                            <option value="!">非</option>
+                       </select>
+                    </div>
+                    <div class="sel">
+                         <select id="Select16" value="S">
+                            <option value="U">U=任意字段</option>
+                            <option value="M">M=题名/关键词</option> 
+                            <option value="T">T=题名</option>
+                            <option value="K">K=关键词</option>
+                            <option value="R">R=文摘</option>
+                            <option value="A">A=作者</option>
+                            <option value="F">F=第一作者</option>
+                            <option value="S" selected="selected">S=机构</option>
+                            <option value="J">J=刊名</option>
+                            <option value="C">C=分类号</option>
+                            <option value="Y">Y=参考文献</option>
+                            <option value="Z">Z=作者简介</option>
+                            <option value="I">I=基金资助</option>
+                             <option value="L">L=栏目信息</option>
+                        </select>
+                    </div>
+                    <div class="input">
+                        <input type="text" id="Text6" name="txtSearchArticles">
+                         <span class="in-sel">
+                         <select id="Select28" value="%">
+                             <option value="&" class="exact">精确</option>
+                              <option value="%" selected="selected">模糊</option>
+                         </select>
+                        </span>
+                    </div>
+                    
+                </div>
+                <div class="sinput" style="display: none">
+                    <div class="s">
+                        <select id="Select18">
+                            <option value="*" selected="selected">与</option>
+                            <option value="+">或</option>
+                            <option value="!">非</option>
+                       </select>
+                    </div>
+                    <div class="sel">
+                         <select id="Select19" value="J">
+                           <option value="U">U=任意字段</option>
+                            <option value="M">M=题名/关键词</option> 
+                            <option value="T">T=题名</option>
+                            <option value="K">K=关键词</option>
+                            <option value="R">R=文摘</option>
+                            <option value="A">A=作者</option>
+                            <option value="F">F=第一作者</option>
+                            <option value="S">S=机构</option>
+                            <option value="J" selected="selected">J=刊名</option>
+                            <option value="C">C=分类号</option>
+                            <option value="Y">Y=参考文献</option>
+                            <option value="Z">Z=作者简介</option>
+                            <option value="I">I=基金资助</option>
+                             <option value="L">L=栏目信息</option>
+                        </select>
+                    </div>
+                    <div class="input">
+                        <input type="text" id="Text7" name="txtSearchArticles" >
+                        <span class="in-sel">
+                         <select id="Select29" value="%">
+                             <option value="&" class="exact">精确</option>
+                              <option value="%" selected="selected">模糊</option>
+                         </select>
+                        </span></div>
+                    
+                </div>
+                <div class="sel-op">
+                <input type="button" class="add" onclick="addsearchitem('basic-factor')"><input type="button" class="cut" onclick="cutsearchitem('basic-factor')">
+            </div>
+            </div>
+            <h6 class="layer-cnt-h">时间限定
+            </h6>
+            <div class="filter" id="basic_searchtimefilter">
+                <strong>
+                    <input name="radsearhtime" type="radio" value="1" checked="checked"/>时间：</strong>
+                <div class="t">
+                    <select name="basic_dropAiStartTime" id="basic_dropAiStartTime">
+	<option value="1989">1989</option>
+	<option value="1990">1990</option>
+	<option value="1991">1991</option>
+	<option value="1992">1992</option>
+	<option value="1993">1993</option>
+	<option value="1994">1994</option>
+	<option value="1995">1995</option>
+	<option value="1996">1996</option>
+	<option value="1997">1997</option>
+	<option value="1998">1998</option>
+	<option value="1999">1999</option>
+	<option value="2000">2000</option>
+	<option value="2001">2001</option>
+	<option value="2002">2002</option>
+	<option value="2003">2003</option>
+	<option value="2004">2004</option>
+	<option value="2005">2005</option>
+	<option value="2006">2006</option>
+	<option value="2007">2007</option>
+	<option value="2008">2008</option>
+	<option value="2009">2009</option>
+	<option value="2010">2010</option>
+	<option value="2011">2011</option>
+	<option value="2012">2012</option>
+	<option value="2013">2013</option>
+	<option value="2014">2014</option>
+	<option value="2015">2015</option>
+	<option value="2016">2016</option>
+	<option value="2017">2017</option>
+	<option value="2018">2018</option>
+	<option value="2019">2019</option>
+	<option value="2020">2020</option>
+	<option value="2021">2021</option>
+</select>
+                </div>
+                <span>-</span>
+                <div class="t">
+                      <select name="basic_dropAiEndTime" id="basic_dropAiEndTime">
+	<option value="2021">2021</option>
+	<option value="2020">2020</option>
+	<option value="2019">2019</option>
+	<option value="2018">2018</option>
+	<option value="2017">2017</option>
+	<option value="2016">2016</option>
+	<option value="2015">2015</option>
+	<option value="2014">2014</option>
+	<option value="2013">2013</option>
+	<option value="2012">2012</option>
+	<option value="2011">2011</option>
+	<option value="2010">2010</option>
+	<option value="2009">2009</option>
+	<option value="2008">2008</option>
+	<option value="2007">2007</option>
+	<option value="2006">2006</option>
+	<option value="2005">2005</option>
+	<option value="2004">2004</option>
+	<option value="2003">2003</option>
+	<option value="2002">2002</option>
+	<option value="2001">2001</option>
+	<option value="2000">2000</option>
+	<option value="1999">1999</option>
+	<option value="1998">1998</option>
+	<option value="1997">1997</option>
+	<option value="1996">1996</option>
+	<option value="1995">1995</option>
+	<option value="1994">1994</option>
+	<option value="1993">1993</option>
+	<option value="1992">1992</option>
+	<option value="1991">1991</option>
+	<option value="1990">1990</option>
+	<option value="1989">1989</option>
+</select>
+                </div>
+                <strong style="margin-left: 40px;">
+                    <input name="radsearhtime" type="radio" value="2" />更新时间：</strong>
+                <div class="sel">
+                    <select id="basic_searchtimeupdatefilter" class="endtime">
+                        <option value="1">一个月内</option>
+                        <option value="2">三个月内</option>
+                        <option value="3">半年内</option>
+                        <option value="4">一年内</option>
+                        <option value="5">当年内</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="submit">
+                <input type="button" value="检索" onclick="RetrievalBasicExpression('basic-factor')" name="" class="btn-s"><input value="取消" type="reset" class="btn-c" onclick="    onidclose('pagesearch-factor')">
+            </div>
+        </div>
+    </div>
+</div>
+
+    <!--底部版权部分开始-->
+    <div class="wfull clr">
+        <div class="footer">
+        	<div class="content">
+                <p><span>单位地址： 山西省长治市威远门中路28号</span><span>邮　　编： 046000</span> <span>电　　话： (0355)-2174000</span><span>传　　真： (0355)-2174000</span></p>
+                <p>
+                    <script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/06/120/0000/41024050/CA061200000410240500001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+                    <span>版权所有：长治市科技情报研究所</span><span>技术支持：重庆维普资讯有限公司</span>
+                    <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=50019002500403"><img src="/images/ghs.png" style="margin-right:3px;"><span>渝公网安备 50019002500403号</span></a>
+                </p>
+            </div>
+        </div>
+    </div>
+    </div>
+    
+    
+    <style>
+        .new_box *{
+           font-family:微软雅黑 !important; 
+           color:inherit !important;
+        }
+    </style>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#loginLoading").load("/user/loginheader.aspx?" + Math.random());
+        });
+    </script>
+    <script type="text/javascript">
+        $(function () {
+            $("#aFloatTools_Show").click(function () {
+                $('#divFloatToolsView').animate({ width: 'show', opacity: 'show' }, 100, function () { $('#divFloatToolsView').show(); });
+                $('#aFloatTools_Show').hide();
+                $('#aFloatTools_Hide').show();
+            });
+            $("#aFloatTools_Hide").click(function () {
+                $('#divFloatToolsView').animate({ width: 'hide', opacity: 'hide' }, 100, function () { $('#divFloatToolsView').hide(); });
+                $('#aFloatTools_Show').show();
+                $('#aFloatTools_Hide').hide();
+            });
+        });
+    </script>
+    
+    <input id="hifBaseLog" type="hidden" value="Ozs7NjsxMDAwMDAwMDE0NTg0MDA7L3dyaXRlci9mdW5kLmFzcHg="/>
+    <script type="text/javascript">
+        $(function () {
+            $("#loginLoading").load("/user/loginheader.aspx?" + Math.random());
+            $('#navUL>li[navMark="' + $('#PageNavMark').val() + '"]').addClass('nav_hover');
+
+            $(".showGuestBook").click(function () {
+                var result = checkUserLogin(showGuestBook);
+            });
+        });
+
+        function showGuestBook() {
+            asyncbox.open({
+                url: '/guestbook.aspx',
+                title: '参考咨询',
+                width: 576,
+                height: 400,
+                btnsbar: $.btn.CANCEL
+            });
+        }
+    </script>
+</body>
+</html>

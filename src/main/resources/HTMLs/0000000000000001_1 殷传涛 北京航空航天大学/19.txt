@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="zh">
+<head>
+    
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    
+    <link rel="dns-prefetch" href="//s1.bdstatic.com"/>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="icon" sizes="any" mask href="//www.baidu.com/img/baidu.svg">
+    <script src="/lib/static/scholar/cache/global_30/js/md5.min_fcadbf5.js"></script>
+    <script>var token = 'ba1c1ea8793f749f63b1488efd250f817eba5f9f5a32e5bc6bedc3d175594711'</script>
+    <title>徐平 - 百度学术</title>
+
+    
+<link rel="stylesheet" href="/lib/static/scholar/cache/homepage/css/page_ac949b9.css">
+<!--[if lte IE 8]>
+    <style>
+    .p_img {
+        border: 0;
+    }
+    </style>
+<!<![endif]-->
+
+    
+<script>
+var _hmt = _hmt || [];
+
+var bds = {
+    se : {},
+    util : {},
+    //js通用数据
+    comm : {
+        qid:'2695149707',
+        bsToken: 'the fisrt two args should be string type:0,1!',
+        entity_id: 'e29ff75035ba08ed21a09d9e439b3642',
+        mergeAuthorId: '',
+        mergeAuthor: '',
+        user: '',
+        username: '',
+        uid: '',
+        loginAction: [],
+        isEdit: 0,
+        host: window.location.host,
+        subpro: 'xueshu_homepage',
+        uploadDownHost: '//xueshupload.baidu.com',
+        alias: '',
+        showShare: '',
+        searchName: '',
+        accessTag:'c165ba105e8f352a64cefbfeaf7110f1',
+        school_id:'',
+        institution_id:'',
+        scholarID: 'CN-B474918J',
+        author: ''
+    }
+};
+
+bds.se.loadedArr = {
+    'paper' : 1,
+    'influence' : 0,
+    'cooperate' : 0
+};
+
+A = {};
+A.ui = {};
+
+bds.se.auhtorRecordScroll = null;
+bds.se.filterListScroll = null;
+bds.se.editAuthorScroll = null;
+
+var supportCanvas = !!document.createElement('canvas').getContext;
+
+function G (id) {
+    return document.getElementById(id);
+}
+
+bds.util.getWinWidth = function(){
+    return window.document.documentElement.clientWidth;
+};
+
+bds.util.setContainerWidth = function(){
+    var c = G('container'),w = G('wrapper'),
+    remove = function(r,o){o.className = o.className.replace(r, '');},
+
+    add = function(cls,o){o.className = (o.className+' '+cls).replace(/^\s+/g, "");},
+    has = function(r,o){return r.test(o.className)};
+    if(bds.util.getWinWidth()<1260){
+        remove(/\bcontainer_l\b/g,c);
+        remove(/\bwrapper_l\b/g,w);
+        if(!has(/\bcontainer_s\b/,c)) add('container_s',c);
+        if(!has(/\bwrapper_s\b/,w)) add('wrapper_s',w);
+    }else{
+        remove(/\bcontainer_s\b/g,c);
+        remove(/\bwrapper_s\b/g,w);
+        if(!has(/\bcontainer_l\b/,c)) add('container_l',c);
+        if(!has(/\bwrapper_l\b/,w)) add('wrapper_l',w);
+    }
+};
+// 发送统计
+function c (data) {
+    if (!data['type'] || !data['actblock']) {
+        return;
+    }
+    data['category'] = 'homepage';
+    _hmt.push(['_trackEvent', data['category'], data['actblock'], data['type']]);
+}
+
+function ns_c_xs(q){   
+    var p = encodeURIComponent(window.document.location.href), sQ = '',wd="", sV = '', mu='', img = window["BD_PS_C" + (new Date()).getTime()] = new Image();
+    for (v in q) {
+        switch (v) {
+            case "title":
+                sV = encodeURIComponent(q[v].replace(/<[^<>]+>/g, ""));
+                break;
+            case "url":
+                sV = encodeURIComponent(q[v]);
+                break;
+            default:
+                sV = q[v]
+        }
+        sQ += v + "=" + sV + "&";
+    } 
+    sQ += "refer=" + encodeURIComponent(window.document.referrer)+ "&";
+    mu= "&mu=" + p;
+            img.src = "http://nsclick.baidu.com/v.gif?pid=201&pj=mp_xueshu&qid=" + bds.comm.qid + "&" + sQ + "site=&path=" + p + "&tn=ae_xueshu_authorchannel&t=" + new Date().getTime();
+    
+    return true;
+}
+</script><script type="text/javascript">
+
+	var list = {
+        "graph.baidu.com": "http://graph.baidu.com",
+		"p.qiao.baidu.com":"http://p.qiao.baidu.com",
+		"vse.baidu.com":"http://vse.baidu.com",
+		"hdpreload.baidu.com":"http://hdpreload.baidu.com",
+		"lcr.open.baidu.com":"http://lcr.open.baidu.com",
+		"kankan.baidu.com":"http://kankan.baidu.com",
+		"xapp.baidu.com":"http://xapp.baidu.com",
+		"dr.dh.baidu.com":"http://dr.dh.baidu.com",
+		"xiaodu.baidu.com":"http://xiaodu.baidu.com",
+		"sensearch.baidu.com":"http://sensearch.baidu.com",
+		"s1.bdstatic.com":"http://s1.bdstatic.com",
+		"olime.baidu.com":"http://olime.baidu.com",
+		"app.baidu.com":"http://app.baidu.com",
+		"i.baidu.com":"http://i.baidu.com",
+		"c.baidu.com":"http://c.baidu.com",
+		"sclick.baidu.com":"http://sclick.baidu.com",
+		"nsclick.baidu.com":"http://nsclick.baidu.com",
+		"sestat.baidu.com":"http://sestat.baidu.com",
+		"eclick.baidu.com":"http://eclick.baidu.com",
+		"api.map.baidu.com":"http://api.map.baidu.com",
+		"ecma.bdimg.com":"http://ecma.bdimg.com",
+		"ecmb.bdimg.com":"http://ecmb.bdimg.com",
+        "t1.baidu.com":"http://t1.baidu.com",
+        "t2.baidu.com":"http://t2.baidu.com",
+        "t3.baidu.com":"http://t3.baidu.com",
+		"t10.baidu.com":"http://t10.baidu.com",
+		"t11.baidu.com":"http://t11.baidu.com",
+		"t12.baidu.com":"http://t12.baidu.com",
+		"i7.baidu.com":"http://i7.baidu.com",
+		"i8.baidu.com":"http://i8.baidu.com",
+		"i9.baidu.com":"http://i9.baidu.com",
+		"b1.bdstatic.com":"http://b1.bdstatic.com",
+		"ss.bdimg.com":"http://ss.bdimg.com",
+		"opendata.baidu.com":"http://opendata.baidu.com",
+		"api.open.baidu.com":"http://api.open.baidu.com",
+		"tag.baidu.com":"http://tag.baidu.com",
+		"f3.baidu.com":"http://f3.baidu.com",
+		"s.share.baidu.com":"http://s.share.baidu.com",
+		"bdimg.share.baidu.com":"http://bdimg.share.baidu.com",
+        "1.su.bdimg.com":"http://1.su.bdimg.com",
+        "2.su.bdimg.com":"http://2.su.bdimg.com",
+        "3.su.bdimg.com":"http://3.su.bdimg.com",
+        "4.su.bdimg.com":"http://4.su.bdimg.com",
+        "5.su.bdimg.com":"http://5.su.bdimg.com",
+        "6.su.bdimg.com":"http://6.su.bdimg.com",
+        "7.su.bdimg.com":"http://7.su.bdimg.com",
+        "8.su.bdimg.com":"http://8.su.bdimg.com",
+        "hiphotos.baidu.com":"http://hiphotos.baidu.com",
+        "xueshu.baidu.com":"http://xueshu.baidu.com",
+        "baidu.bigan.net":"http://baidu.bigan.net",
+		"a.xueshu.baidu.com":"http://a.xueshu.baidu.com",
+		"ps-scholar-static.bj.bcebos.com":"http://ps-scholar-static.bj.bcebos.com",
+		"newclient.map.baidu.com":"http://newclient.map.baidu.com",
+		"bj.bcebos.com":"http://bj.bcebos.com"
+	};
+//https域名转换工具
+bds.util = bds.util || {};
+bds.util.domain = (function(){
+
+
+var get = function(url) {
+	    // 避免线下测试因数据不全产生异常
+	    if (url == null || url.indexOf('http') === -1) {
+			return url;
+		}
+		if(location.protocol === "http") {
+			return url;
+		}
+
+		var reg = /^(http[s]?:\/\/)?([^\/]+)(.*)/,
+			reg2 = /^(http[s]?:\/\/)?(s1.bdstatic.com\/r\/www\/cache\/mid\/static)(.*)/,
+		matches = url.match(reg),
+		//s1.bdstatic.com静态域名特殊处理
+		matches2 = url.match(reg2);
+		if(matches2){
+			url = "https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/mid/static/protocol/https"+ matches2[3];
+			return url;
+		}else{
+			//判断传入参数是域名还是地址，分别做处理
+			url = list.hasOwnProperty(matches[2])&&(list[matches[2]] + matches[3]) || url;
+			return url;
+		}
+	},
+	set = function(kdomain,vdomain) {
+		list[kdomain] = vdomain;
+	};
+	return {
+		get : get,
+		set : set
+	}
+})();
+</script>
+
+
+<script src="/lib/static/scholar/cache/jquery/jquery-1.10.2.min_45ac1eb.js"></script>
+<!--[if IE]><script type="text/javascript" src="/lib/static/scholar/cache/ui/js/extcanvas_627aaf2.js"></script><![endif]-->
+
+    
+        <script type="text/javascript">
+bds = bds || {};
+bds.cf = {};
+bds.cf.ts = "1621334156";
+bds.cf.token = "ba1c1ea8793f749f63b1488efd250f817eba5f9f5a32e5bc6bedc3d175594711";
+bds.cf.sign = "ffef826ecf55c0d0a6efe5d56936e1ab";
+
+function getCfStr() {
+    var ts = parseInt(new Date / 1000, 10);
+    return "&_ts=" + ts
+        + "&_token=" + bds.cf.token 
+        + "&_sign=" + md5(ts +  bds.cf.token + '3b6e2e87fcce6eea8337eeac83b478f5');
+}
+
+function getCfObj() {
+    var ts = parseInt(new Date / 1000, 10);
+    return {
+            '_ts' : ts,
+            '_token' : bds.cf.token,
+            '_sign' : md5(ts +  bds.cf.token + '3b6e2e87fcce6eea8337eeac83b478f5')
+        }
+}
+</script>
+    
+</head>
+
+<body class="">
+    
+    <div id="wrapper">
+    
+        
+
+                                                                                
+
+<div id="head_wr" class="gj "><div id="head" class="LOG_WR gj " data-log="{'actblock': 'head'}"><div class="headCont "><div id="u" class="gj "><span id="setting"><a class="settingicon" href="javascript:;"><i style="font-size:18px;" class="iconfont  head-icon-set-gray">&#xe61b;</i></a><div class="menuarrow"><i class="head-icon head-icon-menu-triangle"></i></div><div id="setMenu" class="menuDropList"><div><a href="javascript:;" class="feedback">意见反馈</a></div></div></span><a id="lb" href="https://passport.baidu.com/v2/?login&tpl=xueshu&u=http%3A%2F%2Fxueshu.baidu.com%2F">登录</a><a href="https://passport.baidu.com/v2/?reg&regType=1&tpl=xueshu&u=http%3A%2F%2Fxueshu.baidu.com%2F" target="_blank" class="reg">注册</a></div>
+
+                            <a href="/" class="s_logo">
+                    <div class="s_logo_img" alt="到学术首页" title="到学术首页"></div>
+                </a>
+            
+            <div class="s_form_wr">
+                <form class="fm" id="form" action="//xueshu.baidu.com/s">
+                    <div class="s_ipt_wr">
+                        <input name="wd" autocomplete="off" id="kw" value="" maxlength="256">
+                    </div>
+
+                                        <div class="sc_adv_search_btn">
+                        <input type="submit" value="百度一下">
+                    </div>
+                    
+                    <input type="hidden" name="ie" value="utf-8">
+<input type="hidden" name="tn" value="SE_baiduxueshu_c1gjeupa">
+<input type="hidden" name="sc_from" value=""/>
+<input type="hidden" name="sc_as_para" value="sc_lib:"/>
+
+
+                                    </form>
+
+<div class="sc_adv_triangle_down gj">
+            <span class="sc_adv_btn">高级搜索</span>
+    </div>
+
+<div id="sc_adv">
+<form action="//xueshu.baidu.com/s" id="sc_adv_frm">
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">包含全部检索词</span>
+        <span><input type="text" placeholder="" data-type="all" data-name="" class="sc_adv_keyword_ipt sc-input sc_adv_keyword1" maxlength="100" value=""></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">包含精确检索词</span>
+        <span><input type="text" placeholder="多个检索词以逗号，分隔" data-type="precise" data-name="" class="sc_adv_keyword_ipt sc-input sc_adv_keyword2" maxlength="100" value=""></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">包含至少一个检索词</span>
+        <span><input type="text" placeholder="多个检索词以逗号，分隔" data-type="or" data-name="" class="sc_adv_keyword_ipt sc-input" maxlength="100" value=""></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">不包含检索词</span>
+        <span><input type="text" placeholder="多个检索词以逗号，分隔" data-type="not" data-name="" class="sc_adv_keyword_ipt sc-input" maxlength="100" value=""></span>
+    </div>
+    <div class="sc_adv_hatr" style="margin-bottom:23px;">
+        <span class="sc_adv_label">出现检索词的位置</span>
+        <span class="sc_adv_keyword_pos">
+            <div class="sc_adv_dropdown_btn">
+                <span class="sc_adv_dropdown_text">
+                                    <a href="javascript:;"  data-name="">文章任何位置</a>
+                                </span>
+                <i class="sc_adv-icon c-icon-arrow-down-gray"></i>
+                <div class="sc_adv_dropdown_group sc_adv_dropdown_group1 sc_adv_dropgroup_title" data-index="1">
+                                    <a href="javascript:;"  data-name="intitle">位于文章标题</a>
+                                </div>
+            </div>
+        </span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">作者</span>
+        <span><input type="text" placeholder="请输入作者名字" data-name="author" class="sc_adv_txin sc-input sc_adv_author" maxlength="50" value=""></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">机构</span>
+        <span><input type="text" placeholder="请输入机构名称" data-name="affs" class="sc_adv_txin sc-input sc_adv_affs" maxlength="50" value=""></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">出版物</span>
+        <span class="sc_adv_jour_conf">
+            <span class="sc_adv_dropdown_btn">
+                <span class="sc_adv_dropdown_text">
+                                        <a href="javascript:;"  data-name="journal" data-holder="请输入期刊名称">期刊</a>
+                                    </span>
+                <i class="sc_adv-icon c-icon-arrow-down-gray"></i>
+                <div class="sc_adv_dropdown_group sc_adv_dropgroup_pub" data-index="2">
+                                        <a href="javascript:;" data-name="conference" data-holder="请输入会议名称">会议</a>
+                                    </div>
+            </span>
+            <input type="text" placeholder="请输入期刊名称" data-name="journal" class="sc-input sc_adv_txin sc_adv_pubipt" maxlength="100" value="">
+        </span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">发表时间</span>
+        <span class="sc_adv_year">
+        <input type="text" data-nolog="1" pattern="[0-9]*" size="4" placeholder="年" maxlength="4" name="" class="sc-input sc-input-xmini sc_adv_input_ylo" value="">&nbsp;-&nbsp;<input type="text" data-nolog="1" pattern="[0-9]*" size="4" placeholder="年" maxlength="4" name="" class="sc-input sc-input-xmini sc_adv_input_yhi" value="">
+        </span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">语言检索范围</span>
+                    <span class="sc_adv_dropdown_btn">
+                <span class="sc_adv_dropdown_text sc_adv_lang_sel">
+                    <a href="javascript:;" data-id="0">不限</a>
+                </span>
+                <i class="sc_adv-icon c-icon-arrow-down-gray"></i>
+                <div class="sc_adv_dropdown_group sc_adv_dropgroup_lang">
+                                        <a href="javascript:;" data-id="0" class="sc_adv_lang_hide">不限</a>
+                                        <a href="javascript:;" data-id="1">英文</a>
+                                        <a href="javascript:;" data-id="2">中文</a>
+                                    </div>
+            </span>
+            </div>
+    <span class="sc_adv_wd_hidden"></span>
+    <input type="hidden" name="ie" value="utf-8">
+    <input type="hidden" name="bcp" value="2">
+    <input type="hidden" name="tn" value="SE_baiduxueshu_c1gjeupa">
+    <input type="hidden" name="sc_f_para" value="sc_tasktype={firstAdvancedSearch}">
+    <input type="hidden" name="sc_from" value=""/>
+    <input type="hidden" name="sc_as_para" value="sc_lib:"/>
+
+    <span class="sc_adv_sub s_btn_wr"><input type="submit" value="搜索" class="sc_adv_sub_btn s_btn"></span>
+</form>
+</div>
+
+                                            </div>
+        </div>
+    </div>
+</div>
+
+
+        
+
+        <div id="container">
+            
+                
+<div id="left_menu_content" class="LOG_WR gj" data-log="{'actblock':'menu'}">
+    <div class="left_menu_logo">
+        <a href="/">
+        <div class="sologan onlyOn"></div>
+        <i class="iconfont onlyOff logosim">&#xe607;</i>
+        </a>
+    </div>
+    <div class="main_menu_wr">
+        <div class="sch_main_menu">
+            <div class="menu_listitem">
+                <a href="/" class=""  data-log="{'type':'xueshu_sch'}" target="_blank">
+                    <i class="iconfont i-wx"></i><span>文献</span>
+                </a>
+            </div>
+            <div class="menu_listitem">
+                <a href="/usercenter/journal/navigation?language=1" class="" data-log="{'type':'journal'}">
+                <i class="iconfont i-qk"></i><span>期刊</span>
+                </a>
+            </div>
+            <div class="menu_listitem dotPromote">
+                <a href="/usercenter/data/authorchannel?cmd=frontpage" data-log="{'type':'authorchannel'}" class="">
+                <i class="iconfont i-xz"></i><span>学者</span>
+                </a>
+            </div>
+            <div class="splite-line"></div>
+            <div class="menu_listitem">
+                <a href="/usercenter/" data-log="{'type':'mycollect'}" class="need-login ">
+                    <i class="iconfont i-dy"></i><span>订阅</span><i id="msimsg"></i>
+                </a>
+            </div>
+
+            <div class="menu_listitem">
+                <a href="/usercenter/?tab=collect" data-log="{'type':'mycollect'}" class="need-login ">
+                    <i class="iconfont i-sc"></i><span>收藏</span>
+                </a>
+            </div>
+            <div class="menu_listitem dotPapaecheck">
+                <a href="/usercenter/papercheck/homeindex" data-log="{'type':'papercheck'}" class="paperCheck ">
+                    <i class="iconfont i-lwck"></i><span>论文查重</span>
+                    <em class="dot_tag">优惠</em>
+                    <i class="iconfont redDot">&#xe62e;</i>
+                </a>
+            </div>
+            <div class="menu_listitem stanardPapaecheck">
+                <a href="/usercenter/papercheck/homeindex" data-log="{'type':'papercheck'}" class="paperCheck ">
+                    <i class="iconfont i-lwck"></i><span>论文查重</span>
+                </a>
+            </div>
+            <div class="menu_listitem">
+                <a href="/u/biye/?tag=paper" class="" data-log="{'type':'journal'}">
+                    <i class="iconfont i-ktfx"></i><span>开题分析</span>
+                </a>
+            </div>
+            <div class="menu_listitem">
+                <a href="/u/ppv" data-log="{'type':'ppv'}" class="">
+                    <i class="iconfont i-dpgm"></i><span>单篇购买</span>
+                </a>
+            </div>
+            <div class="menu_listitem">
+                <a href="/u/paperhelp" data-log="{'type':'paperhelp'}" class="">
+                    <i class="iconfont i-wxhz"></i><span>文献互助</span>
+                </a>
+            </div>
+            <div class="splite-line"></div>
+            <div class="menu_listitem">
+                <a href="/u/user" class="need-login " data-log="{'type':'user'}">
+                    <i class="iconfont i-yhzx"></i><span>用户中心</span><i id="ucimsg"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+                
+                <div id="right_content" class="content_wr">
+                
+<script>
+    bds.util.setContainerWidth();
+    $(window).on("resize",function(){
+        bds.util.setContainerWidth();
+    });
+</script>
+<div id="pagemain_content" class="content_wr">
+    <div id="author_intro_wr">
+        <div class="person_image"><a href="javascript:;" class="person_portraitwr"><img src="/lib/static/scholar/cache/homepage/img/default_blue_f694ec6.jpg" alt="学者头像" class="" width="112" height="112"></a><a href="/usercenter/data/author?cmd=show_author_claim&entity_id=e29ff75035ba08ed21a09d9e439b3642" target="_blank" class="person_authen p_auth_btn">我要认证</a></div><div class="person_baseinfo"><div class="p_name">徐平</div><div class="p_volume">415人看过</div><div class="p_scholarID"><div class="p_scholarID_all">ScholarID:<span class="p_scholarID_id">CN-B474918J</span></div></div><div class="p_affiliate">北京航空航天大学中法工程师学院</div><ul class="p_ach_wr"><li class="p_ach_item"><p class="p_ach_type c_gray">被引频次</p><p class="p_ach_num">34</p></li><li class="p_ach_item"><p class="p_ach_type c_gray">成果数</p><p class="p_ach_num">4</p></li><li class="p_ach_item"><p class="p_ach_type c_gray">H指数</p><p class="p_ach_num">2</p></li><li class="p_ach_item"><p class="p_ach_type c_gray">G指数</p><p class="p_ach_num">0</p></li></ul><div class=" shareCont" style="display: inline-block"><div class="shareComponents baidu_share"><i class="iconfont">&#xe61e;</i></div><div class="baidu_share_content" style="display: none;"><div class="bdsharebuttonbox bdshare-button-style0-24" data-tag="bd_share_id"></div></div></div><div class="person_editinfo"><div class=""><span class="c_gray prefix_label">领域:&nbsp;</span><span class="person_domain person_text"><a href="//xueshu.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%AD%A6&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank">教育学</a></span></div></div></div><div class="index_topbanner LOG_WR" data-log="{'actblock':'banner'}"><a href="/u/academicpro" target="blank" class="logo_wr" data-log="{'type':'link'}"></a><span class="banner_close" data-log="{'type':'close'}"></span></div>    </div>
+    <div id="main_content_left">
+        
+<div id="achievement_wr"><div class="effectmap_pie"><div class="pie_map_wrapper"><div class="pie_map_container" data-type="journal"><canvas width="100" height="100" id="jour_piecanvas" class="pieCanvas"></canvas><div class="pieText">期刊<p class="number">50%<p></div></div><div class="pie_map_container" data-type="conference"><canvas width="100" height="100" id="conf_piecanvas" class="pieCanvas"></canvas><div class="pieText">会议<p class="number">25%</p></div></div><div class="pie_map_container" data-type="booktitle"><canvas width="100" height="100" id="book_piecanvas" class="pieCanvas"></canvas><div class="pieText">专著<p class="number">0%</p></div></div><div class="pie_map_container" data-type="other" style="margin:0;"><canvas width="100" height="100" id="other_piecanvas" class="pieCanvas"></canvas><div class="pieText">其它<p class="number">25%</p></div></div></div><div class="pieMapTotal">总计<p class="number">4篇</p></div><div class="pieBox journalBox"><h3>期刊 <span class="boxPercent">50%</span><span class="boxNumber">(共2篇)</span></h3><p>北大核心期刊<span class="numline" style="width:80px"></span><span class="boxnum">1</span></p><p>中国科技核心<span class="numline" style="width:80px"></span><span class="boxnum">1</span></p><p>CSSCI期刊数<span class="numline" style="width:80px"></span><span class="boxnum">1</span></p><p>其他期刊数<span class="numline" style="width:80px"></span><span class="boxnum">1</span></p></div><div class="pieBox conferenceBox"><h3>会议论文<span class="boxPercent">25%</span><span class="boxNumber">(共1篇)</span></h3><p>其他会议数<span class="numline" style="width:80px"></span><span class="boxnum">1</span></p></div><div class="pieBox otherBox"><h3>其它<span class="boxPercent">25%</span><span class="boxNumber">(共1篇)</span></h3></div></div><div class="effectmap_line_wr"><!-- 成果数量分布图 --><div id="ach_map_wrapper"><div class="" id="ach_map_container"><canvas width="340" height="110" id="ach_bgCanvas"></canvas><canvas width="340" height="110" id="ach_circleCanvas"></canvas><canvas width="340" height="110" id="ach_routeCanvas"></canvas><canvas width="20" height="20" id="ach_hoverCanvas"></canvas></div></div><!-- 成果被引分布图 --><div id="cited_map_wrapper"><div class="" id="cited_map_container"><canvas width="340" height="130" id="cited_bgCanvas"></canvas><canvas width="340" height="130" id="cited_circleCanvas"></canvas><canvas width="340" height="130" id="cited_routeCanvas"></canvas><canvas width="20" height="20" id="cited_hoverCanvas"></canvas></div></div></div></div>
+<script>
+var lineMapCitedData = null,
+    lineMapAchData = null,
+    pieMapAchDataType = null,
+    pieMapAchData = null;
+
+    lineMapCitedData = [{"year":2010,"num":3},{"year":2011,"num":0},{"year":2012,"num":3},{"year":2013,"num":3},{"year":2014,"num":12},{"year":2015,"num":5},{"year":2016,"num":4},{"year":2017,"num":1}];
+    lineMapAchData = [{"year":2009,"num":1},{"year":2010,"num":0},{"year":2011,"num":0},{"year":2012,"num":0},{"year":2013,"num":1},{"year":2014,"num":0},{"year":2015,"num":1}];
+    pieMapAchDataType = ["conference","journal","booktitle","other"];
+    pieMapAchData = {"conference":0.25,"journal":0.5,"booktitle":0,"other":0.25};
+</script>
+        <div id="articlelist_wr">
+            <div id="articlelist_container">
+                <div class="in_content_rtop"><div class="in_content_filter_wr"><div class="in_content_filter"><div class="year_sel_default filter_sel_default" data-target="sc_year"><span class="filter_sel_text">全部年份</span><i class="c-icon c-icon-arrow-down-gray"></i></div><div class="year_filter_list filter_list scrollbar"><div class="boxarrow"><i class="boxarrow_border"></i></div><div class="scrollbar_wrapper"><ul><li class="select">全部年份</li><li data-id="2015">2015</li><li data-id="2013">2013</li><li data-id="2009">2009</li></ul></div></div></div><div class="in_content_filter"><div class="field_sel_default filter_sel_default" data-target="paper_type"><span class="filter_sel_text">全部类型</span><i class="c-icon c-icon-arrow-down-gray"></i></div><div class="field_filter_list filter_list"><div class="boxarrow"><i class="boxarrow_border"></i></div><ul><li class="select">全部类型</li><li data-id="1">期刊</li><li data-id="3">会议</li><li data-id="4">专著</li></ul></div></div><div class="in_content_filter"><div class="author_sel_default filter_sel_default" data-target="first_author"><span class="filter_sel_text">全部作者</span><i class="c-icon c-icon-arrow-down-gray"></i></div><div class="author_filter_list filter_list"><div class="boxarrow"><i class="boxarrow_border"></i></div><ul><li class="select" data-id="0">全部作者</li><li data-id="1">第一作者</li></ul></div></div><div class="in_content_filter"><div class="time_sel_default filter_sel_default" data-target="according_Cited"><span class="filter_sel_text">按时间降序</span><i class="c-icon c-icon-arrow-down-gray"></i></div><div class="time_filter_list filter_list"><div class="boxarrow"><i class="boxarrow_border"></i></div><ul><li class="select" data-id="0"> <a href="javascript:;" class=" in_content_sort_link in_sort_sel" data-sort="sc_time">按时间降序</a></li><li data-id="1"><a href="javascript:;" class="in_content_sort_link" data-sort="sc_cited">按被引降序</a></li></ul></div></div></div></div><div class="in_content_result_wr"><div class="in_conternt_reslist"><div class="result" index="0"><div class="res_con"><h3 class="res_t"><a href="//xueshu.baidu.com/usercenter/data/paperhelp?cmd=paper_forward&longsign=1y2f0mn0g57700d0x70t00j0kv412373&title=%E9%80%9A%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%BD%8D%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9F%B9%E5%85%BB%E6%A8%A1%E5%BC%8F%E7%9A%84%E7%A0%94%E7%A9%B6" target="_blank">通用工程师专业学位研究生培养模式的研究</a></h3><div class="res_info"><span class="res_year">2015</span>&nbsp;-&nbsp;<span><a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28b4e7e3bcd560e0a2%29%20author%3A%28%E5%BE%90%E5%B9%B3%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E7%90%86%E5%AD%A6%E9%99%A2" target="_blank">徐平</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%282cb9b3f231a6cb19%29%20author%3A%28%E9%92%B1%E6%94%BF%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E4%BB%AA%E5%99%A8%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%85%89%E7%94%B5%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2" target="_blank">钱政</a></span>&nbsp;-&nbsp;<span class="res_cite"><span>被引量:&nbsp;</span><span class="cite_cont ">0</span></span></div><div class="res_tool" data-link="http://www.ixueshu.com/document/586c8b8cb957527f91ea7cd2d697f12e318947a18e7f9386.html"><a class="res_col c-icon-heart-hover" href="javascript:;" target="_blank" data-urlmd="5d1387e008c71bbad1cf6ed6897de52b"><i class="c-icon c-icon-heart"></i><span style="display:inline-block;" class="col_text">收藏</span></a><a target="_blank" class="c-icon-file-hover" href="//xueshu.baidu.com/s?wd=%E9%80%9A%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%BD%8D%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9F%B9%E5%85%BB%E6%A8%A1%E5%BC%8F%E7%9A%84%E7%A0%94%E7%A9%B6&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8"><i class="c-icon c-icon-file"></i>相关文章</a></div></div><div class="reqdata" data-url="http://www.ixueshu.com/document/586c8b8cb957527f91ea7cd2d697f12e318947a18e7f9386.html" data-longsign="1y2f0mn0g57700d0x70t00j0kv412373" style="display:none"></div></div><div class="result" index="2"><div class="res_con"><h3 class="res_t"><a href="//xueshu.baidu.com/usercenter/data/paperhelp?cmd=paper_forward&longsign=f0bf75e7e87edb8ff09b035c02c7aeb3&title=%E4%B8%AD%E5%A4%96%E5%90%88%E4%BD%9C%E5%8A%9E%E5%AD%A6%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%8E%A2%E7%B4%A2%E4%B8%8E%E5%AE%9E%E8%B7%B5%E2%80%94%E2%80%94%E4%BB%A5%E5%8C%97%E8%88%AA%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2%E4%B8%BA%E4%BE%8B" target="_blank">中外合作办学模式的探索与实践——以北航中法工程师学院为例</a></h3><div class="res_info"><span class="res_year">2014</span>&nbsp;-&nbsp;<span><a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28dc5c1536784f9ab3%29%20author%3A%28%E4%BA%8E%E9%BB%8E%E6%98%8E%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2" target="_blank">于黎明</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28b4e7e3bcd560e0a2%29%20author%3A%28%E5%BE%90%E5%B9%B3%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E7%90%86%E5%AD%A6%E9%99%A2" target="_blank">徐平</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28520884ba4169cfbf%29%20author%3A%28%E5%BC%A0%E8%8E%89%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2" target="_blank">张莉</a>，...</span>&nbsp;-&nbsp;<a href="//xueshu.baidu.com/s?wd=journaluri%3A%28463ca776c1eae1b9%29%20%E3%80%8A%E5%B7%A5%E4%B8%9A%E5%92%8C%E4%BF%A1%E6%81%AF%E5%8C%96%E6%95%99%E8%82%B2%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank">《工业和信息化教育》</a>&nbsp;-&nbsp;<span class="res_cite"><span>被引量:&nbsp;</span><span class="cite_cont ">0</span></span></div><div class="res_tool" data-link="http://www.cnki.com.cn/Article/CJFDTotal-GYXH201405002.htm"><a class="res_col c-icon-heart-hover" href="javascript:;" target="_blank" data-urlmd="7242ddfa61c1cd3569b5da4885db4928"><i class="c-icon c-icon-heart"></i><span style="display:inline-block;" class="col_text">收藏</span></a><a class="res_q c-icon-shape-hover" href="javascript:;" data-link="http://www.cnki.com.cn/Article/CJFDTotal-GYXH201405002.htm" data-sign="5180f9a5e1bedfd96d15222dab07b4f3"><i class="c-icon c-icon-shape"></i>引用</a><a target="_blank" class="c-icon-file-hover" href="//xueshu.baidu.com/s?wd=%E4%B8%AD%E5%A4%96%E5%90%88%E4%BD%9C%E5%8A%9E%E5%AD%A6%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%8E%A2%E7%B4%A2%E4%B8%8E%E5%AE%9E%E8%B7%B5%E2%80%94%E2%80%94%E4%BB%A5%E5%8C%97%E8%88%AA%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2%E4%B8%BA%E4%BE%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8"><i class="c-icon c-icon-file"></i>相关文章</a></div></div><div class="reqdata" data-url="http://www.cnki.com.cn/Article/CJFDTotal-GYXH201405002.htm" data-longsign="f0bf75e7e87edb8ff09b035c02c7aeb3" style="display:none"></div></div><div class="result" index="3"><div class="res_con"><h3 class="res_t"><a href="//xueshu.baidu.com/usercenter/data/paperhelp?cmd=paper_forward&longsign=ed84bc431f8b1f07f7eae366fa029321&title=%E5%9F%BA%E4%BA%8E%E8%AF%84%E4%BB%B7%E6%96%B9%E5%BC%8F%E8%A7%86%E8%A7%92%E7%9A%84%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%BD%8D%E5%92%8C%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%BD%8D%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9F%B9%E5%85%BB%E6%A8%A1%E5%BC%8F%E6%AF%94%E8%BE%83" target="_blank">基于评价方式视角的专业学位和科学学位研究生培养模式比较</a></h3><div class="res_info"><span class="res_year">2014</span>&nbsp;-&nbsp;<span><a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28b4e7e3bcd560e0a2%29%20author%3A%28%E5%BE%90%E5%B9%B3%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E7%90%86%E5%AD%A6%E9%99%A2" target="_blank">徐平</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%281528c79b9f2275f1%29%20author%3A%28%E8%B5%B5%E5%B2%A9%29%20%E6%B2%88%E9%98%B3%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6" target="_blank">赵岩</a></span>&nbsp;-&nbsp;<a href="//xueshu.baidu.com/s?wd=journaluri%3A%28d38afc212d4e384e%29%20%E3%80%8A%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%8C%BB%E5%AD%A6%E9%99%A2%E5%AD%A6%E6%8A%A5%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank">《齐齐哈尔医学院学报》</a>&nbsp;-&nbsp;<span class="res_cite"><span>被引量:&nbsp;</span><a href="//xueshu.baidu.com/s?wd=refpaperuri:(ed84bc431f8b1f07f7eae366fa029321)&sc_f_para=sc_cita%3D%7B%E5%9F%BA%E4%BA%8E%E8%AF%84%E4%BB%B7%E6%96%B9%E5%BC%8F%E8%A7%86%E8%A7%92%E7%9A%84%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%BD%8D%E5%92%8C%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%BD%8D%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9F%B9%E5%85%BB%E6%A8%A1%E5%BC%8F%E6%AF%94%E8%BE%83%2C1%7D&sort=sc_cited&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank" class="cite_cont ">1</a></span></div><div class="res_tool" data-link="http://www.cqvip.com/QK/98584X/201424/663341453.html"><a class="res_col c-icon-heart-hover" href="javascript:;" target="_blank" data-urlmd="304a9b56f8c1d4e0cc9666a4627914c2"><i class="c-icon c-icon-heart"></i><span style="display:inline-block;" class="col_text">收藏</span></a><a target="_blank" class="c-icon-file-hover" href="//xueshu.baidu.com/s?wd=%E5%9F%BA%E4%BA%8E%E8%AF%84%E4%BB%B7%E6%96%B9%E5%BC%8F%E8%A7%86%E8%A7%92%E7%9A%84%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%BD%8D%E5%92%8C%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%BD%8D%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9F%B9%E5%85%BB%E6%A8%A1%E5%BC%8F%E6%AF%94%E8%BE%83&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8"><i class="c-icon c-icon-file"></i>相关文章</a></div></div><div class="reqdata" data-url="http://www.cqvip.com/QK/98584X/201424/663341453.html" data-longsign="ed84bc431f8b1f07f7eae366fa029321" style="display:none"></div></div><div class="result" index="4"><div class="res_con"><h3 class="res_t"><a href="//xueshu.baidu.com/usercenter/data/paperhelp?cmd=paper_forward&longsign=a25ae5f731b20db5d7a537636cc1c6d7&title=%E9%80%9A%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%AF%95%E4%B8%9A%E7%94%9F%E5%8E%BB%E5%90%91%E8%A7%A3%E6%9E%90%E2%80%94%E2%80%94%E5%9F%BA%E4%BA%8E%E5%8C%97%E8%88%AA%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2%E7%9A%84%E6%A1%88%E4%BE%8B" target="_blank">通用工程师毕业生去向解析——基于北航中法工程师学院的案例</a></h3><div class="res_info"><span class="res_year">2014</span>&nbsp;-&nbsp;<span><a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28dc5c1536784f9ab3%29%20author%3A%28%E4%BA%8E%E9%BB%8E%E6%98%8E%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2" target="_blank">于黎明</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28b8b785babb3a792a%29%20author%3A%28%E8%90%A8%E6%97%A5%E5%A8%9C%29%20%E5%86%85%E8%92%99%E5%8F%A4%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6" target="_blank">萨日娜</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%282020644b9aacd45c%29%20author%3A%28%E6%AE%B5%E6%96%90%29%20%E6%AD%A6%E6%B1%89%E6%AD%A6%E5%88%9A%E4%BA%8C%E4%B8%AD" target="_blank">段斐</a>，...</span>&nbsp;-&nbsp;<a href="//xueshu.baidu.com/s?wd=journaluri%3A%28555d9695e6ffd1ae%29%20%E3%80%8A%E9%AB%98%E7%AD%89%E5%B7%A5%E7%A8%8B%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank">《高等工程教育研究》</a>&nbsp;-&nbsp;<span class="res_cite"><span>被引量:&nbsp;</span><a href="//xueshu.baidu.com/s?wd=refpaperuri:(a25ae5f731b20db5d7a537636cc1c6d7)&sc_f_para=sc_cita%3D%7B%E9%80%9A%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%AF%95%E4%B8%9A%E7%94%9F%E5%8E%BB%E5%90%91%E8%A7%A3%E6%9E%90%E2%80%94%E2%80%94%E5%9F%BA%E4%BA%8E%E5%8C%97%E8%88%AA%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2%E7%9A%84%E6%A1%88%E4%BE%8B%2C2%7D&sort=sc_cited&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank" class="cite_cont ">2</a></span></div><div class="res_tool" data-link="http://www.cqvip.com/QK/90463X/201402/49155603.html"><a class="res_col c-icon-heart-hover" href="javascript:;" target="_blank" data-urlmd="ce8133b171926f796baabd5e9c30cff3"><i class="c-icon c-icon-heart"></i><span style="display:inline-block;" class="col_text">收藏</span></a><a target="_blank" class="c-icon-file-hover" href="//xueshu.baidu.com/s?wd=%E9%80%9A%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%AF%95%E4%B8%9A%E7%94%9F%E5%8E%BB%E5%90%91%E8%A7%A3%E6%9E%90%E2%80%94%E2%80%94%E5%9F%BA%E4%BA%8E%E5%8C%97%E8%88%AA%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2%E7%9A%84%E6%A1%88%E4%BE%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8"><i class="c-icon c-icon-file"></i>相关文章</a></div></div><div class="reqdata" data-url="http://www.cqvip.com/QK/90463X/201402/49155603.html" data-longsign="a25ae5f731b20db5d7a537636cc1c6d7" style="display:none"></div></div><div class="result" index="5"><div class="res_con"><h3 class="res_t"><a href="//xueshu.baidu.com/usercenter/data/paperhelp?cmd=paper_forward&longsign=d1af429d3ca4d8d89a190f3740d0bdf6&title=%E9%80%9A%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E5%8E%86%E6%95%99%E8%82%B2%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E8%B7%B5" target="_blank">通用工程师学历教育的研究与实践</a></h3><div class="res_info"><span class="res_year">2013</span>&nbsp;-&nbsp;<span><a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%289ee3f8d0ae5bca1%29%20author%3A%28%E7%86%8A%E7%92%8B%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2" target="_blank">熊璋</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28dc5c1536784f9ab3%29%20author%3A%28%E4%BA%8E%E9%BB%8E%E6%98%8E%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2" target="_blank">于黎明</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28b4e7e3bcd560e0a2%29%20author%3A%28%E5%BE%90%E5%B9%B3%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E7%90%86%E5%AD%A6%E9%99%A2" target="_blank">徐平</a>，...</span>&nbsp;-&nbsp;<a href="//xueshu.baidu.com/s?wd=journaluri%3A%28555d9695e6ffd1ae%29%20%E3%80%8A%E9%AB%98%E7%AD%89%E5%B7%A5%E7%A8%8B%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank">《高等工程教育研究》</a>&nbsp;-&nbsp;<span class="res_cite"><span>被引量:&nbsp;</span><a href="//xueshu.baidu.com/s?wd=refpaperuri:(d1af429d3ca4d8d89a190f3740d0bdf6)&sc_f_para=sc_cita%3D%7B%E9%80%9A%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E5%8E%86%E6%95%99%E8%82%B2%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E8%B7%B5%2C22%7D&sort=sc_cited&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank" class="cite_cont ">22</a></span></div><div class="res_tool" data-link="http://qikan.cqvip.com/Qikan/Article/Detail?id=44623004"><a class="res_col c-icon-heart-hover" href="javascript:;" target="_blank" data-urlmd="63fc9ed3e6dcecafd4522ac66bba936e"><i class="c-icon c-icon-heart"></i><span style="display:inline-block;" class="col_text">收藏</span></a><a target="_blank" class="c-icon-file-hover" href="//xueshu.baidu.com/s?wd=%E9%80%9A%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E5%8E%86%E6%95%99%E8%82%B2%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E8%B7%B5&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8"><i class="c-icon c-icon-file"></i>相关文章</a></div></div><div class="reqdata" data-url="http://qikan.cqvip.com/Qikan/Article/Detail?id=44623004" data-longsign="d1af429d3ca4d8d89a190f3740d0bdf6" style="display:none"></div></div><div class="result" index="7"><div class="res_con"><h3 class="res_t"><a href="//xueshu.baidu.com/usercenter/data/paperhelp?cmd=paper_forward&longsign=10935bb3d7f9c452adcc9468bfa27811&title=%E5%9F%BA%E4%BA%8E%E5%B7%A5%E7%A8%8B%E9%97%AE%E9%A2%98%E7%9A%84%E5%B7%A5%E4%B8%9A%E7%A7%91%E5%AD%A6%E5%AE%9E%E9%AA%8C%E8%AF%BE%E7%A8%8B%E6%8E%A2%E7%B4%A2%E4%B8%8E%E5%AE%9E%E8%B7%B5" target="_blank">基于工程问题的工业科学实验课程探索与实践</a></h3><div class="res_info"><span class="res_year">2013</span>&nbsp;-&nbsp;<span><a href="//xueshu.baidu.com/s?wd=author%3A%28%E9%A9%AC%E7%BA%AA%E6%98%8E%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank">马纪明</a>，<a href="//xueshu.baidu.com/s?wd=author%3A%28%E5%BE%90%E5%B9%B3%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank">徐平</a>，<a href="//xueshu.baidu.com/s?wd=author%3A%28%E6%AE%B5%E6%96%90%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank">段斐</a>，...</span>&nbsp;-&nbsp;<span class="res_cite"><span>被引量:&nbsp;</span><a href="//xueshu.baidu.com/s?wd=refpaperuri:(10935bb3d7f9c452adcc9468bfa27811)&sc_f_para=sc_cita%3D%7B%E5%9F%BA%E4%BA%8E%E5%B7%A5%E7%A8%8B%E9%97%AE%E9%A2%98%E7%9A%84%E5%B7%A5%E4%B8%9A%E7%A7%91%E5%AD%A6%E5%AE%9E%E9%AA%8C%E8%AF%BE%E7%A8%8B%E6%8E%A2%E7%B4%A2%E4%B8%8E%E5%AE%9E%E8%B7%B5%2C3%7D&sort=sc_cited&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank" class="cite_cont ">3</a></span></div><div class="res_tool" data-link="http://d.wanfangdata.com.cn/Periodical/bjhkhtdxxb-shkxb201305022"><a class="res_col c-icon-heart-hover" href="javascript:;" target="_blank" data-urlmd="bee9c82960fb7eb3eaddeca15ac0deaa"><i class="c-icon c-icon-heart"></i><span style="display:inline-block;" class="col_text">收藏</span></a><a target="_blank" class="c-icon-file-hover" href="//xueshu.baidu.com/s?wd=%E5%9F%BA%E4%BA%8E%E5%B7%A5%E7%A8%8B%E9%97%AE%E9%A2%98%E7%9A%84%E5%B7%A5%E4%B8%9A%E7%A7%91%E5%AD%A6%E5%AE%9E%E9%AA%8C%E8%AF%BE%E7%A8%8B%E6%8E%A2%E7%B4%A2%E4%B8%8E%E5%AE%9E%E8%B7%B5&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8"><i class="c-icon c-icon-file"></i>相关文章</a></div></div><div class="reqdata" data-url="http://d.wanfangdata.com.cn/Periodical/bjhkhtdxxb-shkxb201305022" data-longsign="10935bb3d7f9c452adcc9468bfa27811" style="display:none"></div></div><div class="result" index="9"><div class="res_con"><h3 class="res_t"><a href="//xueshu.baidu.com/usercenter/data/paperhelp?cmd=paper_forward&longsign=f64b737fd83ae7707ce6ce3b2049ca03&title=%E9%80%9A%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%8E%E7%A1%95%E5%A3%AB%E5%9F%B9%E5%85%BB%E6%A8%A1%E5%BC%8F%E8%9E%8D%E5%90%88%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E8%B7%B5" target="_blank">通用工程师与硕士培养模式融合的研究与实践</a></h3><div class="res_info"><span class="res_year">2013</span>&nbsp;-&nbsp;<span><a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28b4e7e3bcd560e0a2%29%20author%3A%28%E5%BE%90%E5%B9%B3%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E7%90%86%E5%AD%A6%E9%99%A2" target="_blank">徐平</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%285199b4c7954902f%29%20author%3A%28%E6%AE%B7%E4%BC%A0%E6%B6%9B%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2" target="_blank">殷传涛</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%2864e02c7b41d6d377%29%20author%3A%28%E9%99%88%E8%BE%89%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2" target="_blank">陈辉</a>，...</span>&nbsp;-&nbsp;<a href="//xueshu.baidu.com/s?wd=journaluri%3A%28555d9695e6ffd1ae%29%20%E3%80%8A%E9%AB%98%E7%AD%89%E5%B7%A5%E7%A8%8B%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank">《高等工程教育研究》</a>&nbsp;-&nbsp;<span class="res_cite"><span>被引量:&nbsp;</span><a href="//xueshu.baidu.com/s?wd=refpaperuri:(f64b737fd83ae7707ce6ce3b2049ca03)&sc_f_para=sc_cita%3D%7B%E9%80%9A%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%8E%E7%A1%95%E5%A3%AB%E5%9F%B9%E5%85%BB%E6%A8%A1%E5%BC%8F%E8%9E%8D%E5%90%88%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E8%B7%B5%2C5%7D&sort=sc_cited&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank" class="cite_cont ">5</a></span></div><div class="res_tool" data-link="http://www.cnki.com.cn/Article/CJFDTotal-GDGJ201305003.htm"><a class="res_col c-icon-heart-hover" href="javascript:;" target="_blank" data-urlmd="a3fa20339921d010978e49c6ee826687"><i class="c-icon c-icon-heart"></i><span style="display:inline-block;" class="col_text">收藏</span></a><a target="_blank" class="c-icon-file-hover" href="//xueshu.baidu.com/s?wd=%E9%80%9A%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%8E%E7%A1%95%E5%A3%AB%E5%9F%B9%E5%85%BB%E6%A8%A1%E5%BC%8F%E8%9E%8D%E5%90%88%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E8%B7%B5&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8"><i class="c-icon c-icon-file"></i>相关文章</a></div></div><div class="reqdata" data-url="http://www.cnki.com.cn/Article/CJFDTotal-GDGJ201305003.htm" data-longsign="f64b737fd83ae7707ce6ce3b2049ca03" style="display:none"></div></div><div class="result" index="10"><div class="res_con"><h3 class="res_t"><a href="//xueshu.baidu.com/usercenter/data/paperhelp?cmd=paper_forward&longsign=d149cdc4daf38c68a3e5e75b5c7ca3c1&title=%E5%9F%BA%E4%BA%8E%E5%9B%A2%E9%98%9F%E7%B2%BE%E7%A5%9E%E5%9F%B9%E5%85%BB%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E5%9F%B9%E5%85%BB%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E8%B7%B5" target="_blank">基于团队精神培养的工程师综合素质培养研究与实践</a></h3><div class="res_info"><span class="res_year">2013</span>&nbsp;-&nbsp;<span><a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28ce3ed78b78778dc9%29%20author%3A%28%E7%8E%8B%E4%B9%90%E6%A2%85%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2" target="_blank">王乐梅</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%2864e02c7b41d6d377%29%20author%3A%28%E9%99%88%E8%BE%89%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2" target="_blank">陈辉</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%289ee3f8d0ae5bca1%29%20author%3A%28%E7%86%8A%E7%92%8B%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2" target="_blank">熊璋</a>，...</span>&nbsp;-&nbsp;<a href="//xueshu.baidu.com/s?wd=journaluri%3A%28555d9695e6ffd1ae%29%20%E3%80%8A%E9%AB%98%E7%AD%89%E5%B7%A5%E7%A8%8B%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank">《高等工程教育研究》</a>&nbsp;-&nbsp;<span class="res_cite"><span>被引量:&nbsp;</span><a href="//xueshu.baidu.com/s?wd=refpaperuri:(d149cdc4daf38c68a3e5e75b5c7ca3c1)&sc_f_para=sc_cita%3D%7B%E5%9F%BA%E4%BA%8E%E5%9B%A2%E9%98%9F%E7%B2%BE%E7%A5%9E%E5%9F%B9%E5%85%BB%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E5%9F%B9%E5%85%BB%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E8%B7%B5%2C4%7D&sort=sc_cited&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank" class="cite_cont ">4</a></span></div><div class="res_tool" data-link="http://www.cqvip.com/QK/90463X/201306/48137966.html"><a class="res_col c-icon-heart-hover" href="javascript:;" target="_blank" data-urlmd="ad8650b894ed7f765e4397197a9ff515"><i class="c-icon c-icon-heart"></i><span style="display:inline-block;" class="col_text">收藏</span></a><a target="_blank" class="c-icon-file-hover" href="//xueshu.baidu.com/s?wd=%E5%9F%BA%E4%BA%8E%E5%9B%A2%E9%98%9F%E7%B2%BE%E7%A5%9E%E5%9F%B9%E5%85%BB%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E5%9F%B9%E5%85%BB%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E8%B7%B5&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8"><i class="c-icon c-icon-file"></i>相关文章</a></div></div><div class="reqdata" data-url="http://www.cqvip.com/QK/90463X/201306/48137966.html" data-longsign="d149cdc4daf38c68a3e5e75b5c7ca3c1" style="display:none"></div></div><div class="result" index="11"><div class="res_con"><h3 class="res_t"><a href="//xueshu.baidu.com/usercenter/data/paperhelp?cmd=paper_forward&longsign=c3ccac8f0f6a3ee831b4d63dd7a3011f&title=%E6%B3%95%E5%9B%BD%E9%A2%84%E7%A7%91%E6%95%99%E8%82%B2%E4%B8%8E%E6%88%91%E5%9B%BD%E6%9C%AC%E7%A7%91%E6%95%99%E8%82%B2%E7%9A%84%E6%95%99%E5%AD%A6%E6%B3%95%E6%AF%94%E8%BE%83%E4%B8%8E%E8%9E%8D%E5%90%88%E7%A0%94%E7%A9%B6" target="_blank">法国预科教育与我国本科教育的教学法比较与融合研究</a></h3><div class="res_info"><span class="res_year">2013</span>&nbsp;-&nbsp;<span><a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28dc5c1536784f9ab3%29%20author%3A%28%E4%BA%8E%E9%BB%8E%E6%98%8E%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2" target="_blank">于黎明</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28ebcab3f4783b9b09%29%20author%3A%28%E9%A9%AC%E7%BA%AA%E6%98%8E%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2" target="_blank">马纪明</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28f56c299078f68ad9%29%20author%3A%28%E5%BC%A0%E5%BF%83%E5%A9%B7%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2" target="_blank">张心婷</a>，...</span>&nbsp;-&nbsp;<a href="//xueshu.baidu.com/s?wd=journaluri%3A%28555d9695e6ffd1ae%29%20%E3%80%8A%E9%AB%98%E7%AD%89%E5%B7%A5%E7%A8%8B%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank">《高等工程教育研究》</a>&nbsp;-&nbsp;<span class="res_cite"><span>被引量:&nbsp;</span><a href="//xueshu.baidu.com/s?wd=refpaperuri:(c3ccac8f0f6a3ee831b4d63dd7a3011f)&sc_f_para=sc_cita%3D%7B%E6%B3%95%E5%9B%BD%E9%A2%84%E7%A7%91%E6%95%99%E8%82%B2%E4%B8%8E%E6%88%91%E5%9B%BD%E6%9C%AC%E7%A7%91%E6%95%99%E8%82%B2%E7%9A%84%E6%95%99%E5%AD%A6%E6%B3%95%E6%AF%94%E8%BE%83%E4%B8%8E%E8%9E%8D%E5%90%88%E7%A0%94%E7%A9%B6%2C6%7D&sort=sc_cited&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank" class="cite_cont ">6</a></span></div><div class="res_tool" data-link="http://www.cnki.com.cn/Article/CJFDTotal-GDGJ201304016.htm"><a class="res_col c-icon-heart-hover" href="javascript:;" target="_blank" data-urlmd="5a0a8f835cf2cb6e04f93e52ecf69b4e"><i class="c-icon c-icon-heart"></i><span style="display:inline-block;" class="col_text">收藏</span></a><a target="_blank" class="c-icon-file-hover" href="//xueshu.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E9%A2%84%E7%A7%91%E6%95%99%E8%82%B2%E4%B8%8E%E6%88%91%E5%9B%BD%E6%9C%AC%E7%A7%91%E6%95%99%E8%82%B2%E7%9A%84%E6%95%99%E5%AD%A6%E6%B3%95%E6%AF%94%E8%BE%83%E4%B8%8E%E8%9E%8D%E5%90%88%E7%A0%94%E7%A9%B6&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8"><i class="c-icon c-icon-file"></i>相关文章</a></div></div><div class="reqdata" data-url="http://www.cnki.com.cn/Article/CJFDTotal-GDGJ201304016.htm" data-longsign="c3ccac8f0f6a3ee831b4d63dd7a3011f" style="display:none"></div></div><div class="result" index="12"><div class="res_con"><h3 class="res_t"><a href="//xueshu.baidu.com/usercenter/data/paperhelp?cmd=paper_forward&longsign=beac8eb83a6ec6c04f3b2318c97c4b79&title=%E9%80%9A%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E5%8E%86%E6%95%99%E8%82%B2%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E8%B7%B5" target="_blank">通用工程师学历教育的研究与实践</a></h3><div class="res_info"><span class="res_year">2013</span>&nbsp;-&nbsp;<span><a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%289ee3f8d0ae5bca1%29%20author%3A%28%E7%86%8A%E7%92%8B%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2" target="_blank">熊璋</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28dc5c1536784f9ab3%29%20author%3A%28%E4%BA%8E%E9%BB%8E%E6%98%8E%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2" target="_blank">于黎明</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28b4e7e3bcd560e0a2%29%20author%3A%28%E5%BE%90%E5%B9%B3%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E7%90%86%E5%AD%A6%E9%99%A2" target="_blank">徐平</a>，...</span>&nbsp;-&nbsp;<a href="//xueshu.baidu.com/s?wd=journaluri%3A%28555d9695e6ffd1ae%29%20%E3%80%8A%E9%AB%98%E7%AD%89%E5%B7%A5%E7%A8%8B%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank">《高等工程教育研究》</a>&nbsp;-&nbsp;<span class="res_cite"><span>被引量:&nbsp;</span><a href="//xueshu.baidu.com/s?wd=refpaperuri:(beac8eb83a6ec6c04f3b2318c97c4b79)&sc_f_para=sc_cita%3D%7B%E9%80%9A%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E5%8E%86%E6%95%99%E8%82%B2%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E8%B7%B5%2C16%7D&sort=sc_cited&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank" class="cite_cont ">16</a></span></div><div class="res_tool" data-link="http://www.cqvip.com/QK/90463X/201301/44623004.html"><a class="res_col c-icon-heart-hover" href="javascript:;" target="_blank" data-urlmd="850fa916e3a95d0cd221f681f4d79715"><i class="c-icon c-icon-heart"></i><span style="display:inline-block;" class="col_text">收藏</span></a><a target="_blank" class="c-icon-file-hover" href="//xueshu.baidu.com/s?wd=%E9%80%9A%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E5%8E%86%E6%95%99%E8%82%B2%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E8%B7%B5&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8"><i class="c-icon c-icon-file"></i>相关文章</a></div></div><div class="reqdata" data-url="http://www.cqvip.com/QK/90463X/201301/44623004.html" data-longsign="beac8eb83a6ec6c04f3b2318c97c4b79" style="display:none"></div></div><div class="result" index="13"><div class="res_con"><h3 class="res_t"><a href="//xueshu.baidu.com/usercenter/data/paperhelp?cmd=paper_forward&longsign=a6fdfea7c14996b94b0b7c58670d0184&title=%E4%B8%AD%E6%B3%95%E9%AB%98%E7%AD%89%E5%B7%A5%E7%A8%8B%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB%E4%B8%AD%E7%9A%84%E5%AE%9E%E9%AA%8C%E8%AF%BE%E7%A8%8B%E6%AF%94%E8%BE%83%E7%A0%94%E7%A9%B6" target="_blank">中法高等工程教育体系中的实验课程比较研究</a></h3><div class="res_info"><span class="res_year">2013</span>&nbsp;-&nbsp;<span><a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%285ecf4e3da0ab17d4%29%20author%3A%28%E9%83%AD%E5%A4%A9%E9%B9%8F%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E6%B3%95%E5%9B%BD%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2%E5%AE%9E%E9%AA%8C%E7%BB%84%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2" target="_blank">郭天鹏</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%285c4de99541aac97c%29%20author%3A%28%E7%8E%8B%E5%B3%A5%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2" target="_blank">王峥</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28b4e7e3bcd560e0a2%29%20author%3A%28%E5%BE%90%E5%B9%B3%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E7%90%86%E5%AD%A6%E9%99%A2" target="_blank">徐平</a></span>&nbsp;-&nbsp;<a href="//xueshu.baidu.com/s?wd=journaluri%3A%28555d9695e6ffd1ae%29%20%E3%80%8A%E9%AB%98%E7%AD%89%E5%B7%A5%E7%A8%8B%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank">《高等工程教育研究》</a>&nbsp;-&nbsp;<span class="res_cite"><span>被引量:&nbsp;</span><a href="//xueshu.baidu.com/s?wd=refpaperuri:(a6fdfea7c14996b94b0b7c58670d0184)&sc_f_para=sc_cita%3D%7B%E4%B8%AD%E6%B3%95%E9%AB%98%E7%AD%89%E5%B7%A5%E7%A8%8B%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB%E4%B8%AD%E7%9A%84%E5%AE%9E%E9%AA%8C%E8%AF%BE%E7%A8%8B%E6%AF%94%E8%BE%83%E7%A0%94%E7%A9%B6%2C1%7D&sort=sc_cited&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank" class="cite_cont ">1</a></span></div><div class="res_tool" data-link="http://www.cqvip.com/QK/90463X/201303/46036741.html"><a class="res_col c-icon-heart-hover" href="javascript:;" target="_blank" data-urlmd="820511ad37445d698abbcd4ebd49680d"><i class="c-icon c-icon-heart"></i><span style="display:inline-block;" class="col_text">收藏</span></a><a target="_blank" class="c-icon-file-hover" href="//xueshu.baidu.com/s?wd=%E4%B8%AD%E6%B3%95%E9%AB%98%E7%AD%89%E5%B7%A5%E7%A8%8B%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB%E4%B8%AD%E7%9A%84%E5%AE%9E%E9%AA%8C%E8%AF%BE%E7%A8%8B%E6%AF%94%E8%BE%83%E7%A0%94%E7%A9%B6&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8"><i class="c-icon c-icon-file"></i>相关文章</a></div></div><div class="reqdata" data-url="http://www.cqvip.com/QK/90463X/201303/46036741.html" data-longsign="a6fdfea7c14996b94b0b7c58670d0184" style="display:none"></div></div><div class="result" index="15"><div class="res_con"><h3 class="res_t"><a href="//xueshu.baidu.com/usercenter/data/paperhelp?cmd=paper_forward&longsign=d2e0f647f0c5a3fd9d2a82cda0d5a55a&title=%E8%80%A6%E5%90%88%E6%91%86%E7%89%B9%E6%80%A7%E6%A8%A1%E6%8B%9F%E5%8F%8A%E6%8C%AF%E5%8A%A8%E8%80%A6%E5%90%88%E7%8E%B0%E8%B1%A1%E6%BC%94%E7%A4%BA" target="_blank">耦合摆特性模拟及振动耦合现象演示</a></h3><div class="res_info"><span class="res_year">2012</span>&nbsp;-&nbsp;<span><a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28bd0228d6e6afdb4c%29%20author%3A%28%E5%A7%9A%E7%9B%9B%E4%BC%9F%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%A0%B8%E8%83%BD%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%E9%98%B2%E5%8C%96%E6%8C%87%E6%8C%A5%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2" target="_blank">姚盛伟</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28b4e7e3bcd560e0a2%29%20author%3A%28%E5%BE%90%E5%B9%B3%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E7%90%86%E5%AD%A6%E9%99%A2" target="_blank">徐平</a>，<a href="//xueshu.baidu.com/s?wd=author%3A%28Jacques%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank">Jacques</a>，...</span>&nbsp;-&nbsp;<a href="//xueshu.baidu.com/s?wd=journaluri%3A%28733b9a53bf4ae57d%29%20%E3%80%8A%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank">《大学物理》</a>&nbsp;-&nbsp;<span class="res_cite"><span>被引量:&nbsp;</span><a href="//xueshu.baidu.com/s?wd=refpaperuri:(d2e0f647f0c5a3fd9d2a82cda0d5a55a)&sc_f_para=sc_cita%3D%7B%E8%80%A6%E5%90%88%E6%91%86%E7%89%B9%E6%80%A7%E6%A8%A1%E6%8B%9F%E5%8F%8A%E6%8C%AF%E5%8A%A8%E8%80%A6%E5%90%88%E7%8E%B0%E8%B1%A1%E6%BC%94%E7%A4%BA%2C5%7D&sort=sc_cited&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank" class="cite_cont ">5</a></span></div><div class="res_tool" data-link="http://www.cnki.com.cn/Article/CJFDTotal-DXWL201204009.htm"><a class="res_col c-icon-heart-hover" href="javascript:;" target="_blank" data-urlmd="310db519c93f1d4918077660fdf7e97a"><i class="c-icon c-icon-heart"></i><span style="display:inline-block;" class="col_text">收藏</span></a><a target="_blank" class="c-icon-file-hover" href="//xueshu.baidu.com/s?wd=%E8%80%A6%E5%90%88%E6%91%86%E7%89%B9%E6%80%A7%E6%A8%A1%E6%8B%9F%E5%8F%8A%E6%8C%AF%E5%8A%A8%E8%80%A6%E5%90%88%E7%8E%B0%E8%B1%A1%E6%BC%94%E7%A4%BA&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8"><i class="c-icon c-icon-file"></i>相关文章</a></div></div><div class="reqdata" data-url="http://www.cnki.com.cn/Article/CJFDTotal-DXWL201204009.htm" data-longsign="d2e0f647f0c5a3fd9d2a82cda0d5a55a" style="display:none"></div></div><div class="result" index="16"><div class="res_con"><h3 class="res_t"><a href="//xueshu.baidu.com/usercenter/data/paperhelp?cmd=paper_forward&longsign=e331095d457fb4a8a59b00eb56fbb3cc&title=%E6%88%91%E5%9B%BD%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%BD%8D%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9F%B9%E5%85%BB%E7%9A%84%E6%94%B9%E9%9D%A9%E4%B8%8E%E5%88%9B%E6%96%B0" target="_blank">我国专业学位研究生培养的改革与创新</a></h3><div class="res_info"><span class="res_year">2012</span>&nbsp;-&nbsp;<span><a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%281528c79b9f2275f1%29%20author%3A%28%E8%B5%B5%E5%B2%A9%29%20%E6%B2%88%E9%98%B3%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6" target="_blank">赵岩</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28b4e7e3bcd560e0a2%29%20author%3A%28%E5%BE%90%E5%B9%B3%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E7%90%86%E5%AD%A6%E9%99%A2" target="_blank">徐平</a></span>&nbsp;-&nbsp;<a href="//xueshu.baidu.com/s?wd=journaluri%3A%283168e1edb1d2ca64%29%20%E3%80%8A%E7%8E%B0%E4%BB%A3%E6%95%99%E8%82%B2%E7%AE%A1%E7%90%86%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank">《现代教育管理》</a>&nbsp;-&nbsp;<span class="res_cite"><span>被引量:&nbsp;</span><a href="//xueshu.baidu.com/s?wd=refpaperuri:(e331095d457fb4a8a59b00eb56fbb3cc)&sc_f_para=sc_cita%3D%7B%E6%88%91%E5%9B%BD%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%BD%8D%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9F%B9%E5%85%BB%E7%9A%84%E6%94%B9%E9%9D%A9%E4%B8%8E%E5%88%9B%E6%96%B0%2C11%7D&sort=sc_cited&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank" class="cite_cont ">11</a></span></div><div class="res_tool" data-link="http://www.cnki.com.cn/Article/CJFDTotal-LNGD201209027.htm"><a class="res_col c-icon-heart-hover" href="javascript:;" target="_blank" data-urlmd="67dbd9d8948450c0da88ce3390e8c6bd"><i class="c-icon c-icon-heart"></i><span style="display:inline-block;" class="col_text">收藏</span></a><a target="_blank" class="c-icon-file-hover" href="//xueshu.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%BD%8D%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9F%B9%E5%85%BB%E7%9A%84%E6%94%B9%E9%9D%A9%E4%B8%8E%E5%88%9B%E6%96%B0&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8"><i class="c-icon c-icon-file"></i>相关文章</a></div></div><div class="reqdata" data-url="http://www.cnki.com.cn/Article/CJFDTotal-LNGD201209027.htm" data-longsign="e331095d457fb4a8a59b00eb56fbb3cc" style="display:none"></div></div><div class="result" index="17"><div class="res_con"><h3 class="res_t"><a href="//xueshu.baidu.com/usercenter/data/paperhelp?cmd=paper_forward&longsign=4323261b088a696f49c6183ff4abcb84&title=%E6%B3%95%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E5%8E%86%E6%95%99%E8%82%B2%E8%AE%A4%E8%AF%81%E8%A7%A3%E8%AF%BB%E4%B8%8E%E5%AE%9E%E4%BE%8B%E5%88%86%E6%9E%90%E2%80%94%E2%80%94%E5%85%BC%E8%B0%88%E5%8C%97%E8%88%AA%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2%E7%9A%84%E5%AE%9E%E8%B7%B5" target="_blank">法国工程师学历教育认证解读与实例分析——兼谈北航中法工程师学院的实践</a></h3><div class="res_info"><span class="res_year">2012</span>&nbsp;-&nbsp;<span><a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%289ee3f8d0ae5bca1%29%20author%3A%28%E7%86%8A%E7%92%8B%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2" target="_blank">熊璋</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28dc5c1536784f9ab3%29%20author%3A%28%E4%BA%8E%E9%BB%8E%E6%98%8E%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2" target="_blank">于黎明</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28b4e7e3bcd560e0a2%29%20author%3A%28%E5%BE%90%E5%B9%B3%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E7%90%86%E5%AD%A6%E9%99%A2" target="_blank">徐平</a></span>&nbsp;-&nbsp;<a href="//xueshu.baidu.com/s?wd=journaluri%3A%28555d9695e6ffd1ae%29%20%E3%80%8A%E9%AB%98%E7%AD%89%E5%B7%A5%E7%A8%8B%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank">《高等工程教育研究》</a>&nbsp;-&nbsp;<span class="res_cite"><span>被引量:&nbsp;</span><a href="//xueshu.baidu.com/s?wd=refpaperuri:(4323261b088a696f49c6183ff4abcb84)&sc_f_para=sc_cita%3D%7B%E6%B3%95%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E5%8E%86%E6%95%99%E8%82%B2%E8%AE%A4%E8%AF%81%E8%A7%A3%E8%AF%BB%E4%B8%8E%E5%AE%9E%E4%BE%8B%E5%88%86%E6%9E%90%E2%80%94%E2%80%94%E5%85%BC%E8%B0%88%E5%8C%97%E8%88%AA%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2%E7%9A%84%E5%AE%9E%E8%B7%B5%2C11%7D&sort=sc_cited&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank" class="cite_cont ">11</a></span></div><div class="res_tool" data-link="http://www.cnki.com.cn/Article/CJFDTotal-GDGJ201205009.htm"><a class="res_col c-icon-heart-hover" href="javascript:;" target="_blank" data-urlmd="cfa388cf13a7fadfdb5c0c293e49238b"><i class="c-icon c-icon-heart"></i><span style="display:inline-block;" class="col_text">收藏</span></a><a target="_blank" class="c-icon-file-hover" href="//xueshu.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E5%8E%86%E6%95%99%E8%82%B2%E8%AE%A4%E8%AF%81%E8%A7%A3%E8%AF%BB%E4%B8%8E%E5%AE%9E%E4%BE%8B%E5%88%86%E6%9E%90%E2%80%94%E2%80%94%E5%85%BC%E8%B0%88%E5%8C%97%E8%88%AA%E4%B8%AD%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AD%A6%E9%99%A2%E7%9A%84%E5%AE%9E%E8%B7%B5&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8"><i class="c-icon c-icon-file"></i>相关文章</a></div></div><div class="reqdata" data-url="http://www.cnki.com.cn/Article/CJFDTotal-GDGJ201205009.htm" data-longsign="4323261b088a696f49c6183ff4abcb84" style="display:none"></div></div><div class="result" index="18"><div class="res_con"><h3 class="res_t"><a href="//xueshu.baidu.com/usercenter/data/paperhelp?cmd=paper_forward&longsign=1234ab040f06540775bea9e89b5e810a&title=%E7%A0%94%E7%A9%B6%E5%9E%8B%E5%A4%A7%E5%AD%A6%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%9F%B9%E5%85%BB%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%94%B9%E9%9D%A9" target="_blank">研究型大学博士生培养模式的改革</a></h3><div class="res_info"><span class="res_year">2012</span>&nbsp;-&nbsp;<span><a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28b4e7e3bcd560e0a2%29%20author%3A%28%E5%BE%90%E5%B9%B3%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E7%90%86%E5%AD%A6%E9%99%A2" target="_blank">徐平</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%281528c79b9f2275f1%29%20author%3A%28%E8%B5%B5%E5%B2%A9%29%20%E6%B2%88%E9%98%B3%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6" target="_blank">赵岩</a></span>&nbsp;-&nbsp;<a href="//xueshu.baidu.com/s?wd=journaluri%3A%28418f784c9a9e7131%29%20%E3%80%8A%E6%B2%88%E9%98%B3%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%AD%A6%E6%8A%A5%EF%BC%9A%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E7%89%88%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank">《沈阳师范大学学报：社会科学版》</a>&nbsp;-&nbsp;<span class="res_cite"><span>被引量:&nbsp;</span><a href="//xueshu.baidu.com/s?wd=refpaperuri:(1234ab040f06540775bea9e89b5e810a)&sc_f_para=sc_cita%3D%7B%E7%A0%94%E7%A9%B6%E5%9E%8B%E5%A4%A7%E5%AD%A6%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%9F%B9%E5%85%BB%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%94%B9%E9%9D%A9%2C1%7D&sort=sc_cited&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank" class="cite_cont ">1</a></span></div><div class="res_tool" data-link="http://www.cnki.com.cn/Article/CJFDTotal-SYSS201204033.htm"><a class="res_col c-icon-heart-hover" href="javascript:;" target="_blank" data-urlmd="01fa7532b1d3151a51960ca385fe041a"><i class="c-icon c-icon-heart"></i><span style="display:inline-block;" class="col_text">收藏</span></a><a target="_blank" class="c-icon-file-hover" href="//xueshu.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E5%9E%8B%E5%A4%A7%E5%AD%A6%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%9F%B9%E5%85%BB%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%94%B9%E9%9D%A9&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8"><i class="c-icon c-icon-file"></i>相关文章</a></div></div><div class="reqdata" data-url="http://www.cnki.com.cn/Article/CJFDTotal-SYSS201204033.htm" data-longsign="1234ab040f06540775bea9e89b5e810a" style="display:none"></div></div><div class="result" index="19"><div class="res_con"><h3 class="res_t"><a href="//xueshu.baidu.com/usercenter/data/paperhelp?cmd=paper_forward&longsign=500c0d61abb0fdeb3c804e7656d0a345&title=%E5%88%A9%E7%94%A8%E7%99%BD%E5%85%89%E5%B9%B2%E6%B6%89%E8%B0%B1%E6%B5%8B%E5%AE%9A%E4%BA%91%E6%AF%8D%E7%89%87%E7%9A%84%E5%BF%AB%E6%85%A2%E8%BD%B4" target="_blank">利用白光干涉谱测定云母片的快慢轴</a></h3><div class="res_info"><span class="res_year">2011</span>&nbsp;-&nbsp;<span><a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%284ba2e62c7d4596a3%29%20author%3A%28%E5%88%98%E4%BD%B3%29%20%E5%86%85%E8%92%99%E5%8F%A4%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E6%95%B0%E7%90%86%E4%B8%8E%E7%94%9F%E7%89%A9%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2" target="_blank">刘佳</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28b4e7e3bcd560e0a2%29%20author%3A%28%E5%BE%90%E5%B9%B3%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E7%90%86%E5%AD%A6%E9%99%A2" target="_blank">徐平</a>，<a href="//xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28dc47d16288b32014%29%20author%3A%28%E9%99%88%E5%AD%90%E7%91%9C%29%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E7%B3%BB" target="_blank">陈子瑜</a>，...</span>&nbsp;-&nbsp;<a href="//xueshu.baidu.com/s?wd=journaluri%3A%28733b9a53bf4ae57d%29%20%E3%80%8A%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank">《大学物理》</a>&nbsp;-&nbsp;<span class="res_cite"><span>被引量:&nbsp;</span><a href="//xueshu.baidu.com/s?wd=refpaperuri:(500c0d61abb0fdeb3c804e7656d0a345)&sc_f_para=sc_cita%3D%7B%E5%88%A9%E7%94%A8%E7%99%BD%E5%85%89%E5%B9%B2%E6%B6%89%E8%B0%B1%E6%B5%8B%E5%AE%9A%E4%BA%91%E6%AF%8D%E7%89%87%E7%9A%84%E5%BF%AB%E6%85%A2%E8%BD%B4%2C1%7D&sort=sc_cited&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8" target="_blank" class="cite_cont ">1</a></span></div><div class="res_tool" data-link="http://www.cnki.com.cn/Article/CJFDTotal-DXWL201109012.htm"><a class="res_col c-icon-heart-hover" href="javascript:;" target="_blank" data-urlmd="cab8d5d4ebd1f00c31eecb02fcb355b3"><i class="c-icon c-icon-heart"></i><span style="display:inline-block;" class="col_text">收藏</span></a><a target="_blank" class="c-icon-file-hover" href="//xueshu.baidu.com/s?wd=%E5%88%A9%E7%94%A8%E7%99%BD%E5%85%89%E5%B9%B2%E6%B6%89%E8%B0%B1%E6%B5%8B%E5%AE%9A%E4%BA%91%E6%AF%8D%E7%89%87%E7%9A%84%E5%BF%AB%E6%85%A2%E8%BD%B4&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8"><i class="c-icon c-icon-file"></i>相关文章</a></div></div><div class="reqdata" data-url="http://www.cnki.com.cn/Article/CJFDTotal-DXWL201109012.htm" data-longsign="500c0d61abb0fdeb3c804e7656d0a345" style="display:none"></div></div></div>
+
+<div class="res-pages-wr"><p class="res-page"><a href="#" class="c-icon-page-prev-hover res-page-pre pagenumber" data-num="0" style="display:none"><i class="iconfont c-icon-pager-prev">&#xe61c;</i></a><span class="res-page-number-now" data-num="1">1</span><span class="res-page-number pagenumber" data-num="2">2</span><span class="res-page-number pagenumber" data-num="3">3</span><a href="#" class="c-icon-page-next-hover res-page-next pagenumber" data-num="2"><i class="iconfont c-icon-pager-next">&#xe61d;</i></a></p></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+    <div id="main_content_right">
+        
+
+<div class="co_author_wr"><h3><a href="javascript:;" class="co_author_more">更多>></a><span>合作学者</span></h3><div class="co_authorlist"><div class="co_author_item" data-auid="13add3370c5858f6012f04cdb669c63e"><a href="/homepage/u/13add3370c5858f6012f04cdb669c63e" target="_blank" class="au_img_link"><img src="/lib/static/scholar/cache/homepage/img/default_dark_blue_d010768.png" alt="学者头像" class="au_img"></a><span class="au_info"><p><a href="/homepage/u/13add3370c5858f6012f04cdb669c63e" target="_blank" class="au_name" data-id="13add3370c5858f6012f04cdb669c63e">殷传涛</a></p><p><span class="au_label">北京航空航天大学中法工程师学院</span></p></span></div><div class="co_author_item" data-auid="4ab865fca7c6b5afef7d460b3ac73a86"><a href="/homepage/u/4ab865fca7c6b5afef7d460b3ac73a86" target="_blank" class="au_img_link"><img src="/lib/static/scholar/cache/homepage/img/default_dark_blue_d010768.png" alt="学者头像" class="au_img"></a><span class="au_info"><p><a href="/homepage/u/4ab865fca7c6b5afef7d460b3ac73a86" target="_blank" class="au_name" data-id="4ab865fca7c6b5afef7d460b3ac73a86">于黎明</a></p><p><span class="au_label">北京航空航天大学中法工程师学院</span></p></span></div><div class="co_author_item" data-auid="8c8046e097edb04b3da4eed99272a1e2"><a href="/homepage/u/8c8046e097edb04b3da4eed99272a1e2" target="_blank" class="au_img_link"><img src="/lib/static/scholar/cache/homepage/img/default_dark_blue_d010768.png" alt="学者头像" class="au_img"></a><span class="au_info"><p><a href="/homepage/u/8c8046e097edb04b3da4eed99272a1e2" target="_blank" class="au_name" data-id="8c8046e097edb04b3da4eed99272a1e2">熊璋</a></p><p><span class="au_label">北京航空航天大学中法工程师学院</span></p></span></div><div class="co_author_item" data-auid="3c07f1b6251ff0b14083ff36c87d6ca5"><a href="/homepage/u/3c07f1b6251ff0b14083ff36c87d6ca5" target="_blank" class="au_img_link"><img src="/lib/static/scholar/cache/homepage/img/default_dark_blue_d010768.png" alt="学者头像" class="au_img"></a><span class="au_info"><p><a href="/homepage/u/3c07f1b6251ff0b14083ff36c87d6ca5" target="_blank" class="au_name" data-id="3c07f1b6251ff0b14083ff36c87d6ca5">陈辉</a></p><p><span class="au_label">北京航空航天大学中法工程师学院</span></p></span></div></div></div>
+
+            <div class="co_affiliate_wr"><h3>合作机构</h3><ul class="co_affiliate_list"><li><span title="北京航空航天大学中法工程师学院" class="co_paper_name"><span>北京航空航天大学中法工程师学院</span></span><span class="co_paper_line"><span class="co_paper_width" style="width:100px"></span><span class="co_paper_count">8</span></span></li><li><span title="北京航空航天大学仪器科学与光电工程学院" class="co_paper_name"><span>北京航空航天大学仪器科学与光电工程学院</span></span><span class="co_paper_line"><span class="co_paper_width" style="width:12.5px"></span><span class="co_paper_count">1</span></span></li></ul></div>
+        </div>
+</div>
+
+
+                </div>
+                
+                
+                
+<div class="pagefoot gj" style=""><div class="footcon"><span class="lawinfo"><h4>关于我们</h4><p>百度学术集成海量学术资源，融合人工智能、深度学习、大数据分析等技术，为科研工作者提供全面快捷的学术服务。在这里我们保持学习的态度，不忘初心，砥砺前行。<br><a href="/usercenter/show/baiducas?cmd=page" target="_blank" style="color: #38f;">了解更多>></a></p></span><span class="yqLink"><h4>友情链接</h4><div class="innerCont"><a href="https://cloud.baidu.com/" target="_blank"><img src="https://bj.bcebos.com/v1/ps-scholar-amis-standard/2020-11/1606363009781/baiduyun.png" alt="百度云"></a></div></span><span class="contact"><h4>联系我们</h4><div class="innerCont"><a href="http://weibo.com/baiduxueshu" target="_blank"><p class="wb"><span class="qrcode webocode"></span></p></a><p class="wx"><span class="qrcode weixincode"></span></p><a href="mailto:xueshu_support@baidu.com" target="_blank"><p class="help"></p></a></div></span><span class="moreinfo"><h4>合作与服务</h4><span class="moreinfo_item"> <a href="//xueshu.baidu.com/usercenter/show/baiducas?cmd=journal" target="_blank">期刊合作</a></span><span class="moreinfo_item"> <a href="//xueshu.baidu.com/usercenter/show/baiducas?cmd=library" target="_blank">图书馆合作</a></span><span class="moreinfo_item"> <a href="https://bj.bcebos.com/v1/ps-scholar-amis-standard/archived/2021-4/1617263148292/BaiduScholar-20210401.pdf" target="_blank">下载产品手册</a></span><span class="moreinfo_item"><a href="javascript:;" class="feedback">意见反馈</a></span></span></div><p class="foottext">©2021 Baidu 百度学术声明 <a href="https://www.baidu.com/duty/" target="_blank">使用百度前必读</a></p></div>                
+            
+        </div>
+        <div class="dialog_bg hover-screen"></div>
+    </div>
+    
+    
+
+    
+<script src="/lib/static/scholar/cache/homepage/js/page_39fe5b9.js"></script>
+<!-- 学者主页引入智瞳爬虫流量监控 -->
+<script>
+    window['__abbaidu_2053_subidgetf'] = function () {
+        return 'ae_xueshu_homepage';
+    }
+    window['__abbaidu_2053_cb'] = function (responseData) {
+        var data = JSON.parse(responseData);
+        var d = new Date();
+        d.setTime(d.getTime() + (24 * 60 * 60 * 1000));
+        var expires = ";expires="+ d.toUTCString();
+        document.cookie = "antispam_data=" + data.data + expires + ";path=/;";
+        document.cookie = "antispam_key_id=" + data.key_id + expires + ";path=/;";
+        document.cookie = "antispam_sign=" + data.sign + expires + ";path=/;";
+        document.cookie = "antispam_site=ae_xueshu_homepage" + expires + ";path=/;";
+    }
+</script>
+<script async="" src="https://dlswbr.baidu.com/heicha/mw/abclite-2053-s.js"> </script>
+
+    
+<div style="display:none;">
+<script>
+var _hmt = _hmt || [];
+(function () {
+    var hm = document.createElement("script");
+    hm.src = "//hm.baidu.com/hm.js?d0e1c62633eae5b65daca0b6f018ef4c";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</div>
+
+</body>
+</html>

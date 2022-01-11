@@ -1,0 +1,1482 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>2018年本科生开课目录-北京航空航天大学计算机学院</title><META Name="keywords" Content="北京航空航天大学计算机学院,开课目录,2018,本科生,本科,开课,课目,目录" />
+<META Name="description" Content="​2018年开课目录：序号学期课程名称学分姓名理论学时实验学时1春季大学计算机基础2曹庆华 孙 青16322春季离散数学(信息类)2贾经冬 赵永望3203春季数据结构与程序设计(信息类)4晏海华48324春季大学计算机基础2刘 禹24165春季计算机网络1.5李..." />
+
+<link href="../../style/style.css" rel="stylesheet" type="text/css" />
+<link href="../../style/menu.css" rel="stylesheet" media="screen" type="text/css" />
+<link href="../../SpryAssets/SpryTabbedPanels.css" rel="stylesheet" type="text/css" />
+<script src="../../js/bdtxk.js"></script>
+<script src="../../js/cnvp.js" type="text/javascript"></script>
+<script src="../../js/bdtxk.min.js" type="text/javascript"></script>
+  <script src="../../SpryAssets/SpryTabbedPanels.js" type="text/javascript"></script>
+  <script type="text/javascript">
+var timeout         = 500;
+var closetimer		= 0;
+var ddmenuitem      = 0;
+
+function jsddm_open()
+{	jsddm_canceltimer();
+	jsddm_close();
+	ddmenuitem = $(this).find('ul').eq(0).css('visibility', 'visible');}
+
+function jsddm_close()
+{	if(ddmenuitem) ddmenuitem.css('visibility', 'hidden');}
+
+function jsddm_timer()
+{	closetimer = window.setTimeout(jsddm_close, timeout);}
+
+function jsddm_canceltimer()
+{	if(closetimer)
+	{	window.clearTimeout(closetimer);
+		closetimer = null;}}
+
+$(document).ready(function()
+{	$('#jsddm > li').bind('mouseover', jsddm_open);
+	$('#jsddm > li').bind('mouseout',  jsddm_timer);});
+
+document.onclick = jsddm_close;
+  </script>
+  
+
+<script type="text/javascript">
+$(function(){
+$(".subNav").click(function(){
+			$(this).toggleClass("currentDd").siblings(".subNav").removeClass("currentDd")
+			$(this).toggleClass("currentDt").siblings(".subNav").removeClass("currentDt")
+			
+			// 修改数字控制速度， slideUp(500)控制卷起速度
+			$(this).next(".navContent").slideToggle(200).siblings(".navContent").slideUp(200);
+	})	
+})
+</script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e78475c52555742000000034754 -->
+<link rel="stylesheet" type="text/css" href="../../nry_new.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1068,'/nry_new.jsp',2306,1494873685)</script>
+</head>
+
+<body>
+<div class="wrapper">
+	<!--头部开始-->
+	<div class="header">
+    	<div class="logo">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+
+
+
+<a href="../../index.htm"><img src="../../images/logo.png" width="520" height="86" alt="北京航天航空大学-计算机学院" /></a></div>
+	<div class="60zn" style="float:left;width:120px;margin-left:50px;margin-top:5px">    <script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+            
+                
+                        <img src="../../images/60znq.png" width="120" height="120">
+                
+        
+</div>
+        <div class="top_right">
+        	<div class="toplink">
+            	<script language="javascript" src="/system/resource/js/openlink.js"></script>
+    <a href="#" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1494873685, 44726)">旧版网站</a>
+|
+                
+<script language="javascript">
+function dosuba212906a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+            else
+            {
+                alert(hotKeysa212906a());
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa212906a() 
+{
+    var ua = navigator.userAgent.toLowerCase(); 
+    var str = "";    
+    var isWebkit = (ua.indexOf('webkit') != - 1); 
+    var isMac = (ua.indexOf('mac') != - 1);     
+    if (ua.indexOf('konqueror') != - 1) 
+    {  
+        str = 'CTRL + B'; // Konqueror   
+    } 
+    else if (window.home || isWebkit || isMac) 
+    {        
+        str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+    }
+    return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea212906a()
+{
+    var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+        }
+    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+    prefs.setCharPref('browser.startup.homepage',url);
+    }
+    else
+    {
+        alert("浏览器不支持自动设为首页，请手动设置");
+    }
+}
+</script>
+
+<a onclick="javascript:dosuba212906a();" href="#">网站收藏</a>
+
+            
+|
+                
+    <a href="http://scse.buaa.edu.cn/English/Home.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1494873685, 44727)">English</a>
+
+            </div>
+          <div class="search">
+          	<script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode212907').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey212907").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey212907").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey212907").value = base64.encode(document.getElementById("lucenenewssearchkey212907").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode212907"));
+        return true;
+    } 
+</script>
+<form action="../../ssjgy_new.jsp?wbtreeid=1068" method="post" id="au5a" name="au5a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkey212907" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype212907" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope212907" name="searchScope" value="0">
+
+<input type="text" name="showkeycode" id="showkeycode212907" maxlength="50" class="keyword font-yh fl" value="请输入关键字" data="请输入关键字">                    
+<input type="submit" name="" value="" class="btn ">
+
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+
+          </div>
+        </div>
+    </div>
+  </div>  
+    
+    <div class="clearboth"></div>
+   <div class="list_nav">
+    <div class="nav">
+                <ul id="jsddm">
+<li class="first"><a href="../../index.htm"><img src="../../images/ico_home.png" /></a></li>
+
+<li><a href="../../index.htm" title="首页">首页</a>
+</li>
+
+
+<li><a href="../../xyjj/xyjs.htm" title="学院简介">学院简介</a>
+	<ul>
+	    <li><a href="../../xyjj/xyjs.htm" title="学院介绍">学院介绍</a></li>
+	    <li><a href="../../xyjj/zzjg/xyld.htm" title="组织机构">组织机构</a></li>
+	    <li><a href="../../xyjj/lsyg.htm" title="历史沿革">历史沿革</a></li>
+	    <li><a href="../../xyjj/lrld.htm" title="历任领导">历任领导</a></li>
+	    <li><a href="../../xyjj/wyh/xswyh.htm" title="委员会">委员会</a></li>
+	</ul>
+</li>
+
+
+<li><a href="../../bkspy/bkspy/pyfa.htm" title="本科生培养">本科生培养</a>
+	<ul>
+	    <li><a href="../../bkspy/bkspy/pyfa.htm" title="本科生培养">本科生培养</a></li>
+	    <li><a href="../../bkspy/mstjyjsglbf.htm" title="免试推荐研究生管理办法">免试推荐研究生管理办法</a></li>
+	    <li><a href="../../bkspy/kkml.htm" title="开课目录">开课目录</a></li>
+	    <li><a href="../../bkspy/kcdg.htm" title="课程大纲">课程大纲</a></li>
+	    <li><a href="http://scse.buaa.edu.cn/bkspy/jxxt/lwgscxxt.htm" title="教学系统">教学系统</a></li>
+	    <li><a href="../../bkspy/jxjl.htm" title="教学交流">教学交流</a></li>
+	    <li><a href="../../bkspy/gjjxyjhyyqkml.htm" title="国际教学研究会议与期刊目录">国际教学研究会议与期刊目录</a></li>
+	    <li><a href="../../bkspy/tjmsglbf.htm" title="推荐免试管理办法">推荐免试管理办法</a></li>
+	</ul>
+</li>
+
+
+<li><a href="../../yjspy/kcml.htm" title="研究生培养">研究生培养</a>
+	<ul>
+	    <li><a href="../../yjspy/kcml.htm" title="课程目录">课程目录</a></li>
+	</ul>
+</li>
+
+
+<li><a href="../../szdw/qtjs.htm" title="师资队伍">师资队伍</a>
+	<ul>
+	    <li><a href="../../szdw/qtjs.htm" title="全体教师">全体教师</a></li>
+	    <li><a href="http://scse.buaa.edu.cn/szdw/zjdw/ys.htm" title="专家队伍">专家队伍</a></li>
+	</ul>
+</li>
+
+
+<li><a href="../../kxyj/xshd.htm" title="科学研究">科学研究</a>
+	<ul>
+	    <li><a href="../../kxyj/xshd.htm" title="学术活动">学术活动</a></li>
+	    <li><a href="../../kxyj/tzgg.htm" title="通知公告">通知公告</a></li>
+	    <li><a href="../../kxyj/yjfx.htm" title="研究方向">研究方向</a></li>
+	    <li><a href="../../kxyj/cylm.htm" title="产业联盟">产业联盟</a></li>
+	    <li><a href="../../kxyj/zcfg.htm" title="政策法规">政策法规</a></li>
+	</ul>
+</li>
+
+
+<li><a href="../../xwgg/xydt.htm" title="新闻公告">新闻公告</a>
+	<ul>
+	    <li><a href="../../xwgg/xydt.htm" title="学院动态">学院动态</a></li>
+	    <li><a href="../../xwgg/xsbg.htm" title="学术报告">学术报告</a></li>
+	    <li><a href="../../xwgg/gggs.htm" title="公告公示">公告公示</a></li>
+	    <li><a href="../../xwgg/tpxw.htm" title="图片新闻">图片新闻</a></li>
+	</ul>
+</li>
+
+
+<li><a href="../../zsjy/bkszs.htm" title="招生就业">招生就业</a>
+	<ul>
+	    <li><a href="../../zsjy/bkszs.htm" title="本科生招生">本科生招生</a></li>
+	    <li><a href="../../zsjy/yjszs.htm" title="研究生招生">研究生招生</a></li>
+	    <li><a href="../../zsjy/jyxx.htm" title="就业信息">就业信息</a></li>
+	</ul>
+</li>
+
+
+<li><a href="../../gjjl/xwgg.htm" title="国际交流">国际交流</a>
+	<ul>
+	    <li><a href="../../gjjl/xwgg.htm" title="新闻公告">新闻公告</a></li>
+	    <li><a href="../../gjjl/xshd.htm" title="学术活动">学术活动</a></li>
+	    <li><a href="../../gjjl/gjhgz/jdjsjh1.htm" title="国际化工作">国际化工作</a></li>
+	</ul>
+</li>
+
+
+<li><a href="../../dflz/dqdt.htm" title="党风廉政">党风廉政</a>
+	<ul>
+	    <li><a href="../../dflz/dqdt.htm" title="党群动态">党群动态</a></li>
+	    <li><a href="../../dflz/gh.htm" title="工会">工会</a></li>
+	    <li><a href="../../dflz/xxzl.htm" title="学习资料">学习资料</a></li>
+	</ul>
+</li>
+
+
+<li><a href="../../cggl/cgglbf.htm" title="采购管理">采购管理</a>
+	<ul>
+	    <li><a href="../../cggl/cgglbf.htm" title="采购管理办法">采购管理办法</a></li>
+	    <li><a href="../../cggl/cggg.htm" title="采购公告">采购公告</a></li>
+	    <li><a href="../../cggl/bj_jjgs.htm" title="比价/竞价公示">比价/竞价公示</a></li>
+	</ul>
+</li>
+
+</ul>
+                <div class="clearboth"> </div>
+    </div>
+   </div>
+    <div class="clearboth"></div>
+    <!--头部完成-->
+    
+    <!--主体开始-->
+    <div class="wrapper">
+    <div id="lm_main">
+    
+        <div id="lm_left">
+      <div class="lm_name">
+
+
+
+本科生培养</div>
+           <!----二级栏目开始--->
+           
+                <div class="subNavBox">
+               		
+<div class="subNav"><a href="../../bkspy/bkspy/pyfa.htm" title="本科生培养">本科生培养</a></div>
+<ul class="navContent ">
+    <li><a href="../../bkspy/bkspy/pyfa.htm" title="培养方案">培养方案</a></li>
+    <li><a href="../../bkspy/bkspy/bysd.htm" title="毕业审定">毕业审定</a></li>
+    <li><a href="../../bkspy/bkspy/zzyglbf.htm" title="转专业管理办法">转专业管理办法</a></li>
+    <li><a href="../../bkspy/bkspy/kcml.htm" title="课程目录">课程目录</a></li>
+    <li><a href="../../bkspy/bkspy/S_T_A_Rjftdbps_.htm" title="S.T.A.R教辅团队白皮书 ">S.T.A.R教辅团队白皮书 </a></li>
+    <li><a href="../../bkspy/bkspy/bkzd.htm" title="本科指导">本科指导</a></li>
+    <li><a href="../../bkspy/bkspy/qxbk.htm" title="求学百科">求学百科</a></li>
+</ul>
+
+
+<div class="subNav"><a href="../../bkspy/mstjyjsglbf.htm" title="免试推荐研究生管理办法">免试推荐研究生管理办法</a></div>
+
+
+<div class="subNav"><a href="../../bkspy/kkml.htm" title="开课目录">开课目录</a></div>
+
+
+<div class="subNav"><a href="../../bkspy/kcdg.htm" title="课程大纲">课程大纲</a></div>
+
+
+<div class="subNav"><a href="http://scse.buaa.edu.cn/bkspy/jxxt/lwgscxxt.htm" title="教学系统">教学系统</a></div>
+<ul class="navContent ">
+    <li><a href="../../bkspy/jxxt/lwgscxxt.htm" title="论文格式查修系统">论文格式查修系统</a></li>
+</ul>
+
+
+<div class="subNav"><a href="../../bkspy/jxjl.htm" title="教学交流">教学交流</a></div>
+
+
+<div class="subNav"><a href="../../bkspy/gjjxyjhyyqkml.htm" title="国际教学研究会议与期刊目录">国际教学研究会议与期刊目录</a></div>
+
+
+<div class="subNav"><a href="../../bkspy/tjmsglbf.htm" title="推荐免试管理办法">推荐免试管理办法</a></div>
+
+
+                    <div style="clear:both"></div>
+      
+                </div>
+         
+           <!----二级导航结束--->
+
+      <div class="lm_zspic">    
+            
+                
+                        <img src="../../images/lm_pic001.png" width="245" height="375">
+                
+        
+</div>
+    </div>
+        
+        <div id="lm_right">
+        	<div class="lm_wz">
+            	<h2>
+
+
+
+开课目录</h2>
+                <p>当前位置：
+                        <a href="../../index.htm">首页</a>
+                >
+                <a href="../../bkspy/bkspy/pyfa.htm">本科生培养</a>
+                >
+                <a href="../../bkspy/kkml.htm">开课目录</a>
+                >
+                正文
+</p>
+            </div>
+            <div class="lm_nr" style="min-height:650px">
+            	
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><link rel="stylesheet" Content-type="text/css" href="/system/resource/style/component/news/content/format6.css"><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+
+<h1 class="title_h1">2018年本科生开课目录</h1>
+<div class="nr_time">发布时间: 2017-10-16&nbsp;&nbsp;&nbsp;&nbsp; 作者：&nbsp;&nbsp;&nbsp;&nbsp;点击次数:<script>_showDynClicks("wbnews", 1494873685, 2306)</script>次</div>
+
+    <div id="vsb_content_6" class="content"><div class="v_news_content">
+<div>
+ <p class="vsbcontent_start"><strong>2018</strong><strong>年开课目录：</strong></p>
+ <table border="0" cellspacing="0" cellpadding="0" style="text-align: center">
+  <tbody>
+   <tr>
+    <td nowrap="nowrap" style="background: rgb(146, 205, 220)"><p>序号</p></td>
+    <td nowrap="nowrap" style="background: rgb(146, 205, 220)"><p>学期</p></td>
+    <td nowrap="nowrap" style="background: rgb(146, 205, 220)"><p>课程名称</p></td>
+    <td nowrap="nowrap" style="background: rgb(146, 205, 220)"><p>学分</p></td>
+    <td nowrap="nowrap" style="background: rgb(146, 205, 220)"><p>姓名</p></td>
+    <td nowrap="nowrap" style="background: rgb(146, 205, 220)"><p>理论学时</p></td>
+    <td nowrap="nowrap" style="background: rgb(146, 205, 220)"><p>实验学时</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>1</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>大学计算机基础</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>曹庆华 孙 青</p></td>
+    <td nowrap="nowrap"><p>16</p></td>
+    <td nowrap="nowrap"><p>32</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>离散数学(信息类)</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>贾经冬 赵永望</p></td>
+    <td nowrap="nowrap"><p>32</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>3</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>数据结构与程序设计(信息类)</p></td>
+    <td nowrap="nowrap"><p>4</p></td>
+    <td nowrap="nowrap"><p>晏海华</p></td>
+    <td nowrap="nowrap"><p>48</p></td>
+    <td nowrap="nowrap"><p>32</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>4</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>大学计算机基础</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>刘 禹</p></td>
+    <td nowrap="nowrap"><p>24</p></td>
+    <td nowrap="nowrap"><p>16</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>5</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>计算机网络</p></td>
+    <td nowrap="nowrap"><p>1.5</p></td>
+    <td nowrap="nowrap"><p>李 巍</p></td>
+    <td nowrap="nowrap"><p>24</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>6</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>C与C++程序设计语言</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>盛 浩 刘 禹</p></td>
+    <td nowrap="nowrap"><p>32</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>7</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>动画设计与应用</p></td>
+    <td nowrap="nowrap"><p>1</p></td>
+    <td nowrap="nowrap"><p>吴秀娟</p></td>
+    <td nowrap="nowrap"><p>16</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>8</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>社会计算导论</p></td>
+    <td nowrap="nowrap"><p>1</p></td>
+    <td nowrap="nowrap"><p>童 超</p></td>
+    <td nowrap="nowrap"><p>16</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>9</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>计算简史——逻辑推动与技术演进</p></td>
+    <td nowrap="nowrap"><p>1</p></td>
+    <td nowrap="nowrap"><p>栾钟治</p></td>
+    <td nowrap="nowrap"><p>16</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>10</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>MATLAB图像与视频处理实用案例分析</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>郑 锦 张永飞</p></td>
+    <td nowrap="nowrap"><p>24</p></td>
+    <td nowrap="nowrap"><p>8</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>11</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>离散数学（2）</p></td>
+    <td nowrap="nowrap"><p>3.5</p></td>
+    <td nowrap="nowrap"><p>杜博文</p></td>
+    <td nowrap="nowrap"><p>56</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>12</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>面向对象设计与构造</p></td>
+    <td nowrap="nowrap"><p>3</p></td>
+    <td nowrap="nowrap"><p>吴 际 孙 青 荣文戈</p></td>
+    <td nowrap="nowrap"><p>32</p></td>
+    <td nowrap="nowrap"><p>16</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>13</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>操作系统</p></td>
+    <td nowrap="nowrap"><p>3</p></td>
+    <td nowrap="nowrap"><p>王 雷</p></td>
+    <td nowrap="nowrap"><p>48</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>14</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>操作系统课程设计</p></td>
+    <td nowrap="nowrap"><p>1.5</p></td>
+    <td nowrap="nowrap"><p>沃天宇</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+    <td nowrap="nowrap"><p>50</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>15</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>实践与展示（2）</p></td>
+    <td nowrap="nowrap"><p>0.5</p></td>
+    <td nowrap="nowrap"><p>纪一鹏</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>16</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>实践与展示（3）</p></td>
+    <td nowrap="nowrap"><p>1</p></td>
+    <td nowrap="nowrap"><p>纪一鹏</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>17</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>学科技术前沿讲座</p></td>
+    <td nowrap="nowrap"><p>1</p></td>
+    <td nowrap="nowrap"><p>沈旭昆 李 波 李舟军 马 帅</p></td>
+    <td nowrap="nowrap"><p>16</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>18</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>研究方法论</p></td>
+    <td nowrap="nowrap"><p>1</p></td>
+    <td nowrap="nowrap"><p>阮 利</p></td>
+    <td nowrap="nowrap"><p>16</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>19</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>毕业设计</p></td>
+    <td nowrap="nowrap"><p>8</p></td>
+    <td nowrap="nowrap"><p>纵 绮</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>20</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>密码学基础</p></td>
+    <td nowrap="nowrap"><p>3</p></td>
+    <td nowrap="nowrap"><p>郭 华 姚燕青</p></td>
+    <td nowrap="nowrap"><p>48</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>21</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>密码学课程实践</p></td>
+    <td nowrap="nowrap"><p>1</p></td>
+    <td nowrap="nowrap"><p>郭 华</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+    <td nowrap="nowrap"><p>16</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>22</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>离散数学（3）</p></td>
+    <td nowrap="nowrap"><p>3</p></td>
+    <td nowrap="nowrap"><p>李建欣 邓 婷</p></td>
+    <td nowrap="nowrap"><p>48</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>23</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>C++与C#程序设计</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>盛 浩 刘 禹</p></td>
+    <td nowrap="nowrap"><p>16</p></td>
+    <td nowrap="nowrap"><p>16</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>24</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>Unix系统</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>吕良双</p></td>
+    <td nowrap="nowrap"><p>16</p></td>
+    <td nowrap="nowrap"><p>16</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>25</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>社会计算</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>童 超</p></td>
+    <td nowrap="nowrap"><p>32</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>26</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>计算引论</p></td>
+    <td nowrap="nowrap"><p>1</p></td>
+    <td nowrap="nowrap"><p>吕江花</p></td>
+    <td nowrap="nowrap"><p>16</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>27</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>计算机网络</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>罗洪斌</p></td>
+    <td nowrap="nowrap"><p>32</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>28</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>X86汇编程序设计</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>熊桂喜</p></td>
+    <td nowrap="nowrap"><p>16</p></td>
+    <td nowrap="nowrap"><p>16</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>29</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>计算机图形学</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>杨 钦 吴壮志 孟宪海</p></td>
+    <td nowrap="nowrap"><p>32</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>30</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>图象处理与模式识别</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>王蕴红 张永飞</p></td>
+    <td nowrap="nowrap"><p>32</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>31</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>物联网引论</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>刘 睿 尚利宏 欧阳元新 王静远</p></td>
+    <td nowrap="nowrap"><p>32</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>32</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>计算机网络实验</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>吴秀娟</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+    <td nowrap="nowrap"><p>32</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>33</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>人工智能</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>丁 嵘 巢文涵</p></td>
+    <td nowrap="nowrap"><p>32</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>34</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>软件项目管理</p></td>
+    <td nowrap="nowrap"><p>1.5</p></td>
+    <td nowrap="nowrap"><p>兰雨晴</p></td>
+    <td nowrap="nowrap"><p>24</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>35</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>网络攻防技术</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>夏春和</p></td>
+    <td nowrap="nowrap"><p>24</p></td>
+    <td nowrap="nowrap"><p>8</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>36</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>电子商务</p></td>
+    <td nowrap="nowrap"><p>1</p></td>
+    <td nowrap="nowrap"><p>胡春明</p></td>
+    <td nowrap="nowrap"><p>16</p></td>
+    <td nowrap="nowrap"><p>16</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>37</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>FPGA多核并行计算</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>张 炯 李 莹</p></td>
+    <td nowrap="nowrap"><p>8</p></td>
+    <td nowrap="nowrap"><p>24</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>38</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>并行计算程序设计</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>李云春</p></td>
+    <td nowrap="nowrap"><p>24</p></td>
+    <td nowrap="nowrap"><p>8</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>39</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>大数据分析</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>冷 彪</p></td>
+    <td nowrap="nowrap"><p>32</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>40</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>视觉建模与计算</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>陆 峰</p></td>
+    <td nowrap="nowrap"><p>32</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>41</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>机器学习工程基础</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>李 甲</p></td>
+    <td nowrap="nowrap"><p>32</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>42</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>物联网与大数据系统设计</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>熊桂喜</p></td>
+    <td nowrap="nowrap"><p>32</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>43</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>金融数据挖掘</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>部 慧 王静远</p></td>
+    <td nowrap="nowrap"><p>32</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>44</p></td>
+    <td nowrap="nowrap"><p>春季</p></td>
+    <td nowrap="nowrap"><p>Office Hours</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+    <td nowrap="nowrap"><p>罗洪斌</p></td>
+    <td nowrap="nowrap"><p>2</p></td>
+    <td nowrap="nowrap"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>45</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>程序设计基础训练</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>路新喜</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>46</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>程序设计基础训练</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>方 宁</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>47</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>程序设计基础训练</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>王君臣</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>48</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>程序设计基础训练</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>李 莹</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>49</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>程序设计基础训练</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>刘 禹</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>50</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>程序设计基础训练</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>孙 青</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>51</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>程序设计基础训练</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>宋 友</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>52</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>程序设计基础训练</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>荣 欣</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>53</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>程序设计基础训练</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>谭火彬</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>54</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>程序设计基础训练</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>李辉勇</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>55</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>程序设计基础训练</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>原仓周</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>56</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>计算机导论与伦理学</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>1.5</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>熊 璋 欧阳元新 李 超 蒲菊华</p><p>冷 彪 盛 浩 荣文戈 王静远</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>24</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>57</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>计算机导论与伦理学</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>1.5</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>熊 璋 欧阳元新 李 超 蒲菊华</p><p>冷 彪 盛 浩 荣文戈 王静远</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>24</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>58</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>计算机网络安全技术</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>1.5</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>夏春和</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>8</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>59</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>现代电子系统设计方法与工具</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>1</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>姜宏旭</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>60</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>UNIX程序设计环境</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>1</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>张茂林</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>61</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>CUDA编程与应用</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>1</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>李吉刚</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>62</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>计算简史——逻辑推动与技术演进</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>1</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>栾钟治</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>63</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>数字媒体基础及应用导论</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>1</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>姜宏旭</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>64</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>离散结构</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>吕江花</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>65</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>离散数学（2）</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>3</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>李建欣 邓 婷</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>48</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>66</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>离散数学（2）</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>3</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>李舟军</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>48</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>67</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>离散数学（2）</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>3</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>吕卫锋 杜博文</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>48</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>68</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>计算机组成</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>4</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>刘旭东</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>64</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>69</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>计算机组成</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>4</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>栾钟治</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>64</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>70</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>计算机组成</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>4</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>高小鹏 杨建磊</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>64</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>71</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>计算机组成</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>4</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>高小鹏</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>64</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>72</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>计算机组成</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>4</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>肖利民</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>64</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>73</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>计算机组成</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>4</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>牛建伟</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>64</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>74</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>计算机组成课程设计</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>3</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>杨建磊</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>48</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>75</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>计算机组成课程设计</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>3</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>高小鹏</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>48</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>76</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>计算机组成课程设计</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>3</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>李辉勇</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>48</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>77</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>计算机组成课程设计</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>3</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>张 亮</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>48</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>78</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>计算机组成课程设计</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>3</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>傅翠娇</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>48</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>79</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>计算机组成课程设计</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>3</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>万 寒</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>48</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>80</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>职业规划与选择讲座</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0.5</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>刘 睿</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>8</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>81</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>编译技术</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>3</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>杨海燕 蒋 竞</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>48</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>82</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>编译技术</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>3</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>胡春明</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>48</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>83</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>编译技术</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>3</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>张 莉</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>48</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>84</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>编译技术</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>3</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>史晓华</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>48</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>85</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>数学建模</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>刘正华 宋 晓</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>86</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>编译器课程设计</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>1.5</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>杨海燕 史晓华</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>87</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>编译器课程设计</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>1.5</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>张 莉 杨海燕</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>88</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>编译器课程设计</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>1.5</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>杨海燕 胡春明</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>89</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>编译器课程设计</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>1.5</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>杨海燕 蒋 竞</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>90</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>求职辅导系列讲座</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0.5</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>刘 睿</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>8</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>91</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>智能计算概论</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>王蕴红 丁 嵘 王静远 黄 迪 张小明 刘庆杰</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>92</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>Java程序设计</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>1.5</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>李 波</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>93</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>数据库系统原理</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>3</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>郎 波</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>48</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>94</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>数据库系统原理</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>3</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>刘 瑞</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>48</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>95</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>信号与系统</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>张永飞</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>96</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>数据库原理课程设计</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>1</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>郎 波</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>36</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>97</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>数据库原理课程设计</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>1</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>刘 瑞</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>36</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>98</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>高级语言程序设计（2）</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>尹宝林</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>24</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>24</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>99</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>计算机工程中最优化的方法</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>冷 彪</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>28</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>4</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>100</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>RUBY语言程序设计</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>1</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>沃天宇</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>101</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>具体数学</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>1.5</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>赵启阳</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>24</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>102</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>移动计算导论</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>1.5</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>牛建伟 阮 利 盛 浩</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>24</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>8</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>103</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>Android平台开发技术</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>张 炯</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>104</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>数据挖据导论</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>王静远</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>105</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>机器学习导论</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>张永飞 王静远 黄 迪</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>106</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>MATLAB基础及其应用</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>张永飞</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>24</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>8</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>107</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>无线网络系统</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>白跃彬</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>24</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>8</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>108</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>智能计算体系结构</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>杨建磊</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>109</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>大数据科学导论</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>1.5</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>吴文峻</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>24</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>110</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>虚拟现实技术</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>沈旭昆 梁晓辉</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>111</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>形式语言与自动机</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>胡春明 赵永望 邓 婷</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>0</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>112</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>RFID与无线传感器网络</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>刘 睿 欧阳元新</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>16</p></td>
+   </tr>
+   <tr>
+    <td nowrap="nowrap"><p>113</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>秋季</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>专业基础与技能拓展</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>2</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>高小鹏</p></td>
+    <td nowrap="nowrap" valign="bottom"><p>32</p></td>
+    <td nowrap="nowrap" valign="bottom"><p class="vsbcontent_end">0</p></td>
+   </tr>
+  </tbody>
+ </table>
+</div>
+</div></div><div id="div_vote_id"></div>
+    
+
+</form>
+
+
+           
+            </div>
+        </div>
+	</div>
+    <!--主体完成-->
+    <!--版权开始-->
+    <div class="clearboth"></div>
+    <div class="footer">
+   <!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<P>通讯地址：北京市海淀区学院路37号&nbsp;&nbsp;&nbsp;&nbsp; 邮政编码：100191&nbsp;&nbsp;&nbsp;&nbsp; 电子邮箱：scse@buaa.edu.cn </P>
+<P>版权所有：北京航空航天大学计算机学院 </P>
+    </div>
+    <!--版权完成-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+ </body>
+</html>

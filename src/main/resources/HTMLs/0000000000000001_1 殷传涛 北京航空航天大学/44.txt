@@ -1,0 +1,391 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=1200">
+
+<meta name="Description" content="">
+		<title>北航中法工程师学院</title><META Name="keywords" Content="学科网站" />
+
+		<link rel="stylesheet" href="css/common.css" />
+		<link rel="stylesheet" href="css/two-stage.css" />
+		<link rel="stylesheet" href="css/style.css" />
+	<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e78475c52555742000000034754 -->
+<link rel="stylesheet" type="text/css" href="searchlist.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(2005,'/searchlist.jsp',-1,1302343303)</script>
+</head>
+	<body >
+    <div class="gcsxy_top">
+        <div class="gcsxy_top_cont clearfix">
+            <a href="index.htm" class="gcsxy_logo fl">
+                <img src="images/logo.jpg" />
+            </a>
+            <div class="gcsxy_yuyan fr">
+                <div class="yuyan_cont clearfix">
+                    
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<script language=javascript src=/system/resource/js/ajax.js></script><script language=javascript>_getBatchClickTimes('null',1302343303,'wbnews','u0')</script>
+<script>function seeContenta0(contentid,size,displayid){	document.getElementById(contentid).innerHTML = '[';	for(var i=0;i<=size;i++){		var allcontentid = contentid+(i+1);		if(allcontentid==displayid){			document.getElementById(contentid).innerHTML += " <span id='"+allcontentid+"' name='"+allcontentid+"'  >"+(i+1)+"</span> ";			document.getElementById(displayid).style.display = 'block';		}else{			document.getElementById(contentid).innerHTML += " <span style='cursor:pointer' id='"+allcontentid+"' name='"+allcontentid+"' onclick=seeContenta0('"+contentid+"','"+size+"','"+allcontentid+"')  >"+(i+1)+"</span> ";			document.getElementById(allcontentid).style.display = 'none';		}	}	document.getElementById(contentid).innerHTML += ']';}</script>
+<script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<script>_addDynClicks('wbnews',1302343303,4170)</script>
+<a href="javascript:;" class="fl weixin" style="display:none;">
+	<span class="weixi-m"></span>
+</a>
+<a href="http://ecpknfr.buaa.edu.cn/" class="fr">Fran&ccedil;ais</a>
+<a href="http://ecpknen.buaa.edu.cn/" class="fr">English</a>
+<a href="http://ecpkn.buaa.edu.cn/" class="yuyan_active fr">中文</a>
+                </div>
+                <div class="bhzf_so">
+                    <script type="text/javascript">
+    function _nl_ys_check() {
+
+        var keyword = document.getElementById('showkeycode149848').value;
+        if (keyword == null || keyword == "") {
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if (window.toFF == 1) {
+            document.getElementById("lucenenewssearchkey149848").value = Simplized(keyword);
+        } else {
+            document.getElementById("lucenenewssearchkey149848").value = keyword;
+        }
+        var base64 = new Base64();
+        document.getElementById("lucenenewssearchkey149848").value = base64.encode(document.getElementById("lucenenewssearchkey149848").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode149848"));
+        return true;
+    } 
+</script>
+<form action="searchlist.jsp?wbtreeid=2005" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkey149848"  name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype149848"  name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope149848"  name="searchScope" value="1">
+<input name='showkeycode' placeholder="请输入检索内容" class="txt" id="showkeycode149848" type="text" >
+<input type="submit" class="sub" value="">
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="gcsxy_nav">
+        <div class="gcsxy_nav_cont">
+            <ul class="bhzf_navC">
+                	<li  class="fl" ><a href='index.htm'>首页</a></li>
+	    <li  class="fl" >
+		<a href="xygk/xyjj.htm">学院概况</a>
+		<div class="nav_drop_down">
+		    <a href="xygk/xyjj.htm">学院简介</a>
+		    <a href="xygk/xcsp.htm">宣传视频</a>
+		    <a href="xygk/ccfz.htm">传承发展</a>
+		    <a href="xygk/yzjy.htm">院长寄语</a>
+		    <a href="xygk/zzjg.htm">组织机构</a>
+		    <a href="xygk/zylgjt.htm">中央理工集团</a>
+		    <a href="xygk/hzhb.htm">合作伙伴</a>
+		    <a href="xygk/yxxy.htm">优秀校友</a>
+		    <a href="xygk/lxwm.htm">联系我们</a>
+		</div>
+	    </li>
+	    <li  class="fl" >
+		<a href="rcpy1/pymb.htm">人才培养</a>
+		<div class="nav_drop_down">
+		    <a href="rcpy1/pymb.htm">培养目标</a>
+		    <a href="rcpy1/pyms.htm">培养模式</a>
+		    <a href="rcpy1/pyts.htm">培养特色</a>
+		    <a href="rcpy1/xlxw.htm">学历学位</a>
+		    <a href="rcpy1/zsjy.htm">招生就业</a>
+		    <a href="rcpy1/fyjx.htm">法语教学</a>
+		    <a href="rcpy1/xqhz.htm">校企合作</a>
+		</div>
+	    </li>
+	    <li  class="fl" >
+		<a href="kxyj1/kygk.htm">科学研究</a>
+		<div class="nav_drop_down">
+		    <a href="kxyj1/kygk.htm">科研概况</a>
+		    <a href="kxyj1/jxkysys.htm">教学科研实验室</a>
+		    <a href="kxyj1/zflhsys.htm">中法联合实验室</a>
+		    <a href="kxyj1/zffxkxygcsys.htm">中法风险科学与工程实验室</a>
+		</div>
+	    </li>
+	    <li  class="fl" >
+		<a href="gjhz/xsgjjl.htm">国际合作</a>
+		<div class="nav_drop_down">
+		    <a href="gjhz/xsgjjl.htm">学生国际交流</a>
+		    <a href="gjhz/jsgjjl.htm">教师国际交流</a>
+		    <a href="gjhz/xmxxfx.htm">项目信息分享</a>
+		    <a href="gjhz/qt.htm">其他</a>
+		</div>
+	    </li>
+	    <li  class="fl current" >
+		<a href="szdw/szgc.htm">师资队伍</a>
+		<div class="nav_drop_down">
+		    <a href="szdw/szgc.htm">师资构成</a>
+		    <a href="szdw/fyjx.htm">法语教学</a>
+		    <a href="szdw/zyjx.htm">专业教学</a>
+		    <a href="szdw/syjx.htm">实验教学</a>
+		    <a href="szdw/wysd.htm">外院硕导</a>
+		    <a href="szdw/zpxx.htm">招聘信息</a>
+		</div>
+	    </li>
+	    <li  class="fl" >
+		<a href="zffc/xysh.htm">中法风采</a>
+		<div class="nav_drop_down">
+		    <a href="zffc/xysh.htm">校园生活</a>
+		    <a href="zffc/stzz.htm">社团组织</a>
+		    <a href="zffc/lxs.htm">留学生</a>
+		    <a href="zffc/zfrfc.htm">中法人风采</a>
+		    <a href="zffc/mtsdzf.htm">媒体上的中法</a>
+		</div>
+	    </li>
+	    <li  class="fl" >
+		<a href="jcdj/djhd.htm">基层党建</a>
+		<div class="nav_drop_down">
+		    <a href="jcdj/djhd.htm">党建活动</a>
+		    <a href="jcdj/dygf.htm">党员规范</a>
+		    <a href="jcdj/gztz.htm">工作通知</a>
+		    <a href="jcdj/xxnr.htm">学习内容</a>
+		</div>
+	    </li>
+
+            </ul>
+        </div>
+    </div>
+		<div class="banner-s b4"></div>
+		<div class="bhzf-content clearfix">
+			<div class="content-nav">    
+				<p class="nav-title">    
+    
+    
+    
+    
+	师资队伍
+    
+    
+    
+</p>
+				<ul class="nav_list">
+					                <li class="current" >
+                	<a href="szdw/szgc.htm"><p class="nav_list_t">师资构成</p></a>
+			
+                </li>
+                <li >
+                	<a href="szdw/fyjx.htm"><p class="nav_list_t">法语教学</p></a>
+			
+                </li>
+                <li >
+                	<a href="szdw/zyjx.htm"><p class="nav_list_t">专业教学</p></a>
+			
+                </li>
+                <li >
+                	<a href="szdw/syjx.htm"><p class="nav_list_t">实验教学</p></a>
+			
+                </li>
+                <li >
+                	<a href="szdw/wysd.htm"><p class="nav_list_t">外院硕导</p></a>
+			
+                </li>
+                <li >
+                	<a href="szdw/zpxx.htm"><p class="nav_list_t">招聘信息</p></a>
+			
+                </li>
+
+				</ul>
+			</div>
+			<div class="content-r fr">
+				<div class="content-title clearfix">
+					<span class="fl title-txt">
+
+
+
+师资构成</span>
+					<div class="con fr"><span>当前位置：</span>
+                        <a href="index.htm">首页</a>
+                >
+                <a href="szdw.htm">师资队伍</a>
+                >
+                <a href="szdw/szgc.htm">师资构成</a>
+</div>
+				</div>
+                
+				
+
+<script language="javascript" src="_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">
+     function checksearchu7()
+     { 
+            var keyword = document.getElementById("newskeycode149849").value 
+            if(keyword==null||keyword=="")
+            { 
+            alert("请输入你要检索的内容！"); 
+            return false; 
+            } 
+            if(window.toFF==1) 
+            { 
+            document.getElementById("newskeycode2149849").value = Simplized(keyword ); 
+            }
+            else 
+            { 
+            document.getElementById("newskeycode2149849").value = keyword; 
+            } 
+            document.getElementById('_lucenesearchtype149849').value=2; 
+            var base64 = new Base64(); 
+            document.getElementById("newskeycode2149849").value=base64.encode(document.getElementById("newskeycode2149849").value); 
+            document.getElementById("newskeycode149849").disabled=true; return true; } </script> 
+<div class="searchlistbox auto">
+<form action="/searchlist.jsp?wbtreeid=2005&searchScope=0&currentnum=" method="post" name="au7a" onsubmit="return checksearchu7()">
+<input type="hidden" id="newskeycode2149849" name="newskeycode2" value=""><input type="hidden" id="_lucenesearchtype149849"  name="_lucenesearchtype" value=""><input type='hidden' name='wbtreeid' value="2005">
+
+
+</form>
+</div>
+<div class="searchlistmain auto">
+    <div class="searchlistmaintit auto">
+        共有<span>947</span>项查询结果
+    </div>
+    <div class="searchlistmainbox auto">
+        <input type='hidden' name='newskeycode' value=""> 
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1977/7465.htm" target="_blank">中法工程师学院参加北京经济技术开...</a></h2>
+                <span class="date">[2021年02月06日]</span>
+                <p>2021年2月3日上午，北京经济技术开发区举办 “两区”建设项目集中签约活动。中法工程师学院洪冠新院长参加了此次活动，并与施耐德电气（中国）有限公司签署了战略合作框架协议。本次签约，得到了北京经济技术开发区管委会副主任、北京航空航天大学副校长张广的协调推动和大力支持，将进一步深化高校、政府、企业间的产学研协作与交流，促进国际化人才培养和国际化产业创新的对接与融合。 本次集中签约活动由北京<a href="info/1977/7465.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1977/7465.htm" class="searchlink" target="_blank">info/1977/7465.htm/2021年02月06日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1977/7466.htm" target="_blank">我院法方院长Frédéric GENTY 先生参...</a></h2>
+                <span class="date">[2021年02月14日]</span>
+                <p>  新华社北京2月2日电 在农历新春佳节到来之际，国务院总理李克强2月2日下午在人民大会堂亲切会见在华工作的外国专家代表并同他们座谈交流。 李克强首先向在华外国专家和所有支持中国现代化建设事业的国际友人致以节日问候和良好祝愿。他表示，中国改革开放以来，一批批外国专家来华工作，为中国现代化建设贡献智慧和力量，中国人民感怀于心。邀请外国专家对中国政府工作提出意见和建议，有利于促进科学民主决策，也是<a href="info/1977/7466.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1977/7466.htm" class="searchlink" target="_blank">info/1977/7466.htm/2021年02月14日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1977/7467.htm" target="_blank">2020级中法工程师学院(杭州)国际双...</a></h2>
+                <span class="date">[2021年02月20日]</span>
+                <p>中法工程师学院于2021年2月17日和2月19日进行了2020级杭州国际双学位硕士研究生的CSC（国家留学基金委）创新型人才国际合作培养项目奖学金面试，涉及机械专业和电子信息专业两个专业的20名同学，本次面试采取线上的方式进行。 2月17日下午进行了机械专业10名同学的面试。按照培养方案，机械专业的同学将在巴黎中央理工-高电大学(Centrale Supélec)系统工程专业出国学习一年，完成<a href="info/1977/7467.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1977/7467.htm" class="searchlink" target="_blank">info/1977/7467.htm/2021年02月20日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1977/7471.htm" target="_blank">中法工程师学院召开“十四五“规划...</a></h2>
+                <span class="date">[2021年02月25日]</span>
+                <p>为了进一步做好学院“十四五”规划工作，提前布局“十四五”期间学院的发展，2021年2月24日，中法工程师学院组织召开学院“十四五”规划征求意见座谈会，会议由院长洪冠新主持，副院长张巍、殷传涛、以及来自语言组、预科组、专业组、实验组、管理组的教师代表参加了此次座谈会。 洪冠新院长首先介绍了学院在“十三五”期间所取得的成绩和“双一流”建设获得的经验，并总结目前制约学院发展的不足之处，向与会人员介绍<a href="info/1977/7471.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1977/7471.htm" class="searchlink" target="_blank">info/1977/7471.htm/2021年02月25日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1977/7481.htm" target="_blank">中法工程师学院召开“学习日”活动</a></h2>
+                <span class="date">[2021年03月04日]</span>
+                <p>2021年3月3日下午，中法工程师学院召开了“学习日”活动，会议由学院教师党支部书记牛薇主持，院长洪冠新做了主题报告，党委书记张江、副院长张巍和殷传涛传达了相关工作精神。 洪冠新院长首先带领全体教师学习了学校“十四五”规划、学校人才培养大会精神，以及学校2021年度工作会精神。她结合中法工程师学院情况，分析了学院的现状和所处的发展阶段，详细介绍了学院的“十四五”规划和学院年度重点工作，指出学院<a href="info/1977/7481.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1977/7481.htm" class="searchlink" target="_blank">info/1977/7481.htm/2021年03月04日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1977/7472.htm" target="_blank">中法工程师学院认真做好疫情防控工...</a></h2>
+                <span class="date">[2021年03月01日]</span>
+                <p>2021年春季学期开学在即，为切实保障全体师生的身心健康，营造安全有序的教学环境，中法工程师学院认真贯彻落实学校精神与学院党委部署，保障开学各项工作顺利进行。 学院对二号教学楼所有教室进行通风与全面消杀，各类防疫物资配备齐全并摆放到位，并对教室内电脑、投影仪、灯光照明等硬件设备进行检测维护，确保疫情防控与教学工作安全有序进行。 2月25日，按照学校关于做好2021年春季学期实验室防控工作的有关<a href="info/1977/7472.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1977/7472.htm" class="searchlink" target="_blank">info/1977/7472.htm/2021年03月01日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/2144/7492.htm" target="_blank">中法研究生2020级党支部顺利开展“...</a></h2>
+                <span class="date">[2021年03月17日]</span>
+                <p>在中国共产党建党一百周年之际，中法研究生2020级党支部以“建党一百周年”为核心，以“1921-2021: 多角度看中国发展”为主题，设计了多种线上线下的学习方式，供支部党员跟学、自学。也借此契机希望促进党支部全体成员对党史，以及中国共产党领导下，人民创造的新中国史、改革开放史、社会主义发展史有更深入的了解。 在本次专题活动中，中法研究生2020级党支部组织了集中购书、阅读书籍活动，召开了多次<a href="info/2144/7492.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/2144/7492.htm" class="searchlink" target="_blank">info/2144/7492.htm/2021年03月17日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1977/7491.htm" target="_blank">CGTN法语频道：北航中法工程师学院...</a></h2>
+                <span class="date">[2021年03月17日]</span>
+                <p>北京航空航天大学新闻网2021年3月17日报道（https://news.buaa.edu.cn/info/1006/53472.htm）： CGTN法语频道2021年3月15日采访我校中法工程师学院法方院长Frédéric Genty： 在“十四五规划”中，国务院总理李克强提出了对人才创新的激励和对技术创新机制的完善，北航中法工程师学院法方院长Frédéric Genty认为，这对他们的学院<a href="info/1977/7491.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1977/7491.htm" class="searchlink" target="_blank">info/1977/7491.htm/2021年03月17日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1977/7501.htm" target="_blank">中法工程师学院召开“学习日”活动</a></h2>
+                <span class="date">[2021年03月19日]</span>
+                <p>3月17日周三下午两点在309教室，中法工程师学院召开了“学习日”活动，全体教师按照线下活动组织要求参加了线下会议，会议由学院党支部书记牛薇主持，殷传涛副院长作了关于“2021年学院人才培养主要任务”的大会报告，洪冠新院长进行了总结。 本次学习日上，殷传涛副院长围绕学院人才培养目标，全面布置了十点人才培养主要任务如下： 1. 全力保障疫情期间教学任务的顺利实施 2. 配合学校完成人才培养实施方案<a href="info/1977/7501.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1977/7501.htm" class="searchlink" target="_blank">info/1977/7501.htm/2021年03月19日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1977/7502.htm" target="_blank">中法工程师学院教师党支部召开组织...</a></h2>
+                <span class="date">[2021年03月19日]</span>
+                <p>按照中共北京市委教育工作委员会《关于北京高校召开2021年度基层党组织组织生活会和开展民主评议党员的通知》要求，以及学校党委的工作安排，3月17日下午中法工程师学院教师党支部在二号教学楼413会议室开展党支部组织生活会，并开展民主评议党员工作，会议由学院党支部书记牛薇主持。 首先，牛薇书记代表党支部委员会向各位党员同志报告2020年党支部工作，包括支部情况简介、党员发展转正情况、以及支部工作开展<a href="info/1977/7502.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1977/7502.htm" class="searchlink" target="_blank">info/1977/7502.htm/2021年03月19日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1970/4427.htm" target="_blank">两学一做——低年级党支部第三次党课 </a></h2>
+                <span class="date">[2016年06月03日]</span>
+                <p>2016年6月2号晚8点，中法工程师学院低年级党支部第三次党课会议在二号教学楼317举行，支部全体党员出席的本次党会。 在本次会议中，支部四名预备党员刘启宁、赵帅喆、邓文祺、王思媛作为主讲人对自己感兴趣的党课内容进行了分享，内容涉及习近平总书记的重要讲话、依法治国的进一步理解、中国的经济形势分析以及腐败等方面的内容，十分丰富全面。     在几位主讲人发言完毕后，支部党员进行了热烈的讨论，对今天<a href="info/1970/4427.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1970/4427.htm" class="searchlink" target="_blank">info/1970/4427.htm/2016年06月03日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/2036/4521.htm" target="_blank">中法工程师学院“两学一做”活动总结</a></h2>
+                <span class="date">[2016年05月26日]</span>
+                <p>本周“两学一做”活动主要开展两项工作，一是“两学一做”学习教育工作部署会，二是“党员讲党课”交流会 一、中法工程师学院党委召开“两学一做”学习教育工作部署会 为贯彻落实习近平总书记关于“两学一做”学习教育的重要指示和北航党委“两学一做”总体工作部署要求，5月20日下午，中法工程师学院党委在2号教学楼305召开“两学一做”学习教育工作部署会，全体教工和学生党员100余人参加会议。  中法工程师学<a href="info/2036/4521.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/2036/4521.htm" class="searchlink" target="_blank">info/2036/4521.htm/2016年05月26日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/2036/4528.htm" target="_blank">中法工程师学院党委召开“两学一做...</a></h2>
+                <span class="date">[2016年05月20日]</span>
+                <p>为贯彻落实习近平总书记关于“两学一做”学习教育的重要指示和北航党委“两学一做”总体工作部署要求，5月20日下午，中法工程师学院党委在2号教学楼305召开“两学一做”学习教育工作部署会，全体教工和学生党员100余人参加会议。 中法工程师学院党委副书记田原首先传达了北航“两学一做”学习教育的工作精神，结合《关于在全体党员中开展“两学一做”学习教育的实施方案》通知要求，从总体部署、具体要求和主要措施<a href="info/2036/4528.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/2036/4528.htm" class="searchlink" target="_blank">info/2036/4528.htm/2016年05月20日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1977/5369.htm" target="_blank">中法工程师学院为进一步学习和贯彻...</a></h2>
+                <span class="date">[2017年12月06日]</span>
+                <p>12月4日，中法工程师学院召开全体教职工党员和学生党员代表大会，进一步学习、贯彻和宣传十九大精神。学院党委书记兼院长洪冠新同志向与会党员传达了北航校党委有关学习十九大精神的总体工作方案，介绍了十九大以来校党委和校领导组织全校党群干部、高端人才学习十九大精神的各项活动，并结合学校的总体部署，制定了中法工程师学院学习、贯彻、落实和宣传十九大精神的工作部署。 洪冠新同志提出，学院应在习近平新时代<a href="info/1977/5369.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1977/5369.htm" class="searchlink" target="_blank">info/1977/5369.htm/2017年12月06日</a>
+        </div>
+        <div class="searchlistmain1 auto">
+            	<h2><a href="info/1977/7511.htm" target="_blank">中法工程师学院第二十六次管委会顺...</a></h2>
+                <span class="date">[2021年03月23日]</span>
+                <p>  3月19日下午，中法工程师学院第二十六次管委会通过线上形式召开。学院管委会主席、我校校长徐惠彬院士，管委会副主席、法国巴黎中央理工大学集团主席、巴黎中央理工-高电大学校长索贝朗教授，管委会成员、中央理工大学集团全球校区副主席科塞院士，我校黄海军副校长，中国商用飞机集团代表，法国赛峰集团代表，我校国际交流合作处、中法工程师学院等相关单位负责人出席会议。会议由徐惠彬主持。   中法工程师学<a href="info/1977/7511.htm" target="_blank">[查看详情]</a></p>
+                <a href="info/1977/7511.htm" class="searchlink" target="_blank">info/1977/7511.htm/2021年03月23日</a>
+        </div>
+    </div>
+    <div class="page auto">
+         <a href="/searchlist.jsp?wbtreeid=2005&searchScope=0&currentnum=1&newskeycode2="> << </a>
+         <a href="/searchlist.jsp?wbtreeid=2005&searchScope=0&currentnum=56&newskeycode2="> < </a>
+         <a href="/searchlist.jsp?wbtreeid=2005&searchScope=0&currentnum=58&newskeycode2="> > </a>
+         <a href="/searchlist.jsp?wbtreeid=2005&searchScope=0&currentnum=64&newskeycode2="> >> </a>
+         <span>57</span>/64
+    </div>
+</div>
+
+			</div>
+		</div>
+		<div class="bhzf-footer">
+			<div class="bhzf-footerC">
+				
+
+
+
+
+<script language=javascript src=/system/resource/js/ajax.js></script><script language=javascript>_getBatchClickTimes('null',1302343303,'wbnews','u8')</script>
+<script>function seeContenta8(contentid,size,displayid){	document.getElementById(contentid).innerHTML = '[';	for(var i=0;i<=size;i++){		var allcontentid = contentid+(i+1);		if(allcontentid==displayid){			document.getElementById(contentid).innerHTML += " <span id='"+allcontentid+"' name='"+allcontentid+"'  >"+(i+1)+"</span> ";			document.getElementById(displayid).style.display = 'block';		}else{			document.getElementById(contentid).innerHTML += " <span style='cursor:pointer' id='"+allcontentid+"' name='"+allcontentid+"' onclick=seeContenta8('"+contentid+"','"+size+"','"+allcontentid+"')  >"+(i+1)+"</span> ";			document.getElementById(allcontentid).style.display = 'none';		}	}	document.getElementById(contentid).innerHTML += ']';}</script>
+
+<script>_addDynClicks('wbnews',1302343303,4170)</script>
+<div class="bhzf-xinxi">
+<p class="bhzf-xinxi-t1">地址：海淀区学院路37号 北京航空航天大学2号楼中法工程师学院</p>
+<p class="bhzf-xinxi-t2">邮编：100191</p>
+<p class="bhzf-xinxi-t3">电话/传真：010-8233 9307 / 010-8233 8123</p>
+
+</div>
+<div class="bhzf-banquan">
+<p>
+	<select name="jumpMenu" id="jumpMenu" onchange="javascript:location.href=this.value;"> 
+	<option value="javascript;:">站点资源</option> 
+	<option value="#">教学系统网站链接</option> 
+	<option value="http://10.200.21.61:7001/ieas2.1/welcome">教务管理系统入口</option> 
+	<option value="http://bjzy.buaa.edu.cn">北京卓越联盟</option> 
+	<!--<option value="/system/go.jsp?treeid=1998&apptype=treetemp&urltype=tree.TreeTempUrl">法研中心</option>-->
+	<option value="http://cref.buaa.edu.cn">法研中心</option> 
+	<option value="/system/go.jsp?treeid=1999&apptype=treetemp&urltype=tree.TreeTempUrl">多媒体平台</option> 
+	</select>
+	
+	<a href="http://ecpkn.buaa.edu.cn/contact.jsp?urltype=tree.TreeTempUrl&wbtreeid=1945">联系我们</a>
+	<a href="http://ecpkn.buaa.edu.cn/campus-life2.jsp?urltype=tree.TreeTempUrl&wbtreeid=1985">其他链接</a>
+</p>
+<p class="banquan">版权所有 2013 北京航空航天大学    京ICP备05004617-3</p>
+</div>
+			</div>
+		</div>
+		<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="js/style.js"></script>
+	</body>
+</html>

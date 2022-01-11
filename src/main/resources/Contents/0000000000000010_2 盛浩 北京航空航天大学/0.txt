@@ -1,0 +1,424 @@
+﻿
+
+
+
+ 盛浩-北京航空航天大学计算机学院
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 旧版网站
+|
+
+
+
+
+ 网站收藏
+
+
+|
+
+ English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 首页
+
+
+
+ 学院简介
+
+ 学院介绍
+ 组织机构
+ 历史沿革
+ 历任领导
+ 委员会
+
+
+
+
+ 本科生培养
+
+ 本科生培养
+ 免试推荐研究生管理办法
+ 开课目录
+ 课程大纲
+ 教学系统
+ 教学交流
+ 国际教学研究会议与期刊目录
+ 推荐免试管理办法
+
+
+
+
+ 研究生培养
+
+ 课程目录
+
+
+
+
+ 师资队伍
+
+ 全体教师
+ 专家队伍
+
+
+
+
+ 科学研究
+
+ 学术活动
+ 通知公告
+ 研究方向
+ 产业联盟
+ 政策法规
+
+
+
+
+ 新闻公告
+
+ 学院动态
+ 学术报告
+ 公告公示
+ 图片新闻
+
+
+
+
+ 招生就业
+
+ 本科生招生
+ 研究生招生
+ 就业信息
+
+
+
+
+ 国际交流
+
+ 新闻公告
+ 学术活动
+ 国际化工作
+
+
+
+
+ 党风廉政
+
+ 党群动态
+ 工会
+ 学习资料
+
+
+
+
+ 采购管理
+
+ 采购管理办法
+ 采购公告
+ 比价/竞价公示
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+师资队伍
+
+
+
+
+ 全体教师
+
+ 教授
+ 副教授
+ 讲师
+ 实验师
+
+
+
+ 专家队伍
+
+ 院士
+ 国际著名学者
+ 长江学者
+ 国家杰青基金获得者
+ 教育部跨世纪人才
+ 教育部新世纪人才
+ 国家优青基金获得者
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+教授
+ 当前位置：
+ 首页
+ >
+ 师资队伍
+ >
+ 全体教师
+ >
+ 教授
+ >
+ 正文
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 姓名： 盛浩
+
+
+
+ 职位：
+
+
+
+
+ 座机：
+
+
+
+ 邮编：
+ 100191
+
+
+
+
+ 办公地址：
+ 北京航空航天大学新主楼
+
+
+ 电子邮箱：
+
+
+ 个人主页：
+ 主页更新中
+
+
+
+
+ 个人介绍
+
+
+ 收起
+
+
+
+
+ 盛浩 ， 博士，教授，博导，男， 1981 年生，浙江台州人
+ ü 国家重点研发计划 “ 物联网与智慧城市关键技术及示范 ” 专项 总体组专家、责任专家
+ ü 国家自然科学基金重点项目负责人
+ ü 国家重点研发计划课题负责人
+ ü 澳门理工学院兼职博士生导师
+ ü 中国人工智能学会人机融合智能专委会秘书长
+ ü 中国人工智能学会自然计算与数字智能城市专委会副主任
+ ü 中国计算机学会公共政策委员会执行委员
+ 一、 代表性科研项目
+ 1. 国家自然科学基金 重点项目 （国际合作）， 61861166002 ，类人视觉的开放学习理论与方法， 2019.01-2021.12 ， 主持
+ 2. 国家自然科学基金面上项目， 61872025 ，复杂场景中 4D 光场图像的类人视觉认知理论与方法， 2019.01-2022.12 ， 主持
+ 3. 国家自然科学基金面上项目， 61472019 ，面向城域视频的多目标人车混合行为理解关键技术研究， 2015.01-2018.12 ， 主持
+ 4. 国家自然科学基金青年项目， 61103094 ，基于光谱指纹特征的弱小目标精确跟踪技术研究， 2012.01-2014.12 ， 主持
+ 5. 国家重点研发计划课题 ， 2017YFB1002003 ，面向智慧城市的智能化集成化软件互操作平台， 2017.07-2020.06 ， 主持
+ 二、 代表性论文
+ 1. Hao Sheng , Shuai Wang, Yang Zhang, Dongxiao Yu, Xiuzhen Cheng, Weifeng Lyu, Zhang Xiong. Near-online Tracking with Co-occurrence Constraints in Blockchain-based Edge Computing[J]. IEEE Internet of Things Journal, 2020. (DOI: 10.1109/JIOT. 2020.3035415) ( JCR Q1, 中科院 1 区 , TOP 期刊 , IF=9.936 )
+ 2. Hao Sheng , Kai Lv, Yang Liu, Weifeng Lyu, Zhang Xiong, Wei Li. Combining Pose Invariant and Discriminative Features for Vehicle Re-identification[J]. IEEE Internet of Things Journal, 2020. (DOI:10.1109/JIOT.2020.3015239) ( JCR Q1, 中科院 1 区 , TOP 期刊 , IF=9.936 )
+ 3. Hao Sheng , Yanwei Zheng, Wei Ke, Dongxiao Yu, Xiuzhen Cheng, Weifeng Lv, and Zhang Xiong. Mining Hard Samples Globally and Efficiently for Person Re-identification[J]. IEEE Internet of Things Journal, 2020, Vol.7(10), PP:9611-9622. (DOI:10.1109/JIOT.2020.2980549) ( JCR Q1, 中科院 1 区 , TOP 期刊 , IF=9.936 )
+ 4. Kai Lv, Hao Sheng* , Zhang Xiong, Wei Li, Liang Zheng. Improving Driver Gaze Prediction with Reinforced Attention[J]. IEEE Transactions on Multimedia, 2020. (Accepted) ( JCR Q1, 中科院 1 区 , TOP 期刊 , IF=6.051 )
+ 5. Yang Zhang, Hao Sheng *, Yubin Wu, Shuai Wang, Wei Ke, and Zhang Xiong. Multiplex Labeling Graph for Near Online Tracking in Crowded Scenes[J]. IEEE Internet of Things Journal, 2020, Vol.7(9), PP:7892-7902. (DOI:10.1109/JIOT.2020.2996609) ( JCR Q1, 中科院 1 区 , TOP 期刊 , IF=9.936 ) (CiteScore 排名： Internet of Things 领域排名第一 )
+ 6. Hao Sheng , Yang Zhang, Yubin Wu, Shuai Wang, Weifeng Lyu, Wei Ke and Zhang Xiong. Hypothesis Testing Based Tracking with Spatio-Temporal Joint Interaction Modeling[J]. IEEE Transactions on Circuits and Systems for Video Technology , 2020, Vol.30(9), PP:2971-2983. (DOI: 10.1109/TCSVT.2020.2988649) ( JCR Q1, TOP 期刊 , IF=4.133 )
+ 7. Kai Lv, Hao Sheng* , Zhang Xiong, Wei Li, Liang Zheng. Pose-based View Synthesis for Vehicles: a Perspective Aware Method[J]. IEEE Transactions on Image Processing, 2020, Vol.29(1), PP:5163-5174. (DOI:10.1109/TIP.2020. 2980130) ( JCR Q1, 中科院 1 区 , TOP 期刊 , CCF A 类 , IF=9.34 )
+ 8. Yang Zhang, Hao Sheng *, Yubin Wu, Shuai Wang, Weifeng Lv, and Zhang Xiong. Long-term Tracking with Deep Tracklet Association[J]. IEEE Transactions on Image Processing, 2020, Vol.29, PP:6694-6706. (DOI: 10.1109/TIP.2020.2993073) ( JCR Q1, 中科院 1 区 , TOP 期刊 , CCF A 类 , IF=9.34 )
+ 9. Cen Wang, Minye Wu, Ziyu Wang, Liao Wang, Hao Sheng , Jingyi Yu. Neural Opacity Point Cloud[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020 , Vol.42(7), PP:1570-1581 . (DOI: 10.1109 /TPAMI.2020.2986777) ( JCR Q1, 中科院 1 区 , TOP 期刊 , CCF A 类 , IF=17.861 )
+ 10. Minye Wu, Haibin Ling, Ning Bi, Shenghua Gao, Qiang Hu, Hao Sheng , Jingyi Yu. Visual Tracking With Multiview Trajectory Prediction[J]. IEEE Transactions on Image Processing, 2020, Vol.29, PP:8355-8367. (DOI:10.1109/TIP.2020.3014952) ( JCR Q1, 中科院 1 区 , TOP 期刊 , CCF A 类 , IF=9.34 )
+ 11. Yifei Zou, Minghui Xu, Hao Sheng , Xiaoshuang Xing, Yicheng Xu, Yong Zhang. Crowd Density Computation and Diffusion via Internet-of-Things[J]. IEEE Internet of Things Journal, 2020, Vol.7(9), PP:8111-8121 . (DOI:10.1109/JIOT.2020.2999723) ( JCR Q1, 中科院 1 区 , TOP 期刊 , IF=9.936 )
+ 12. Minghui Xu, Shengling Wang, Qin Hu, Hao Sheng , Xiuzhen Cheng. Quantum Analysis on Task Allocation and Quality Control for Crowdsourcing with Homogeneous Workers[J]. IEEE Transactions on Network Science and Engineering, 2020. (DOI: 10.1109/TNSE.2020.2997716) ( JCR Q1, IF=5.213 )
+ 13. Hao Sheng , Yang Zhang, Jiahui Chen, Zhang Xiong. Heterogeneous Association Graph Fusion for Target Association in Multiple Object Tracking[J]. IEEE Transactions on Circuits and Systems for Video Technology , 2019, Vol.29(11), PP:3269-3280. (DOI:10.1109/TCSVT.2018.28 82192) ( JCR Q1, TOP 期刊 , IF=4.133 )
+ 14. Hao Sheng, Jiahui Chen, Yang Zhang, Jingyi Yu, Wei ke, Zhang xiong. Iterative Multiple Hypothesis Tracking with Tracklet-level Association[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2019, Vol.29(12), PP:3660-3672. (DOI: 10.1109/TCSVT.2018.2 881123) ( JCR Q1, TOP 期刊 , IF=4.133 )
+ 15. Xiang Zhang, Nengcheng, Hao Sheng* , Chris Ip, etc. Urban drought challenge to 2030 sustainable development goals[J]. Science of The Total Environment, 2019, Vol.693(25), 133536. (DOI: 10.1016/j.scitotenv.2019.07.342) ( JCR Q1, 中科院 1 区 , TOP 期刊 , IF=6.551 )
+ 16. Liang Wang, Zhiwen Yu, Dingqi Yang, Huadong Ma and Hao Sheng . Efficiently Targeted Billboard Advertising Using Crowdsensing Vehicle Trajectory Data[J]. IEEE Transactions on Industrial Informatics, 2020, Vol.16(2), PP: 1058-1066. (DOI: 10.1109/TII.2019.2891258) ( JCR Q1, 中科院 1 区 , TOP 期刊 , CCF A 类 , IF=9.112 )
+ 17. Linghe Kong, Xiao-Yang Liu, Hao Sheng* , Peng Zeng, Guihai Chen. Federated Tensor Mining for Secure Industrial Internet of Things[J]. IEEE Transactions on Industrial Informatics, 2020, Vol.16(3), Vol.16(3), PP:2144-2153. (DOI: 10.1109/TII.2019.2937876) ( JCR Q1, 中科院 1 区 , TOP 期刊 , CCF A 类 , IF=9.112 )
+ 18. Shuo Zhang, Youfang Lin, Hao Sheng . Residual Networks for Light Field Image Super-Resolution[C].2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, USA, 2019, PP: 11038-11047. ( CCF A 类会议 )
+ 19. Linghe Kong, Guangtao Xue, Kayhan Zara Ghafoor, Rasheed Hussain, Hao Sheng* . Peng Zeng. Real-Time Density Detection in Connected Vehicles: Design and Implementation[J]. IEEE Communications Magazine, 2018, Vol.56(10), PP: 64-70. (DOI: 10.1109/MCOM. 2018.1800144) ( JCR Q1, 中科院 1 区 , TOP 期刊 , CCF A 类 , IF=11.052 )
+ 20. Hao Sheng , Pan Zhao, Shuo Zhang, Jun Zhang, Da Yang. Occlusion-aware depth estimation for light field using multi-orientation EPIs[J]. Pattern Recognition, 2018, 74, PP:587-599. (DOI: 10.1016/j.patcog.2017.09.010) ( JCR Q1, 中科院 1 区 , TOP 期刊 , IF=7.196 )
+ 21. Hao Sheng , Shuo Zhang, Xiaochun Cao, Yajun Fang, Zhang Xiong. Geometric Occlusion Analysis in Depth Estimation using Integral Guided Filter for Light-Field Image[J]. IEEE Transactions on Image Processing, 2017, Vol.26(12), PP:5758-5771. (DOI:10.1109/TIP.2017.27 45100) ( JCR Q1, 中科院 1 区 , TOP 期刊 , CCF A 类 , IF=9.34 )
+ 22. Shuo Zhang, Hao Sheng* , Da Yang, Jun Zhang, and Zhang Xiong. Micro-lens-based Matching for Scene Recovery in Lenslet Cameras[J]. IEEE Transactions on Image Processing, 2017, Vol.27(3), PP:1060-1075. (DOI: 10.1109/TIP.2017.2763823) ( JCR Q1, 中科院 1 区 , TOP 期刊 , CCF A 类 , IF=9.34 )
+ 三、 参与制定国家标准
+ 1. 智慧城市 - 顶层设计指南 (Smart city-Top-level design guide). 中华人民共和国国家标准 , GB/T 36333-2018
+ 2. 智慧城市 - 术语 (Smart city-Terminology). 中华人民共和国国家标准 , GB/T 37043-2018
+ 3. 智慧城市 -SOA 标准应用指南 (Smart city-Application guide of SOA standard). 中华人民共和国国家标准 , GB/T 36445-2018
+ 4. 智慧城市 - 跨系统交互 第 1 部分：总体框架 (Smart city — Cross-platform exchange — Part 1: Framework). 中华人民共和国国家标准 , （报批稿）
+ 5. 智慧城市 - 跨系统交互 第 2 部分：技术要求及测试规范 (Smart city — Cross-platform exchange — Part 2: Technical requirements and test specification). 中华人民共和国国家标准 , （报批稿）
+ 6. 智慧城市 - 跨系统交互 第 3 部分：接口协议及测试规范 (Smart city — Cross-platform exchange — Part 3: Interface protocol and test specification). 中华人民共和国国家标准 , （报批稿）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 通讯地址：北京市海淀区学院路37号 邮政编码：100191 电子邮箱：scse@buaa.edu.cn
+ 版权所有：北京航空航天大学计算机学院
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

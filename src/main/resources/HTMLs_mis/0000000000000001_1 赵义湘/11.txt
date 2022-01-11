@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no,email=no,date=no,address=no">
+    <meta name="format-detection" content="telephone=no" />
+    
+        <meta name="keywords" content="秀秀台,四川省;,全文下载" />
+        <meta name="description" content="秀秀台,四川省;,正本月之星卢昕然四川省成都师范附属小学慧源校区二(9)班点评孩子的世界里真的藏着一个属于自己的秘密星球吗?这幅画也许告诉了..." />
+
+    <title>秀秀台-红领巾(成长)2021年Z2期-知网阅读</title>
+    <link href="//read.cnki.net/resource/css/base.css?v=20210829092123" rel="stylesheet"/>
+<link href="//read.cnki.net/resource/css/font-awesome/css/font-awesome.min.css" rel="stylesheet"/>
+
+    <link href="//read.cnki.net/resource/css/offside.css" rel="stylesheet"/>
+
+    <script src="//read.cnki.net/resource/js/jquery-2.1.4.min.js"></script>
+
+    <script src="//read.cnki.net/resource/js/layer.js"></script>
+
+    <script src="//read.cnki.net/resource/js/jquery.util.js"></script>
+
+    
+    <script src="//read.cnki.net/resource/js/shareapp/nativeShare2.js"></script>
+
+
+    <script>
+    var _hmt = _hmt || [];
+    (function () {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?a5b97225a52dd60d753af2ed600eb00c";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+<script>
+    String.prototype.endWith = function (endStr) {
+        var d = this.length - endStr.length;
+        return (d >= 0 && this.lastIndexOf(endStr) == d);
+    }
+    if (document.location.host.indexOf("cnki") >= 0 && !document.location.host.endWith("cnki" + ".net")) {
+        location.href = "https://read" + ".cnki" + ".net/web/home/page403";
+    }
+</script>
+
+    <script src="//read.cnki.net/web/javascript/webconfig"></script>
+    <script src="//read.cnki.net/resource/js/ckscroll.js"></script>
+    <script src="//read.cnki.net/resource/js/webcommon.js"></script>
+    <script src="//read.cnki.net/resource/js/pay/cplayer.js?v=20210829092123"></script>
+<script src="//read.cnki.net/resource/js/pay/buydownload.js?v=20210829092123"></script>
+
+    <script type="text/javascript" src="//read.cnki.net/resource/js/TouchSlide.js"></script>
+    <script>
+        document.documentElement.style.overflow = 'hidden';
+    </script>
+</head>
+<body class="g-body">
+    <input type="hidden" id="resource" value="//read.cnki.net/web" />
+    <div class="fix-top">
+    <a class="fix-top-content" href="javascript:void(0)" onclick="downClient()">
+        <div class="fix-top-content-inner">
+            <div class="fix-top-main">
+                <img src="//read.cnki.net/resource/image/read/ad-logo.png" alt="" class="img-fix-top">
+                <div class="fix-top-text">
+                    <div class="fix-top-text1">知网阅读 App</div>
+                    <div class="fix-top-text2">阅读改变世界</div>
+                </div>
+            </div>
+            <div class="fix-top-btn">
+                打 开
+            </div>
+        </div>
+    </a>
+</div>
+    <div class="c-nav c-nav-border">
+        <a href="javascript:history.back(-1);" class="c-nav--left c-nav__return">
+        </a>
+        <div class="c-nav__item c-nav__title">
+            
+            <a href="javascript:void(0);" style="color: #0078ed">
+                &nbsp;
+            </a>
+        </div>
+        <div class="c-nav--right c-nav--right-double">
+            <a href="//read.cnki.net/web/Article/SearchIndex" class="c-nav--right-icon c-nav--right-icon0"></a>
+            <a href="javascript:void(0);" onclick="ShowSubnav();" class="c-nav--right-icon c-nav--right-icon1"></a>
+        </div>
+        <div class="c-msubnav" style="display:none;">
+            <div class="c-msubnav-container">
+                <!-- 这里的链接和第一个链接是一样的 -->
+                <a href="//read.cnki.net/web" class="c-msubnav-container-left">
+                </a>
+                <div class="c-msubnav-container-right">
+                    <a href="//read.cnki.net/web" class="c-msubnav-item c-msubnav-item1">知网阅读首页</a>
+                    <a href="//read.cnki.net/web/Article/SearchIndex" class="c-msubnav-item c-msubnav-item2">文献检索</a>
+                    <a href="//read.cnki.net/web/Journal/Channel/" class="c-msubnav-item c-msubnav-item6">期刊</a>
+                    <a href="//read.cnki.net/node/dict/" class="c-msubnav-item c-msubnav-item8">工具书</a>
+                    <a href="//read.cnki.net/web/XinKeBook/Channel/" class="c-msubnav-item c-msubnav-item5">图书</a>
+                    <a href="javascript:void(0);" onclick="ZoneUrl()" class="c-msubnav-item c-msubnav-item3">我的知网</a>
+                    <a href="//read.cnki.net/payment" class="c-msubnav-item c-msubnav-item4">充值中心</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="masker fixed" onclick="ShowSubnav();" style="display:none;"></div>
+    
+
+
+
+    <div class="c-card__paper2">
+        <div class="c-card__title2">
+            秀秀台
+        </div>
+        <div class="c-card__subline">
+            <div class="c-card__author">
+                                                    <a href="//read.cnki.net/web/Article/Search?kw=可可&amp;order=0&amp;db=&amp;field=4">可可</a>&nbsp;                                    <a href="//read.cnki.net/web/Article/Search?kw=可乐&amp;order=0&amp;db=&amp;field=4">可乐</a>&nbsp;            </div>
+        </div>
+            <div class="c-card__aritcle">
+<正>本月之星卢昕然四川省成都师范附属小学慧源校区二(9)班点评孩子的世界里真的藏着一个属于自己的秘密星球吗?这幅画也许告诉了我们答案。昕然以素描的方式呈现出主体,再用黄色、白色油彩点缀全黑背景,瞬间营造出外太空的氛围感。而盒子中的暗影处理也非常高明。冷清的外星球、孤单的小兔子……这些元素让人想到了著名童话《小王子》。小编甚至还从画中感受到了淡淡的哀愁。不知道昕然是不是也在通过画作,向我们诉说心事呢?无论如何,可可都想给你一个拥抱,同时,也想提醒"红粉"们:如果有心事,请及时选择合适的方式疏解——或与亲密的家人、朋友倾诉;或像昕然一样,通过笔头表达哦。<span>...</span>
+            </div>
+    </div>
+    <div class="c-card__statics">
+        <div class="c-card__statics-inner">
+            <a href="javascript:void(0)" class="c-card__statics-resource">引用：0次</a>
+                <a href="javascript:void(0)" class="c-card__statics-download">下载：0次</a>
+                    </div>
+    </div>
+    <div class="read-btns">
+                            <a class="read-btn read-btn-long" id="a_download" data-filename="HOLG2021Z2034" data-type="CJFD" href="javascript:void(0)" onclick="GetDownloadInfo_2018('HOLG2021Z2034','CJFD')">
+                                <img src="//read.cnki.net/resource/image/read/icon7.png" alt="" /><span>下载PDF版</span>
+                            </a>
+
+    </div>
+        <div class="read-block">
+            <div class="read-block-title">关键词</div>
+            <div class="read-block-body">
+                            <a class="item" href="//read.cnki.net/web/Article/Search?kw=四川省&order=0&field=8">四川省</a>
+
+            </div>
+        </div>
+    <a href="//read.cnki.net/web/Journal/List/HOLG2021Z2.html" class="c-book u-mt-2">
+        <div class="read-block-title">来源期刊</div>
+        <div class="c-read-book">
+            <div class="c-book__img">
+                    <img src="//c61.cnki.net/CJFD/small/HOLG.jpg" alt="">
+            </div>
+            <div class="c-book__content">
+                <div class="c-book__title">
+                    红领巾(成长)
+                </div>
+                <div class="c-book__time">
+                    2021年Z2期
+                </div>
+            </div>
+            <div class="c-book__icon">
+                <i class="fa fa-angle-right"></i>
+            </div>
+        </div>
+    </a>
+    <div class="c-catalog c-card__new3  u-mt-2  u-mb-2 cs_midbook" style="display:none;">
+        <div class="c-catalog__title c-catalog__title-blue" style="border-bottom:0;">
+            精选好书
+            <a href="//read.cnki.net/web/XinKeBook/Channel/" class="book-more">查看更多好书 ></a>
+        </div>
+        <div class="c-catalog__body c-catalog__body2" style="padding-right:0;">
+            <div class="suggestbook-container cs_midbooklist">
+            </div>
+        </div>
+    </div>
+
+<div id="yinwen_div">
+
+</div>
+<script src="//read.cnki.net/resource/js/web/yinwen.js?v=20210829"></script>
+<script>
+    function loadYinWenRemData() {
+        InitYinWenData({
+            filename:  'HOLG2021Z2034',
+            year: '2021',
+            type:  'CJFD',
+            cjfdSize: '10',
+        });
+    }
+</script>
+
+
+
+
+<script type="text/javascript">
+    var config = {
+        url: window.location.href,
+        title: '秀秀台-红领巾(成长)2021年Z2期-知网阅读 ',
+        desc: '秀秀台,四川省;,正本月之星卢昕然四川省成都师范附属小学慧源校区二(9)班点评孩子的世界里真的藏着一个属于自己的秘密星球吗?这幅画也许告诉了...',
+        img: '',
+        img_title: '中国知网',
+        from: '中国知网'
+    };
+    var share_obj = new nativeShare('shareArticle', config);
+    //下载app
+    var downloadAppParms = { isOpenApp: true, token: "WX001", type: "cjfd", code:"HOLG2021Z2034"};
+</script>
+
+<script>
+    if ('False' == 'True') {
+        timedCount(1);
+    }
+
+    function timedCount(m) {
+        m = m - 1;
+        t = setTimeout("timedCount(" + m + ")", 1000)
+        if (m < 0) {
+            clearTimeout(t);
+            document.getElementById('a_download').click();
+        }
+    }
+</script>
+
+<script src="//read.cnki.net/resource/js/deposit.js?v=20210829092123"></script>
+
+<script src="//read.cnki.net/resource/js/jquery.cookie.js"></script>
+
+<style>
+    .layui-m-layercont {
+        padding: 50px 0px;
+        line-height: 22px;
+        text-align: center;
+    }
+
+    .layui-m-layerchild {
+        position: relative;
+        display: inline-block;
+        text-align: left;
+        background-color: #fff;
+        font-size: 14px;
+        border-radius: 0px;
+        box-shadow: 0 0 0px rgba(0,0,0,0);
+        pointer-events: auto;
+        -webkit-overflow-scrolling: touch;
+        -webkit-animation-fill-mode: both;
+        animation-fill-mode: both;
+        -webkit-animation-duration: .2s;
+        animation-duration: .2s;
+    }
+</style>
+<script>
+    //调整参考文献下划线样式问题
+    $(".c-catalog__block").each(function (i, e) {
+        $(e).prev("div").css("border-bottom", "0");
+    });
+    //$(".c-catalog__item,c-catalog__more").css("border-top", "0");
+    $(".c-catalog__body,c-catalog__body2").css("border-bottom", "0");
+</script>
+
+<!--下载支付优化20180625-->
+<script>
+    var createBuyDownload = new CreateBuyDownload({uid:'', uname:''});
+</script>
+<script>
+    //文章购买
+    function GetDownloadInfo_2018(id, dbtype, cdTitle, cdSource, cdUnit, cdYear) {
+        createBuyDownload.GetDownloadInfo_2018(id, dbtype, cdTitle, cdSource, cdUnit, cdYear);
+    }
+    //整刊购买内容
+    function GetJournalInfo_2018(id, jtype) {
+        createBuyDownload.GetJournalInfo_2018(id, jtype);
+    }
+    //购买图书文集
+    function GetCnkiBookXinKeBookInfo_2018(id, btype) {
+        createBuyDownload.GetCnkiBookXinKeBookInfo_2018(id, btype);
+    }
+    function CheckPayBuyStatePoll(type, filename, ecppayid) {
+        createBuyDownload.buyarticleform.Type = type;
+        createBuyDownload.buyarticleform.FileName = filename;
+        cplayer.payBuyConfirmLayer(ecppayid);//弹窗
+        GetPayBuyStatePoll(ecppayid);
+    }
+    //获取购买状态
+    function GetPayBuyStatePoll(ecppayid) {
+        if (ecppayid != "") {
+            createBuyDownload.buyarticleform.ecppayid = ecppayid;
+            createBuyDownload.GetPayBuyStateSimple(30);//轮询30次
+        }
+    }
+</script>
+
+
+    
+    <script src="//read.cnki.net/resource/js/knowledgenode.js"></script>
+
+
+    <a href="javascript:void(0);" class="c-banner cs_bottombanner" style="display:none;">
+        <img class="c-banner-img" src="">
+    </a>
+    <a href="javascript:window.scroll(0,0)" class="fix-top2 cs_top" style="display:none;">
+        <img src="//read.cnki.net/resource/image/top1.png">
+    </a>
+    <br />
+    <div class="book-search-block" onclick="javascript: location.href='//read.cnki.net/web/Article/SearchIndex'">
+        <div class="book-search-inner">
+            <div class="book-search-left">
+                <img src="//read.cnki.net/resource/image/read/icon4.png" alt="">
+                <input type="text" class="book-search-input" placeholder="搜索期刊、工具书、图书">
+            </div>
+            <a href="//read.cnki.net/web/Article/SearchIndex" class="book-search-btn">搜 索</a>
+        </div>
+    </div>
+    <div class="cum-browser" style="display:none;">
+        
+    </div>
+    
+<div class="c-footer">
+    
+    <div class="c-footer__bottom">
+        <div class="c-footer__bottom-link-top">
+            <a class="c-footer__bottom-link-top-item" href="//read.cnki.net/web/Journal/Channel/">期刊</a>
+            <a class="c-footer__bottom-link-top-item" href="//read.cnki.net/node/dict/">工具书</a>
+            <a class="c-footer__bottom-link-top-item" href="//read.cnki.net/web/XinKeBook/Channel/">图书</a>
+            <a class="c-footer__bottom-link-top-item" href="//read.cnki.net/web/CnkiBook/Channel/">文集</a>
+        </div>
+        <div class="c-footer__bottom-link">
+            <a class="c-footer__bottom-item" href="//read.cnki.net/web">首页</a>
+            <a class="c-footer__bottom-item" href="//read.cnki.net/web/Home/Search/">搜索</a>
+            <a class="c-footer__bottom-item" href="//read.cnki.net/appdownload.html">客户端</a>
+            <a class="c-footer__bottom-item" href="//read.cnki.net/payment">充值</a>
+            <a class="c-footer__bottom-item" href="https://read.cnki.net/clienthelp.html">帮助</a>
+
+        </div>
+        <div class="c-footer__copyright">
+            &copy;2021中国知网(CNKI)
+        </div>
+        <div style="display:none;">
+            <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? "https://" : "http://"); document.write(unescape("%3Cspan id='cnzz_stat_icon_1279066228'%3E%3C/span%3E%3Cscript async='async' src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D1279066228%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+        </div>
+    </div>
+</div>
+    
+
+    
+    <script src="//read.cnki.net/resource/js/web/article.js?v=3_20210829"></script>
+    <script type="text/javascript" src="//read.cnki.net/resource/js/cookie.min.js"></script>
+    <script src="//read.cnki.net/resource/js/callapp-lib.min.js"></script>
+
+    <script src="//read.cnki.net/resource/js/appdownload.js?v=20210829092123"></script>
+
+    
+        <script>
+    GetArticleImgs('HOLG2021Z2034', 'CJFD','');//获取图片
+        </script>
+
+    <div class="fix-bottom" id="fix-bottom" style="display:none;">
+        <div class="fix-bottom-content">
+            <div class="fix-bottom-content-slide">
+            </div>
+        </div>
+    </div>
+    <script>
+        document.documentElement.style.overflow = '';
+        var fixType = ["WAP_SUBJECT", "WAP_TS_TJ"];
+        clientAppinfo();
+        function clientAppinfo() {
+            if (webCommon.client.app) {
+                //记录及判断
+                if (cheackUserlb()) {
+                    document.documentElement.style.overflow = 'hidden';
+                    var e = 0;
+                    var lb = webCommon.browser.lb(e);
+                    $(".cum-browser").html('<a href="javascript:openLbApp(' + e + ')" class="Appopen">App内打开</a>' + lb.html);
+                    $(".cum-browser").show();
+                    return;
+                }
+                else {
+                    $(".cum-browser").html('<a href="javascript:openLbApp(' + e + ')" class="Appopen">App内打开</a>');
+                    $(".cum-browser").show();
+                }
+            }
+            loadYinWenRemData();//加载引文及推荐内容
+            InitFixRecommend(fixType);//初始化推荐数据
+        }
+        function openLbApp(e) {
+            //$(".cum-browser .continue").hide();
+            downClient(e)
+            //openApp;
+        }
+        function colseLbLayer(e) {
+            updateUserLb();
+            loadYinWenRemData();//加载引文及推荐内容
+            InitFixRecommend(fixType);//初始化推荐数据
+            $(".cum-browser .continue").hide();
+            document.documentElement.style.overflow = '';
+        }
+        function cheackUserlb() {
+            var flag = true;
+            var flag2 = cookie("WAP_OBL");
+            return flag != false && flag2 == false;
+        }
+        function updateUserLb() {
+            var expiresDate = new Date();
+            expiresDate.setTime(expiresDate.getTime() + (3 * 60 * 1000));
+            var flag = cookie("WAP_OBL");
+            if (!flag) {
+                cookie("WAP_OBL", 1, {
+                    "expires": expiresDate,
+                    "path": '/',
+                    "secure": window.location.protocol.indexOf("https") >= 0 ? true : false
+                });
+            }
+        }
+    </script>
+</body>
+
+</html>

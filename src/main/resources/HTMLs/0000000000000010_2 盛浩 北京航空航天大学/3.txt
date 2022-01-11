@@ -1,0 +1,610 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <script type="text/javascript">
+        var currentJs = "views/pub/university/tutor";
+    </script>
+
+    
+
+
+
+
+
+
+
+
+
+<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+
+
+
+
+
+<title>
+    盛浩 - 北京航空航天大学 - 计算机学院
+</title>
+
+<meta name="keywords" content="
+            null,北京航空航天大学,计算机学院, 海外,国内, 课题组, 学者, 导师, 化学家, 科学家, 研究员, 教授, 求职, 出国, 博士后, 博后, post, postdoc, offer"/>
+        
+
+<meta name="description" content="全球著名高校、研究所的化学领域课题组信息，检索结果以列表形式展示"/>
+        
+
+<!-- Bootstrap -->
+<link rel="stylesheet" href="https://static.x-mol.com/css/bootstrap_old.css">
+<link rel="stylesheet" href="https://static.x-mol.com/css/flat-ui.css">
+
+<link rel="stylesheet" href="https://static.x-mol.com/css/bootstrap-clockpicker.min.css">
+<link rel="stylesheet" href="https://static.x-mol.com/css/introjs.min.css">
+<link rel="stylesheet" href="https://static.x-mol.com/css/bootstrap-tagsinput.css">
+<link rel="stylesheet" href="https://static.x-mol.com/css/X-style_zh_CN.css?date=20210512">
+<link rel="stylesheet" href="https://static.x-mol.com/css/font-awesome.css">
+
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="http://cdn.bootcss.com/html5shiv/3.7.0/html5shiv.min.js"></script>
+<script src="http://cdn.bootcss.com/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+    var web_is = 1;
+    var web_version = '20210512';
+
+    //TODO
+    var initStack = {loaded: false};
+    window.initStack = initStack;
+    window.contextPath = '';
+    window.staticSitePath = 'https://static.x-mol.com';
+    var imsUrl = '';
+
+    var require = {
+        urlArgs :  'v=' + web_version
+    };
+</script>
+
+<!-- Start Alexa Certify Javascript -->
+
+    
+    
+
+
+<!-- End Alexa Certify Javascript -->
+
+<script src="https://static.x-mol.com/js/require.js"
+        data-main="https://static.x-mol.com/js/built"></script>
+<link rel="shortcut icon" href="https://static.x-mol.com/css/images/favicon.ico"/>
+
+
+
+    <script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?543e8bb9e2ec1a0b9400d55857a600b0";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+
+    
+        <script>
+            (function () {
+                var bp = document.createElement('script');
+                var curProtocol = window.location.protocol.split(':')[0];
+                if (curProtocol === 'https') {
+                    bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+                } else {
+                    bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+                }
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(bp, s);
+            })();
+        </script>
+    
+
+    <!-- Start Alexa Certify Javascript -->
+    <script type="text/javascript">
+        _atrk_opts = {atrk_acct: "sLd7o1IWh110i+", domain: "x-mol.com", dynamic: true};
+        (function () {
+            var as = document.createElement('script');
+            as.type = 'text/javascript';
+            as.async = true;
+            as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(as, s);
+        })();
+    </script>
+    <!-- End Alexa Certify Javascript -->
+
+
+
+</head>
+<body>
+<div id="wrapper">
+    
+
+
+
+
+
+
+<header class="news-white-top-bar">
+    <div class="white-top-bar-content">
+        <ul>
+            
+            
+                <li class="header-top-nav">
+                    <a class="shortcut it-small-white" href="/register/index">
+                        注册
+                    </a>
+                </li>
+                <li class="header-top-nav">
+                    <a class="shortcut it-small-white" href="/login">
+                        登录
+                    </a>
+                </li>
+            
+            
+            <li><a class="it-bold" href="/lw">论文助手</a></li>
+            <li><a href="/zd">文献直达</a></li>
+            <li><a href="/8Paper/list">发Paper</a></li>
+            <li><a href="/job">求职</a></li>
+            <li><a href="/ask">问答</a></li>
+            <li><a href="/university/index">导师</a></li>
+            <li><a href="/paper">期刊</a></li>
+            <li><a href="/news">资讯</a></li>
+            <li><a href="/">首页</a></li>
+        </ul>
+    </div>
+</header>
+
+    
+
+    <div class="main-admin" id="main-content">
+        
+            
+            
+                <div class="container" id="mianBody">
+                    
+
+
+
+
+
+
+
+
+<style type="text/css">
+    .teacher-detail-banner-btn-block {
+        width: 420px;
+        float: left;
+        margin-top: -70px;
+        margin-left: 270px;
+    }
+
+    .teacher-detail-banner-code {
+        width: 340px;
+        float: right;
+        margin-top: -134px;
+    }
+
+    .teacher-detail-banner-code img {
+        width: 100px;
+    }
+
+    .teacher-detail-banner-code-left {
+        float: left;
+    }
+
+    .teacher-detail-banner-code-right {
+        float: left;
+        width: 200px;
+        margin-left: 20px;
+        color: #fff;
+        margin-top: 12px;
+    }
+</style>
+
+
+<div class="teacher-list-bg">
+    <div class="teacher-positionbox-long">
+        <span>
+            当前位置：
+            <a href="/">X-MOL首页</a>
+            ›
+            <a href="/university/index">全球导师</a>
+            ›
+            <a href="/university/china">
+                国内导师
+            </a>
+            › 盛浩
+        </span>
+    </div>
+    <div class="teacher-list-detail-banner">
+        <img src="https://static.x-mol.com/css/images/teacher-list-detail-banner.jpg">
+    </div>
+    <div class="teacher-detail-banner-btn-block">
+        <a href="/paper/search" target="_blank"
+           class="teacher-banner-another-btn-small spaceleftm10">最便捷的期刊搜索&nbsp;&nbsp;<img
+                src="https://static.x-mol.com/css/images/icon-hand.png"/> </a>
+        <a href="/groups/mgt/apply" target="_blank"
+           class="teacher-banner-another-btn-small spaceleftm10">免费课题组网站&nbsp;&nbsp;<img
+                src="https://static.x-mol.com/css/images/icon-hand.png"/></a>
+    </div>
+    <div class="teacher-detail-banner-code">
+        <div class="teacher-detail-banner-code-left">
+            <img src="https://static.x-mol.com/css/images/teacher-code.png"/>
+        </div>
+        <div class="teacher-detail-banner-code-right">
+            <span class="it18">扫描左侧二维码</span><br>
+            <span>使用公众号菜单</span><br>
+            <span>手机上轻松查询100,000+导师</span>
+        </div>
+    </div>
+    <div class="teacher-list-detail-info">
+        <div class="teacher-list-detail-pic" style="height: 200px;">
+            
+            
+                <img src="https://static.x-mol.com/css/images/tutorAvatar.png">
+            
+        </div>
+        <div class="teacher-list-detail-info-right">
+            <span class="teacher-name-text spacerightm10" style="padding: 0;">
+                盛浩
+            </span>
+            <span class="teacher-detail-info-text spacerightm10">
+                副教授
+            </span>
+            <span class="teacher-detail-info-text spacerightm10">
+                
+            </span>
+            <span class="teacher-detail-info-fav-text">
+                
+                    
+                    
+                        <a id="cancelFavoBtn" href="javascript:void(0)" style="display: none">
+                            <i class="fa fa-heart spacerightm10" aria-hidden="true"></i>取消收藏
+                        </a>
+                        <a id="favoBtn" href="javascript:void(0)"
+                           onclick="xmol.favoriteTutor(221774)">
+                            <i class="fa fa-heart-o spacerightm10" aria-hidden="true"></i>收藏
+                        </a>
+                    
+                
+              </span>
+
+            <span class="teacher-detail-info-fav-text it-blue">
+                <a href="javascript:void(0);" onclick="xmol.dialogAdvice('221774')">
+                    <i class="fa fa-pencil spacerightm10" aria-hidden="true"></i>完善纠错
+                </a>
+            </span>
+
+            
+                    <span class="teacher-detail-info-fav-text" style="float: right">
+                    
+                    
+                    </span>
+            
+            <br>
+            <span class="teacher-detail-school-btn spacerightm10">
+                <a href="/university/detail/282">北京航空航天大学</a>&nbsp;&nbsp;&nbsp;
+                
+                    <a href="/university/detail/282/department/6419">计算机学院</a>
+                
+            </span>
+
+            <br>
+            
+                <a href="/login">
+                    <span class="teacher-detail-info-atten">登录后才能查看导师的联系方式，马上登录... </span>
+                </a>
+            
+            
+            
+        </div>
+    </div>
+
+    <div class="teacher-list-detail-main-content">
+        <div style="float:left;padding-bottom:60px;width:920px;">
+        <form id="tutorEditForm">
+            <input type="hidden" name="tutorId" value="221774">
+            <input type="hidden" name="tutorLang" value="zh">
+            
+                
+                    <article class="teacher-list-detail-article tutor-display">
+                        <h3>个人简介</h3>
+
+                        <p style="white-space:pre-wrap">盛浩，博士，副教授，硕士生导师，2009年毕业于北航计算机学院，获计算机应用工学博士学位后，留校任教至今。主要研究领域包括计算机视觉、模式识别、遥感图像解译与机器学习。先后主持国家自然科学面上基金“面向城域视频的多目标人车混合行为理解关键技术研究”，国家自然科学青年基金“基于光谱指纹特征的弱小目标精确跟踪技术研究”、863重点项目“月表形貌与月球构造信息的提取与虚拟月球环境关键技术研究”子课题"月表DEM镶嵌与正射影像拼接技术研究"、****应用研究项目“**数据分发处理集群及****技术研究” 、****创新基金“基于光谱稳定特征的＊＊＊＊＊技术研究”、遥感科学国家重点实验室开放基金“基于波谱库的高光谱数据稳定特征知识发现方法”；作为骨干参与了国家自然面上基金“交通视频中车辆行为理解与异常事件感知关键”、863重大项目“智慧城市（二期）课题三：面向城市运行管理的数据高性能分析技术与系统”、863主题项目“智慧城市（一期）课题二：数据活化关键技术研究”、公安部***应用研究项目“视频结构化描述机制研究”、“中国共产党第十七/八次全国代表大会会务辅助系统”等国家级、省部级项目及横向科研项目10余项。已在国内外核心刊物上发表论文20余篇（其中SCI检索10余篇），是多个国际期刊的审稿人，已申请国家发明专利10余项（授权7项），译著1部，软件著作权多项，担任SCIE期刊《Frontiers of Computer Science》的青年Associate Editor。相关研究成果获2011年国防科技进步三等奖、2009年北京市科技进步二等奖、2011年北京航空航天大学科学技术进步二等奖、2009年度国家发明博览会银奖。2010年获得北京航空航天大学“蓝天新秀”人才支持计划支持，2012年获得北京航空航天大学“蓝天新星”人才支持计划支持； 2012年入选高校GIS新锐。承担了本科生《算法设计与分析》、《C++与C#》、《移动计算导论》、研究生《遥感图像解译》等课程的教学任务</p>
+                    </article>
+                
+                <article style="display: none;" class="teacher-list-detail-article tutor-edit">
+                    <h3>个人简介</h3>
+
+                    <textarea name="introductionZh" style="width: 100%" rows="10">盛浩，博士，副教授，硕士生导师，2009年毕业于北航计算机学院，获计算机应用工学博士学位后，留校任教至今。主要研究领域包括计算机视觉、模式识别、遥感图像解译与机器学习。先后主持国家自然科学面上基金“面向城域视频的多目标人车混合行为理解关键技术研究”，国家自然科学青年基金“基于光谱指纹特征的弱小目标精确跟踪技术研究”、863重点项目“月表形貌与月球构造信息的提取与虚拟月球环境关键技术研究”子课题"月表DEM镶嵌与正射影像拼接技术研究"、****应用研究项目“**数据分发处理集群及****技术研究” 、****创新基金“基于光谱稳定特征的＊＊＊＊＊技术研究”、遥感科学国家重点实验室开放基金“基于波谱库的高光谱数据稳定特征知识发现方法”；作为骨干参与了国家自然面上基金“交通视频中车辆行为理解与异常事件感知关键”、863重大项目“智慧城市（二期）课题三：面向城市运行管理的数据高性能分析技术与系统”、863主题项目“智慧城市（一期）课题二：数据活化关键技术研究”、公安部***应用研究项目“视频结构化描述机制研究”、“中国共产党第十七/八次全国代表大会会务辅助系统”等国家级、省部级项目及横向科研项目10余项。已在国内外核心刊物上发表论文20余篇（其中SCI检索10余篇），是多个国际期刊的审稿人，已申请国家发明专利10余项（授权7项），译著1部，软件著作权多项，担任SCIE期刊《Frontiers of Computer Science》的青年Associate Editor。相关研究成果获2011年国防科技进步三等奖、2009年北京市科技进步二等奖、2011年北京航空航天大学科学技术进步二等奖、2009年度国家发明博览会银奖。2010年获得北京航空航天大学“蓝天新秀”人才支持计划支持，2012年获得北京航空航天大学“蓝天新星”人才支持计划支持； 2012年入选高校GIS新锐。承担了本科生《算法设计与分析》、《C++与C#》、《移动计算导论》、研究生《遥感图像解译》等课程的教学任务</textarea>
+                </article>
+
+                
+                    <article class="teacher-list-detail-article tutor-display">
+                        <h3>研究领域</h3>
+                        
+                            <div class="teacher-list-detail-article-title-right">
+                                <a class="teacher-title-right-btn" target="_blank"
+                                   href="/paper/search/byFaculty/221774">
+                                    <img src="https://static.x-mol.com/css/images/icon-hand.png"/> 查看导师最新文章
+                                </a>
+                                <span class="it-small-orange">（温馨提示：请注意重名现象，建议点开原文通过作者单位确认）</span>
+                            </div>
+                        
+
+                        <p style="white-space:pre-wrap"></p>
+                        <p style="white-space:pre-wrap">计算机视觉、模式识别、遥感图像解译与机器学习</p>
+                        <p style="white-space:pre-wrap"></p>
+                    </article>
+                
+                <article style="display: none;" class="teacher-list-detail-article tutor-edit">
+                    <h3>研究领域</h3>
+                    <div>
+                        <b>专业：</b>
+                        <input type="text" reg="maxlength:100" name="specialtyZh" style="width: 100%"
+                               value=""/>
+                        <br>
+                        <br>
+                        <b>研究方向：</b>
+                        <textarea name="researchZh" rows="10" style="width: 100%">计算机视觉、模式识别、遥感图像解译与机器学习</textarea>
+                        <br>
+                        <br>
+                        <b>研究领域和兴趣：</b>
+                        <textarea name="researchInterestsZh" rows="10"
+                                  style="width: 100%"></textarea>
+                    </div>
+                </article>
+
+                
+                <article style="display: none;" class="teacher-list-detail-article tutor-edit">
+                    <h3>近期论文</h3>
+                    <textarea name="thesis" style="width: 100%" rows="30"></textarea>
+                </article>
+
+                
+                    <article class="teacher-list-detail-article">
+                        <h3>学术兼职</h3>
+
+                        <p style="white-space:pre-wrap">IEEE会员，计算机学会YOCSEF委员。</p>
+                    </article>
+                
+            
+
+            
+
+            
+        </form>
+    </div>
+    
+        <div class="teacher-list-detail-main-content-right">
+            <div class="teacher-list-detail-main-content-right-title">
+                推荐链接
+            </div>
+
+            
+            
+                
+            
+            <div class="teacher-list-detail-main-content-right-item">
+                <ul>
+                    <li><a target="_blank" href="/university/detail/282/department/6419?r_faculty_u">查看北京航空航天大学计算机学院更多老师</a></li>
+                    <li><a target="_blank" href="/university/china?r_faculty_c">查看更多学校老师</a></li>
+                    <li><a target="_blank" href="/?r_faculty_h1">超过8,000万篇英文文献供您搜索</a></li>
+                    <li><a target="_blank" href="/?r_faculty_h2">最便捷的查找参考文献方式，通过DOI或期刊名+年+卷+页码，一键直达</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+
+
+                </div>
+            
+        
+    </div>
+    <!-- end page -->
+    
+
+
+
+
+<div class="mol-footer-new" id="footer" style="margin-top: -60px;height: 160px;">
+    <div class="mol-footer-content-new">
+        <div class="mol-footer-content-new-left">
+            <ul>
+                <li>
+                    <a href="/journal/index">
+                        学术期刊
+                    </a>
+                </li>
+
+                <li>
+                    <a href="/news/index">
+                        行业资讯
+                    </a>
+                </li>
+
+                <li>
+                    <a href="/university/index">
+                        全球导师
+                    </a>
+                </li>
+
+
+                <li>
+                    <a href="/ask">
+                        X-MOL问答
+                    </a>
+                </li>
+
+                <li>
+                    <a href="/job">求职广场</a>
+                </li>
+
+                <li>
+                    <a href="/allSite">
+                        网址导航
+                    </a>
+                </li>
+                
+                    
+                        
+                    
+                
+                <li>
+                    <a href="/aboutUs">
+                        关于我们
+                    </a>
+                </li>
+                <li>
+                    <a href="/article/helpCenter/0">
+                        帮助中心
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="mol-footer-text-new">
+            <span>客服邮箱：<a href="mailTo:service@x-mol.com">service@x-mol.com</a> </span></br>
+            <span>官方微信：X-molTeam2 </span></br>
+            <span>邮编：100098 </span></br>
+            <span>地址：北京市海淀区知春路56号中航科技大厦 </span></br>
+        </div>
+        <div class="mol-footer-content-new-right">
+            <img src="https://static.x-mol.com/newCss/images/app-download.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="https://static.x-mol.com/newCss/images/wechat-qr.png">
+        </div>
+    </div>
+    <div class="mol-footer-bottom-new">
+        <span>Copyright © 2014-2020 北京衮雪科技有限公司 All Rights Reserved&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>
+            <a href="http://www.beian.miit.gov.cn/" target="_blank">京ICP备11026495-2号</a> &nbsp;&nbsp;&nbsp;&nbsp;
+                <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802027423"
+                style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+                    <img src="https://static.x-mol.com/css/images/beian.png" style="float:left;"/>
+                京公网安备 11010802027423号
+            </a>
+        </span>
+        <div style="display: none;">
+            
+
+
+
+
+
+
+
+<!-- Piwik -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img style="display: none" src="/test_count/1621336626898?cpr="/>
+
+
+
+        </div>
+    </div>
+</div>
+
+</div>
+
+
+    
+
+<script>
+    window.initStack["sidebarBtn"] = function () {
+    	var adviceAddVali = {};
+        var showGotoTop = function() {
+    		h = 400,
+    		t = $(document).scrollTop(),
+    		t > h ? $("#moquu_top_new").show() : $("#moquu_top_new").hide();
+    	};
+
+    	$(window).scroll(function() {
+    		showGotoTop();
+    	});
+
+    	showGotoTop();
+    	$("#moquu_top_new").click(function() {
+    		$(document).scrollTop(0);
+    	});
+
+    	$("#moquu_wmaps_new").click(function() {
+    		util.dialog({
+    			url : "/adviceFeedback",
+    			callback : function() {
+    				adviceAddVali = $("#adviceAddForm").validate();
+    			}
+    		});
+    	});
+    };
+
+</script>
+
+<div id="moquu_wapp_new" class="moquu_wapp_new"><a href="javascript:void(0)">down<div class="moquu_wapph_new"></div></a></div>
+<div id="moquu_wshare_new" class="moquu_wshare_new"><a href="javascript:void(0)">wechat<div class="moquu_wshareh_new"></div></a></div>
+<div id="moquu_wmaps_new"><a  data-toggle="modal" data-target="#FeedbackModal" class='moquu_wmaps_new'>bug</a></div>
+<a id="moquu_top_new" style="display:block;" href="javascript:void(0)"></a>
+
+
+
+
+
+
+<!-- end footer -->
+</body>
+</html>

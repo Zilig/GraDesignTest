@@ -1,0 +1,1113 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>
+        北京航空航天大学微电子学院</title>
+    <meta name="keywords" content="北京航空航天大学微电子学院，北京航空航天大学微电子学院招标采购信息，采招网" />
+    <meta name="description" content="北京航空航天大学微电子学院的最新招投标信息；北京航空航天大学微电子学院发布最全相关的招投标信息；采招网为各级政府采购、招标代理机构、招标企业、供应商提供强大的专业招标采购信息查询和相关服务！" />
+    <meta name="applicable-device" content="pc" />
+    <meta name="renderer" content="webkit">
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.bidcenter.com.cn/yezhugonggaolist-66537909.html" />
+    <link href="//static.bidcenter.com.cn/css/www/zhaobiao/css/newdaili.css" rel="stylesheet"
+        type="text/css" />
+    <script src="//static.bidcenter.com.cn/js/www/js/jquery-1.8.2.min.js" type="text/javascript"></script>
+    <script src="https://dup.baidustatic.com/js/ds.js"></script>
+    <script type="text/javascript" src="//static.bidcenter.com.cn/js/www/js/layer/layer.min.js"></script>
+    <script type="text/javascript">
+        function zblogin() {
+            var ke = '北京航空航天大学微电子学院';
+            var keys = $("#chang").val()
+            var key;
+            if (keys != $("#chang").attr("placeholder")) {
+                key = keys;
+            }
+            else {
+                key = $(".textname").val();
+                if (key == $(".textname").attr("placeholder"))
+                    key = ke;
+            }
+            SetCookie("keywords", key);
+            $(".textname").val(key);
+            window.open("//search.bidcenter.com.cn/search?keywords=" + escape(trim(key)));
+        } function ss() {
+            zblogin();
+        } function trim(a) {
+            return a.replace(/^ +/, "").replace(/ +$/, "");
+        }
+        function SetCookie(j, i) {
+            var a = null, d = new Date, c = SetCookie.arguments, b = SetCookie.arguments.length, e = b > 2 ? c[2] : a, g = b > 3 ? c[3] : a, f = b > 4 ? c[4] : a, h = b > 5 ? c[5] : false; e != a && d.setTime(d.getTime() + e * 1e3);
+            document.cookie = j + "=" + escape(i) + (e == a ? "" : ";  expires=" + d.toGMTString()) + (g == a ? "" : ";  path=" + g) + (f == a ? "" : ";  domain=" + f) + (h == true ? ";  secure" : "");
+        }
+        var pub = {
+            login: function (APIKey) {
+                var y = "//sso.bidcenter.com.cn/";
+                location.href = y + "validate?apk=" + APIKey + "&u=" + encodeURI(location.href.replace(/&/g, '|'));
+                return false;
+            }
+        };
+    </script>
+    <style type="text/css">
+        .clear { clear: both; }
+        .wchat-ewm { width: 320px; background: #fff; border-radius: 5px; padding-bottom: 50px; }
+        .wchat-ewm .ewm-close { float: right; margin: 10px 10px 0 0; }
+        .ewm-img { display: block; margin: 45px auto 30px; }
+    </style>
+</head>
+<form method="post" id="seachpage" name="seachpage" target="_blank">
+    <body>
+        
+        <div class="login">
+            
+            <a href="//sso.bidcenter.com.cn/login/" onclick="return pub.login('7D24909FC08A6E08203D5A005AC7D5DC')"
+                target="_blank" title="请登录--采招网">请登录</a> | <a href="/zhuce.html" target="_blank"
+                    class="a4" title="免费注册--采招网">免费注册</a>
+        </div>
+
+        <div class="search">
+            <table cellpadding="0" cellspacing="0">
+                <tr>
+                    <td width="659">
+                        <h1 class="company_title" style="display: inline-block;">
+                            北京航空航天大学微电子学院</h1>
+                        <span style="font-size: 28px; font-family: 微软雅黑; color: #555; font-weight: bold;">--采招网</span>
+                    </td>
+                    <td width="319">
+                        <span class="s_left">
+                            <input id="aliSearchInput" name="keywords" placeholder="请输入关键词，搜索更多项目信息" value="请输入关键词，搜索更多项目信息"
+                                autocomplete="off" onclick="javascript: if (this.value.substring(0, 3) == '请输入') this.value = ''; this.style.color = '#000';"
+                                accesskey="s" type="text" class="textname" />
+                        </span><span class="s_right">
+                            <button id="aliSearchSubmit" onclick="ss()" type="button" class="btn">
+                                搜 索</button></span>
+                        <input id="t" type="hidden" value="1" />
+                        <input id="s_t" type="hidden" value="1" />
+                        <div class="clear">
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="navgation">
+            <ul>
+                <li><a href="https://www.bidcenter.com.cn/" target="_blank" title="采招网">网站首页</a></li>
+                <li><a href="/zbpage-1-1.html" title="招标公告--采招网" target="_blank">招标公告</a></li>
+                <li><a href="/tjgg-2.html" title="项目委托--采招网" target="_blank">项目委托</a></li>
+                <li><a href="/zbpage-4-1.html" target="_blank" title="中标结果--采招网">中标结果</a></li>
+                <li><a href="/help/fwlb.shtml" target="_blank" title="服务中心--采招网">服务中心</a></li>
+                
+                <li><a href="/zhuce.html" title="供应商注册--采招网">供应商注册</a></li>
+                
+                <div class="clear">
+                </div>
+            </ul>
+        </div>
+        <div class="banner" style="background-color: #ffffff; height: 90px;">
+            <script type="text/javascript" src="//bdlm1.bidcenter.com.cn/source/bw-ff/yo/openjs/xf/static/l.js">u1183712</script>
+        </div>
+        <div class="daili_content">
+            <div class="daili_left">
+                <div class="daili_kuan" style="margin-top: 0px; display: none;">
+                    <div class="daili_text" style="padding: 0;">
+                        <!-- 广告位：招标业主项目列表-左侧 -->
+                        <script>
+                        (function () {
+                            var s = "_" + Math.random().toString(36).slice(2);
+                            document.write('<div id="' + s + '"></div>');
+                            (window.slotbydup = window.slotbydup || []).push({
+                                id: '2980955',
+                                container: s,
+                                size: '187,282',
+                                display: 'inlay-fix'
+                            });
+                        })();
+                        </script>
+                    </div>
+                </div>
+                <div class="daili_kuan">
+                    <div class="daili_title">
+                        <b class="a4">项目委托</b>
+                    </div>
+                    <div class="daili_text">
+                        <ul>
+                            <li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/wtnews-123916615.html" title="仪陇县朱德故里景区旅游公路工程（马鞍镇永安村至灯塔乡峰岩村）材料采购项目(第二次）招标公告-采招网" target="_blank">仪陇县朱德故里景区旅游公路工程</a></li><li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/wtnews-123872580.html" title="上海泰欣环境工程有限公司宝山项目、登封项目、达州项目电加热器招标公告-采招网" target="_blank">上海泰欣环境工程有限公司宝山项</a></li><li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/wtnews-123872537.html" title="上海泰欣环境工程有限公司河南登封垃圾焚烧发电厂项目SNCR+SCR脱硝系统安装施工招标公告-采招网" target="_blank">上海泰欣环境工程有限公司河南登</a></li><li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/wtnews-123926053.html" title=" 厦门航空有限公司“机上葡萄酒”项目供应商招募预公告-采招网" target="_blank"> 厦门航空有限公司“机上葡萄酒</a></li><li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/wtnews-123882305.html" title="江苏张家港农村商业银行股份有限公司  集中采购（招投标）管理系统项目供应商征集公告（二次）-采招网" target="_blank">江苏张家港农村商业银行股份有限</a></li><li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/wtnews-123911065.html" title="2021年度攀枝花东方钛业有限公司碳酸钠（纯碱）采购物资招标公告-采招网" target="_blank">2021年度攀枝花东方钛业有限</a></li><li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/wtnews-123923683.html" title=" 厦门航空有限公司“机上媒体杂志”项目供应商招募公告-采招网" target="_blank"> 厦门航空有限公司“机上媒体杂</a></li><li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/wtnews-123910242.html" title="2021年攀枝花东方钛业有限公司石灰石粉集中采购物资招标公告-采招网" target="_blank">2021年攀枝花东方钛业有限公</a></li><li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/wtnews-123924432.html" title=" 厦门航空有限公司“客服中心友邻录音系统升级”项目供应商招募公告-采招网" target="_blank"> 厦门航空有限公司“客服中心友</a></li><li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/wtnews-123847716.html" title="保山市人民医院科教后勤综合楼一楼超市场地出租中标公告-采招网" target="_blank">保山市人民医院科教后勤综合楼一</a></li>
+                        </ul>
+                    </div>
+                    <div class="daili_more">
+                        <a href="/tjgg-2.html" target="_blank" class="a1" title="项目委托-采招网">更多项目</a>
+                    </div>
+                </div>
+                <div class="daili_kuan">
+                    <div class="daili_title">
+                        <b class="a4">赞助商链接</b>
+                    </div>
+                    <div class="daili_text">
+                        <script type="text/javascript">
+        var cpro_id = "u1234992";
+        
+</script>
+<script type="text/javascript" src="//cpro.baidustatic.com/cpro/ui/cm.js"></script>
+                    </div>
+                </div>
+                <div class="daili_kuan">
+                    <div class="daili_title">
+                        <b class="a4">工程类别</b>
+                    </div>
+                    <div class="daili_text">
+                        <ul>
+                            <li><a href="//search.bidcenter.com.cn/search?keywords=%u4F4F%u5B85%u793E%u533A"
+                                target="_blank" class="a5" title="住宅社区">住宅社区</a> <a href="//search.bidcenter.com.cn/search?keywords=%u6587%u5316%u4F53%u80B2"
+                                    target="_blank" title="文化体育">文化体育</a> <a href="//search.bidcenter.com.cn/search?keywords=%u5C55%u89C8"
+                                        target="_blank" title="展览">展览</a></li>
+                            <li><a href="//search.bidcenter.com.cn/search?keywords=%u536B%u751F%u533B%u7597"
+                                target="_blank" title="卫生医疗">卫生医疗</a> <a href="//search.bidcenter.com.cn/search?keywords=%u9152%u5E97%u670D%u52A1"
+                                    target="_blank" class="a5" title="酒店服务">酒店服务</a> <a href="//search.bidcenter.com.cn/search?keywords=%u5DE5%u7A0B"
+                                        target="_blank" title="工程建筑">工程</a></li>
+                            <li><a href="//search.bidcenter.com.cn/search?keywords=%u5E02%u653F%u9053%u8DEF"
+                                target="_blank" title="市政道路">市政道路</a> <a href="//search.bidcenter.com.cn/search?keywords=%u56ED%u6797%u666F%u89C2"
+                                    target="_blank" title="园林景观">园林景观</a> <a href="//search.bidcenter.com.cn/search?keywords=%u505C%u8F66%u573A"
+                                        target="_blank" class="a5" title="停车场">停车场</a></li>
+                            <li><a href="//search.bidcenter.com.cn/search?keywords=%u884C%u653F.%u529E%u516C"
+                                target="_blank" title="行政办公">行政办公</a> <a href="//search.bidcenter.com.cn/search?keywords=%u519C%u4E1A.%u6C34%u5229"
+                                    target="_blank" title="农业水利">农业水利</a> <a href="//search.bidcenter.com.cn/search?keywords=%u73AF%u4FDD%u8282%u80FD"
+                                        target="_blank" title="环保节能">节能</a></li>
+                        </ul>
+                    </div>
+                    <div class="daili_more">
+                        <a href="/TypeInfo.shtml" target="_blank" class="a1">更多类别</a>
+                    </div>
+                </div>
+                <div class="daili_kuan">
+                    <div class="daili_title">
+                        <b class="a4">最新入住业主</b>
+                    </div>
+                    <div class="daili_text">
+                        <ul>
+                            <li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/newsyezhu-890.html" title="工程招标代理机构-中国采招网" target="_blank">工程招标代理机构</a></li><li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/newsyezhu-889.html" title="政府采购招标代理-中国采招网" target="_blank">政府采购招标代理</a></li><li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/newsyezhu-888.html" title="招标代理服务费标准-中国采招网" target="_blank">招标代理服务费标准</a></li><li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/newsyezhu-887.html" title="中航技国际经贸发展有限公司-中国采招网" target="_blank">中航技国际经贸发展有限公司</a></li><li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/newsyezhu-886.html" title="中资国际招标有限责任公司-中国采招网" target="_blank">中资国际招标有限责任公司</a></li><li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/newsyezhu-885.html" title="中经国际招标集团有限公司-中国采招网" target="_blank">中经国际招标集团有限公司</a></li><li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/newsyezhu-884.html" title="公诚管理咨询有限公司-中国采招网" target="_blank">公诚管理咨询有限公司</a></li><li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/newsyezhu-883.html" title="国义招标股份有限公司-中国采招网" target="_blank">国义招标股份有限公司</a></li><li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/newsyezhu-882.html" title="安徽省招标集团股份有限公司-中国采招网" target="_blank">安徽省招标集团股份有限公司</a></li><li style="overflow:hidden;text-overflow:ellipsis; white-space: nowrap;width:180px;"><a href="/newsyezhu-881.html" title="国信招标集团股份有限公司-中国采招网" target="_blank">国信招标集团股份有限公司</a></li>
+
+                            <li style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 180px;"><a href=" http://www.kaimaile.com/" title="软件著作权" target="_blank">软件著作权</a></li>
+                        </ul>
+                    </div>
+                    <div class="daili_more">
+                        <a href="/TypeInfo.shtml" target="_blank" class="a1">更多类别</a>
+                    </div>
+                </div>
+            </div>
+            <div class="daili_right">
+                <div class="daili_kuan">
+                    <div class="daili_title">
+                        <table height="28" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td width="377" style="color: #666;">
+                                    <img src="//img.bidcenter.com.cn/www/images/tb/dl_20.jpg" />
+                                    北京航空航天大学微电子学院:<b class="a4">招标项目</b>
+                                </td>
+                                <td width="390" align="right" style="color: #666;">
+                                    
+                                    <span class="a4">查看更多相关招标信息请</span><a href="zhuce.html">立即注册</a>,<a href="zhuce.html"
+                                        class="a1">免费查看最新最及时的招标信息!</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="daili_text_li">
+                        <table cellpadding="0" cellspacing="0" valign="top">
+                            
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-109201268-4.html"
+                                                target="_blank" title="北京航空航天大学微电子学院校级微纳公共平台特殊气体尾气处理设备成交公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院校级微纳公共平台特殊气体尾气处理设备成交公告
+                                                
+                                            </a></span><span class="bb">
+                                                公告概要：公告信息：采购项目名称<font>北京航空航天大学微电子学院</font>校级微纳公共平台特殊气体尾气处理设备品目货物/通用设备/机械设备/气体分离及液化设备/工业气体分离设备,货物/通用设备/机械设备/气体分离及液化设备/稀有气体提取设备,货物/通用设备/机械设备/气体分离及液化设备/其他气体分离及液化设备采购单位<font>北京航空航天大学微电子学院</font>行政区域北京市公告时间2020年10月15日17:28评审专家（单一来源......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('尾气处理设备,气体,特殊')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">10</span>月<span class="a3">15</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【招标变更】
+                                            <a href="/news-107416526-6.html"
+                                                target="_blank" title="北京航空航天大学微电子学院校级微纳公共平台特殊气体尾气处理设备废标公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院校级微纳公共平台特殊气体尾气处理设备废标公告
+                                                
+                                            </a></span><span class="bb">
+                                                公告概要：公告信息：采购项目名称<font>北京航空航天大学微电子学院</font>校级微纳公共平台特殊气体尾气处理设备品目货物/通用设备/机械设备/气体分离及液化设备/稀有气体提取设备,货物/通用设备/机械设备/气体分离及液化设备/工业气体分离设备,货物/通用设备/机械设备/气体分离及液化设备/其他气体分离及液化设备采购单位<font>北京航空航天大学微电子学院</font>行政区域北京市公告时间2020年09月24日14:00联系人及联系方式：......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('尾气处理设备,气体,特殊')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">9</span>月<span class="a3">24</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【招标公告】
+                                            <a href="/newscontent-107419094-1.html"
+                                                target="_blank" title="北京航空航天大学微电子学院校级微纳公共平台特殊气体尾气处理设备采购公告——重新采购--采招网" class="a2">
+                                                北京航空航天大学微电子学院校级微纳公共平台特殊气体尾气处理设备采购公告——重新采购
+                                                
+                                            </a></span><span class="bb">
+                                                公告概要：公告信息：采购项目名称<font>北京航空航天大学微电子学院</font>校级微纳公共平台特殊气体尾气处理设备品目货物/通用设备/机械设备/气体分离及液化设备/其他气体分离及液化设备,货物/通用设备/机械设备/气体分离及液化设备/稀有气体提取设备,货物/通用设备/机械设备/气体分离及液化设备/工业气体分离设备采购单位<font>北京航空航天大学微电子学院</font>行政区域北京市公告时间2020年09月24日14:24开标时间2020年......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('尾气处理设备,气体,特殊')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">9</span>月<span class="a3">24</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【招标公告】
+                                            <a href="/newscontent-106357132-1.html"
+                                                target="_blank" title="北京航空航天大学微电子学院校级微纳公共平台特殊气体尾气处理设备采购公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院校级微纳公共平台特殊气体尾气处理设备采购公告
+                                                
+                                            </a></span><span class="bb">
+                                                公告概要：公告信息：采购项目名称<font>北京航空航天大学微电子学院</font>校级微纳公共平台特殊气体尾气处理设备品目货物/通用设备/机械设备/气体分离及液化设备/其他气体分离及液化设备,货物/通用设备/机械设备/气体分离及液化设备/工业气体分离设备,货物/通用设备/机械设备/气体分离及液化设备/稀有气体提取设备采购单位<font>北京航空航天大学微电子学院</font>行政区域北京市公告时间2020年09月14日12:44开标时间2020年......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('尾气处理设备,气体,特殊')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">9</span>月<span class="a3">14</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-106176069-4.html"
+                                                target="_blank" title="北京航空航天大学校级微纳公共平台超净间特气系统工程建设项目成交结果公示--采招网" class="a2">
+                                                北京航空航天大学校级微纳公共平台超净间特气系统工程建设项目成交结果公示
+                                                
+                                            </a></span><span class="bb">
+                                                北京航空航天大学校级微纳公共平台超净间特气系统工程建设项目现已完成评审工作，根据评审委员会提出的书面评审报告和推荐的成交候选人情况，现确定北京鼎越工程技术有限责任公司为本项目成交人。1.项目名称：北京航空航天大学校级微纳公共平台超净间特气系统工程建设项目2.比选公告发布时间：2020年8月25日3.比选时间：2020年9月7日14：00（北京时间）4.确认成交时间2020年9月7日5.成交人：北京......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('特气,大学,航空航天')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">9</span>月<span class="a3">11</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-106184453-4.html"
+                                                target="_blank" title="北京航空航天大学微电子学院北京航空航天大学校级微纳公共平台超净间特气系统工程建设项目成交公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院北京航空航天大学校级微纳公共平台超净间特气系统工程建设项目成交公告
+                                                
+                                            </a></span><span class="bb">
+                                                公告概要：公告信息：采购项目名称北京航空航天大学校级微纳公共平台超净间特气系统工程建设项目品目工程/建筑安装工程/其他安装采购单位<font>北京航空航天大学微电子学院</font>行政区域海淀区公告时间2020年09月11日11:34评审专家（单一来源采购人员）名单冯金宇、陈志君、王玉章、蔡荣兰、林晓阳总成交金额￥172.666448万元（人民币）联系人及联系方式：项目联系人李佳文项目联系电话67115096采购单位北京......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('特气,大学,航空航天')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">9</span>月<span class="a3">11</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【招标变更】
+                                            <a href="/news-104617032-6.html"
+                                                target="_blank" title="北京航空航天大学微电子学院北京航空航天大学校级微纳公共平台超净间特气系统工程建设项目更正公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院北京航空航天大学校级微纳公共平台超净间特气系统工程建设项目更正公告
+                                                
+                                            </a></span><span class="bb">
+                                                公告概要：公告信息：采购项目名称北京航空航天大学校级微纳公共平台超净间特气系统工程建设项目品目工程/建筑安装工程/其他安装采购单位<font>北京航空航天大学微电子学院</font>行政区域海淀区公告时间2020年08月25日16:53首次公告日期2020年08月25日更正日期2020年08月25日更正事项采购公告联系人及联系方式：项目联系人李佳文项目联系电话67115096采购单位<font>北京航空航天大学微电子学院</font>采购单位地址北......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('特气,大学,航空航天')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">8</span>月<span class="a3">25</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【招标公告】
+                                            <a href="/newscontent-104641377-1.html"
+                                                target="_blank" title="北京航空航天大学校级微纳公共平台超净间特气系统工程建设项目比选公告--采招网" class="a2">
+                                                北京航空航天大学校级微纳公共平台超净间特气系统工程建设项目比选公告
+                                                
+                                            </a></span><span class="bb">
+                                                北京航空航天大学校级微纳公共平台超净间特气系统工程建设项目比选公告1.比选条件本比选项目北京航空航天大学校级微纳公共平台超净间特气系统工程建设项目采购人为<font>北京航空航天大学微电子学院</font>，建设资金为国拨资金，资金已落实。项目已具备比选条件，现进行比选采购，特邀请有兴趣且符合比选条件的潜在参选人对本项目进行比选。2.项目编号：BHUGC20200133.项目概况与比选范围3.1本比选项目的建设地点：北京市......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('特气,大学,航空航天')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">8</span>月<span class="a3">25</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【招标公告】
+                                            <a href="/newscontent-104578298-1.html"
+                                                target="_blank" title="北京航空航天大学微电子学院北京航空航天大学校级微纳公共平台超净间特气系统工程建设项目询价公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院北京航空航天大学校级微纳公共平台超净间特气系统工程建设项目询价公告
+                                                
+                                            </a></span><span class="bb">
+                                                公告概要：公告信息：采购项目名称北京航空航天大学校级微纳公共平台超净间特气系统工程建设项目品目工程/建筑安装工程/其他安装采购单位<font>北京航空航天大学微电子学院</font>行政区域海淀区公告时间2020年08月25日13:32获取采购文件时间2020年08月26日至2020年08月26日每日上午:9:00至11:30下午:13:00至17:00（北京时间，法定节假日除外）预算金额￥181.000000万元（人民币......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('特气,大学,航空航天')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">8</span>月<span class="a3">25</span>日
+                                        </td>
+                                    </tr>
+                                    <tr><td colspan="2" style="padding-bottom:10px;"><script type="text/javascript" src="//bdlm1.bidcenter.com.cn/common/dy/vh_hv/openjs/un_z.js">u5115427</script></td></tr>
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-103533667-4.html"
+                                                target="_blank" title="北京航空航天大学微电子学院第一馆实验室改造工程项目成交结果公示--采招网" class="a2">
+                                                北京航空航天大学微电子学院第一馆实验室改造工程项目成交结果公示
+                                                
+                                            </a></span><span class="bb">
+                                                微电子学院第一馆实验室改造工程项目现已完成评审工作，根据评审委员会提出的书面评审报告和推荐的成交候选人情况，现确定北京泓腾建设工程有限公司为本项目成交人。1.项目名称：微电子学院第一馆实验室改造工程项目2.项目编号：BHUGC20200213.比选公告发布时间：2020年7月30日比选时间：2020年8月11日9：00（北京时间）4.确认成交时间：2020年8月11日5.成交人：北京泓腾建设工程有......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('实验室改造,学院,微电子')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">8</span>月<span class="a3">13</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【招标公告】
+                                            <a href="/newscontent-102258625-1.html"
+                                                target="_blank" title="北京航空航天大学微电子学院第一馆实验室改造工程比选公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院第一馆实验室改造工程比选公告
+                                                
+                                            </a></span><span class="bb">
+                                                <font>北京航空航天大学微电子学院</font>第一馆实验室改造工程比选公告1．比选条件<font>北京航空航天大学微电子学院</font>第一馆实验室改造工程项目（以下简称“本项目”），采购人为<font>北京航空航天大学微电子学院</font>，资金来源为自筹资金，资金已落实，目前项目已具备比选条件，现进行比选，特邀请有兴趣且符合比选条件的潜在参选人对本项目进行比选。2．项目概况和比选范围2.1项目地点：北京航空航天大学学院路校区。2.2比选范围：主要内容为微电学院......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">7</span>月<span class="a3">30</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-101171760-4.html"
+                                                target="_blank" title="北京市北京航空航天大学微电子学院量子钻石原子力显微镜项目合同公告--采招网" class="a2">
+                                                北京市北京航空航天大学微电子学院量子钻石原子力显微镜项目合同公告
+                                                
+                                            </a></span><span class="bb">
+                                                一、合同编号：D16二、合同名称：<font>北京航空航天大学微电子学院</font>量子钻石原子力显微镜项目三、项目编号：2004-HXTC-IU1065四、项目名称：<font>北京航空航天大学微电子学院</font>量子钻石原子力显微镜项目五、合同主体采购人（甲方）：北京航空航天大学地址：北京市海淀区学院路37号联系方式：0532--58666710供应商（乙方）：国仪量子（合肥）技术有限公司地址：合肥市高新区创新大道2800号创新产业区二期......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('项目合同,原子力显微镜,学院')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">7</span>月<span class="a3">20</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-100721882-4.html"
+                                                target="_blank" title="北京市无液氦低温9T强磁场综合测试系统采购合同公告--采招网" class="a2">
+                                                北京市无液氦低温9T强磁场综合测试系统采购合同公告
+                                                
+                                            </a></span><span class="bb">
+                                                ...<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('测试系统,综合,磁场')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">7</span>月<span class="a3">15</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-100724373-4.html"
+                                                target="_blank" title="北京市超高真空电子束蒸镀系统合同公告--采招网" class="a2">
+                                                北京市超高真空电子束蒸镀系统合同公告
+                                                
+                                            </a></span><span class="bb">
+                                                ...<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('电子,真空')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">7</span>月<span class="a3">15</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-98728738-4.html"
+                                                target="_blank" title="北京航空航天大学微电子学院无液氦低温9T强磁场综合测试系统中标结果--采招网" class="a2">
+                                                北京航空航天大学微电子学院无液氦低温9T强磁场综合测试系统中标结果
+                                                
+                                            </a></span><span class="bb">
+                                                北京国际工程咨询有限公司受<font>北京航空航天大学微电子学院</font>的委托，就“<font>北京航空航天大学微电子学院</font>无液氦低温9T强磁场综合测试系统采购”项目（项目编号：BIECC-ZB8362）组织采购，评标工作已经结束，中标结果如下：一、项目信息项目编号：BIECC-ZB8362项目名称：<font>北京航空航天大学微电子学院</font>无液氦低温9T强磁场综合测试系统采购项目联系人：贾溪联系方式：010-82376733、jowena@16......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('测试系统,综合,磁场')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">6</span>月<span class="a3">28</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-98815169-4.html"
+                                                target="_blank" title="北京航空航天大学微电子学院无液氦低温9T强磁场综合测试系统采购中标结果公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院无液氦低温9T强磁场综合测试系统采购中标结果公告
+                                                
+                                            </a></span><span class="bb">
+                                                中标结果公告一、项目编号：BIECC-ZB8362二、项目名称：<font>北京航空航天大学微电子学院</font>无液氦低温9T强磁场综合测试系统采购三、中标信息供应商名称：北京飞斯科科技有限公司供应商地址：北京市海淀区安宁北路昌平路临831内1一层1027号中标金额：2598000.00元四、主要标的信息货物类名称：无液氦低温9T强磁场综合测试系统规格型号、品牌、数量、单价如下：C-MagVari-9T无液氦变温超导磁......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">6</span>月<span class="a3">28</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-97213439-4.html"
+                                                target="_blank" title="北京航空航天大学微电子学院超高真空电子束蒸镀系统中标结果--采招网" class="a2">
+                                                北京航空航天大学微电子学院超高真空电子束蒸镀系统中标结果
+                                                
+                                            </a></span><span class="bb">
+                                                北京国际工程咨询有限公司受<font>北京航空航天大学微电子学院</font>的委托，就“<font>北京航空航天大学微电子学院</font>超高真空电子束蒸镀系统采购”项目（项目编号：BIECC-ZB8197）组织采购，评标工作已经结束，中标结果如下：一、项目信息项目编号：BIECC-ZB8197项目名称：<font>北京航空航天大学微电子学院</font>超高真空电子束蒸镀系统采购项目联系人：贾溪联系方式：010-82376733、jowena@163.com二、采购单......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('电子,真空,学院')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">6</span>月<span class="a3">11</span>日
+                                        </td>
+                                    </tr>
+                                    <tr><td colspan="2" style="padding-bottom:10px;"><script type="text/javascript" src="//bdlm1.bidcenter.com.cn/common/dy/vh_hv/openjs/un_z.js">u5115427</script></td></tr>
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-97336314-4.html"
+                                                target="_blank" title="北京航空航天大学微电子学院超高真空电子束蒸镀系统采购中标结果公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院超高真空电子束蒸镀系统采购中标结果公告
+                                                
+                                            </a></span><span class="bb">
+                                                中标结果公告一、项目编号：BIECC-ZB8197二、项目名称：<font>北京航空航天大学微电子学院</font>超高真空电子束蒸镀系统采购三、中标信息供应商名称：上海续波光电技术有限公司供应商地址：上海市闵行区元江路5500号第1幢E2802室中标金额：3836000.00元四、主要标的信息货物类名称：超高真空电子束蒸镀系统主机和标准附件品牌：法国PLASSYS-BESTEKSAS。规格型号：MEB550SL。数量：1......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('电子,真空,学院')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">6</span>月<span class="a3">11</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-96561699-4.html"
+                                                target="_blank" title="北京航空航天大学微电子学院量子钻石原子力显微镜项目中标结果公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院量子钻石原子力显微镜项目中标结果公告
+                                                
+                                            </a></span><span class="bb">
+                                                一、项目编号：2004-HXTC-IU1065二、项目名称：<font>北京航空航天大学微电子学院</font>量子钻石原子力显微镜项目三、中标信息供应商名称：国仪量子（合肥）技术有限公司供应商地址：合肥市高新区创新大道2800号创新产业区二期E2楼A区1-4层，B区3-4层中标（成交）金额：￥3,050,000.00元四、主要标的信息货物类名称规格型号数量单价量子钻石原子力显微镜DiamondIV12948000五、评审......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('原子力显微镜,学院,微电子')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">6</span>月<span class="a3">4</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-96561697-4.html"
+                                                target="_blank" title="北京航空航天大学微电子学院磁光测量变温系统项目成交结果公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院磁光测量变温系统项目成交结果公告
+                                                
+                                            </a></span><span class="bb">
+                                                一、项目编号：2004-HXTC-IU1066二、项目名称：<font>北京航空航天大学微电子学院</font>磁光测量变温系统项目三、成交信息供应商名称：北京东方晨景科技有限公司供应商地址：北京市海淀区中关村东路66号1号楼2203室成交金额：￥140,000.00元四、主要标的信息货物类名称规格型号数量单价高低温腔HLV-5001112000五、评审专家名单：杨树苹、沈英琪、杜艳、金祎、张学莹六、代理服务收费标准及金额......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('测量,学院,微电子')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">6</span>月<span class="a3">4</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-96477988-4.html"
+                                                target="_blank" title="北京航空航天大学微电子学院多场高分辨率磁光克尔显微镜项目中标公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院多场高分辨率磁光克尔显微镜项目中标公告
+                                                
+                                            </a></span><span class="bb">
+                                                公告概要：公告信息：采购项目名称<font>北京航空航天大学微电子学院</font>多场高分辨率磁光克尔显微镜项目品目货物/专用设备/专用仪器仪表/教学专用仪器采购单位<font>北京航空航天大学微电子学院</font>行政区域北京市公告时间2020年06月04日14:48本项目招标公告日期2020年05月11日中标日期2020年06月03日评审专家名单杨树苹、沈英琪、杜艳、金祎、林晓阳总中标金额￥99.000000万元（人民币）联系人及联系方式：......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('显微镜,学院,微电子')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">6</span>月<span class="a3">4</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-96561685-4.html"
+                                                target="_blank" title="北京航空航天大学微电子学院多场高分辨率磁光克尔显微镜项目中标结果公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院多场高分辨率磁光克尔显微镜项目中标结果公告
+                                                
+                                            </a></span><span class="bb">
+                                                一、项目编号：2004-HXTC-IU1067二、项目名称：<font>北京航空航天大学微电子学院</font>多场高分辨率磁光克尔显微镜项目三、中标信息供应商名称：青岛帮为通科技发展有限公司供应商地址：青岛市高新区火炬路100号盘谷创客空间C座302-2中标（成交）金额：￥990,000.00元四、主要标的信息货物类名称规格型号数量单价多场高分辨率磁光克尔显微镜JMKR-XT-1001950000五、评审专家名单：杨树苹......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('显微镜,学院,微电子')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">6</span>月<span class="a3">4</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-96477994-4.html"
+                                                target="_blank" title="北京航空航天大学微电子学院量子钻石原子力显微镜项目中标公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院量子钻石原子力显微镜项目中标公告
+                                                
+                                            </a></span><span class="bb">
+                                                公告概要：公告信息：采购项目名称<font>北京航空航天大学微电子学院</font>量子钻石原子力显微镜项目品目货物/专用设备/专用仪器仪表/教学专用仪器采购单位<font>北京航空航天大学微电子学院</font>行政区域北京市公告时间2020年06月04日14:36本项目招标公告日期2020年05月11日中标日期2020年06月03日评审专家名单杨树苹、沈英琪、杜艳、金祎、张学莹总中标金额￥305.000000万元（人民币）联系人及联系方式：项目......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('原子力显微镜,学院,微电子')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">6</span>月<span class="a3">4</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-96477983-4.html"
+                                                target="_blank" title="北京航空航天大学微电子学院磁光测量变温系统项目成交公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院磁光测量变温系统项目成交公告
+                                                
+                                            </a></span><span class="bb">
+                                                公告概要：公告信息：采购项目名称<font>北京航空航天大学微电子学院</font>磁光测量变温系统项目品目货物/专用设备/专用仪器仪表/教学专用仪器采购单位<font>北京航空航天大学微电子学院</font>行政区域北京市公告时间2020年06月04日14:41本项目招标公告日期2020年05月11日成交日期2020年06月03日谈判小组、询价小组成员、磋商小组成员名单及单一来源采购人员名单杨树苹、沈英琪、杜艳、金祎、张学莹总成交金额￥14.00......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('测量,学院,微电子')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">6</span>月<span class="a3">4</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-96012553-4.html"
+                                                target="_blank" title="北京航空航天大学微电子学院校级微纳公共平台超净间消防系统改造工程成交公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院校级微纳公共平台超净间消防系统改造工程成交公告
+                                                
+                                            </a></span><span class="bb">
+                                                公告概要：公告信息：采购项目名称<font>北京航空航天大学微电子学院</font>校级微纳公共平台超净间消防系统改造工程品目工程/专业施工/消防工程和安防工程采购单位<font>北京航空航天大学微电子学院</font>行政区域北京市公告时间2020年06月02日16:21本项目招标公告日期2020年05月22日成交日期2020年06月02日谈判小组、询价小组成员、磋商小组成员名单及单一来源采购人员名单梁长强、邱琼、彭铁鹰、宋宏伟、聂天晓总成交金额......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('消防系统,学院,微电子')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">6</span>月<span class="a3">2</span>日
+                                        </td>
+                                    </tr>
+                                    <tr><td colspan="2" style="padding-bottom:10px;"><script type="text/javascript" src="//bdlm1.bidcenter.com.cn/common/dy/vh_hv/openjs/un_z.js">u5115427</script></td></tr>
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-96002407-4.html"
+                                                target="_blank" title="校级微纳公共平台超净间消防系统改造工程中标结果--采招网" class="a2">
+                                                校级微纳公共平台超净间消防系统改造工程中标结果
+                                                
+                                            </a></span><span class="bb">
+                                                <font>北京航空航天大学微电子学院</font>校级微纳公共平台超净间消防系统改造工程现已完成评审工作，根据评审委员会提出的书面评审报告和推荐的成交候选人情况，现对评审结果信息做如下公示：1.项目名称：<font>北京航空航天大学微电子学院</font>校级微纳公共平台超净间消防系统改造工程2.项目编号：BHUGC20191043.比选公告发布时间：2020年05月22日比选时间：2020年06月01日14：00（北京时间）地点：北京市丰台区丽......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('消防系统,学院,微电子')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">6</span>月<span class="a3">2</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【招标变更】
+                                            <a href="/news-95751814-6.html"
+                                                target="_blank" title="北京航空航天大学微电子学院无液氦低温9T强磁场综合测试系统采购更正公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院无液氦低温9T强磁场综合测试系统采购更正公告
+                                                
+                                            </a></span><span class="bb">
+                                                公告概要：公告信息：采购项目名称<font>北京航空航天大学微电子学院</font>无液氦低温9T强磁场综合测试系统采购品目货物/专用设备/专用仪器仪表/教学专用仪器采购单位<font>北京航空航天大学微电子学院</font>行政区域北京市公告时间2020年06月01日17:34首次公告日期2020年05月20日更正日期2020年06月01日联系人及联系方式：项目联系人贾溪项目联系电话010-82376733、jowena@163.com采购单位北......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('测试系统,综合,磁场')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">6</span>月<span class="a3">1</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【招标公告】
+                                            <a href="/newscontent-94231938-1.html"
+                                                target="_blank" title="北京航空航天大学微电子学院校级微纳公共平台超净间消防系统改造工程比选公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院校级微纳公共平台超净间消防系统改造工程比选公告
+                                                
+                                            </a></span><span class="bb">
+                                                公告概要：公告信息：采购项目名称<font>北京航空航天大学微电子学院</font>校级微纳公共平台超净间消防系统改造工程品目工程/专业施工/消防工程和安防工程采购单位<font>北京航空航天大学微电子学院</font>行政区域北京市公告时间2020年05月22日13:40开标时间2020年06月01日14:00预算金额￥185.000000万元（人民币）联系人及联系方式：项目联系人田勇项目联系电话13601061739采购单位北京航空航天大学微电......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('消防系统,学院,微电子')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">5</span>月<span class="a3">22</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【招标公告】
+                                            <a href="/newscontent-94018217-1.html"
+                                                target="_blank" title="北京航空航天大学微电子学院超高真空电子束蒸镀系统采购公开招标公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院超高真空电子束蒸镀系统采购公开招标公告
+                                                
+                                            </a></span><span class="bb">
+                                                公告概要：公告信息：采购项目名称<font>北京航空航天大学微电子学院</font>超高真空电子束蒸镀系统采购品目货物/专用设备/专用仪器仪表/教学专用仪器采购单位<font>北京航空航天大学微电子学院</font>行政区域北京市公告时间2020年05月20日13:39获取招标文件时间2020年05月20日09:00至2020年05月27日16:30招标文件售价￥500获取招标文件的地点北京市海淀区学院路30号科大天工大厦A座608室（北四环学院桥......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('电子,真空,学院')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">5</span>月<span class="a3">20</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【招标公告】
+                                            <a href="/newscontent-93998101-1.html"
+                                                target="_blank" title="北京航空航天大学微电子学院无液氦低温9T强磁场综合测试系统采购公开招标公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院无液氦低温9T强磁场综合测试系统采购公开招标公告
+                                                
+                                            </a></span><span class="bb">
+                                                公告概要：公告信息：采购项目名称<font>北京航空航天大学微电子学院</font>无液氦低温9T强磁场综合测试系统采购品目货物/专用设备/专用仪器仪表/教学专用仪器采购单位<font>北京航空航天大学微电子学院</font>行政区域北京市公告时间2020年05月20日10:41获取招标文件时间2020年05月20日09:00至2020年05月27日16:30招标文件售价￥500获取招标文件的地点北京市海淀区学院路30号科大天工大厦A座608室（北......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('测试系统,综合,磁场')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">5</span>月<span class="a3">20</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【招标公告】
+                                            <a href="/newscontent-93957539-1.html"
+                                                target="_blank" title="北京航空航天大学微电子学院超高真空电子束蒸镀系统招标公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院超高真空电子束蒸镀系统招标公告
+                                                
+                                            </a></span><span class="bb">
+                                                招标公告项目概况<font>北京航空航天大学微电子学院</font>超高真空电子束蒸镀系统采购招标项目的潜在投标人应在（北京市海淀区学院路30号科大天工大厦A座608室（北四环学院桥东北角））获取招标文件，并于2020年06月10日14点00分（北京时间）前递交投标文件。一、项目基本情况项目编号：BIECC-ZB8197项目名称：<font>北京航空航天大学微电子学院</font>超高真空电子束蒸镀系统采购预算金额：385.00万元最高限价：385......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('电子,真空,学院')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">5</span>月<span class="a3">19</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【招标公告】
+                                            <a href="/newscontent-93957537-1.html"
+                                                target="_blank" title="无液氦低温9T强磁场综合测试系统招标公告--采招网" class="a2">
+                                                无液氦低温9T强磁场综合测试系统招标公告
+                                                
+                                            </a></span><span class="bb">
+                                                招标公告项目概况<font>北京航空航天大学微电子学院</font>无液氦低温9T强磁场综合测试系统采购招标项目的潜在投标人应在（北京市海淀区学院路30号科大天工大厦A座608室（北四环学院桥东北角））获取招标文件，并于2020年06月10日14点00分（北京时间）前递交投标文件。一、项目基本情况项目编号：BIECC-ZB8362项目名称：<font>北京航空航天大学微电子学院</font>无液氦低温9T强磁场综合测试系统采购预算金额：300.00......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('测试系统,综合,磁场')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">5</span>月<span class="a3">19</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-96459532-4.html"
+                                                target="_blank" title="北京航空航天大学微电子学院搬迁家具采购HB202005181690520--采招网" class="a2">
+                                                北京航空航天大学微电子学院搬迁家具采购HB202005181690520
+                                                
+                                            </a></span><span class="bb">
+                                                中央国家机关政府集中采购电子验收单【第一联：采购单位（需方）留存】上级单位：中华人民共和国工业和信息化部合同编号：采购单位：北京航空航天大学验收单号：HB202005181690520行政区域：北京发票编号：供货单位：北京全德隆创意家具有限公司采购项目：<font>北京航空航天大学微电子学院</font>搬迁家具采购产品分类产品名称规格(mm)材质及配置备注单价(元)数量计量单位小计(元)办公家具接待椅中背-标准木制类79......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('家具,搬迁,学院')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">5</span>月<span class="a3">18</span>日
+                                        </td>
+                                    </tr>
+                                    <tr><td colspan="2" style="padding-bottom:10px;"><script type="text/javascript" src="//bdlm1.bidcenter.com.cn/common/dy/vh_hv/openjs/un_z.js">u5115427</script></td></tr>
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【招标公告】
+                                            <a href="/newscontent-93281297-1.html"
+                                                target="_blank" title="北京航空航天大学微电子学院磁光测量变温系统项目采购公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院磁光测量变温系统项目采购公告
+                                                
+                                            </a></span><span class="bb">
+                                                公告概要：公告信息：采购项目名称<font>北京航空航天大学微电子学院</font>磁光测量变温系统项目品目货物/专用设备/专用仪器仪表/教学专用仪器采购单位<font>北京航空航天大学微电子学院</font>行政区域北京市公告时间2020年05月11日16:14开标时间2020年06月01日14:00预算金额￥15.000000万元（人民币）联系人及联系方式：项目联系人孙银英、蒙慧勤、闫文娟、周洁琼项目联系电话010-52837446、010-6......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('测量,学院,微电子')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">5</span>月<span class="a3">11</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【招标公告】
+                                            <a href="/newscontent-93265635-1.html"
+                                                target="_blank" title="北京航空航天大学微电子学院量子钻石原子力显微镜项目公开招标公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院量子钻石原子力显微镜项目公开招标公告
+                                                
+                                            </a></span><span class="bb">
+                                                公告概要：公告信息：采购项目名称<font>北京航空航天大学微电子学院</font>量子钻石原子力显微镜项目品目货物/专用设备/专用仪器仪表/教学专用仪器采购单位<font>北京航空航天大学微电子学院</font>行政区域北京市公告时间2020年05月11日16:09获取招标文件时间2020年05月11日09:00至2020年05月18日16:00招标文件售价￥500获取招标文件的地点方式：因疫情防控工作所需，目前仅接受电子渠道报名，请供应商与采购......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('原子力显微镜,学院,微电子')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">5</span>月<span class="a3">11</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【招标公告】
+                                            <a href="/newscontent-93349233-1.html"
+                                                target="_blank" title="多场高分辨率磁光克尔显微镜招标公告--采招网" class="a2">
+                                                多场高分辨率磁光克尔显微镜招标公告
+                                                
+                                            </a></span><span class="bb">
+                                                项目概况(<font>北京航空航天大学微电子学院</font>多场高分辨率磁光克尔显微镜项目)招标项目的潜在投标人应在（电子渠道报名）获取招标文件，并于2020年6月1日14点00分（北京时间）前递交投标文件。一、项目基本情况项目编号：2004-HXTC-IU1067项目名称：<font>北京航空航天大学微电子学院</font>多场高分辨率磁光克尔显微镜项目预算金额：99.5万元最高限价（如有）：99.5万元采购需求：包号采购内容数量交货期交货地点......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('显微镜,学院,微电子')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">5</span>月<span class="a3">11</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【招标公告】
+                                            <a href="/newscontent-93269530-1.html"
+                                                target="_blank" title="北京航空航天大学微电子学院多场高分辨率磁光克尔显微镜项目公开招标公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院多场高分辨率磁光克尔显微镜项目公开招标公告
+                                                
+                                            </a></span><span class="bb">
+                                                公告概要：公告信息：采购项目名称<font>北京航空航天大学微电子学院</font>多场高分辨率磁光克尔显微镜项目品目货物/专用设备/专用仪器仪表/教学专用仪器采购单位<font>北京航空航天大学微电子学院</font>行政区域北京市公告时间2020年05月11日16:18获取招标文件时间2020年05月11日09:00至2020年05月18日16:00招标文件售价￥500获取招标文件的地点方式：因疫情防控工作所需，目前仅接受电子渠道报名，请供应商......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('显微镜,学院,微电子')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">5</span>月<span class="a3">11</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【招标公告】
+                                            <a href="/newscontent-93341566-1.html"
+                                                target="_blank" title="北京航空航天大学微电子学院量子钻石原子力显微镜招标公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院量子钻石原子力显微镜招标公告
+                                                
+                                            </a></span><span class="bb">
+                                                项目概况(<font>北京航空航天大学微电子学院</font>量子钻石原子力显微镜项目)招标项目的潜在投标人应在（电子渠道报名）获取招标文件，并于2020年6月1日14点00分（北京时间）前递交投标文件。一、项目基本情况项目编号：2004-HXTC-IU1065项目名称：<font>北京航空航天大学微电子学院</font>量子钻石原子力显微镜项目预算金额：310万元最高限价（如有）：310万元采购需求：包号采购内容数量交货期交货地点采购需求1量子钻......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('原子力显微镜,学院,微电子')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">5</span>月<span class="a3">11</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【招标公告】
+                                            <a href="/newscontent-93341562-1.html"
+                                                target="_blank" title="北京航空航天大学微电子学院磁光测量变温系统招标公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院磁光测量变温系统招标公告
+                                                
+                                            </a></span><span class="bb">
+                                                项目概况(<font>北京航空航天大学微电子学院</font>磁光测量变温系统项目)招标项目的潜在投标人应在（电子渠道报名）获取招标文件，并于2020年6月1日14点00分（北京时间）前递交投标文件。一、项目基本情况项目编号：2004-HXTC-IU1066项目名称：<font>北京航空航天大学微电子学院</font>磁光测量变温系统项目预算金额：15万元最高限价（如有）：15万元采购需求：包号采购内容数量交货期交货地点采购需求1磁光测量变温系统1......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('测量,学院,微电子')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">5</span>月<span class="a3">11</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                                    <tr>
+                                        <td>
+                                            <span class="aa">【中标结果】
+                                            <a href="/newscontent-92892037-4.html"
+                                                target="_blank" title="北京航空航天大学微电子学院膜厚仪成交公告--采招网" class="a2">
+                                                北京航空航天大学微电子学院膜厚仪成交公告
+                                                
+                                            </a></span><span class="bb">
+                                                公告概要：公告信息：采购项目名称膜厚仪品目货物/通用设备/仪器仪表/光学仪器/物理光学仪器,货物/通用设备/仪器仪表/分析仪器/电化学分析仪器,货物/通用设备/仪器仪表/分析仪器/物理特性分析仪器及校准仪器采购单位<font>北京航空航天大学微电子学院</font>行政区域北京市公告时间2020年05月07日14:59本项目招标公告日期2020年04月17日成交日期2020年05月07日谈判小组、询价小组成员、磋商小组成员......<a
+                                                    href="javascript:;" style="color: #f00; font-weight: bold" onclick="layerShowXbQRcode('膜厚仪,学院,微电子')">查看详情>></a></span>
+                                        </td>
+                                        <td align="right" valign="top" style="color: #999; width: 181px; line-height: 22px;">地区：<a href="//bj.bidcenter.com.cn"
+                                            target="_blank" class="a3">北京</a><br />
+                                            发布时间：
+                                        <span class="a3">2020</span>年<span class="a3">5</span>月<span class="a3">7</span>日
+                                        </td>
+                                    </tr>
+                                    
+                                
+                        </table>
+                    </div>
+                    <div class="daili_more_select">
+                        <table cellpadding="0">
+                            <tr>
+                                <td width="267px">
+                                    <span id="CountAll"></span>
+                                </td>
+                                <td width="511" align="right"></td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" style="text-align: center;">
+                                    <input name="more" type="button" value="点击查看更多" onclick="ss()">
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="login_bottom">
+                        <table width="759" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td width="447" align="left" style="color: #666;">
+                                    <img onclick="ss()" style="cursor: pointer;" src="//img.bidcenter.com.cn/www/zhaobiao/images/rili/hsxm.gif" />
+                                </td>
+                                <td width="320">
+                                    <span class="s_left">
+                                        <input class="textname" id="chang" name="keywords" placeholder="请输入关键词，搜索更多项目信息"
+                                            value="请输入关键词，搜索更多项目信息" autocomplete="off" onclick="javascript: if (this.value.substring(0, 3) == '请输入') this.value = ''; this.style.color = '#000';"
+                                            accesskey="s" type="text" /></span> <span class="s_right">
+                                                <button id="Button1" onclick="ss()" type="button" class="btn">
+                                                    搜 索 搜 索</button></span>
+                                    <div class="clear">
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div style="position: fixed; bottom: 10px; right: 60px; border: solid 1px #c00; padding: 5px; background-color: #a00; cursor: pointer;"
+                onclick="$('body,html').animate({scrollTop:0},800);">
+                返<br>
+                回<br>
+                顶<br>
+                部
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+        <div class="banner" style="background-color: #ffffff; height: 90px;">
+            <script type="text/javascript">
+        var cpro_id = "u1643686";
+        
+</script>
+<script type="text/javascript" src="//cpro.baidustatic.com/cpro/ui/cm.js"></script><script type="text/javascript">
+        var cpro_id = "u6054103";
+        
+</script>
+<script type="text/javascript" src="//cpro.baidustatic.com/cpro/ui/cm.js"></script>
+        </div>
+        <!--8a0cbb098467ed57,1d-->
+        <!--063a950cad21e5e0,1d-->
+        <div class="footer">
+            <p class="gywm">
+                <a href="https://www.bidcenter.com.cn/">首页</a>| <a href="/help/gsjj.shtml">关于我们</a>| <a href="/help/rwfs.shtml">入网方式</a>| <a href="/help/fwlb.shtml">服务列表</a>| <a href="/help/fwtk.shtml">服务条款</a>|
+            <a href="/help/czdl.shtml">诚征代理</a>| <a href="/help/cpyc.shtml">诚聘英才</a>| <a href="/help/ggfw.shtml">广告服务</a>| <a href="/Friend.html">友情链接</a>| <a href="/help/ditu.shtml">网站地图</a>|
+            <a href="/BuserCenter/Releaseinformation/ReleaseIntroduction.aspx">信息发布</a>| <a href="//search.bidcenter.com.cn/search?type=0">免费信息</a>
+            </p>
+            <pre>
+客户咨询：010-88138022   传    真：010-88123823  公司总机：010-68960600   
+客服信箱：service#bidcenter.com.cn注:将#换成@即可  信息发布：xxfb#bidcenter.com.cn注:将#换成@即可
+京ICP证070615号  北京市公安局海淀分局备案编号：1101081994   本站法律顾问：北斗鼎铭律师事务所 周正国律师
+主办单位：北京海诚通胜网络科技有限公司   西安酷诚网络科技有限公司
+地址：北京市海淀区阜成路111号裕美达大厦5层 邮编:100142
+版权所有©2006-<script type="text/javascript" src="//static.bidcenter.com.cn/js/www/js/copy.js"></script>
+<a href="https://www.bidcenter.com.cn/" style="text-decoration: none; color: #777;">采招网（北京海诚通胜网络科技有限公司）</a> </pre>
+        </div>
+        <div style="display: none">
+            <script type="text/javascript" src="//static.bidcenter.com.cn/js/www/js/tj.js"></script>
+        </div>
+        <script type="text/javascript">
+        var ke = '北京航空航天大学微电子学院';
+        $(".textname").val(ke);
+        </script>
+        
+        <!--销邦关注二维码-->
+        <div class="wchat-ewm" id="showKeywordQRcode" style="display: none; width: 320px; background: #fff; border-radius: 5px; padding-bottom: 50px;">
+    <div class="ewm-close" style="float: right; margin: 10px 10px 0 0">
+        <a href="javascript:;" onclick="closelayer();">
+            <img src="//img.bidcenter.com.cn/www/zhaobiao/images/rili/guanbi.jpg" />
+        </a>
+    </div>
+    <div class="clear">
+    </div>
+    <img src="" class="QRcode-img" style="display: block; margin: 45px auto 30px;width:185px;height:185px" />
+    <p style="text-align: center; font-size: 16px; color: #333; padding: 0; margin: 0;">
+        <font style="color: #f00324; font-size: 16px;">微信</font>扫码，立即订阅
+    </p>
+</div>
+<script>
+    //关键词弹出层关注二维码
+    var layerShareXbQRcode = -1;
+    var layerShareXbQRcodeShowing = false;
+    function layerShowXbQRcode(keywords, newsid) {
+        if (!arguments[1]) newsid = 0;
+        //alert(newsid);
+        var date = { keyword: keywords, news_id: newsid }
+        $.getJSON("/JsonHandler/zhaobiao/KeywordQRcodeHandler.aspx", date, function (data) {
+            if (data.Ret) {
+                $(".QRcode-img").attr('src', data.Other);
+                layer.closeAll();
+                layerShareXbQRcodeShowing = true;
+                setTimeout(function () {
+                    layerShareXbQRcodeShowing = false;
+                }, 500);
+                layerShareXbQRcode = $.layer({
+                    type: 1,
+                    area: ['auto', 'auto'],
+                    title: false,
+                    closeBtn: [0, false],
+                    bgcolor: '',
+                    shade: [0.5, '#000'],
+                    border: [0],
+                    page: { dom: "#showKeywordQRcode" }
+                });
+            }
+            else {
+                layer.msg(data.Msg);
+            }
+        })
+    }
+    function closelayer() {
+        layer.close(layerShareXbQRcode);
+    }
+</script>
+    </body>
+</form>
+</html>

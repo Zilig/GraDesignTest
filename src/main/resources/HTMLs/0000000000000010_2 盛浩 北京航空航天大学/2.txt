@@ -1,0 +1,282 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>盛浩-北航深圳研究院</title><META Name="keywords" Content="北航深圳研究院" />
+<META Name="description" Content="盛浩，男，深圳北航新兴产业技术研究院数据活化（智慧城市）深圳市重点实验室特聘副研究员，北京航空航天大学计算机学院副教授，计算机应用系副主任，北京市大数据科学与脑机智能高精尖创新中心高级研究员，澳门理工学院客座研究员，计算机学会公共政策委员会执行委员，IEEE Senior Member，IEEE Conference on Universal Village主要发起人兼程序委员会主席。主要研究方向为计算机视觉、模式识别、人工智能等，近年来在IEE..." />
+
+<link rel="stylesheet" href="../../style/public.css" />
+<link rel="stylesheet" href="../../style/master.css" />
+<script type="text/javascript" src="../../js/bdtxk.min.js"></script>
+<script type="text/javascript" src="../../js/SuperSlide.js"></script>
+<script type="text/javascript" src="../../js/index.js"></script>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230525b1f110a09010a0000020141545b525546 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1216,'/content.jsp',1186,1536437910)</script>
+</head>
+<body>
+<!--top-->
+<div class="stickWrap"></div>
+<div class="headerWrap">
+    
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="../../index.htm" class="logo"></a>
+    <div class="linSea">
+        <div class="link">
+<script language="javascript">
+function dosuba233743a()
+{
+    try{
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+        }else if(ua.toLowerCase().indexOf("rv:")>-1)
+        {
+            window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE11+
+        }else{
+            if (document.all) 
+            {
+                window.external.addFavorite(document.location.href, document.title);
+            }else if(window.sidebar)
+            {
+                window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+            }
+            else
+            {
+                alert(hotKeysa233743a());
+            }
+        }
+
+    }
+    catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+}
+function hotKeysa233743a() 
+{
+    var ua = navigator.userAgent.toLowerCase(); 
+    var str = "";    
+    var isWebkit = (ua.indexOf('webkit') != - 1); 
+    var isMac = (ua.indexOf('mac') != - 1);     
+    if (ua.indexOf('konqueror') != - 1) 
+    {  
+        str = 'CTRL + B'; // Konqueror   
+    } 
+    else if (window.home || isWebkit || isMac) 
+    {        
+        str = (isMac ? 'Command/Cmd' : 'CTRL') + ' + D'; // Netscape, Safari, iCab, IE5/Mac   
+    }
+    return ((str) ? '无法自动添加到收藏夹，请使用' + str + '手动添加' : str);
+}
+function setHomepagea233743a()
+{
+    var url = document.location.href;
+    if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage(url);
+    }
+    else if (window.sidebar)
+    {
+        if(window.netscape)
+        {
+             try{
+                  netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+             }catch (e){
+                   alert("该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true");
+             }
+        }
+    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+    prefs.setCharPref('browser.startup.homepage',url);
+    }
+    else
+    {
+        alert("浏览器不支持自动设为首页，请手动设置");
+    }
+}
+</script>
+<table>
+    <tr>
+        <td style="font-size: 9pt">
+            <A href="javascript:setHomepagea233743a()" style="TEXT-DECORATION: none;">
+                <span onclick="javascript:setHomepagea233743a()">设为首页</span>
+            </A><font>|</font>
+            <A onclick="javascript:dosuba233743a();" href="#" style="TEXT-DECORATION: none;">
+                <span onclick="javascript:dosuba233743a()">加入收藏</span>
+            </A>
+
+         </td>
+    </tr>
+</table></div>
+        <div class="search">
+       <script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode233762').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey233762").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey233762").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey233762").value = base64.encode(document.getElementById("lucenenewssearchkey233762").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode233762"));
+        return true;
+    } 
+</script>
+<form action="../../ssjg.jsp?wbtreeid=1216" method="post" id="au2a" name="au2a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkey233762" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype233762" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope233762" name="searchScope" value="0">
+ <input name="showkeycode" id="showkeycode233762" type="text" value="请输入关键字进行搜索" class="searchText" onfocus="if(this.value=='请输入关键字进行搜索')this.value='';" onblur="if(this.value=='')this.value='请输入关键字进行搜索';" />
+<span>
+ <input type="image" src="../../images/search.png" align="absmiddle" name="" style="cursor: hand">
+</span>
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+
+        </div>
+    </div>
+</div>
+<!--nav-->
+<div class="navWrap">
+    <div class="innavWrap">
+        <ul class="cleafix">
+<li><a class="link " href="../../index.htm">
+首页
+</a></li>
+
+<li class="mainMenu">
+<a class="link  cur" href="../../zhcssys1.htm">智慧城市实验室</a>
+<div id="nav">
+<a href="../../zhcssys1/sysjj.htm">实验室简介</a>
+<a href="../../zhcssys1/kytdjs.htm">科研团队介绍</a>
+<a href="../../zhcssys1/xswyhcy.htm">学术委员会成员</a>
+</div> 
+</li>
+
+<li class="mainMenu">
+<a class="link  " href="../../jrkjsys.htm">金融科技实验室</a>
+<div id="nav">
+<a href="../../jrkjsys/sysjj.htm">实验室简介</a>
+<a href="../../jrkjsys/sdcxyyldcj.htm">四大产学研用落</a>
+<a href="../../jrkjsys/zyjsyjfx.htm">主要技术研究方</a>
+<a href="../../jrkjsys/zjwyh.htm">专家委员会</a>
+<a href="../../jrkjsys/rczp.htm">人才招聘</a>
+</div> 
+</li>
+
+<li class="mainMenu">
+<a class="link  " href="#">学术科研</a>
+<div id="nav">
+<a href="../../xsky/xscg.htm">学术成果</a>
+<a href="../../xsky/kytd.htm">科研团队</a>
+</div> 
+</li>
+
+<li class="mainMenu">
+<a class="link  " href="../../yjydt.htm">研究院动态</a>
+<div id="nav">
+<a href="../../yjydt/yjyxw.htm">研究院新闻</a>
+<a href="../../yjydt/xyhd.htm">校友活动</a>
+<a href="../../yjydt/jlhz.htm">交流合作</a>
+</div> 
+</li>
+
+<li class="mainMenu">
+<a class="link  " href="#">研究院概况</a>
+<div id="nav">
+<a href="../../yjygk/yjyjj.htm">研究院简介</a>
+<a href="../../yjygk/yjyldbz.htm">研究院领导班子</a>
+<a href="../../yjygk/dsj.htm">大事记</a>
+<a href="../../yjygk/dqjs.htm">党群建设</a>
+<a href="../../yjygk/lxwm.htm">联系我们</a>
+</div> 
+</li>
+
+
+</ul>
+
+
+
+    </div>
+</div>
+
+
+
+<div class="n_ban"><img src="../../images/19/12/16/17h9paou9b/banner2.jpg" /></div>
+
+
+
+
+
+
+<!--内页主体部分-->
+<div class="vsb-box">
+    <div class="vsb-container mainCon" containerid="2" columns="4">
+        <div class="local cleafix">  
+            <i><img src="../../images/ico9.png" /></i> 
+                        <a href="../../index.htm">首页</a>
+                <em>&gt;</em>
+                <a href="../../zhcssys1.htm">智慧城市实验室</a>
+                <em>&gt;</em>
+                <a href="../../zhcssys1/kytdjs.htm">科研团队介绍</a>
+                <em>&gt;</em>
+                正文
+
+        </div>
+        <div class="vsb-space n_con" columns="4">
+            
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><LINK href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+    <h2>盛浩</h2>
+            <h3><span>作者：</span><span>时间：2019-04-10</span><span>点击数：<script>_showDynClicks("wbnews", 1536437910, 1186)</script></span></h3>
+<div class="con_con"><p>
+    <div id="vsb_content"><div class="v_news_content">
+<p class="vsbcontent_img">
+ <img border="0" hspace="0" vspace="0" src="/__local/4/E5/65/96E8D488940CE4F4E9CD46C6A25_87AB4772_6FAE.jpg" width="180" vsbhref="vurl" vurl="/_vsl/4E56596E8D488940CE4F4E9CD46C6A25/87AB4772/6FAE" vheight="" vwidth="180" orisrc="/__local/4/E5/65/96E8D488940CE4F4E9CD46C6A25_87AB4772_6FAE.jpg" class="img_vsb_content"></p>
+<p class="vsbcontent_end">盛浩，男，深圳北航新兴产业技术研究院数据活化（智慧城市）深圳市重点实验室特聘副研究员，北京航空航天大学计算机学院副教授，计算机应用系副主任，北京市大数据科学与脑机智能高精尖创新中心高级研究员，澳门理工学院客座研究员，计算机学会公共政策委员会执行委员，IEEE Senior Member，IEEE Conference on Universal Village主要发起人兼程序委员会主席。主要研究方向为计算机视觉、模式识别、人工智能等，近年来在IEEE TIP、IEEE TCSVT、PR、CVIU、NEUROCOMPUTING、CVPR、ICASSP等国内外高水平期刊和国际会议上发表论文50余篇，授权专利10余项，《智慧城市》专著主要作者，IEEE TIP、TCSVT、CVIU、NEUROCOMPUTING、TITS等多个国际期刊的审稿人，并担任CCF C类期刊《Frontiers of Computer Science》副主编。主持国家自然基金重点和面上、重点研发专项、863计划、科技支撑等多项国家级科技计划项目。参与多项国家智慧城市标准的制订工作。相关研究成果获2018年北京市青年优秀科技论文奖、2017年7月国际顶级会议CVPR深度估计国际大赛冠军、2011年国防科技进步三等奖、2009年北京市科技进步二等奖、2011年北京航空航天大学科学技术进步二等奖、2009年度国家发明博览会银奖。并持续获得北京航空航天大学“青年拔尖”、“蓝天新星”、“蓝天新秀”人才计划支持。其在计算机视觉相关领域近5年的研究成果他引次数400余次，Google Scholar的H-index为13。</p>
+</div></div><div id="div_vote_id"></div></p>
+</div>
+    
+
+
+
+
+<div class="sx cleafix">
+    
+       <span class="bo-le">上一条：<a href="1187.htm">李超</a></span>
+        <span class="bo-le fl">下一条：<a href="1185.htm">冷彪</a></span>
+    
+</div>
+
+</form>
+
+            
+        </div>
+    </div>
+    
+</div>
+
+
+
+<!--footer-->
+<div class="footerWrap">
+    <!--footOne-->
+    
+    <!--footThree-->
+    <div class="footOne">
+		<div class="foot cleafix">
+			
+			<div class="ftone"><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<P>深圳市南山区高新南九道51号北航大厦一号楼19楼</P></div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

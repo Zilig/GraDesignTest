@@ -1,0 +1,1822 @@
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+        <head>
+                <base href="http://search.dangdang.com/Standard/Search/Extend/hosts/" />
+<link rel="dns-prefetch" href="http://search.dangdang.com">
+<link rel="dns-prefetch" href="http://img4.ddimg.cn">
+<title>盛锟斤拷作品_盛锟斤拷简介_盛锟斤拷作品大全-当当网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=GB2312">
+<meta name="description" content="当当网作者频道汇集盛锟斤拷作品大全，在线销售、阅读、点评盛锟斤拷作品，查看盛锟斤拷简介，购买正版盛锟斤拷作品集，尽在DangDang.COM" />
+<meta name="keywords" content="盛锟斤拷作品,盛锟斤拷简介,盛锟斤拷作品大全" />
+<meta name='ddclick_ab' content="ver:429"/>
+<meta name="ddclick_search" content="key:盛锟斤拷|cat:|session_id:886f2d27b77509c2d8e007b31ce2a77f|ab_ver:G|qinfo:0_1_60|pinfo:0_1_60"/>
+<link rel="canonical" href="http://search.dangdang.com/author/%CA%A2%EF%BF%BD%EF%BF%BD_1"/>
+        <link rel="stylesheet" type="text/css" href="css/theme_1.css"/>
+    <!--<link rel="Stylesheet" type="text/css" href="css/model/home.css" />-->
+<style>                    html { font-size: 12px; color: #404040; font-family: 'Microsoft YaHei','Arial','SimSun'; }
+	body, button, ul, li, ol, p, dl, dd, h1, h2, h3, h4, h5, h6, img, iframe, form, div { margin: 0; padding: 0; list-style-type: none; border: 0; }
+	#bd { width: 1200px; margin: 0 auto; background: #fff; }
+	.aside { width: 220px; float: left; }
+	.article { width: 960px; float: right; }
+	.narrow_page #bd { width: 960px; }
+	.narrow_page .article { width: 720px; }
+	.narrow_page .banner { width: 720px; }
+	.narrow_page .filter_box ul { width: 540px!important; }
+	.narrow_page .filter_box .list dd { width: 570px; }
+	.narrow_page .filter_box .list dd a { margin-right: 8px; }
+	.narrow_page .filter_box .list .brand_opt { width: 570px; }
+	.narrow_page .filter_box .list .pic_c { width: 610px; _width: 606px; }
+	.narrow_page .filter_relative .switch_btn { width: 720px; }
+	.narrow_page .shoplist { width: 720px; }
+	.narrow_page .popular_box { padding-left: 6px; }
+	.narrow_page #go_top { margin-left: 482px!important; }
+
+.prognosis_box:after { content: ' '; height: 0; display: block; visibility: hidden; clear: both; }
+				.prognosis_box { border: solid 1px #c0c0c0; background: #f5f5f5; margin: 10px 0px; zoom: 1; padding: 8px 0; line-height: 20px; }
+				.prognosis_box .t { float: left; width: 110px; text-align: right; font-weight: bold; color: #666; }
+				.prognosis_box .c { float: left; width: 830px; overflow: hidden; }
+				.prognosis_box .c a { color: #1A66B3; text-decoration: none; background: url(images/model/category/prognosis_line.png) left center no-repeat; padding: 0 11px; margin-left: -1px; white-space: nowrap; display: inline-block; }
+				.prognosis_box .c a:hover { text-decoration: underline; }.tools_box {width: 960px; background: #fe7c2c; position: relative; z-index:999;}
+.tools_box a { color: #555; }
+                        		
+                        .breadcrumb { line-height: 26px; padding: 10px 0px; height: 26px; }
+			.breadcrumb a, .find_breadcrumb a:hover { color: #1A66B3; }
+			.breadcrumb a { text-decoration: none; }
+                        .breadcrumb  .no_result{color: #666}
+			.breadcrumb a:hover { text-decoration: underline; }
+			.breadcrumb span { padding: 0 6px; }
+			.breadcrumb .current { padding: 0; color: #666; }
+			.breadcrumb .current .or { color: #f60; padding: 0; }
+			.breadcrumb .left { float: left; }
+			.breadcrumb .left .hover { background-position: right top; }
+			.breadcrumb .right { float: right; }
+			.breadcrumb .right a { color: #f60; font-weight: bold; }
+			.breadcrumb .icon_close { display: inline-block; width: 11px; height: 11px; overflow: hidden; cursor: pointer; background: url(images/model/category/icon_close_bg.png) left top no-repeat; padding: 0; margin-left: 6px; vertical-align: middle; }
+                       .spacer { display: none;}body, button, ul, li, ol, p, dl, dd, h1, h2, h3, h4, h5, h6, img, iframe, form { margin: 0; padding: 0; list-style-type: none; border: 0; }
+    .abox { border: 1px solid #e9e9e9; margin-bottom: 10px;width: 218px;overflow:hidden;color: #404040; font-size: 12px; font-family: SimSun,Arial; }
+    .abox a {text-decoration:none;color:#1a66b3; }
+    .abox a:hover {text-decoration:underline;}
+    .abox h3 { background: url(images/model/category/bg_left.png) repeat-x; color: #404040; font-size: 12px; height: 34px; line-height: 34px; padding-left: 10px;font-weight:bold; }
+    .abox .list2 { padding: 17px 0 0 33px; }
+    .abox .list2 li { width: 152px; line-height: 18px; margin-bottom: 10px;position:relative; }
+    .abox .list2 .pic { border: 1px solid #eaeaea; display: block; height: 150px; width: 150px;text-align:center;overflow:hidden; }
+    .abox .list2 .orange { font-family: Arial; margin-right: 5px;color:#f60; }
+    .abox .list2 .data { margin: 7px 0 3px;display:block;height:36px;width:158px;overflow:hidden; }
+    .abox .list2 .data a { color: #404040; word-break:break-all;word-wrap:break-word;line-height:18px;}
+    .abox .list2 .data a:hover {text-decoration:underline;color:#f60;}
+    .abox .list2 .tit {width:170px;}
+    .abox .tui { text-align: right; padding-right: 22px; margin: 0 0 14px; }
+    .abox .list2 .red {padding-bottom:3px;color:#c30;}
+    .abox .list2 .m_price {margin:0 4px 0 8px;}
+    .abox .list2 .price_p {width:165px;}
+    .d_price { color: #c30; font-family: Arial;font-weight:bold; }.m_price { color:#878787;background:url(images/model/category/bg_through.gif) repeat-x center 8px;font-style:normal;font-family:Arial;}
+    .gray {color:#878787;}    .author_info { border:1px solid #d4d4d4; padding:1px; font-size:14px; margin-bottom:10px;}
+    .author_info .author_title { height:36px; line-height:36px; padding:0 15px; color:#323232; background-color:#f2f2f2;}
+    .author_info .author_title a { width:30px; padding-left:20px; height:24px; font:12px/24px "宋体"; display:block; float:right;border:1px solid #bfbfbf; color:#969696; text-decoration:none; background:url(images/model/search/icon_arrow.png) 6px -5px no-repeat; margin-top:5px;}
+    .author_info .author_title a:hover { background-color:#fff;}
+    .author_info .author_title a.up { background-position:6px 10px;}
+    .author_info .author_con { padding:15px;}
+    .author_info p { color:#646464; line-height:24px; text-indent:2em;}
+    .author_title2 { font:14px/18px "微软雅黑"; color:#323232; padding-left:10px;}
+    .author_info .switch {background: #ffedd0;text-align: center;line-height: 12px; font-size:12px;border-top: solid 1px #fff;cursor: pointer;padding: 5px 0;}
+    .author_info .switch .icon {display: inline-block;height: 12px;width:12px;background:url(images/model/search/icon_arrow.png) 0 -10px no-repeat;margin-right: 2px;}
+    .author_info .switch .icon.up { background-position:0 4px;}
+    .author_info .author_list { padding:10px 0 5px 20px; color:#646464; line-height:26px;}
+    .author_info .author_list span { width:30px; display:inline-block; _display:inline; _zoom:1;}
+    .author_info .author_list a { color:#646464; text-decoration:none;}
+    .author_info .author_list a:hover { text-decoration:underline;}.sort_box .hidden{
+display:none;
+}
+.sort_box li .link:after, .sort_box li:after { content: " "; height: 0; display: block; clear: both; visibility: hidden; }
+.sort_box { border: solid 1px #f6581e; padding: 1px;margin-bottom:10px; }
+.sort_box a { color: #555; text-decoration: none; }
+.sort_box a:hover { text-decoration: none; }
+.sort_box h3 { background: url(images/model/category/sort_box_bg.png) left 0 repeat-x; display: block; height: 35px; line-height: 35px; color: #fff; padding-left: 10px; font-size: 14px; }
+.sort_box li { border-top: solid 1px #fff; vertical-align: middle; zoom: 1; background: url(images/model/category/sort_box_bg.png) left -62px repeat-x; }
+.sort_box .hover, .sort_box .on { background-position: 0 -35px;}
+.sort_box li .m { display: block; height: 27px; line-height: 27px; font-size: 14px; font-weight: bold; _overflow: hidden; background: url(images/model/category/sort_box_bg.png) 12px -89px no-repeat; padding: 0 10px 0 26px; border-bottom: solid 1px #d1d9e0; }
+.sort_box li .m .icon { display: inline-block; vertical-align: middle; float: right; background: url(images/model/category/sort_box_bg.png) -16px -134px no-repeat; width: 14px; height: 14px; margin-top: 6px; cursor: pointer; }
+.sort_box .m .add {background-position: 0 -118px !important;}
+.sort_box .m .minu {background-position: -16px -134px !important;}
+.sort_box li .t { display: inline-block; _padding-top: 2px; }
+.sort_box li .link { padding: 5px 0 0 23px; line-height: 18px; zoom: 1; background: #fff;overflow-x:hidden;}
+.sort_box li .hide { display:none;}
+.sort_box li .link span { width: 96px;
+overflow: hidden;
+white-space: nowrap;
+display: block;
+margin-right: 4px;
+padding: 0;
+float: left;
+height: 18px;
+padding-bottom: 5px;
+_margin-right: 2px;
+width: auto;
+float: none;
+padding: 1px 0 5px 17px;
+background: url(images/model/category/sort_box_bg.png) 0 -148px no-repeat;}
+.sort_box li .link .last {
+background-position: 0 -172px;
+}
+.sort_box li .link span a { _padding-top: 2px; display: inline-block; padding: 0 2px; *font-family: SimSun; }
+.sort_box li .link .now, .sort_box li .link a:hover { color: #fff; background: #ff7a29; }
+.sort_box li .link .now:hover { color: #fff; text-decoration: none; }
+.sort_box .on  .t,.sort_box .hover  .t { color: #fd4708; }
+.sort_box .on  .t{text-decoration:none;}
+.sort_box .hover .m .icon { background-position: 0 -134px; }
+.sort_box li .show{ display:block;} 
+.sort_box li{position:relative;}
+.sort_box .t{position:absolute;top:1px;left:25px;}
+.sort_box li .t {line-height: 27px;font-size: 14px;font-weight: bold;}
+.sort_box  li a:hover{text-decoration:underline !important;}
+.sort_box  li .link a:hover{text-decoration:none !important;}
+.sort_box  .hover  .m{cursor:pointer !important;}
+.sort _box li .link{margin:0;}
+.sort_box li .max{
+height:216px;
+overflow-y:auto;
+}
+.sort_box .switch{
+background: #ffedd0;
+text-align: center;
+line-height: 12px;
+border-top: solid 1px #fff;
+cursor: pointer;
+padding:5px 0;
+}
+.sort_box  .icon{
+display: inline-block;
+height: 12px;
+width: 12px;
+background: url(images/model/category/tools_box_bg.png) -22px -240px no-repeat;
+margin-right: 2px;
+}
+.sort_box .open .icon{
+display: inline-block;
+height: 12px;
+width: 12px;
+background: url(images/model/category/tools_box_bg.png) -34px -240px no-repeat;
+margin-right: 2px;
+}
+.sort_box  .switch_hover {
+background: #ffe0c2;
+}
+.find_sort_box h3 a { color: #fff; }
+				.find_sort_box h3 a:hover { text-decoration: underline; }
+				.find_sort_box li .link { padding: 10px 0 5px 15px; }
+				.find_sort_box li .link span { width: auto; float: none; padding: 1px 0 5px 17px; background: url(images/model/category/sort_box_bg.png) 0 -148px no-repeat; }
+				.find_sort_box li .link .last { background-position: 0 -172px; }
+
+				.find_sort_box .switch { background: #ffedd0; text-align: center; line-height: 12px; border-top: solid 1px #fff; cursor: pointer; padding: 5px 0; }
+				.find_sort_box .switch_hover { background: #ffe0c2; }
+				.find_sort_box .switch .icon { display: inline-block; height: 12px; width: 12px; background: url(images/model/category/tools_box_bg.png) -22px -240px no-repeat; margin-right: 2px; }
+				.find_sort_box .switch_on .icon { background-position: -33px -240px; }
+.category_panel h2{font-weight:bold;}.sort_box .hidden{
+display:none;
+}
+.sort_box li .link:after, .sort_box li:after { content: " "; height: 0; display: block; clear: both; visibility: hidden; }
+.sort_box { border: solid 1px #f6581e; padding: 1px;margin-bottom:10px; }
+.sort_box a { color: #555; text-decoration: none; }
+.sort_box a:hover { text-decoration: none; }
+.sort_box h3 { background: url(images/model/category/sort_box_bg.png) left 0 repeat-x; display: block; height: 35px; line-height: 35px; color: #fff; padding-left: 10px; font-size: 14px;font-weight:bold; }
+.sort_box li { border-top: solid 1px #fff; vertical-align: middle; zoom: 1; background: url(images/model/category/sort_box_bg.png) left -62px repeat-x; }
+.sort_box .hover, .sort_box .on { background-position: 0 -35px;}
+.sort_box li .m { display: block; height: 27px; line-height: 27px; font-size: 14px; font-weight: bold; _overflow: hidden; background: url(images/model/category/sort_box_bg.png) 12px -89px no-repeat; padding: 0 10px 0 26px; border-bottom: solid 1px #d1d9e0; }
+.sort_box li .m .icon { display: inline-block; vertical-align: middle; float: right; background: url(images/model/category/sort_box_bg.png) -16px -134px no-repeat; width: 14px; height: 14px; margin-top: 6px; cursor: pointer; }
+.sort_box .m .add {background-position: 0 -118px !important;}
+.sort_box .m .minu {background-position: -16px -134px !important;}
+.sort_box li .t { display: inline-block; _padding-top: 2px; }
+.sort_box li .link { padding: 5px 0 0 23px; line-height: 18px; zoom: 1; background: #fff;overflow-x:hidden;}
+.sort_box li .hide { display:none;}
+.sort_box li .link span { width: 96px;
+overflow: hidden;
+white-space: nowrap;
+display: block;
+margin-right: 4px;
+padding: 0;
+float: left;
+height: 18px;
+padding-bottom: 5px;
+_margin-right: 2px;
+width: auto;
+float: none;
+padding: 1px 0 5px 17px;
+background: url(images/model/category/sort_box_bg.png) 0 -148px no-repeat;}
+.sort_box li .link .last {
+background-position: 0 -172px;
+}
+.sort_box li .link span a { _padding-top: 2px; display: inline-block; padding: 0 2px; *font-family: SimSun; }
+.sort_box li .link .now, .sort_box li .link a:hover { color: #fff; background: #ff7a29; }
+.sort_box li .link .now:hover { color: #fff; text-decoration: none; }
+.sort_box .on  .t,.sort_box .hover  .t { color: #fd4708; }
+.sort_box .on  .t{text-decoration:none;}
+.sort_box .hover .m .icon { background-position: 0 -134px; }
+.sort_box li .show{ display:block;} 
+.sort_box li{position:relative;}
+.sort_box .t{position:absolute;top:1px;left:25px;}
+.sort_box li .t {line-height: 27px;font-size: 14px;font-weight: bold;}
+.sort_box  li a:hover{text-decoration:underline !important;}
+.sort_box  li .link a:hover{text-decoration:none !important;}
+.sort_box  .hover  .m{cursor:pointer !important;}
+.sort _box li .link{margin:0;}
+.sort_box li .max{
+height:216px;
+overflow-y:auto;
+}
+.sort_box .switch{
+background: #ffedd0;
+text-align: center;
+line-height: 12px;
+border-top: solid 1px #fff;
+cursor: pointer;
+padding:5px 0;
+}
+.sort_box  .icon{
+display: inline-block;
+height: 12px;
+width: 12px;
+background: url(images/model/category/tools_box_bg.png) -22px -240px no-repeat;
+margin-right: 2px;
+}
+.sort_box .open .icon{
+display: inline-block;
+height: 12px;
+width: 12px;
+background: url(images/model/category/tools_box_bg.png) -34px -240px no-repeat;
+margin-right: 2px;
+}
+.sort_box  .switch_hover {
+background: #ffe0c2;
+}
+.find_sort_box h3 a { color: #fff; }
+				.find_sort_box h3 a:hover { text-decoration: underline; }
+				.find_sort_box li .link { padding: 10px 0 5px 15px; }
+				.find_sort_box li .link span { width: auto; float: none; padding: 1px 0 5px 17px; background: url(images/model/category/sort_box_bg.png) 0 -148px no-repeat; }
+				.find_sort_box li .link .last { background-position: 0 -172px; }
+
+				.find_sort_box .switch { background: #ffedd0; text-align: center; line-height: 12px; border-top: solid 1px #fff; cursor: pointer; padding: 5px 0; }
+				.find_sort_box .switch_hover { background: #ffe0c2; }
+				.find_sort_box .switch .icon { display: inline-block; height: 12px; width: 12px; background: url(images/model/category/tools_box_bg.png) -22px -240px no-repeat; margin-right: 2px; }
+				.find_sort_box .switch_on .icon { background-position: -33px -240px; }
+		.paginating { border-top: solid 2px #fe7c2c; height: 34px; background: url(images/model/category/paginating_bg.png) left 0 repeat-x; padding: 0 10px; margin: 20px 0 10px; }
+		.paginating .paging { float: right; line-height: 24px; color: #666; padding-top: 5px; }
+		.paginating li { float: left; height: 24px; padding-left: 5px; }
+		.paginating a { border: solid 1px #c1c1c1; line-height: 22px; height: 22px; display: inline-block; padding: 0 8px; background: #fff; _margin-top: 1px; font-family: Arial; font-size: 12px; color:#555;text-decoration:none;}
+		.paginating a:hover, .paginating .current { text-decoration: none; background: #fe7c2c; color: #fff; border-color: #f75a00; }
+		.paginating .number { vertical-align: top; border: solid 1px #dacaca; height: 18px; width: 34px; margin: 0 4px; border-radius: 3px; line-height: 18px; *margin-top: -1px; _overflow: hidden; font-family: Arial; font-size: 12px; }
+		.paginating .button { vertical-align: top; height: 20px; background: url(images/model/category/btn_bg.png) left 0px repeat-x; width: 38px; cursor: pointer; color: #4f3a2b; margin-left: 6px; padding: 0 0 2px 0; margin-top: 1px; font-size: 12px; border: solid 1px #c7c7c7; padding: 0\0; *padding: 2px 0 0 0; border-radius: 3px; }
+		.paginating .hover { background-position: 0 -20px; }
+		.paginating .page_input { padding-left: 16px; *font-family: simsun; }
+		.paginating .page_input span { display: inline-block; vertical-align: top; _padding-top: 2px; font-weight: normal; *line-height: 22px; }
+		.paginating .up a, .paginating .prev a, .paginating .next a, .paginating .down a { overflow: hidden; *line-height: 24px; font-weight: bold;_line-height: 26px;  }
+		.paginating .none { cursor: default; }
+		.paginating .none a { color: #ccc; cursor: default; *line-height: 24px; _line-height: 26px; }
+		.paginating .none a:hover { background: #fff; color: #ccc; border-color: #c1c1c1; }
+		.paginating span { font-weight: bold; }
+		:root .paginating .up a, :root .paginating .up a, :root .paginating .next a, :root .paginating .down a, :root .paginating .none a { line-height: 20px\0; }
+              .spacer { display: none;}.narrow_page .tools_box { width: 720px; }
+.narrow_page .shoplist { width:720px;}
+.shoplist {width: 960px;zoom: 1;font-family: Arial;}
+.shoplist:after { content: "."; height: 0; clear: both; display: block; visibility: hidden; }
+.shoplist a { color: #555; text-decoration: none; }
+.shoplist a:hover { color: #f60; text-decoration: underline; }
+
+.shoplist .bigimg li { float: left; width: 240px; height: 330px; line-height: 18px; position: relative; border-bottom: solid 1px #e6e6e6; }
+.shoplist .bigimg li .inner { border:4px solid #fff; padding:14px 16px 12px; position: absolute; }
+.shoplist .bigimg .big { width: 478px; padding: 0; height: 319px; border: solid 1px #f0e4e4; border-top: 0; }
+.shoplist .bigimg li .pic { display: block; position: relative; margin-bottom: 10px; width: 200px; height: 200px; background: url(images/model/category/loading.gif) center no-repeat; }
+.shoplist .bigimg li .pic .sign { position: absolute; display: block; background: #896e51; color: #fff; left: 0; bottom: 0; padding: 0 4px; filter: alpha(opacity = 90); }
+.shoplist .bigimg li .pic:hover, .shoplist .bigimg li .pic:hover .sign { text-decoration: none; }
+.shoplist .bigimg .big .pic { margin-bottom: 0; }
+.shoplist .bigimg li img { display: block; }
+.shoplist .bigimg li .pic_list { width:185px; height:36px; padding:1px 5px 0 10px; margin-bottom:6px; overflow:hidden; position:relative;}
+.shoplist .bigimg li .pic_list dd { float:left; margin-right:3px;}
+.shoplist .bigimg li .pic_list dd a { border:1px solid #c8c9cd; padding:1px; display:block;}
+.shoplist .bigimg li .pic_list dd a:hover,.shoplist .bigimg li .pic_list dd a.on { margin:-1px; border:2px solid #ff863d;}
+.shoplist .bigimg li .pic_list dd img { width:30px; height:30px;}
+.shoplist .bigimg li .pic_list .btn_a { position:absolute; width:10px; height:36px; background:url(images/model/search/btn_new.gif) no-repeat;}
+.shoplist .bigimg li .pic_list .btn_l { background-position:-28px 12px; left:0; top:0;}
+.shoplist .bigimg li .pic_list .btn_l:hover { background-position:-63px 12px;}
+.shoplist .bigimg li .pic_list .unable_l,.shoplist .bigimg li .pic_list .unable_l:hover { background-position:-99px 12px; cursor:default;}
+.shoplist .bigimg li .pic_list .btn_r { background-position:-45px 12px; right:0; top:0;}
+.shoplist .bigimg li .pic_list .btn_r:hover { background-position:-80px 12px;}
+.shoplist .bigimg li .pic_list .unable_r,.shoplist .bigimg li .pic_list .unable_r:hover { background-position:-116px 12px; cursor:default;}
+.shoplist .bigimg li .price { padding-bottom:6px; color: #878787; }
+.shoplist .bigimg li .price_n { font-size:12px; color:#c30; font-weight: bold; padding-right: 10px; font-family: Arial; }
+.shoplist .bigimg li .price_s { color: #c30; font-family: Arial; }
+.shoplist .bigimg li .price_r { color: #878787; text-decoration: line-through; padding-right: 10px; font-family: Arial; }
+.shoplist .bigimg li .name { display: block; height: 36px; overflow: hidden; width: 200px; font-family: Arial; }
+.shoplist .bigimg li .subtitle { color: #c30; width: 200px; overflow: hidden; height: 18px; }
+.shoplist .bigimg li .t .color { color: #c06c45; white-space: nowrap; }
+.shoplist .bigimg li .star { color: #666; padding:4px 0; display: block; }
+.shoplist .bigimg li .level, .shoplist .bigimg li .level span { background: url(images/model/category/icon_star.png) left top repeat-x; display: inline-block; width: 60px; height: 12px; vertical-align: middle; overflow: hidden; line-height: 12px; font-size: 0; *vertical-align: auto; }
+.shoplist .bigimg li .level { margin: -2px 6px 0 0; }
+.shoplist .bigimg li .level span { background-position: left bottom; vertical-align: top; }
+.shoplist .bigimg li .link { color: #666; display: none; }
+.shoplist .bigimg li .link .icon { background: url(images/model/category/icon_bg.png) left -176px; height: 12px; width: 12px; display: inline-block; margin: -2px 4px 0 0; vertical-align: middle; overflow: hidden; *vertical-align: top; *margin-top: 2px; _margin-top: 0; }
+.shoplist .bigimg li .link a { font-weight: bold;color: #555;display: inline-block;width: 160px;overflow: hidden;height: 18px;vertical-align: middle;margin-top: -2px;_margin-top: -2px; }
+.shoplist .bigimg li .link a:hover { color: #f60; }
+.shoplist .bigimg li .rank { color: #c30; padding-top:1px; display: none; width:200px; overflow: hidden; height: 18px; }
+.shoplist .bigimg li .rank a { color:#555;}
+.shoplist .bigimg li .tag { color: #666; padding-top:10px; *padding-top:14px; _padding-top:17px; display: none; width:200px; overflow: hidden; height:20px; display: none; }
+.shoplist .bigimg li .tag a { color:#666; display:inline-block; padding:0 5px; border:1px solid #ffcfb1; background-color:#ffeee3; margin-right:5px;}
+.shoplist .bigimg li .tag a:hover { color:#f60; text-decoration:underline;}
+.shoplist .bigimg .name font{color:#c30;}
+.shoplist .bigimg .hover { z-index: 11; }
+.shoplist .bigimg .hover .inner { border-color: #ffcfb1; background: #fff; height: 298px;}
+.shoplist .bigimg .hover .star, .shoplist .bigimg .hover .link { display: block; }
+.shoplist .bigimg .color_box { position: absolute; bottom: 8px; right: -12px; }
+.shoplist .bigimg .color_box span { display: block; border: solid 1px #e7dcdc; height: 10px; width: 10px; overflow: hidden; margin-top: 3px; }
+.shoplist .bigimg .no_result { height: 190px; overflow: hidden; width: 600px; margin: 0 auto; }
+.shoplist .bigimg .no_result p { background: url(images/model/category/sorry.png) no-repeat 0 0; height: 80px; line-height: 70px; margin: 50px 0 0 90px; padding-left: 116px; }
+.shoplist .bigimg .no_result p a { color: #1a66b3; }
+
+.shoplist .cloth_bigimg li { float: left; width: 240px; height: 367px; line-height: 18px; position: relative; border-bottom: solid 1px #e6e6e6; }
+.shoplist .cloth_bigimg li .inner { border:4px solid #fff; padding:14px 16px 12px; position: absolute; }
+.shoplist .cloth_bigimg .big { width: 478px; padding: 0; height: 367px; border: solid 1px #f0e4e4; border-top: 0; }
+.shoplist .cloth_bigimg li .pic { display: block; position: relative; margin-bottom: 10px; width: 200px; height: 200px; background: url(images/model/category/loading.gif) center no-repeat; }
+.shoplist .cloth_bigimg li .pic .sign { position: absolute; display: block; background: #896e51; color: #fff; left: 0; bottom: 0; padding: 0 4px; filter: alpha(opacity = 90); }
+.shoplist .cloth_bigimg li .pic:hover, .shoplist .cloth_bigimg li .pic:hover .sign { text-decoration: none; }
+.shoplist .cloth_bigimg .big .pic { margin-bottom: 0; }
+.shoplist .cloth_bigimg li img { display: block; }
+.shoplist .cloth_bigimg li .pic_list { width:185px; height:36px; padding:1px 5px 0 10px; margin-bottom:6px; overflow:hidden; position:relative;}
+.shoplist .cloth_bigimg li .pic_list dd { float:left; margin-right:3px;}
+.shoplist .cloth_bigimg li .pic_list dd a {margin-top:1px; border:1px solid #c8c9cd; padding:1px; display:block;}
+.shoplist .cloth_bigimg li .pic_list dd a:hover,.shoplist .cloth_bigimg li .pic_list dd a.on { margin:-1px; border:2px solid #ff863d;}
+.shoplist .cloth_bigimg li .pic_list dd img { width:30px; height:30px;}
+.shoplist .cloth_bigimg li .pic_list .btn_a { position:absolute; width:10px; height:36px; background:url(images/model/search/btn_new.gif) no-repeat;}
+.shoplist .cloth_bigimg li .pic_list .btn_l { background-position:-28px 12px; left:0; top:0;}
+.shoplist .cloth_bigimg li .pic_list .btn_l:hover { background-position:-63px 12px;}
+.shoplist .cloth_bigimg li .pic_list .unable_l,.shoplist .cloth_bigimg li .pic_list .unable_l:hover { background-position:-99px 12px; cursor:default;}
+.shoplist .cloth_bigimg li .pic_list .btn_r { background-position:-45px 12px; right:0; top:0;}
+.shoplist .cloth_bigimg li .pic_list .btn_r:hover { background-position:-80px 12px;}
+.shoplist .cloth_bigimg li .pic_list .unable_r,.shoplist .cloth_bigimg li .pic_list .unable_r:hover { background-position:-116px 12px; cursor:default;}
+.shoplist .cloth_bigimg li .price { padding-bottom:6px; color: #878787; }
+.shoplist .cloth_bigimg li .price_n { font-size:12px; color:#c30; font-weight: bold; padding-right: 10px; font-family: Arial; }
+.shoplist .cloth_bigimg li .price_s { color: #c30; font-family: Arial; }
+.shoplist .cloth_bigimg li .price_r { color: #878787; text-decoration: line-through; padding-right: 10px; font-family: Arial; }
+.shoplist .cloth_bigimg li .name { display: block; height: 36px; overflow: hidden; width: 200px; font-family: Arial; }
+.shoplist .cloth_bigimg li .subtitle { color: #c30; width: 200px; overflow: hidden; height: 18px; }
+.shoplist .cloth_bigimg li .t .color { color: #c06c45; white-space: nowrap; }
+.shoplist .cloth_bigimg li .star { color: #666; padding:4px 0; display: block; }
+.shoplist .cloth_bigimg li .level, .shoplist .cloth_bigimg li .level span { background: url(images/model/category/icon_star.png) left top repeat-x; display: inline-block; width: 60px; height: 12px; vertical-align: middle; overflow: hidden; line-height: 12px; font-size: 0; *vertical-align: auto; }
+.shoplist .cloth_bigimg li .level { margin: -2px 6px 0 0; }
+.shoplist .cloth_bigimg li .level span { background-position: left bottom; vertical-align: top; }
+.shoplist .cloth_bigimg li .link { color: #666; display: none; }
+.shoplist .cloth_bigimg li .link .icon { background: url(images/model/category/icon_bg.png) left -176px; height: 12px; width: 12px; display: inline-block; margin: -2px 4px 0 0; vertical-align: middle; overflow: hidden; *vertical-align: top; *margin-top: 2px; _margin-top: 0; }
+.shoplist .cloth_bigimg li .link a { font-weight: bold;color: #555;display: inline-block;width: 160px;overflow: hidden;height: 18px;vertical-align: middle;margin-top: -2px;_margin-top: -2px; }
+.shoplist .cloth_bigimg li .link a:hover { color: #f60; }
+.shoplist .cloth_bigimg li .rank { color: #c30; padding-top:1px; display: none; width:200px; overflow: hidden; height: 18px; }
+.shoplist .cloth_bigimg li .rank a { color:#555;}
+.shoplist .cloth_bigimg li .tag { color: #666; padding-top:10px; *padding-top:14px; _padding-top:17px; display: none; width:200px; overflow: hidden; height:20px; display: none; }
+.shoplist .cloth_bigimg li .tag a { color:#666; display:inline-block; padding:0 5px; border:1px solid #ffcfb1; background-color:#ffeee3; margin-right:5px;}
+.shoplist .cloth_bigimg li .tag a:hover { color:#f60; text-decoration:underline;}
+.shoplist .cloth_bigimg .name font{color:#c30;}
+.shoplist .cloth_bigimg .hover { z-index: 11; }
+.shoplist .cloth_bigimg .hover .inner { border-color: #ffcfb1; background: #fff; height: 337px;}
+.shoplist .cloth_bigimg .hover .star, .shoplist .cloth_bigimg .hover .link { display: block; }
+.shoplist .cloth_bigimg .color_box { position: absolute; bottom: 8px; right: -12px; }
+.shoplist .cloth_bigimg .color_box span { display: block; border: solid 1px #e7dcdc; height: 10px; width: 10px; overflow: hidden; margin-top: 3px; }
+.shoplist .cloth_bigimg .no_result { height: 190px; overflow: hidden; width: 600px; margin: 0 auto; }
+.shoplist .cloth_bigimg .no_result p { background: url(images/model/category/sorry.png) no-repeat 0 0; height: 80px; line-height: 70px; margin: 50px 0 0 90px; padding-left: 116px; }
+.shoplist .cloth_bigimg .no_result p a { color: #1a66b3; }
+
+.tag_box { position: absolute; top: 0; right: 0; width: 56px; height: 56px; z-index: 10; }
+
+.shoplist .listimg .pic { float: left; border: solid 1px #dfdede; margin-right: 10px;width: 150px; height:150px; background: url(images/model/category/loading.gif) center no-repeat;position: relative; }
+.shoplist .listimg .pic img { width: 150px; height: 150px; }
+.shoplist .listimg li { zoom: 1; border: solid 1px #fff; border-width: 1px 0; border-top-color: #e6e6e6; padding: 20px 10px; position: relative; line-height: 24px; font-family: Arial; vertical-align: middle; }
+.shoplist .listimg li:after { content: " "; height: 0; display: block; clear: both; visibility: hidden; }
+.shoplist .listimg .hover { background: #fff7e8; }
+.shoplist .listimg .name, .shoplist .listimg .subtitle { position: absolute; top: 26px; left: 172px; height: 48px; overflow: hidden; width: 310px; display: block; word-break: break-all; word-wrap: break-word; *font-family: simsun; }
+.shoplist .listimg .name img{vertical-align:middle;}
+.shoplist .listimg .name font{color:#c30;}
+.shoplist .listimg .subtitle { top: 74px; color: #c30; height: 24px; }
+.shoplist .listimg .price { position: absolute; left: 560px; top: 74px; }
+.shoplist .listimg .price .price_n { color: #c00; font-weight: bold; padding-right: 10px; }
+.shoplist .listimg .price .price_r { text-decoration: line-through; color: #878787; padding-right: 10px; }
+.shoplist .listimg .price .price_s { color: #c30; font-family: simsun; }
+.shoplist .listimg .star { position: absolute; left: 800px; top: 74px; color: #666; *font-family: simsun; *top: 77px; }
+.shoplist .listimg li .level, .shoplist .listimg li .level span { background: url(images/model/category/icon_star.png) left top repeat-x; display: inline-block; width: 60px; height: 12px; vertical-align: middle; overflow: hidden; line-height: 12px; font-size: 0; }
+.shoplist .listimg li .level { margin: -2px 6px 0 0; }
+.shoplist .listimg li .level span { background-position: left bottom; vertical-align: top; }
+.shoplist .listimg .link { position: absolute; left: 172px; top: 154px; line-height: 18px; color: #555; font-family: simsun; }
+.shoplist .listimg li .link .icon { background: url(images/model/category/icon_bg.png) left -176px; height: 12px; width: 12px; display: inline-block; margin: -2px 4px 0 0; vertical-align: middle; overflow: hidden; *vertical-align: top; *margin-top: 0; }
+.shoplist .listimg li .link a { font-weight: bold; color: #555; display: inline-block; width: 160px; overflow: hidden; height: 18px; vertical-align: middle; margin-top: -1px; *vertical-align: top; *margin-top: -2px; *font-family: simsun; }
+.shoplist .listimg li .link a:hover { color: #f60; }
+.shoplist .listimg .tag_box { position: absolute; top: 16px; right: auto; left: 113px; width: 56px; height: 56px; z-index: 10; }
+.shoplist .no_result { height: 190px; overflow: hidden; width: 600px; margin: 0 auto; }
+.shoplist .no_result p { background: url(images/model/guan/fashion/sorry.png) no-repeat 0 0; height: 80px; line-height: 70px; margin: 50px 0 0 90px; padding-left: 116px; }
+.shoplist .no_result p a { color: #1a66b3; }
+.shoplist .bigimg li .eico{background:url(images/model/category/e_book_icon.png) no-repeat;text-indent:24px;}
+.shoplist .cloth_bigimg li .eico{background:url(images/model/category/e_book_icon.png) no-repeat;text-indent:24px;}
+.shoplist .listimg li .eico{background:url(images/model/category/e_book_icon.png) no-repeat;text-indent:24px;}
+.book_shoplist .bigimg li .star { display: block; padding: 0; }
+.book_shoplist .bigimg li { height: 346px; }
+.book_shoplist .bigimg .author { padding: 3px 0; width: 200px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.book_shoplist .bigimg .author a, .book_shoplist .bigimg .publishing a { color: #1A66B3; }
+.book_shoplist .bigimg .hover .inner { height: 344px; }
+.book_shoplist .bigimg .publishing { padding: 3px 0; display: none; }
+.book_shoplist .bigimg .publishing_time { display: none; }
+.book_shoplist .bigimg .hover .publishing, .book_shoplist .bigimg .hover .publishing_time { display: block; }
+
+.book_shoplist .cloth_bigimg li .star { display: block; padding: 0; }
+.book_shoplist .cloth_bigimg li { height: 383px; }
+.book_shoplist .cloth_bigimg .author { padding: 3px 0; width: 200px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.book_shoplist .cloth_bigimg .author a, .book_shoplist .cloth_bigimg .publishing a { color: #1A66B3; }
+.book_shoplist .cloth_bigimg .hover .inner { height: 362px; }
+.book_shoplist .cloth_bigimg .publishing { padding: 3px 0; display: none; }
+.book_shoplist .cloth_bigimg .publishing_time { display: none; }
+.book_shoplist .cloth_bigimg .hover .publishing, .book_shoplist .cloth_bigimg .hover .publishing_time { display: block; }
+
+.book_shoplist .listimg .detail a{color:#1a66b3;}
+.narrow_page .shoplist { width: 720px; }
+.narrow_page .shoplist .listimg .name, .narrow_page .shoplist .listimg .subtitle { width: 216px; }
+.narrow_page .shoplist .listimg .price { left: 410px; top: 26px; width: 140px; text-align: center; }
+.narrow_page .shoplist .listimg .price .price_n { display: block; }
+.narrow_page .shoplist .listimg .star { width: 148px; left: 570px; top: 26px; }
+
+.book_shoplist { }
+.book_shoplist li { }
+.book_shoplist .listimg .name { top: 20px; line-height: 20px; height: 20px; width: 780px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.book_shoplist .listimg .subtitle{width: 780px; }
+.book_shoplist .listimg .name img{vertical-align:middle;}
+.book_shoplist .listimg .name a, .book_shoplist .listimg .star a { font-size: 14px; color: #1A66B3; }
+.book_shoplist .listimg .name a:hover, .book_shoplist .listimg .star a:hover { color: #1A66B3; }
+.book_shoplist .listimg .star { left: 172px; top: 64px; _top: 68px; }
+.book_shoplist .listimg .subtitle{top:44px;}
+.book_shoplist .listimg .star a { font-size: 12px; }
+.book_shoplist .listimg .publisher_info{float:left;margin-top:64px;overflow:hidden;width:774px;white-space:nowrap;height:24px;}
+.book_shoplist .listimg .author, .book_shoplist .listimg .publishing, .book_shoplist .listimg .publishing_time { position: static; display: inline-block; float: left; }
+.book_shoplist .listimg .publishing, .book_shoplist .listimg .publishing_time { padding: 0 6px; _font-family: SimSun; }
+.book_shoplist .listimg .author{*font-family:simsun; }
+.book_shoplist .listimg .author a, .book_shoplist .listimg .publishing a { color: #1A66B3; }
+.book_shoplist .listimg .detail { display: inline-block; line-height: 20px; height: 40px; overflow: hidden; color: #878787; width: 778px; _float: left;_width:774px;*font-family:simsun;}
+.book_shoplist .listimg .price { position: static; float: right; padding-top: 8px; width: auto; }
+.book_shoplist .listimg .buy_button { position: static; width: 200px; text-align: right; float: right; padding-top: 8px; height: 21px; overflow: hidden; }
+.book_shoplist .listbtn_collect, .book_shoplist .listbtn_buy, .book_shoplist .listbtn_free, .book_shoplist .listbtn_used, .book_shoplist .listbtn_destine, .book_shoplist .listbtn_destine, .book_shoplist .listbtn_lack, .book_shoplist .listbtn_info, .book_shoplist .listimg .listbtn_read { display: inline-block; height: 21px; width: 80px; background: url(images/model/category/list_button_bg.png) left top no-repeat; margin-left: 15px; }
+.book_shoplist .listbtn_collect { background-position: left -84px; }
+.book_shoplist .listbtn_collect:hover { background-position: left -105px; }
+.book_shoplist .listbtn_buy { background-position: left -126px; }
+.book_shoplist .listbtn_buy:hover { background-position: left -147px; }
+.book_shoplist .listbtn_free { background-position: left -42px; width: 69px; }
+.book_shoplist .listbtn_free:hover { background-position: left -63px; }
+.book_shoplist .listbtn_used { background-position: left -252px; width: 69px; }
+.book_shoplist .listbtn_used:hover { background-position: left -273px; }
+.book_shoplist .listbtn_destine { background-position: left 0; }
+.book_shoplist .listbtn_destine:hover { background-position: left -21px; }
+.book_shoplist .listbtn_lack { background-position: left -168px; width: 69px; }
+.book_shoplist .listbtn_lack:hover { background-position: left -189px; }
+.book_shoplist .listbtn_info { background-position: left -210px; width: 69px; }
+.book_shoplist .listbtn_info:hover { background-position: left -231px; }
+
+.narrow_page .book_shoplist { width: 720px; }
+.narrow_page .book_shoplist .listimg .name { width: 540px; }
+.narrow_page .book_shoplist .listimg .subtitle{width: 540px; }
+.narrow_page .book_shoplist .listimg .price { top: 180px; left: auto; right: 220px; width: auto; }
+.narrow_page .book_shoplist .listimg .price .price_n { display: inline; }
+.narrow_page .book_shoplist .listimg .star { left: 172px; top: 64px; }
+.narrow_page .book_shoplist .listimg .detail { width: 530px; }
+.narrow_page .book_shoplist .listimg .publisher_info{width:530px;}
+
+.book_shoplist .ebook_buy { clear: both; }
+.book_shoplist .ebook_buy .listbtn_buy { background-position: left -461px; }
+.book_shoplist .ebook_buy .listbtn_buy:hover { background-position: left -482px; }
+.book_shoplist .ebook_buy .listbtn_collect { background-position: left -419px; }
+.book_shoplist .ebook_buy .listbtn_collect:hover { background-position: left -440px; }
+.book_shoplist .ebook_buy .ebook_link { color: #1A66B3; background: url(images/model/category/e_book_icon.png) left center no-repeat; padding: 0 16px 0 22px; line-height: 18px; height: 18px; display: inline-block; *vertical-align: middle; float: right; margin-top: 11px; *margin-top: 13px; *background-position: left top; _margin-top: 12px; }
+
+.book_shoplist { }
+.book_shoplist .bigimg li .star { display: block; padding: 0; }
+.book_shoplist .bigimg li { height: 346px; }
+.book_shoplist .bigimg .author { padding: 3px 0; width: 200px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;*font-family:simsun;height:18px; }
+.book_shoplist .bigimg .author a, .book_shoplist .bigimg .publishing a { color: #1A66B3; *font-family:simsun;}
+.book_shoplist .bigimg .hover .inner { height: 344px; }
+.book_shoplist .bigimg .publishing { padding: 3px 0; display: none; height:18px;}
+.book_shoplist .bigimg .publishing_time { display: none; height:18px;}
+.book_shoplist .bigimg .hover .publishing, .book_shoplist .bigimg .hover .publishing_time { display: block; }
+
+.book_shoplist .cloth_bigimg li .star { display: block; padding: 0; }
+.book_shoplist .cloth_bigimg li { height: 383px; }
+.book_shoplist .cloth_bigimg .author { padding: 3px 0; width: 200px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;*font-family:simsun;height:18px; }
+.book_shoplist .cloth_bigimg .author a, .book_shoplist .cloth_bigimg .publishing a { color: #1A66B3; *font-family:simsun;}
+.book_shoplist .cloth_bigimg .hover .inner { height: 362px; }
+.book_shoplist .cloth_bigimg .publishing { padding: 3px 0; display: none; height:18px;}
+.book_shoplist .cloth_bigimg .publishing_time { display: none; height:18px;}
+.book_shoplist .cloth_bigimg .hover .publishing, .book_shoplist .cloth_bigimg .hover .publishing_time { display: block; }
+/* 定金预售优惠价格 */
+.promo_price { height:30px; width:100%; position:absolute; bottom:0; left:0; text-align:center; font:12px/30px "Microsoft Yahei"; color:#ff7348;}
+.promo_price em { width:100%; height:30px; position:absolute; left:0; top:0; background-color:#000; opacity:0.7;filter: alpha(opacity=70); z-index:1;}
+.promo_price span { z-index:9; position:relative;}.tools_box {width: 960px; background: #fe7c2c; position: relative; z-index:999;}
+.tools_box a { color: #555; }
+.tools_box .top, .tools_box .t, .tools_box .sorting_box li, .tools_box .sorting_box .on a, .tools_box .sorting_box li .icon, .tools_box .select_box .arrow, .tools_box .data .arrow_l, .tools_box .data .arrow_r, .tools_box .bottom .opt li a, .tools_box .top .select_pop .close, .tools_box .top .switch a span, .tools_box .sorting_box .hover a,.tools_box .sorting_box a:hover,.tools_box .sorting_box .on a,.tools_box .sorting_box .on a:hover{ background: url(images/model/search/tools_box_bg.png); }
+.tools_box .top { height: 38px; border: solid 1px #c6c6c6; border-width: 0 1px; margin-bottom: 3px; line-height: 38px; background-color: #fff; background-position: 0 -318px; }
+.tools_box .top .sorting_box{_margin-bottom: -3px;}
+.tools_box .t { float: left; width: 41px; text-align: left; background-position: right -181px; font-weight: bold; padding-left: 10px; padding-top: 2px; line-height: 36px; }
+.tools_box .sorting_box { float: left; }
+.tools_box .sorting_box li { float: left; background-position: right -181px; cursor: pointer; padding-right: 1px; margin-left: -1px; background-repeat: no-repeat; height:38px; }
+.tools_box .sorting_box li a { display:block;text-align: center; padding:2px 10px 0; line-height: 36px; _height: 24px; _padding:14px 10px 0; _line-height: 14px; font-size:14px; _float:left;}
+.tools_box .sorting_box li .icon { display: inline-block; height: 8px; width:9px; background-position: 0 -76px; margin-left:5px; *vertical-align: middle; overflow: hidden; }
+.tools_box .sorting_box li .icon_t { background:url(images/model/search/btn_new.gif) 2px -4px no-repeat; width:10px; height:12px;}
+.tools_box .sorting_box li.hover .icon_t,.tools_box .sorting_box li a:hover .icon_t,.tools_box .sorting_box li.on a .icon_t{ background: url(images/model/search/btn_new.gif) no-repeat scroll -0px -27px rgba(0, 0, 0, 0);background: url(images/model/search/btn_new.gif) no-repeat scroll -0px -27px\9;height: 12px;width: 10px;}/*LiMingYue*/
+.tools_box .sorting_box li .icon_s { background:url(images/model/search/btn_bg.png) -86px -175px no-repeat;}
+.tools_box .sorting_box .on a,.tools_box .sorting_box .on a:hover, .tools_box .sorting_box .hover div { background-position: 0 -393px; font-weight: bold; color: #fff; }/*LiMingYue*/
+.tools_box .sorting_box .hover a { background-position: 0 -434px; color: #fff; }
+.tools_box .sorting_box .on a { background-position: 0 -393px; color: #fff; }
+.tools_box .sorting_box .hover .icon,.tools_box .sorting_box a:hover .icon { background-position: -35px -76px; }
+.tools_box .sorting_box .hover .icon_t,.tools_box .sorting_box a:hover .icon_t { background-position: -28px -76px; }
+.tools_box .sorting_box .on .icon { background-position: -21px -76px; }
+.tools_box .sorting_box .on .icon_t { background-position: -7px -76px; }
+
+.tools_box .select_box { float: left; height: 38px; line-height: 38px;left:0px; top:0px;_top:13px;position: relative; z-index: 100; }/*LiMingYue*/
+.tools_box .select_box .d { cursor: pointer; width: 70px; *line-height: 22px; _line-height: 23px; overflow: hidden; height: 20px; }
+.tools_box .select_box .select_pop { position: absolute; left: 0px; top:38px;_top:25px; border: solid 1px #c1c1c1; background: #fff;  padding:0; font-size:12px; z-index:9999; }/*LiMingYue*/
+.tools_box .top .select_box .select_pop ul li { line-height:24px; height:24px;_height:18px;_line-height:18px; white-space: nowrap;}/*LiMingYue*/
+.tools_box .top .select_box .select_pop ul li a { border: solid 1px #fff; border-width: 1px 0; padding: 0 10px 0 5px; display: block; text-decoration: none; _height: 16px; _line-height: 14px; _padding-top: 6px; }
+.tools_box .top .select_box .select_pop ul .on a { background: #e6e6e6; }
+.tools_box .select_box .arrow { display: inline-block; width: 17px; border-left: solid 1px #c2c2c2; background-position: -20px -146px; height: 20px; vertical-align: top; cursor: pointer; }
+.tools_box .t_s { float: left; font-weight: bold; padding-left: 10px; padding-top: 1px; line-height: 38px; height: 37px; overflow: hidden; }
+.tools_box .interval { float: left; position: relative; line-height: 34px; height: 34px;_line-height: 40px; _height: 40px; z-index: 100; width:114px; }/*LiMingYue( width:128px;)*/
+
+.tools_box .interval .inner div { padding:0; display:none; }
+.tools_box .interval .inner span { padding:0 2px; color:#d7d7d7;}
+.tools_box .interval .inner { background: none repeat scroll 0 0 #FFFFFF;left: 0;margin-left: 0;padding: 3px 11px 1px;_padding: 3px 11px 13px;position: absolute; top: 0;width: 92px; }/*LiMingYue*/
+.tools_box .interval_on .inner { background:#f4f4f4; position:absolute; top:0px; _top:11px; left:-1px; width:93px;padding: 2px 10px 0px;_padding: 2px 10px 12px;border:1px solid #E1E1E1; }/*LiMingYue( width:93px;)*/
+.tools_box .interval_on .inner div { display: block; padding: 5px 0 3px; text-align: center; }
+.tools_box .interval .text {background: url("images/model/search/btn_new.gif") no-repeat scroll -128px 1px #FFF;border: 1px solid #E1E1E1;color: #878787;height: 15px;line-height: 15px;margin: 0;_margin-top: 6px;outline: medium none;padding: 1px 0 1px 10px;width: 29px;}/*LiMingYue*/
+.tools_box .interval .button { background-color:#f5f5f5;height: 20px; border: solid 1px #cccbca; cursor: pointer; font-size: 12px; padding: 0 5px; border-radius: 2px; margin: 0px; *padding: 2px 2px 0; }
+@-moz-document url-prefix() {.tools_box .interval .button;
+{ padding-bottom: 2px; }
+}
+.tools_box .interval .hover { background-color:#ececec; border-color: #97cef2; }
+.tools_box .interval .btn_yes { margin-left:8px;background-color:#fd601a; border-color: #f25b00; color: #fff; }
+.tools_box .interval .btn_yes_hover { background-color:#ff904e; border-color: #f25b00; }
+.tools_box .data { float: right; padding-right: 6px; padding-top: 13px; height: 24px; line-height: 15px; }
+.tools_box .data a { float:left; }
+.tools_box .data span { float:left;margin-top:-1px\9; }
+.tools_box .data .arrow_l, .tools_box .data .arrow_r {display: inline-block;width: 14px;height: 15px;line-height: 0;border: solid 1px #c1c1c1;vertical-align: middle;background-position: 4px -148px;background-color: #fff;margin: -1px 4px 0;_margin-top: -4px;background-repeat: no-repeat;cursor: default;}
+.tools_box .data .arrow_r { background-position: -8px -148px; }
+.tools_box .data .arrow_r_on {background-position: -8px -164px;cursor: pointer;}
+.tools_box .data .arrow_l_on {background-position: 4px -164px;cursor: pointer;}
+.tools_box .data .or { color: #f60; font-weight: bold; }
+.tools_box .data span { font-family: Arial; }
+.tools_box .bottom {border-top: 0; background-color: #fff; }
+.tools_box .bottom .t { font-weight: normal; background: none; width: 37px; padding-left: 12px; line-height: 34px; height: 34px; _line-height: 36px; overflow: hidden; }
+.tools_box .bottom .opt { float: left; line-height: 14px; padding: 12px 0 0 10px; }
+.tools_box .bottom .opt2 { padding-left: 0; }
+.tools_box .bottom .opt2 a { _vertical-align: middle; }
+.tools_box .bottom .opt li { float: left; padding: 0 16px 0 0; height: 14px; }
+.tools_box .bottom .opt li a, .tools_box .bottom .opt2 li span { display: inline-block; height: 14px; line-height: 14px; background-position: 0 -84px; background-repeat: no-repeat; padding-left: 18px; text-decoration: none; color: #555; _padding-top: 2px; _height: 12px; overflow: hidden; }
+.tools_box .bottom .opt2 li span { padding-left: 0; background: none; }
+.tools_box .bottom .opt li a:hover { text-decoration: none; color: #fd4809; }
+.tools_box .bottom .opt .checkbox { padding: 0 16px 0 0; margin-right: 15px; }
+.tools_box .bottom .opt .checkbox a { *padding-top: 2px; *height: 12px; }
+.tools_box .bottom .opt .checkbox a:hover { background-position: 0 -84px; }
+.tools_box .bottom .opt .checkbox .on,.tools_box .bottom .opt .checkbox a.on:hover{ background-position: 0 -98px; color: #fd4809; }
+.tools_box .bottom .opt .radio a { background-position: 0 -112px; margin-right: 12px; }
+.tools_box .bottom .opt .radio span { *padding-top: 2px; display: inline-block; vertical-align: top; padding-right: 2px; border-left:1px solid #ccc; padding-left:5px; }
+.tools_box .bottom .opt .radio a:hover { background-position: 0 -112px; }
+.tools_box .bottom .opt .radio .on, .tools_box .bottom .opt .radio .on:hover { background-position: 0 -126px; color: #fd4809; }
+.tools_box .repair {height: 37px; line-height: 37px;  border: solid 1px #d1d1d1; background-color: #fff;}
+.tools_box .top .select_pop { width: 326px; display:none; }
+.tools_box .top .select_pop .head { background: #f2f2f2; height:24px; line-height:24px; font-weight: bold; border: solid 1px #fff; padding: 0 10px; text-align:left; font-size:12px; _float:none; }
+.tools_box .top .select_pop ul { padding: 10px 0 10px 12px; }
+.tools_box .top .select_pop ul li { float: left; width: 50px;_width: 60px; line-height: 26px; background:none; }
+.tools_box .top .select_pop ul li a { text-decoration: none; }
+.tools_box .top .select_pop ul li a:hover { color: #fd4708; text-decoration: underline; }
+.tools_box .top .select_pop .close { background-position: -41px -151px; width: 11px; height: 11px; position: absolute; right: 6px; top:7px; overflow: hidden; cursor: pointer; padding:0; }
+.tools_box .top .switch { width:90px; overflow:hidden;float: right; margin:9px 2px 0 0; line-height: 22px;}
+.tools_box .top .switch a { float:left;width:30px; padding:0 0 0 15px;text-decoration: none; height:22px;line-height:22px;line-height:23px;text-align: center; position: relative; overflow:hidden;}
+.tools_box .top .switch a span { position:absolute;top:9px; top:7px\9;left:5px;width:9px; height: 10px; background-position: 0 -298px;margin: -2px 2px 0 0;overflow:hidden;}
+.tools_box .top .switch a:hover, .tools_box .top .switch .on { color: #f13e00; }
+.tools_box .top .switch a:hover span, .tools_box .top .switch .on span { background-position: -9px -298px; }
+.tools_box .top .switch a .list_btn { background-position: 0 -308px; }
+.tools_box .top .switch a:hover .list_btn, .tools_box .top .switch .on .list_btn { background-position: -9px -308px; }
+.tools_box .top .switch .on { background-position: 0 -276px; z-index: 2; }
+.shoplist { width: 960px; zoom: 1; margin-top:0px;font-family: Arial; }
+.narrow_page .tools_box { width: 720px; }
+.narrow_page .shoplist { width:720px;}
+.narrow_page .tools_box .top .select_pop { width: 264px; display:none; }
+/*LiMingyue 2013-11-27  (strat)*/
+.pro_box { height: 24px; line-height: 24px; border: 1px solid #ff9e6e; width: 958px;background-color:#fff;margin-top:6px;margin-bottom: 6px;}
+.pro_box a { display: block; float: left; width: 119.5px; color: #404040; text-decoration: none; text-align: center; border-left: 1px solid #ff9e6e; margin-left: -1px;_display:inline; }
+.narrow_page .pro_box a {width: 89.5px;}
+.pro_box a:hover { background-color: #fff8f1; color: #878787; text-decoration: none;}/*LiMingYue*/
+.pro_box .on, .pro_box a.on:hover { font-weight: bold; color: #fd4708; background-color: #fff8f1; cursor: default; }
+.tools_box .top .sorting_box li a:hover{text-decoration: none;}
+.tools_box .interval .inner{ background:none; }
+.tools_box .interval_on .inner{background: #fff;_top:0px;}
+.narrow_page .pro_box{width:718px;}
+.tools_box .top .sorting_box li a{ width: 68px; font-size: 12px;padding:2px 0px 0px;_height:25px;_padding-top:14px;}
+.tools_box .top .sorting_box .select_box .select_pop ul.province li a{width:40px;height: 25px; line-height: 26px; font-size: 12px;}
+.tools_box .sorting_box li a { display:block;text-align: center; width:76px;padding:2px 8px 0; line-height: 36px; _height: 24px; _padding:14px 10px 0; _line-height: 14px; font-size:14px; _float:left;}
+.tools_box .sorting_box .province li a {text-align: left;}
+.tools_box .sorting_box .hover a,.tools_box .sorting_box a:hover{background-position: 0 -434px;font-weight: bold; color: #FFFFFF;}
+.tools_box .sorting_box .on a:hover .icon_t,.tools_box .sorting_box .hover a .icon_t{background: url("images/model/search/btn_new.gif") no-repeat scroll -11px -27px rgba(0, 0, 0, 0);background: url(images/model/search/btn_new.gif) no-repeat scroll -11px -27px\9;height: 12px;width: 10px;margin-bottom: -1px;
+}
+.tools_box .select_box .d{font-size: 12px;}
+.tools_box .top .sorting_box .select_box .select_pop ul.province li a{width:40px;height: 25px; line-height: 26px;_height: 16px; _line-height: 16px; font-size: 12px;}
+.tools_box .select_box .select_pop li a:hover{background:none; text-decoration: underline; font-size: 12px; font-weight: normal; color:#fd4708;}
+.tools_box .sorting_box .on .icon{background-position:-21px -76px;}
+.tools_box .sorting_box li .icon{width:7px;}
+.tools_box .sorting_box li .icon_t{width:10px;}
+.tools_box .top .sorting_box .select_box .icon_s{width:9px;}
+.tools_box .bottom{_position:relative; _border:1px solid #D1D1D1;}
+.tools_box .pro_box{_display: absolute; }
+/*LiMingyue 2013-11-27  (end)*/    .author_info { border:1px solid #d4d4d4; padding:1px; font-size:14px; margin-bottom:10px;}
+    .author_info .author_title { height:36px; line-height:36px; padding:0 15px; color:#323232; background-color:#f2f2f2;}
+    .author_info .author_title a { width:30px; padding-left:20px; height:24px; font:12px/24px "宋体"; display:block; float:right; border:1px so
+lid #bfbfbf; color:#969696; text-decoration:none; background:url(images/model/search/icon_arrow.png) 6px -5px no-repeat; margin-top:5px;}
+    .author_info .author_title a:hover { background-color:#fff;}
+    .author_info .author_title a.up { background-position:6px 10px;}
+    .author_info .author_con { padding:15px;overflow:hidden;}
+    .author_info p { color:#646464; line-height:24px; text-indent:2em;}
+    .author_title2 { font:14px/18px "微软雅黑"; color:#323232; padding-left:10px;}
+    .author_info .switch {background: #ffedd0;text-align: center;line-height: 12px; font-size:12px;border-top: solid 1px #fff;cursor: pointer;p
+adding: 5px 0;}
+    .author_info .switch .icon {display: inline-block;height: 12px;width: 12px;background:url(images/model/search/icon_arrow.png) 0 -10px no-re
+peat;margin-right: 2px;}
+    .author_info .switch .icon.up { background-position:0 4px;}
+    .author_info .author_list { padding:10px 0 5px 20px; color:#646464; line-height:26px;}
+    .author_info .author_list span { width:30px; display:inline-block; _display:inline; _zoom:1;}
+    .author_info .author_list a { color:#646464; text-decoration:none;}
+    .author_info .author_list a:hover { text-decoration:underline;}body, button, ul, li, ol, p, dl, dd, h1, h2, h3, h4, h5, h6, img, iframe, form { margin: 0; padding: 0; list-style-type: none; border: 0; }
+.reco_wrap .recommend .btn_slide span, .reco_wrap .recommend .starlevel,.reco_wrap .recommend .pic_wrap .operate a { background: url(images/model/category/bg_reco_new.png) no-repeat; }
+.reco_wrap {  background-color:#fff; border: 1px solid #d1d1d1; color: #404040; font-size: 12px; font-family: SimSun,Arial; margin: 0 auto 20px; width: 958px; clear: both; }
+.reco_wrap i { font-style: normal; }
+.reco_wrap a { text-decoration: none; color: #1a66b3; }
+.reco_wrap a:hover { text-decoration: underline; }
+.reco_wrap .right { float: right; font-size: 12px; font-weight: normal; margin-right: 15px; color: #666; }
+.reco_wrap .right a { margin-left: 5px; }
+.reco_wrap .orange { color: #f60; }
+.reco_wrap .gray {color:#878787;}
+.reco_wrap .tab { font-size:0; height: 34px; line-height: 34px;}
+.reco_wrap .tab a {background-color:#f7f7f7;color:#878787;display:inline-block;font-size:14px;width:50%;text-align:center;font-weight:bold;border:1px solid #d1d1d1;border-width:0 0 1px 1px;margin-left:-1px;}
+.reco_wrap .tab a:hover {text-decoration:none;}
+.reco_wrap .tab .on {background-color:#fff;color:#404040; cursor:default;border-bottom:none;}
+.reco_wrap .recommend { position: relative;width:958px;padding-top:40px; }
+.reco_wrap .recommend .pages {text-align:right;position:absolute;right:10px;top:14px;}
+.reco_wrap .recommend .btn_slide {display: block; height: 260px; width: 34px; position: absolute; top: 115px; text-align: center; }
+.reco_wrap .recommend .prev, .reco_wrap .recommend .prev_none { left: 0;}
+.reco_wrap .recommend .next, .reco_wrap .recommend .next_none { right:0; }
+.reco_wrap .recommend .next_none, .reco_wrap .recommend .prev_none { cursor:default; }
+.reco_wrap .recommend .btn_slide span { display: inline-block; height: 31px; width: 18px; margin-top: 115px;overflow:hidden; }
+.reco_wrap .recommend .prev span { background-position: 0 -26px; }
+.reco_wrap .recommend .next span { background-position: -14px -26px; }
+.reco_wrap .recommend a.prev:hover span { background-position: -33px -26px; }
+.reco_wrap .recommend a.next:hover span { background-position: -47px -26px; }
+.reco_wrap .recommend .prev_none span, .reco_wrap .recommend a.prev_none:hover span { background-position: -66px -26px; }
+.reco_wrap .recommend .next_none span, .reco_wrap .recommend a.next_none:hover span { background-position: -80px -26px; }
+.reco_wrap .recommend .over { width: 890px; height: 520px; margin-left:35px; overflow: hidden; position: relative; }
+.reco_wrap .recommend .over ul { position: absolute;width:910px;}
+.reco_wrap .recommend .over li { float: left; height: 260px; margin-right:30px; width: 152px;_margin-right:16px; }
+.reco_wrap .recommend .over .pic { padding: 1px; height: 150px; width: 150px; display: block; margin-bottom: 3px; text-align: center; }
+.reco_wrap .recommend .over a.pic:hover,.reco_wrap .recommend .over .pic_wrap .pic_on { padding: 0; border: 1px solid #ffa069; }
+.reco_wrap .recommend .over .price_p { padding-bottom:5px; } 
+.reco_wrap .recommend .over .d_price { margin-right: 12px; font-family: arial; color: #c30; font-weight: bold; }
+.reco_wrap .recommend .over .m_price { color: #878787; font-family: Arial; background:url(images/model/category/bg_through.gif) repeat-x center 8px; }
+.reco_wrap .recommend .over .name {color:#404040; line-height: 21px; _line-height: 18px; height: 42px; overflow: hidden; display: block; word-break: break-all; word-wrap: break-word;margin-bottom:5px; }
+.reco_wrap .recommend .over a.name:hover {color:#f60;}
+.reco_wrap .recommend .starlevel { height: 12px; overflow: hidden; position: relative; top: -2px; width: 60px; margin-right: 8px; display: inline-block; vertical-align: middle; }
+.reco_wrap .recommend .s5 { background-position: 0 0; }
+.reco_wrap .recommend .s4_5 { background-position: 0 -14px; }
+.reco_wrap .recommend .s4 { background-position: -12px 0; }
+.reco_wrap .recommend .s3_5 { background-position: -12px -14px; }
+.reco_wrap .recommend .s3 { background-position: -24px 0; }
+.reco_wrap .recommend .s2_5 { background-position: -24px -14px; }
+.reco_wrap .recommend .s2 { background-position: -36px 0; }
+.reco_wrap .recommend .s1_5 { background-position: -36px -14px; }
+.reco_wrap .recommend .s1 { background-position: -48px 0; }
+.reco_wrap .recommend .s0_5 { background-position: -48px -14px; }
+.reco_wrap .recommend .s0 { background-position: -60px 0; }
+.reco_wrap .recommend .red {color:#c30;padding-bottom:6px;}
+.reco_wrap .recommend .price_p {width:165px;}
+.reco_wrap .recommend .price_p .m_price {margin:0 3px 0 -3px;}
+/* 窄版 960px 版本，外层容器加类narrow_page */
+.narrow_page .reco_wrap,.narrow_page .reco_wrap .recommend { width: 718px; }
+.narrow_page .reco_wrap .recommend .over { width: 668px;margin-left:25px; }
+.narrow_page .reco_wrap .recommend .over li {margin-right:20px;_margin-right:5px;}
+.narrow_page .reco_wrap .recommend .over ul{ width:738px;}
+.narrow_page .reco_wrap .recommend .btn_slide {width:30px;}</style>                        </head>
+            <body ddt-page=s_99641>
+            <link rel="Stylesheet" type="text/css" href="//static.dangdang.com/css/header2012/header_150803.css?20210302" />
+<script type="text/javascript">
+function is_narrow(){
+    var datanav="";
+    if(screen.width < 1210){
+       datanav='<li ><a name="nav1" href="http://book.dangdang.com/" target="_blank">图书</a></li><li ><a name="nav1" href="http://e.dangdang.com/index_page.html" target="_blank">电子书</a></li><li ><a name="nav1" href="http://e.dangdang.com/new_original_index_page.html" target="_blank">网络文学</a></li><li ><a name="nav1" href="http://fashion.dangdang.com/sports" target="_blank">运动户外</a></li><li ><a name="nav1" href="http://shop.dangdang.com/22254" target="_blank">乐高玩具 </a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4002074.html" target="_blank">美妆</a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4001001.html" target="_blank">家用电器</a></li>';
+    }else{
+    datanav='<li ><a name="nav1" href="http://book.dangdang.com/" target="_blank">图书</a></li><li ><a name="nav1" href="http://e.dangdang.com/index_page.html" target="_blank">电子书</a></li><li ><a name="nav1" href="http://e.dangdang.com/new_original_index_page.html" target="_blank">网络文学</a></li><li ><a name="nav1" href="http://fashion.dangdang.com/sports" target="_blank">运动户外</a></li><li ><a name="nav1" href="http://shop.dangdang.com/22254" target="_blank">乐高玩具</a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4002074.html" target="_blank">美妆</a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4001001.html" target="_blank">家用电器</a></li>';
+    }
+    return datanav;
+}
+</script>
+
+
+
+
+
+
+<div id="hd">
+<div id="tools">
+<div class="tools">
+    <div class="ddnewhead_operate" dd_name="顶链接">
+        <ul class="ddnewhead_operate_nav">
+        <li><a target="_blank" href="http://e.dangdang.com/ebook/listUserEbooks.do" name="我的云书房" dd_name="我的云书房">我的云书房</a></li>
+        <li class="my_dd"><a class="menu_btn" target="_blank" href="http://myhome.dangdang.com/" name="我的当当" dd_name="我的当当" id="a_myddchannel" onmouseover="showgaoji('a_myddchannel','__ddnav_mydd')" onmouseout="hideotherchannel('a_myddchannel','__ddnav_mydd');">我的当当</a>
+            <ul class="ddnewhead_gcard_list" id="__ddnav_mydd" onmouseover="showgaoji('a_myddchannel','__ddnav_mydd')" onmouseout="hideotherchannel('a_myddchannel','__ddnav_mydd');">
+                <li><a target="_blank" href="http://myhome.dangdang.com/myOrder" name="mydd_7" dd_name="新_我的订单">我的订单</a></li>
+                <li><a target="_blank" href="http://shopping.dangdang.com/shoppingcart/shopping_cart.aspx" name="mydd_8" dd_name="新_购物车" rel="nofollow">购物车</a></li>		
+                <li><a target="_blank" href="http://myhome.dangdang.com/mypoint?ref=my-0-L" name="mydd_4" dd_name="银铃铛抵现" rel="nofollow">银铃铛抵现</a></li>
+                <li><a target="_blank" href="http://myhome.dangdang.com/myFavorite" name="mydd_1" dd_name="我的收藏" rel="nofollow">我的收藏</a></li>
+                <li><a target="_blank" href="http://noncash.dangdang.com/balance/" name="mydd_5" dd_name="我的余额" rel="nofollow">我的余额</a></li>
+                <li><a target="_blank" href="http://comment.dangdang.com/comment" name="mydd_4" dd_name="我的评论" rel="nofollow">我的评论</a></li>
+                <li><a target="_blank" href="http://newaccount.dangdang.com/payhistory/mycoupon.aspx" name="mydd_2" dd_name="礼券/礼品卡" rel="nofollow">礼券/礼品卡</a></li>
+            </ul>
+        </li>
+        <li class="pc_mina"><a class="menu_btn" target="_blank" href="http://t.dangdang.com/pintuan_list" name="当当拼团" dd_name="当当拼团" id="a_minachannel" onmouseover="showgaoji('a_minachannel','__ddnav_mina')" onmouseout="hideotherchannel('a_minachannel','__ddnav_mina');">当当拼团</a>
+            <ul class="ddnewhead_gcard_list" id="__ddnav_mina" onmouseover="showgaoji('a_minachannel','__ddnav_mina')" onmouseout="hideotherchannel('a_minachannel','__ddnav_mina');">	
+				<!--
+                <li><a target="_blank" href="http://t.dangdang.com/freetry_list" name="mina_1" dd_name="0元领物" rel="nofollow">0元领物</a></li>
+				-->
+                <li><a target="_blank" href="http://t.dangdang.com/pintuan_list" name="mina_2" dd_name="当当拼团" rel="nofollow">当当拼团</a></li>
+				<!--
+                <li><a target="_blank" href="http://t.dangdang.com/kanjia_list" name="mina_3" dd_name="1元砍价" rel="nofollow">1元砍价</a></li>
+                <li><a target="_blank" href="http://t.dangdang.com/choujiang_list" name="mina_4" dd_name="1分抽奖" rel="nofollow">1分抽奖</a></li>
+				-->
+            </ul>
+        </li>
+	<li><a target="_blank" href="http://e.dangdang.com/media/h5/pc/zhuangti/zhengwen2017/essay.html" name="mydd_7" dd_name="小说投稿">小说投稿</a></li>
+        <li><a class="menu_btn" href="javascript:void(0);" style="cursor:default;" name="qycg" dd_name="企业采购" id="a_qycgchannel" onmouseover="showgaoji('a_qycgchannel','__ddnav_qycg');" onmouseout="hideotherchannel('a_qycgchannel','__ddnav_qycg');">企业采购</a>
+            <ul class="ddnewhead_gcard_list" id="__ddnav_qycg" onmouseover="showgaoji('a_qycgchannel','__ddnav_qycg');" onmouseout="hideotherchannel('a_qycgchannel','__ddnav_qycg');">
+                <li><a target="_blank" href="http://giftcard.dangdang.com/giftcardCompany" name="qycg_1" dd_name="大宗采购">大宗采购</a></li>
+                <li><a target="_blank" href="http://giftcard.dangdang.com/" name="qycg_2" dd_name="礼品卡采购">礼品卡采购</a></li>
+                <li><a target="_blank" href="http://newaccount.dangdang.com/payhistory/mymoney.aspx" name="gqycg_3" dd_name="礼品卡激活" rel="nofollow">礼品卡激活</a></li>
+                <li><a target="_blank" href="http://help.dangdang.com/details/page24" name="qycg_4" dd_name="礼品卡使用">礼品卡使用</a></li>
+                 <li><a target="_blank" href="http://b2b.dangdang.com" name="qycg_5" dd_name="分销/荐购">分销/荐购</a></li>
+				 <li><a target="_blank" href="http://giftcard.dangdang.com/goods?type=mall" name="qycg_6" dd_name="礼品卡专区">礼品卡专区</a></li>
+            </ul>
+        </li>
+        <li class="hover "><a class="menu_btn" href="javascript:void(0);" style="cursor:default;" name="ddkf_0" dd_name="客户服务" id="a_bzzxchannel" onmouseover="showgaoji('a_bzzxchannel','__ddnav_bzzx');" onmouseout="hideotherchannel('a_bzzxchannel','__ddnav_bzzx');">客户服务</a>
+            <ul class="ddnewhead_gcard_list" id="__ddnav_bzzx" onmouseover="showgaoji('a_bzzxchannel','__ddnav_bzzx');" onmouseout="hideotherchannel('a_bzzxchannel','__ddnav_bzzx');">
+                <li><a target="_blank" href="http://help.dangdang.com/index" name="ddkf_2" dd_name="帮助中心">帮助中心</a></li>
+		        <li><a target="_blank" href="http://return.dangdang.com/reverseapplyselect.aspx" name="ddkf_3" dd_name="自助退换货">自助退换货</a></li>
+                <li><a target="_blank" href="http://order.dangdang.com/InvoiceApply/InvoiceOnlineReissue.aspx" name="tsjy_2" dd_name="自助发票" rel="nofollow">自助发票</a></li>
+                <li><a target="_blank" href="http://help.dangdang.com/details/page206" name="ddkf_4" dd_name="联系客服">联系客服</a></li>
+                <li><a target="_blank" href="http://help.dangdang.com/details/page206" name="tsjy_1" dd_name="我要投诉" rel="nofollow">我要投诉</a></li>                
+            </ul>
+        </li>
+        </ul>
+        <div class="new_head_znx" id="znx_content" style="display:none;"></div>
+        <div class="ddnewhead_welcome" display="none;">
+            <span id="nickname"><span class="hi hi_none">欢迎光临当当，请</span><a href="https://login.dangdang.com/signin.aspx?returnurl=http%3A//www.dangdang.com/" class="login_link">登录</a><a href="https://login.dangdang.com/Register.aspx">免费注册</a></span>
+            <div class="tel_pop" style="display:none" id="__ddnav_sjdd"  onmouseover="showgaoji('a_phonechannel','__ddnav_sjdd');" onmouseout="hideotherchannel('a_phonechannel','__ddnav_sjdd');">
+                <a target="_blank" href="http://t.dangdang.com/20130220_ydmr" class="title"><i class="icon_tel"></i>手机当当</a><i class="title_shadow"></i>
+                <ul class="tel_pop_box">
+                    <li><a href="http://t.dangdang.com/20130220_ydmr" dd_name="手机二维码"><span>当当手机客户端</span><img src="//img3.ddimg.cn/00363/doc/erweima2.png"><span class="text">随手查订单<br>随时享优惠</span></a></li>
+                </ul>
+            </div>
+        </div>
+       <div class="ddnewhead_area">
+            <a href="javascript:void(0);" id="area_one" class="ddnewhead_area_a" onmouseover="show_area_list();" onmouseout="hidden_area_list();">送至：<span id="curent_area"></span></a>
+            <ul class="ddnewhead_area_list" style="display: none;" id="area_list" onmouseover="this.style.display='block';" onmouseout="this.style.display='none';">
+                <li><a href="javascript:void(0);" onclick="change_area('111','北京')" num="111">北京</a></li>
+                <li><a href="javascript:void(0);" onclick="change_area('112','天津')" num="112">天津</a></li>   
+                <li><a href="javascript:void(0);" onclick="change_area('113','河北')" num="113">河北</a></li>
+                <li><a href="javascript:void(0);" onclick="change_area('114','山西')" num="114">山西</a></li>    
+                <li><a href="javascript:void(0);" onclick="change_area('115','内蒙古')" num="115">内蒙古</a></li>  
+                <li><a href="javascript:void(0);" onclick="change_area('121','辽宁')" num="121">辽宁</a></li>        
+                <li><a href="javascript:void(0);" onclick="change_area('122','吉林')" num="122">吉林</a></li>        
+                <li><a href="javascript:void(0);" onclick="change_area('123','黑龙江')" num="123">黑龙江</a></li>
+                <li><a href="javascript:void(0);" onclick="change_area('131','上海')" num="131">上海</a></li>  
+                <li><a href="javascript:void(0);" onclick="change_area('132','江苏')" num="132">江苏</a></li>  
+                <li><a href="javascript:void(0);" onclick="change_area('133','浙江')" num="133">浙江</a></li>
+                <li><a href="javascript:void(0);" onclick="change_area('134','安徽')" num="134">安徽</a></li>        
+                <li><a href="javascript:void(0);" onclick="change_area('135','福建')" num="135">福建</a></li>  
+                <li><a href="javascript:void(0);" onclick="change_area('136','江西')" num="136">江西</a></li>  
+                <li><a href="javascript:void(0);" onclick="change_area('137','山东')" num="137">山东</a></li>   
+                <li><a href="javascript:void(0);" onclick="change_area('141','河南')" num="141">河南</a></li>       
+                <li><a href="javascript:void(0);" onclick="change_area('142','湖北')" num="142">湖北</a></li>  
+                <li><a href="javascript:void(0);" onclick="change_area('143','湖南')" num="143">湖南</a></li>       
+                <li><a href="javascript:void(0);" onclick="change_area('144','广东')" num="144">广东</a></li>        
+                <li><a href="javascript:void(0);" onclick="change_area('145','广西')" num="145">广西</a></li>
+                <li><a href="javascript:void(0);" onclick="change_area('146','海南')" num="146">海南</a></li>
+                <li><a href="javascript:void(0);" onclick="change_area('150','重庆')" num="150">重庆</a></li>        
+                <li><a href="javascript:void(0);" onclick="change_area('151','四川')" num="151">四川</a></li>           
+                <li><a href="javascript:void(0);" onclick="change_area('152','贵州')" num="152">贵州</a></li>        
+                <li><a href="javascript:void(0);" onclick="change_area('153','云南')" num="153">云南</a></li>
+                <li><a href="javascript:void(0);" onclick="change_area('154','西藏')" num="154">西藏</a></li>   
+                <li><a href="javascript:void(0);" onclick="change_area('161','陕西')" num="161">陕西</a></li>        
+                <li><a href="javascript:void(0);" onclick="change_area('162','甘肃')" num="162">甘肃</a></li>        
+                <li><a href="javascript:void(0);" onclick="change_area('163','青海')" num="163">青海</a></li> 
+                <li><a href="javascript:void(0);" onclick="change_area('164','宁夏')" num="164">宁夏</a></li>
+                <li><a href="javascript:void(0);" onclick="change_area('165','新疆')" num="165">新疆</a></li>        
+                <li><a href="javascript:void(0);" onclick="change_area('171','台湾')" num="171">台湾</a></li>        
+                <li><a href="javascript:void(0);" onclick="change_area('172','香港')" num="172">香港</a></li>        
+                <li><a href="javascript:void(0);" onclick="change_area('173','澳门')" num="173">澳门</a></li>        
+                <li><a href="javascript:void(0);" onclick="change_area('174','钓鱼岛')" num="174">钓鱼岛</a></li>                
+            </ul>
+        </div>
+    </div>
+</div>
+</div>
+<div id="header_end"></div>
+<!--CreateDate  2021-05-20 17:00:01--><div style="position:relative;" class="logo_line_out">
+<div class="logo_line" dd_name="搜索框">
+    <div class="logo"><img src="http://img61.ddimg.cn/upload_img/00405/luyi/DDlogoNEW.gif" usemap="#logo_link"/>
+                         <map name="logo_link" id="logo_link" dd_name="logo区"><area shape="rect" coords="0,18,200,93" href="http://www.dangdang.com" title="当当" onfocus="this.blur();">
+                         <area shape="rect" coords="200,18,320,93" href="http://www.dangdang.com/" title="" target="_blank" onfocus="this.blur();"></map></div>
+    <div class="search">
+        <form action="http://search.dangdang.com" name="searchform"  id="form_search_new" onsubmit="return searchsubmit();"  method="GET">
+            <label  for="key_S" class="label_search" id="label_key" onclick="this.style.color='rgb(255, 255, 255)';" style="visibility: visible; color: rgb(102, 102, 102);" >不可思议的旅程</label>
+            <input type="text" class="text gray"  name="key" ID="key_S" autocomplete="off" onclick="key_onclick(event);" onfocus="key_onfocus(event);"  onblur="key_onblur();" onbeforepaste="onpaste_search();"/><a href="javascript:void(0);" onclick="clearkeys();" class="del-keywords"></a><span class="select"  onmouseover="allCategoryShow();"  onmouseleave="allCategoryHide();" onmouseout='if("\v"!="v"){ allCategoryHide();}'><span id="Show_Category_Name" dd_name="全部分类">全部分类</span><span class="icon"></span>
+                <div id="search_all_category" class="select_pop" style="height:0px;padding: 0px;border-width: 0px;" dd_name="搜索分类">
+                    <a href="javascript:void(0);" onclick="selectCategory('',this);" ><span id="Show_Category_Name" dd_name="全部分类">全部分类</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory('100000',this);" dd_name="尾品汇"><span>尾品汇</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory('01.00.00.00.00.00',this);" dd_name="图书"><span>图书</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory('98.00.00.00.00.00',this);" dd_name="电子书"><span>电子书</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory('03.00.00.00.00.00',this);" dd_name="音像"><span>音像</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory('05.00.00.00.00.00',this);" dd_name="影视"><span>影视</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4002074,this);" dd_name="时尚美妆"><span>时尚美妆</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4001940,this);" dd_name="母婴用品"><span>母婴用品</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4002061,this);" dd_name="玩具"><span>玩具</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4004866,this);" dd_name="孕婴服饰"><span>孕婴服饰</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4004344,this);" dd_name="童装童鞋"><span>童装童鞋</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003900,this);" dd_name="家居日用"><span>家居日用</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003760,this);" dd_name="家具装饰"><span>家具装饰</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003844,this);" dd_name="服装"><span>服装</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003872,this);" dd_name="鞋"><span>鞋</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4001829,this);" dd_name="箱包皮具"><span>箱包皮具</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003639,this);" dd_name="手表饰品"><span>手表饰品</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003728,this);" dd_name="运动户外"><span>运动户外</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4002429,this);" dd_name="汽车用品"><span>汽车用品</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4002145,this);" dd_name="食品"><span>食品</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4006497,this);" dd_name="手机通讯"><span>手机通讯</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003613,this);" dd_name="数码影音"><span>数码影音</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003819,this);" dd_name="电脑办公"><span>电脑办公</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4007241,this);" dd_name="大家电"><span>大家电</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4001001,this);" dd_name="家用电器"><span>家用电器</span></a>
+                                    </div>
+            </span>
+            <input type="hidden" id="default_key" value="不可思议的旅程"/>
+            <input type="hidden" id="default_key_link" value="http://search.dangdang.com/?key=%B2%BB%BF%C9%CB%BC%D2%E9%B5%C4%C2%C3%B3%CC&act=input" mid1_value="0" api_step="d"/>
+            <input type="submit" id="search_btn" dd_name="搜索按钮"  style="display:none"/>
+            <input id="SearchFromTop" style="display:none" type="hidden" name="SearchFromTop" value="1"/>
+            <input type="button" id="suggest_product_btn" name="suggestproduct_btn"  style="display:none" onclick="void(0)"/>
+            <input type="button" id="suggest_class_btn" name="suggestclass_btn"  style="display:none" onclick="void(0)"/>
+            <input type="submit" id="suggest_searchkey_btn" name="suggestsearchkey_btn"  style="display:none" dd_name="搜索按钮"/>
+            <input type="hidden" id="catalog_S" name="catalog" value="" >
+            <input type="button" class="button" dd_name="搜索按钮" onclick="javascript:document.getElementById('search_btn').click();"/>
+        </form>
+    </div>
+    <div class="search_bottom">
+        <div class="search_hot">热搜: <a href="http://search.dangdang.com/?key=%CF%BE%B2%BD%CA%BF%CD%AF%D7%B0&act=input" name="hotword" target="_blank">暇步士童装</a><a href="http://search.dangdang.com/?key=%D0%A4%D0%E3%C8%D92022&act=input" name="hotword" target="_blank">肖秀荣2022</a><a href="http://search.dangdang.com/?key=%D1%A7%C9%FA%CE%C4%BE%DF&act=input" name="hotword" target="_blank">学生文具</a><a href="http://search.dangdang.com/?key=%D4%DA%D3%D7%B6%F9%D4%B0&act=input" name="hotword" target="_blank">在幼儿园</a><a href="http://search.dangdang.com/?key=%C7%E9%D0%F7%D7%D4%D3%C9&act=input" name="hotword" target="_blank">情绪自由 </a><a href="http://miao.dangdang.com/" name="hotword" target="_blank">今日抢购</a></div>
+        <a href="http://search.dangdang.com/advsearch" class="search_advs" target="_blank" name="ddnav_adv_s" dd_name="高级搜索">高级搜索</a>
+    </div>
+    <div id="suggest_key" class="suggest_key" style="display:none;" ></div>
+    <div class="ddnew_cart"><a href="javascript:AddToShoppingCart(0);" name="购物车" dd_name="购物车"><i class="icon_card"></i>购物车<b id="cart_items_count"></b></a></div>
+    <div class="ddnew_order"><a target="_blank" href="http://myhome.dangdang.com/myOrder" name="我的订单" dd_name="我的订单" rel="nofollow">我的订单<b id="unpaid_num" style="color:#ff2832;font:bold 12px Arial;"></b></a></div>
+</div>
+</div><div class="nav_top" dd_name="一级导航条">
+<div class="nav_top">
+    <ul>
+        <li class="all"><a href="http://category.dangdang.com/?ref=www-0-C" id="a_category" name="cate" class="sort_button" onmouseover=showCategory('a_category','__ddnav_sort','//static.dangdang.com/js/header2012/categorydata_new.js?20210302'); onmouseout=closeCategory('__ddnav_sort'); dd_name="全部商品分类" target="_blank">全部商品分类</a></li>
+        <script language="javascript">document.write(is_narrow());</script>
+    </ul>
+</div>
+</div><div class="home_nav_l_box">
+<div class="home_nav_l" id="nav_l" style="display:none;">
+
+<div class="new_pub_nav_box"  dd_name="左侧分类导航" style="display:none;" id="__ddnav_sort" onmouseover="showdiv(event,'__ddnav_sort');" onmouseout="hiddenCategory(event,'__ddnav_sort');">
+    <span class="new_pub_line_a"></span>
+    <span class="new_pub_line_b"></span>
+    <div class="new_pub_nav_shadow" id="menu_list">
+		<ul class="new_pub_nav" id="menulist_content">
+            			<li class="n_b first"  dd_name="图书童书"  id="li_label_1" data-submenu-id="__ddnav_sort1" data_index="1" data_key="34102" data_type="'goods'" >
+                <span class="nav" id="categoryh_1">
+                    <a name="newcate1"  dd_name="图书" id="cate_34242" href="http://book.dangdang.com" target="_blank">图书</a>、<a name="newcate1"  dd_name="童书" id="cate_34252" href="http://book.dangdang.com/children?ref=book-01-A" target="_blank">童书</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="电子书网络文学"  id="li_label_2" data-submenu-id="__ddnav_sort2" data_index="2" data_key="56262" data_type="'book'" >
+                <span class="nav" id="categoryh_2">
+                    <a name="newcate2"  dd_name="电子书" id="cate_56263" href="http://e.dangdang.com/index_page.html" target="_blank">电子书</a>、<a name="newcate2"  dd_name="网络文学" id="cate_56484" href="http://e.dangdang.com/new_original_index_page.html" target="_blank">网络文学</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="创意文具"  id="li_label_3" data-submenu-id="__ddnav_sort3" data_index="3" data_key="55442" data_type="'goods'" >
+                <span class="nav" id="categoryh_3">
+                    <a name="newcate3"  dd_name="创意文具" id="cate_55469" href="http://art.dangdang.com/" target="_blank">创意文具</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="服饰内衣"  id="li_label_4" data-submenu-id="__ddnav_sort4" data_index="4" data_key="34202" data_type="'goods'" >
+                <span class="nav" id="categoryh_4">
+                    <a name="newcate4"  dd_name="服饰" id="cate_57622" href="javascript:void(0);" target="_blank">服饰</a>、<a name="newcate4"  dd_name="内衣" id="cate_53062" href="http://category.dangdang.com/cid10010337.html" target="_blank">内衣</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="鞋靴箱包"  id="li_label_5" data-submenu-id="__ddnav_sort5" data_index="5" data_key="34212" data_type="'goods'" >
+                <span class="nav" id="categoryh_5">
+                    <a name="newcate5"  dd_name="鞋靴" id="cate_45532" href="http://category.dangdang.com/cid4003872.html" target="_blank">鞋靴</a>、<a name="newcate5"  dd_name="箱包" id="cate_53072" href="http://category.dangdang.com/cid4001829.html" target="_blank">箱包</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="运动户外"  id="li_label_6" data-submenu-id="__ddnav_sort6" data_index="6" data_key="34232" data_type="'goods'" >
+                <span class="nav" id="categoryh_6">
+                    <a name="newcate6"  dd_name="运动户外" id="cate_45552" href="http://fashion.dangdang.com/sports" target="_blank">运动户外</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="孕婴童"  id="li_label_7" data-submenu-id="__ddnav_sort7" data_index="7" data_key="34112" data_type="'goods'" >
+                <span class="nav" id="categoryh_7">
+                    <a name="newcate7"  dd_name="孕" id="cate_35772" href="http://category.dangdang.com/cid4004866.html" target="_blank">孕</a>、<a name="newcate7"  dd_name="婴" id="cate_35782" href="http://category.dangdang.com/cid4001940.html" target="_blank">婴</a>、<a name="newcate7"  dd_name="童" id="cate_35792" href="http://category.dangdang.com/cid4004344.html" target="_blank">童</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="家居家纺汽车"  id="li_label_8" data-submenu-id="__ddnav_sort8" data_index="8" data_key="34142" data_type="'goods'" >
+                <span class="nav" id="categoryh_8">
+                    <a name="newcate8"  dd_name="家居" id="cate_38642" href="http://category.dangdang.com/cid4003900.html" target="_blank">家居</a>、<a name="newcate8"  dd_name="家纺" id="cate_53032" href="http://category.dangdang.com/cid4010918.html" target="_blank">家纺</a>、<a name="newcate8"  dd_name="汽车" id="cate_57231" href="http://category.dangdang.com/cid4002429.html" target="_blank">汽车</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="家具家装康体"  id="li_label_9" data-submenu-id="__ddnav_sort9" data_index="9" data_key="34132" data_type="'goods'" >
+                <span class="nav" id="categoryh_9">
+                    <a name="newcate9"  dd_name="家具" id="cate_52282" href="http://category.dangdang.com/cid4010897.html" target="_blank">家具</a>、<a name="newcate9"  dd_name="家装" id="cate_54045" href="http://category.dangdang.com/cid4010894.html" target="_blank">家装</a>、<a name="newcate9"  dd_name="康体" id="cate_54046" href="http://category.dangdang.com/cid4010857.html" target="_blank">康体</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="美妆个人护理清洁"  id="li_label_10" data-submenu-id="__ddnav_sort10" data_index="10" data_key="34122" data_type="'goods'" >
+                <span class="nav" id="categoryh_10">
+                    <a name="newcate10"  dd_name="美妆" id="cate_37332" href="http://category.dangdang.com/cid4002074.html" target="_blank">美妆</a>、<a name="newcate10"  dd_name="个人护理" id="cate_54231" href="http://category.dangdang.com/cid4002135.html" target="_blank">个人护理</a>、<a name="newcate10"  dd_name="清洁" id="cate_54230" href="http://category.dangdang.com/cid4003638.html" target="_blank">清洁</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="食品茶酒"  id="li_label_11" data-submenu-id="__ddnav_sort11" data_index="11" data_key="34152" data_type="'goods'" >
+                <span class="nav" id="categoryh_11">
+                    <a name="newcate11"  dd_name="食品" id="cate_40152" href="javascript:void(0);" target="_blank">食品</a>、<a name="newcate11"  dd_name="茶酒" id="cate_53794" href="javascript:void(0);" target="_blank">茶酒</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="珠宝饰品"  id="li_label_12" data-submenu-id="__ddnav_sort12" data_index="12" data_key="34222" data_type="'goods'" >
+                <span class="nav" id="categoryh_12">
+                    <a name="newcate12"  dd_name="珠宝饰品" id="cate_45542" href="http://category.dangdang.com/cid4007338.html" target="_blank">珠宝饰品</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="手机数码电脑办公"  id="li_label_13" data-submenu-id="__ddnav_sort13" data_index="13" data_key="34162" data_type="'goods'" >
+                <span class="nav" id="categoryh_13">
+                    <a name="newcate13"  dd_name="手机" id="cate_41592" href="javascript:void(0);" target="_blank">手机</a>、<a name="newcate13"  dd_name="数码" id="cate_41602" href="javascript:void(0);" target="_blank">数码</a>、<a name="newcate13"  dd_name="电脑办公" id="cate_57480" href="javascript:void(0);" target="_blank">电脑办公</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="家用电器"  id="li_label_14" data-submenu-id="__ddnav_sort14" data_index="14" data_key="34182" data_type="'goods'" >
+                <span class="nav" id="categoryh_14">
+                    <a name="newcate14"  dd_name="家用电器" id="cate_44162" href="javascript:void(0);" target="_blank">家用电器</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="当当礼品卡生活服务"  id="li_label_15" data-submenu-id="__ddnav_sort15" data_index="15" data_key="54895" data_type="'goods'" >
+                <span class="nav" id="categoryh_15">
+                    <a name="newcate15"  dd_name="当当礼品卡" id="cate_54896" href="http://giftcard.dangdang.com/" target="_blank">当当礼品卡</a>、<a name="newcate15"  dd_name="生活服务" id="cate_55733" href="http://category.dangdang.com/cid11618.html" target="_blank">生活服务</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name=""  id="li_label_16" data-submenu-id="__ddnav_sort16" data_index="16" data_key="34172" data_type="'goods'" >
+                <span class="nav" id="categoryh_16">
+                    </span><span class="sign"></span>
+            </li>
+            		</ul>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort1"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort2"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort3"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort4"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort5"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort6"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort7"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort8"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort9"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort10"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort11"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort12"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort13"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort14"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort15"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort16"></div>
+            </div>
+</div>
+</div>
+</div>
+</div>
+<!--DOC-HEAD-END--><script type="text/javascript" src="js/jquery.min.js"></script>
+<script language="javascript">var minsize=1210;var screensize=screen.width;if (screensize<minsize){document.body.className="narrow_page"}</script>
+<script type="text/javascript">
+    var skudata = [];
+    var arrayObj=new Array();
+    function addtofavorlist(pid){
+         var param = encodeURIComponent(pid+'&platform=4');
+         showMsgBox('lcase'+pid ,param,'http://myhome.dangdang.com/addFavoritepop');    
+     }
+    function addtocart(pid){
+      var beforeCookieValue = getCookie(cookieName="dest_area",cookieValue=null);
+      layer.open({
+          type: 2,
+          content: encodeURI('http://product.dangdang.com?r=combo/index&productId='+pid+'&source=搜索'),
+          area:['870px','430px'],
+          cancel: function(index, layero){  
+              // if(confirm('确定要关闭么')){ //只有当点击confirm框的确定时，该层才会关闭
+                  layer.close(index);
+                  var afterCookieValue = getCookie(afterCookieName="dest_area",cookieValue=null);
+                  if(afterCookieValue != beforeCookieValue){
+                     window.location.reload();
+                  }
+              //}
+              return false;
+          }
+      });  
+    }
+    function getCookie(cookieName,cookieValue){
+       if (document.cookie && document.cookie != '') { 
+          var cookies = document.cookie.split(';');
+          for (var i = 0; i < cookies.length; i++) { 
+              var cookie = cookies[i];
+              if (cookie.substring(0, cookieName.length + 2).trim() == cookieName.trim() + "=") {
+                cookieValue = cookie.substring(cookieName.length + 2, cookie.length);
+                var arr = cookieValue.match(/province_id(\S*)city_id/);;
+                cookieValue= arr[1];
+                break 
+              } 
+          } 
+      }
+      return cookieValue;
+    }   
+//    var mix_ajax_api = '/Standard/Framework/Core/hosts/ajax_api.php';
+</script>
+            <div  id="bd" dd_name="12331"  name=12331><div  class="con " name=12332><div ddt-area=799419 ddt-expose="on"><div id='component_799419'></div>    <div class="breadcrumb" id="B">
+        <div class="left">
+            <a href="http://www.dangdang.com">当当网</a><span>&gt;</span>
+            <a href="http://book.dangdang.com">图书</a><span>&gt;</span>
+            <a href="http://www.dangdang.com/author/%CA%A2%EF%BF%BD%EF%BF%BD_1">盛锟斤拷</a>
+        </div>
+        <script>
+            var label_key=document.getElementById('label_key');
+            if(label_key){
+                label_key.innerHTML='';
+                label_key.style.visibility='hidden';
+            }
+            var inpute = document.getElementById('key_S');
+            inpute.value = '盛锟斤拷';
+            inpute.className = inpute.className.replace('gray','');
+        </script>
+    </div>
+    
+</div><div class="spacer"></div></div><div class="spacer"></div><div  class="con " name=12333><div  class="col aside" name=12334><div class="" ddt-area=102287112340 ddt-expose="on"  name=m1022871_pid0_t12340><div id='component_1022871'></div><div class="con " ddt-area=102287112341 ddt-expose="on"  name=m1022871_pid0_t12341></div></div><div class="spacer"></div><div class="" ddt-area=102287012340 ddt-expose="on"  name=m1022870_pid0_t12340><div id='component_1022870'></div><div class="con " ddt-area=102287012341 ddt-expose="on"  name=m1022870_pid0_t12341>        
+</div></div><div class="spacer"></div><div ddt-area=2341767 ddt-expose="on"><div id='component_2341767'></div>    <div class="author_info">
+                    <div class="author_title">热卖图书作者排行榜</div>
+                    <ul class="author_list">
+                     <li><span>1</span><a href="http://www.dangdang.com/author/%D6%A3%D4%A8%BD%E0_1">郑渊洁</a></li><li><span>2</span><a href="http://www.dangdang.com/author/%D0%C1%D2%C4%CE%EB_1">辛夷坞</a></li><li><span>3</span><a href="http://www.dangdang.com/author/%CD%A9%BB%AA_1">桐华</a></li><li><span>4</span><a href="http://www.dangdang.com/author/%B4%DE%D3%F1%CC%CE_1">崔玉涛</a></li><li><span>5</span><a href="http://www.dangdang.com/author/%C4%CF%BB%B3%E8%AA_1">南怀瑾</a></li><li><span>6</span><a href="http://www.dangdang.com/author/%B0%B2%C4%DD%B1%A6%B1%B4_1">安妮宝贝</a></li><li><span>7</span><a href="http://www.dangdang.com/author/%B9%F9%BE%B4%C3%F7_1">郭敬明</a></li><li><span>8</span><a href="http://www.dangdang.com/author/%BC%B8%C3%D7_1">几米</a></li><li><span>9</span><a href="http://www.dangdang.com/author/%D1%CF%B8%E8%DC%DF_1">严歌苓</a></li><li><span>10</span><a href="http://www.dangdang.com/author/%D5%C5%B0%AE%C1%E1_1">张爱玲</a></li><li style="display:none;" ><span>11</span><a href="http://www.dangdang.com/author/%B6%A1%C4%AB_1">丁墨</a></li>                    </ul>
+                    <div class="switch" height="12px"><span class="icon"></span>展开</div>                </div>
+<script type="text/javascript">
+$(function(){
+        $('.switch').toggle(
+            function(){
+                 $(this).parents('.author_info').find('.author_list').children('li:gt(9)').show();
+                 $(this).html('<span class="icon up"></span>收起');
+
+            },   
+            function(){
+                 $(this).parents('.author_info').find('.author_list').children('li:gt(9)').hide();
+                 $(this).html('<span class="icon"></span>展开');
+            }    
+            ); 
+});
+</script>
+</div><div class="spacer"></div><div ddt-area=2341768 ddt-expose="on"><div id='component_2341768'></div>    <div class="author_info">
+                    <div class="author_title">畅销书作者排行榜</div>
+                    <ul class="author_list">
+                     <li><span>1</span><a href="http://www.dangdang.com/author/%D5%C5%BC%CE%BC%D1_1">张嘉佳</a></li><li><span>2</span><a href="http://www.dangdang.com/author/%B6%AB%D2%B0%B9%E7%CE%E1_1">东野圭吾</a></li><li><span>3</span><a href="http://www.dangdang.com/author/%C1%F5%CD%AC_1">刘同</a></li><li><span>4</span><a href="http://www.dangdang.com/author/%C8%FD%C3%AB_1">三毛</a></li><li><span>5</span><a href="http://www.dangdang.com/author/%B1%CF%CA%E7%C3%F4_1">毕淑敏</a></li><li><span>6</span><a href="http://www.dangdang.com/author/%C9%F2%CA%AF%CF%AA_1">沈石溪</a></li><li><span>7</span><a href="http://www.dangdang.com/author/%C1%FA%D3%A6%CC%A8_1">龙应台</a></li><li><span>8</span><a href="http://www.dangdang.com/author/%D5%C5%D0%A1%E6%B5_1">张小娴</a></li><li><span>9</span><a href="http://www.dangdang.com/author/%B4%E5%C9%CF%B4%BA%CA%F7_1">村上春树</a></li><li><span>10</span><a href="http://www.dangdang.com/author/%BA%AB%BA%AE_1">韩寒</a></li>                    </ul>
+                                    </div>
+<script type="text/javascript">
+$(function(){
+        $('.switch').toggle(
+            function(){
+                 $(this).parents('.author_info').find('.author_list').children('li:gt(9)').show();
+                 $(this).html('<span class="icon up"></span>收起');
+
+            },   
+            function(){
+                 $(this).parents('.author_info').find('.author_list').children('li:gt(9)').hide();
+                 $(this).html('<span class="icon"></span>展开');
+            }    
+            ); 
+});
+</script>
+</div><div class="spacer"></div><div class="" ddt-area=23417635002 ddt-expose="on"  name=m2341763_pid0_t5002><div id='component_2341763'></div><div class="con " ddt-area=23417635003 ddt-expose="on"  name=m2341763_pid0_t5003>    <div id="cpc_0" class=""></div>
+
+
+</div></div><div class="spacer"></div></div><div class="vspacer"></div><div  class="col article" name=12335><div ddt-area=2341769 ddt-expose="on"><div id='component_2341769'></div></div><div class="spacer"></div><div ddt-area=2341766 ddt-expose="on"><div id='component_2341766'></div><script type="text/javascript">
+    $(function(){
+        $('.select_box').hover(function () {
+            $(this).find('.select_pop').show();
+        }, function () {
+            $(this).find('.select_pop').hide();
+        });
+        $("#prices>.inner>div>.btn_yes").click(function(){
+            var low_price = '';
+            var hight_price = '';
+            var low_price_temp=$("#prices>.inner>.text:first").val();
+            var hight_price_temp=$("#prices>.inner>.text:last").val();
+            if(low_price_temp!=''){
+                low_price_temp=parseFloat(low_price_temp); 
+            }
+            if(hight_price_temp!=''){
+                hight_price_temp=parseFloat(hight_price_temp);
+            }
+            if(low_price_temp != '' && hight_price_temp != ''){
+                var low_price = low_price_temp>hight_price_temp ? hight_price_temp:low_price_temp;
+                var hight_price = low_price_temp<hight_price_temp ? hight_price_temp:low_price_temp;
+            }else{
+                var low_price = low_price_temp;
+                var hight_price = hight_price_temp;
+            }
+            var link=$('#prices>.inner>div>.btn_yes').attr("link");
+                var link_temp=link.replace('filterPriceLowp',low_price);
+                var link=link_temp.replace('filterPricehighp',hight_price);
+            window.location.href=link;
+        });
+         $("#prices").find('[type=text]').focusin(function () {
+             $("#prices").addClass('interval_on');
+             $("#prices").find('[type=text]').addClass('text_hover');
+         });
+        $("#prices").find('[type=text]').focusout(function () {
+            $("#prices").find('[type=text]').removeClass('text_hover');
+            $("#prices").removeClass('interval_on');
+        });
+        $('.button').hover(function () {
+            $("#prices").find('[type=text]').unbind();
+            $("#prices").find('[type=text]').keyup(filterPrice);
+        },function () {
+           $("#prices").find('[type=text]').bind({
+           focusin:function(){
+             $("#prices").addClass('interval_on');
+              $("#prices").find('[type=text]').addClass('text_hover');
+             },
+           focusout:function(){
+             $("#prices").find('[type=text]').removeClass('text_hover');
+             $("#prices").removeClass('interval_on');
+             }
+           });
+         });
+        $("#prices").find('[type=text]').keyup(filterPrice);
+        $('.btn_yes').hover(function () {
+            $(this).addClass('btn_yes_hover');
+        }, function () {
+            $(this).removeClass('btn_yes_hover');
+        });
+        $("#price_btn_cls").click(function(){
+            $("#prices").find('[type=text]').val('');
+            $("#input_lowprice").focus(); 
+        });
+     function filterPrice(){
+        var price = $(this).val();
+        var re = /^[^0-9]/i;
+        if(re.test(price)){
+            $(this).val('');
+            return;
+        }
+
+        price = $(this).val();
+        if(price.length>15){
+            var new_value = price.substr(0,15);
+            $(this).attr('value',new_value);
+            //       return;
+        };
+
+        re = /[^\d|\.]/i;
+        price = $(this).val();
+        if(re.test(price)){
+            var new_value = price.substr(0,price.search(re));
+            $(this).attr('value',new_value);
+            //return;
+        }
+
+        re = /\.[0-9]{3}/i;
+        price = $(this).val();
+        if(re.test(price)){
+            var new_value = price.substr(0,price.indexOf('.')+3);
+            $(this).attr('value',new_value);
+            return;
+        }
+
+        re = /\.[0-9]*\.+/i;
+        price = $(this).val();
+        if(re.test(price)){
+            var new_value = price.substr(0,price.indexOf('.')+1);
+            if(!isNaN(price.substr(price.indexOf('.')+1,1))){
+                new_value = price.substr(0,price.indexOf('.')+2);
+                if(!isNaN(price.substr(price.indexOf('.')+2,1))){
+                    new_value = price.substr(0,price.indexOf('.')+3);
+                }
+            }
+            $(this).attr('value',new_value);
+            return;
+        }
+        return;
+    }
+    });
+</script>
+
+<div class="tools_box" id="tools_box">
+    <div class="top">
+        <ul class="sorting_box">
+            <li class="on" title="点击后恢复默认排序">
+                <a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00#J_tab">默认排序</a>
+            </li>
+            <li class="" title="点击后按销量由高到低">
+                <a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&sort_type=sort_sale_amt_desc#J_tab">销量<span class="icon"></span></a>
+            </li>
+             <li class="" title="点击后按好评由高到低">
+                <a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&sort_type=sort_score_desc#J_tab">好评<span class="icon"></span></a>
+            </li>
+            <li class="" title="点击后按照出版时间由近到远">
+                <a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&sort_type=sort_pubdate_desc#J_tab">出版时间<span class="icon"></span></a>
+            </li>
+            <li id="price_nohover"title="点击后按价格由低到高" class="">
+                <a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&sort_type=sort_xlowprice_asc#J_tab">价格<span class="icon icon_t"></span></a>
+            </li>
+            <li>
+                <div id="prices" class="interval"><!--<div class="interval interval_on" id="prices">-->
+                    <div class="inner">
+                        <input type="text" class="text" title="最低价" value="" name="low_price" id="input_lowprice"><span>-</span><input type="text" class="text" title="最高价" value="" name="high_price" id="input_highprice">
+                        <div><input type="button" class="button" id="price_btn_cls" name="Price" value="清除"><input type="button" link="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&lowp=filterPriceLowp&highp=filterPricehighp#J_tab" class=" button btn_yes"id="price_btn_yes" name="Price" value="确定"></div>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="select_box"><span class="d">&nbsp;&nbsp收货地</span>
+                    <span class="icon icon_s"></span>&nbsp;&nbsp;
+                    <div class="select_pop" style="display:none;">
+                        <div class="head">请选择收货地区</div>
+                        <ul class="province">
+                            <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00#J_tab">全部</a></li>
+                                                      <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=111#J_tab">北京</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=112#J_tab">天津</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=113#J_tab">河北</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=114#J_tab">山西</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=115#J_tab">内蒙古</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=121#J_tab">辽宁</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=122#J_tab">吉林</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=123#J_tab">黑龙江</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=131#J_tab">上海</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=132#J_tab">江苏</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=133#J_tab">浙江</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=134#J_tab">安徽</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=135#J_tab">福建</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=136#J_tab">江西</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=137#J_tab">山东</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=141#J_tab">河南</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=142#J_tab">湖北</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=143#J_tab">湖南</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=144#J_tab">广东</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=145#J_tab">广西</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=146#J_tab">海南</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=150#J_tab">重庆</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=151#J_tab">四川</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=152#J_tab">贵州</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=153#J_tab">云南</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=154#J_tab">西藏</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=161#J_tab">陕西</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=162#J_tab">甘肃</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=163#J_tab">青海</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=164#J_tab">宁夏</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=165#J_tab">新疆</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=171#J_tab">台湾</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=172#J_tab">香港</a></li>
+                                                        <li><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&city=173#J_tab">澳门</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+        </ul>
+        
+        <div class="data">
+            <a href="javascript:void(0);" class="arrow_l "></a><span class="or">1</span><span>/1</span><a href="javascript:void(0);" class="arrow_r "></a>
+        </div>
+        <div class="switch">
+            <a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&show=big#J_tab" class=""><span class="pic_btn"></span>大图</a><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&show=list#J_tab" class="on"><span class="list_btn"></span>列表</a>
+        </div>
+    </div>
+    <div class="bottom clearfix">
+       <div class="repair">
+        <ul class="opt">
+            <li class="checkbox"><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&filter=0%7C1%7C0%7C0%7C0%7C0#J_tab" class="">促销</a></li>
+            <li class="checkbox"><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&filter=0%7C0%7C1%7C0%7C0%7C0%7C#J_tab" class="">仅显示有货</a></li>
+            <li class="checkbox"><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&filter=0%7C0%7C0%7C1%7C0%7C0%7C#J_tab" class="">尾品汇</a></li>
+            <li class="checkbox"><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&filter=0%7C0%7C0%7C0%7C1%7C0%7C#J_tab" class="">预售</a></li>
+            <li class="checkbox"><a href="/?medium=01&key2=%CA%A2%EF%BF%BD%EF%BF%BD&category_path=01.00.00.00.00.00&filter=0%7C0%7C0%7C0%7C0%7C1%7C#J_tab" class="">当当自营</a></li>
+           </ul>
+        </div>
+
+    </div>
+</div>
+</div><div class="spacer"></div><div class="" ddt-area=234176512338 ddt-expose="on"  name=m2341765_pid0_t12338><div id='component_2341765'></div><div class="con shoplist book_shoplist" ddt-area=234176512339 ddt-expose="on"  name=m2341765_pid0_t12339>    <div class="no_result">
+        <p><span>没有找到相关的商品</span><a href="javascript:history.go(-1)">返回上一页</a></p>
+    </div>
+    <script>
+(function($){
+   var productListId = "component_0__0__6088";
+   var productListObj = $("#"+productListId).parent();
+   var productClass =  jQuery.trim(productListObj.attr('class'));
+   if(productClass == "con"){
+      productListObj.attr('class','con shoplist'); 
+   }
+	if($("div").hasClass('no_result')){
+		var productListObj = $(".no_result").parent();
+		var noresult = jQuery.trim(productListObj.attr('class'));
+		if(noresult == "con"){
+			 productListObj.attr('class','con shoplist'); 
+		}
+	}   
+    $.category = $.category || {};
+    $.htmldata = $.htmldata || [];    
+    $.extend($.category, {
+        main: function(){
+            $.htmldata = $.category.init($("div.pic_list"));
+            if(!$.htmldata)return false;
+            $.category.initEvent($.htmldata);
+        },
+        init: function(obj){
+            var data;
+            if(obj.length > 0) {
+                data = obj;
+            }else{
+                data = null;                
+            }
+            return data;
+        },
+        initEvent: function(html){
+            html.each(function(index, ele){
+                var that = $(ele);
+                var totalpage = that.find("dd");
+                var dd = that.find('img');
+                
+                if(dd.length > 5) {
+                    var pages = Math.ceil(dd.length/5);
+                    var prev = that.find("a.btn_l");
+                    var next = that.find("a.btn_r");
+                    var pagenum = 1;
+                    prev.addClass('unable_l');
+                    $(prev).bind('click', function(){
+                        if(next.hasClass('unable_r')) {
+                            next.removeClass('unable_r');
+                        }   
+                        if(--pagenum < 1) {
+                            //左翻页置灰
+                            pagenum = 1;
+                            return false;
+                        }
+                        if(pagenum <= 1){
+                            if(!prev.hasClass('unable_l')) {
+                                prev.addClass('unable_l');
+                            }                            
+                        }
+                        $.category.showpage(that, totalpage, pagenum);
+                    });
+                    $(next).bind('click', function(){ 
+                        if(prev.hasClass('unable_l')) {
+                            prev.removeClass('unable_l');
+                        }
+                        if(++pagenum > pages){
+                            //右翻页置灰
+                            pagenum = pages;
+                            return false;
+                        }
+                        if(pagenum >= pages){
+                            if(!next.hasClass('unable_r')) {
+                                next.addClass('unable_r');
+                            }                            
+                        }
+                        $.category.showpage(that,totalpage,pagenum);
+                    });
+                }else{
+                    that.find("a.btn_l").hide();
+                    that.find("a.btn_r").hide();
+                }
+                $.category.bigimg(dd, that, dd);
+            });
+        },
+        bigimg: function(dd, pp, allimg){
+            $(dd).each(function(){
+                var flag = $(this).attr('data-flag');                
+                if(flag == 0){//flag在这里是string "0"代表商品有小图 or string "1"代表商品无小图只有对应色块
+                    $(this).bind('click', function(){
+                        //小图高亮显示
+                        $(allimg).each(
+                            function(index, ele){
+                                if($(ele.parentNode).hasClass('on')){
+                                   $(ele.parentNode).removeClass('on'); 
+                                }
+                            }
+                        );
+                        
+                        $(this.parentNode).addClass('on');
+                        var b = pp.parent().find("a.pic");
+                        //这里span的作用主要是加载图片慢时提示loading图片
+                        var s = document.createElement("span");
+                        $(s).addClass('pic');
+                        b.empty().append(s);
+
+                        var img = new Image();
+                        $(img).bind('load', function(){
+                           b.empty().append(img); 
+                        });
+                        img.src = this.src.replace(/_x/, "_b"); //src赋值处理放在这个位置，可以解决ie8 7 6下的bug 加载缓冲区太快 onload事件没来及处理
+                        $(img).attr({'height':200,'width':200});
+                    });
+                }
+            });
+        },
+        showpage: function(parent, total, page){
+            var dl = parent.find("dl").empty();
+            var curnum = parseInt((page-1)*5);
+            var jumnum = curnum + 5;
+            var cur = total.slice(curnum, jumnum);
+            var dd = cur.find("img");
+            var allimg = total.find("img");
+            this.bigimg(dd, parent, allimg);
+            dl.append(cur);
+        }
+    });   
+    $.category.main();
+})(jQuery);
+
+$(".cloth_bigimg>li").hover(
+function () {
+    $(this).find("div>.star").css("display","block");
+    $(this).find("div>.link").css("display","block");
+    $(this).addClass("hover");
+},
+function () {
+    $(this).find("div>.link").css("display","none");
+    $(this).removeClass("hover");
+});
+</script></div></div><div class="spacer"></div><div class="" ddt-area=234176412336 ddt-expose="on"  name=m2341764_pid0_t12336><div id='component_2341764'></div><div class="con paginating" ddt-area=234176412337 ddt-expose="on"  name=m2341764_pid0_t12337><ul class="paging" name="Fy" id="authorpage">
+            <li class="prev none"><a>上一页</a></li>
+         <li><a href="http://www.dangdang.com/author/%CA%A2%EF%BF%BD%EF%BF%BD_1" class=" current" >1</a></li>
+             <li class="next none"><a>下一页</a></li>
+            <li class="page_input"><span>共1页 到第</span>
+        <input id='t__cp' type='text' class='number'  value='1'/>
+        <span>页</span>
+        <input class="button" id="click_get_page" value="确定" type="button" /></li>
+</ul>
+<script type='text/javascript'>
+    $(function(){  
+        var productListObj = $("#authorpage").parent();
+		var pageStyle = jQuery.trim(productListObj.attr('class'));
+		if(pageStyle  == "con"){
+			productListObj.attr('class','con paginating'); 
+		}	
+        $('#t__cp').keydown(function(e){
+            if(e.keyCode==13){
+                verifyListPages();
+            }
+        });
+        $('#click_get_page').click(function(){
+            verifyListPages();
+        });
+    });
+    function verifyListPages(){
+        var page=$.trim($('#t__cp').val());
+        var max_page=1;
+        re = /^[1-9]*[0-9]*[0-9]$/i; 
+        if(!re.test(page)||page==0){                  
+            alert('您好，请输入正确页码。');
+            return false;                   
+        }else{
+            if(parseInt(page)>100){
+                alert('您好，请输入正确页码。');
+                return false;
+            }else{       
+                if(parseInt(page)>max_page){
+                    alert('您好，请输入正确页码。');
+                    return false;
+                }else{
+                    var href_url = 'http://www.dangdang.com/author/%CA%A2%EF%BF%BD%EF%BF%BD_';
+                    end_url =href_url+page;
+                    window.location.href=end_url;
+                }
+            }
+        }
+    }
+</script></div></div><div class="spacer"></div><div class="" ddt-area=15121555749 ddt-expose="on"  name=m1512155_pid0_t5749><div id='component_1512155'></div><div class="con " ddt-area=15121555750 ddt-expose="on"  name=m1512155_pid0_t5750><div ddt-area=1512155 ddt-expose="on"><style>
+.reco_wrap .one_tab{background-color: #f7f7f7;border: 1px solid #d1d1d1;border-width: 0 0 1px 0;}
+.reco_wrap .one_tab a,.reco_wrap .one_tab a:hover,.reco_wrap .one_tab a.on{background-color: #f7f7f7;color: #404040;text-align:left;margin-left:20px;border-width:0px;cursor:default;}
+
+</style>
+<div class="reco_wrap" dd_utopia_complex="on" >
+    <div class="tab" id="tags">
+        <a href="javascript:;"  id="cpc_tab" class="on">推广商品</a><a href="javascript:;"  id="reco_tab">根据您的浏览历史为您推荐</a>
+    </div>
+    <div id="tagContent"><div class="recommend" id="tagContent0" dd_name="底部推广"><div class="over" id="cpc_1"></div></div><div class="recommend" id="tagContent1" dd_name="底部浏览历史推荐" style="display:none;"><div id="search_tuijian_content"></div></div></div>
+        <script type="text/javascript" src="http://tuijian.dangdang.com/recobar2/js/category_search_recobar.js"></script>
+
+<script>
+$(function(){
+    try{
+       var ishavecpc=function(){
+          if($("#cpc_tab").length==0){
+                 $(".tab").addClass("one_tab");
+                 $("#tagContent1").css('display','block');  
+                 $("#tagContent0").css('display','none');
+                 $('.reco_wrap .tab a').unbind("click");
+                 clearInterval(scrollt);
+                 
+              }
+       };
+       var scrollt = setInterval(ishavecpc,1);
+        }catch(e){}
+    
+    });
+/*     var x=0;
+     function scrollTag(){
+        if($("#cpc_tab").attr("class") == "on"){
+             $("#reco_tab").addClass("on");
+             $("#cpc_tab").removeClass("on");
+             $("#tagContent0").css('display','block');
+             $("#tagContent1").css('display','none');
+         }else if($("#reco_tab").attr("class") == "on"){
+             if($("#cpc_tab").length!=0){
+                $("#cpc_tab").addClass("on");
+                $("#reco_tab").removeClass("on"); 
+                $("#tagContent0").css('display','none');
+                $("#tagContent1").css('display','block');
+             }
+         }*/
+     /*   var tags=document.getElementById("tags").getElementsByTagName("a");
+        var tagslength = tags.length - 1;
+        if(x<tagslength){x=x+1}
+        else
+            x=0;
+        var tag = document.getElementById("tags").getElementsByTagName("a");
+        var taglength = tag.length;
+        for(i=0; i<taglength; i++){
+            tag[i].className = "";
+        }
+        tags[x].className = "on";
+        for(i=0; j=document.getElementById("tagContent"+i);i++){
+            j.style.display="none";
+        }
+        document.getElementById("tagContent"+x).style.display="block";
+    }*/
+/*    function changetab(){
+        if($("#cpc_tab").length==0){
+                 $(".tab").addClass("one_tab");
+                 $("#tagContent0").css('display','block');  
+                 $("#tagContent1").css('display','none');
+                 clearInterval(scrolll);
+                 clearInterval(scrollt);
+              }
+        if(typeof($("#cpc_1").childNodes) != "undefined"){
+            if($("#cpc_1").childNodes.length >0){
+                clearInterval(scrollt);
+                }
+         }
+    }
+    var scrollt = setInterval(changetab,1);
+    var scrolll=setInterval(scrollTag,5000);
+    function zhuan(){
+        clearInterval(scrolll);
+    }
+    function jixu() {
+        scrolll=setInterval(scrollTag,5000);
+    } */  
+</script>
+</div>
+</div></div></div><div class="spacer"></div><div ddt-area=1512156 ddt-expose="on"><div id='component_1512156'></div><script type="text/javascript" src="http://a.dangdang.com/getJS.php?cpc=true&cpm=true&cpt=true"></script>
+<script>
+    $(function(){
+            try{
+                var minsize=1210;
+                var screensize=screen.width;                
+                var position=0;extra="盛锟斤拷";var page=0;var lenwid="l";                if(screensize>minsize){//宽i版
+                    DD_AD.fetchCPC(position, page,extra, 1, 'new','cw'+lenwid);
+                }else{
+                    DD_AD.fetchCPC(position, page,extra, 1, 'new','cn'+lenwid); 
+                }
+            }catch(e){
+                
+            }
+    });
+</script>
+</div>
+</div><div class="spacer"></div></div></div></div><!--<script type="text/javascript" src="js/mix.js"></script>-->
+<!--<script type="text/javascript" src="js/jquery/jquery.jtab.js"></script>-->
+<!--<script type="text/javascript" src="js/jquery/jquery.livequery.min.js"></script>-->
+<script type="text/javascript">
+    </script>
+<script charset="gb2312" type="text/javascript">var width = 1; narrow = 0;</script>
+<script src="//static.dangdang.com/js/header2012/pagetop2015_0827.js?20210302" charset="gb2312" type="text/javascript"></script>
+<script src="//static.dangdang.com/js/header2012/dd.menu-aim.js?20210302" charset="gb2312" type="text/javascript"></script>
+<script type="text/javascript">
+var newsuggesturl = "//schprompt.dangdang.com/suggest_new.php?";
+var nick_num = 1;
+initHeaderOperate();Suggest_Initialize("key_S");
+if(!window.onload){
+    window.onload=function(){if(sug_gid("label_key").style.visibility=="visible")sug_gid(search_input_id).value="";}
+}else{
+    var funcload=window.onload;
+    window.onload=function(){funcload();if(sug_gid("label_key").style.visibility=="visible")sug_gid(search_input_id).value="";}
+}
+ddmenuaim(document.getElementById("menulist_content"),{activate: activateSubmenu,deactivate: deactivateSubmenu});
+</script>
+<script>
+     document.getElementById('label_key').innerHTML=''  ;
+(function($){
+if($("div").hasClass('no_result')){
+		var productListObj = $(".no_result").parent();
+		var noresult = jQuery.trim(productListObj.attr('class'));
+		if(noresult == "con"){
+			 productListObj.attr('class','con shoplist'); 
+		}
+	}
+})(jQuery);                
+</script><script type="text/javascript" src="http://a.dangdang.com/smart.js"></script><script>
+$(function(){
+$(".listimg>li").hover(
+        function () {
+            $(this).addClass("hover");
+        },
+        function () {
+            $(this).removeClass("hover");
+        });
+
+        $(".bigimg>li").hover(
+        function () {
+            $(this).find("div>.star").css("display","block");
+            $(this).find("div>.link").css("display","block");
+            $(this).addClass("hover");
+        },
+        function () {
+            $(this).find("div>.link").css("display","none");
+            $(this).removeClass("hover");
+        });
+});
+</script>
+
+<script src='http://e.dangdang.com/shoppingcart/script/getEbook.js' type="text/javascript"></script>
+<script src='http://static.ddimg.cn/js/login/LoginWindow.js' type="text/javascript"></script>
+<script>
+function AddPDNothingNew(pid){
+    //TransferPath = "http://misc2.dangdang.com/pdnothing/remote_add_stockout_pd.php";
+    // var param = pid+"&time="+new Date().getTime();
+    TransferPath = "http://myhome.dangdang.com/productStockoutRegistration/show";
+    var param = "&product_id="+pid+"&source=5&time="+new Date().getTime();
+    showMsgBox("", encodeURIComponent(param), TransferPath);
+}
+
+</script>
+<script type="text/javascript" src="http://a.dangdang.com/getJS.php?cpc=true&cpm=true&cpt=true"></script>
+<script type="text/javascript" >
+        $(document).ready(function () {
+            $('.reco_wrap .tab a').click(function () {
+                var index = $(this).index();
+                var $reco = $(this).parents('.reco_wrap').find('.recommend');
+                $(this).parents('.tab').children('a').removeClass('on');
+                $(this).addClass('on');
+                $reco.not($($reco.get(index)).show()).hide();
+            })
+        })
+ </script><script>
+     $(function(){
+        $.each(skudata,function(index,ele){
+           $('li#'+index).attr('sku',ele[0]);
+           $('li#p'+index).attr('sku',ele[0]);
+           $('li#'+index+' ul li').each(function(i,e){
+                $(this).attr('sku',ele[i]);
+           });
+        });
+        $('a[name="collect"]').click(function(){
+            var sku = $(this).parents('li').attr('sku');
+            if(sku != null){
+                addtofavorlist(sku);
+            }
+        });
+         
+    });
+</script>
+<script src='http://static.ddimg.cn/js/login/LoginWindow.js' type="text/javascript"></script>
+<script type="text/javascript" src="http://a.dangdang.com/getJS.php?cpc=true&cpm=true&cpt=true"></script>
+<!-- 单品线上js -->
+<script src="http://product.dangdang.com/js/lib/layer/3.0.3/layer.min.js"></script>
+            <div id="footer">
+<link href="//static.dangdang.com/css/header2012/footer_150526.css?20170626" rel="stylesheet" type="text/css">
+<div class="footer" dd_name="页尾">
+	<div class="footer_pic_new">
+		<div class="footer_pic_new_inner" style="width:740px;">
+		    <a name="foot_1" href="http://help.dangdang.com/details/page13" target="_blank" class="footer_pic01"><span>正规渠道正品保障</span></a>
+		    <!--<a name="foot_2" class="footer_pic02" href="http://help.dangdang.com/details/page237" target="_blank"><span>放心购物货到付款</span></a>-->
+		    <a name="foot_3" class="footer_pic03" href="http://help.dangdang.com/details/page16" target="_blank"><span>150城市次日送达</span></a>
+		    <a name="foot_4" class="footer_pic04" href="http://help.dangdang.com/details/page28" target="_blank"><span>上门退换 购物无忧</span></a>
+		</div>
+	</div>
+	<div class="public_footer_new">
+		<div class="footer_sort footer_nvice">
+			<span class="f_title">购物指南</span>
+			<ul>
+			    <li><a name="foot_gouwu" href="http://help.dangdang.com/details/page2" target="_blank" class="main" rel="nofollow">购物流程</a></li>
+			    <li><a name="foot_jifen" href="http://help.dangdang.com/details/page6" target="_blank" rel="nofollow">发票制度</a></li>
+			    <li><a name="foot_fapiao" href="http://help.dangdang.com/details/page12" target="_blank" rel="nofollow">服务协议</a></li>
+			    <li><a name="foot_mydangdang" href="http://help.dangdang.com/details/page8" target="_blank" rel="nofollow">会员优惠</a></li>
+			</ul>
+		</div>
+		<div class="footer_sort footer_pay">
+			<span class="f_title">支付方式</span>
+			<ul>
+			    <li><a name="foot_tuihuanhuo" href="http://help.dangdang.com/details/page22" target="_blank" rel="nofollow">网上支付</a></li>
+			    <li><a name="foot_huanhuo" href="http://help.dangdang.com/details/page24" target="_blank" rel="nofollow">礼品卡支付</a></li>
+			    <li><a name="foot_tuihuo" href="http://help.dangdang.com/details/page23" target="_blank" rel="nofollow">银行转帐</a></li>				
+				<li><a name="foot_tuihuanhuoliucheng" href="http://help.dangdang.com/details/page25" target="_blank" rel="nofollow">礼券支付</a></li>
+			</ul>
+		</div>
+		<div class="footer_sort footer_characteristic">
+			<span class="f_title">订单服务</span>
+			<ul>
+			    <li><a name="foot_jifen" href="http://help.dangdang.com/details/page400" target="_blank" class="main" rel="nofollow">配送服务查询</a></li>
+			    <li><a name="foot_lipinka" href="http://help.dangdang.com/details/page4" target="_blank" rel="nofollow">订单状态说明</a></li>
+			    <li><a name="foot_ershoushu" href="http://myhome.dangdang.com/myOrder" target="_blank" rel="nofollow">自助取消订单</a></li>
+			    <li><a name="foot_shouji" href="http://myhome.dangdang.com/myOrder" target="_blank" rel="nofollow">自助修改订单</a></li>
+			</ul>
+		</div>
+		<div class="footer_sort footer_distribution">
+			<span class="f_title">配送方式</span>
+			<ul>
+			    <li><a name="foot_huodaofukuan" href="http://help.dangdang.com/details/page232" target="_blank" class="main" rel="nofollow">当日递</a></li>
+			    <li><a name="foot_yinhangzhuanzhang" href="http://help.dangdang.com/details/page233" target="_blank" class="main" rel="nofollow">次日达</a></li>
+			    <li><a name="foot_dangdanglijuan" href="http://help.dangdang.com/details/page500" target="_blank" rel="nofollow">订单自提</a></li>
+			    <li><a name="foot_dangdanglijuan" href="http://help.dangdang.com/details/page20" target="_blank" rel="nofollow">验货与签收</a></li>
+			</ul>
+		</div>
+		<div class="footer_sort footer_help">
+			<span class="f_title">退换货</span>
+			<ul>
+			    <li><a name="foot_faq" href="http://help.dangdang.com/details/page28" target="_blank" rel="nofollow">退换货服务查询</a></li>
+			    <li><a name="foot_zhaohuimima" href="http://return.dangdang.com/reverseapplyselect.aspx" target="_blank" rel="nofollow">自助申请退换货</a></li>
+			    <li><a name="foot_huikuandan" href="http://return.dangdang.com/reverseapplylist.aspx" target="_blank" rel="nofollow">退换货进度查询</a></li>
+			    <li><a name="foot_tuiding" href="http://help.dangdang.com/details/page31" target="_blank" rel="nofollow">退款方式和时间</a></li>
+			</ul>
+		</div>
+		<div class="footer_sort footer_shangjia">
+			<span class="f_title">商家服务</span>
+			<ul>
+			    
+			    <li><a name="foot_zhaohuimima" href="http://shop.dangdang.com/shangjia" target="_blank" rel="nofollow">商家中心</a></li>
+			    <li><a name="foot_huikuandan" href="http://outlets.dangdang.com/merchants_cooperation" target="_blank" rel="nofollow">运营服务</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="footer_nav_box">
+		<div class="footer_nav"><a href="http://t.dangdang.com/companyInfo" target="_blank" rel="nofollow">公司简介</a><span class="sep">|</span><a 
+
+href="http://zhaopin.dangdang.com" target="_blank">诚聘英才</a><span class="sep">|</span><a 
+
+href="http://union.dangdang.com/" target="_blank">网站联盟</a><span 
+
+class="sep">|</span><a href="http://outlets.dangdang.com/merchants_open" target="_blank">当当招商</a><span class="sep">|</span><a 
+
+href="http://giftcard.dangdang.com/giftcardCompany" target="_blank" rel="nofollow">机构销售</a><span class="sep">|</span><a 
+
+href="http://static.dangdang.com/topic/744/200778.shtml" target="_blank">手机当当</a><span class="sep">|</span><a href="http://blog.dangdang.com/" target="_blank">官方
+
+Blog</a>
+<span class="sep">|</span><div class="footer_hot_search"><a href="http://www.dangdang.com/sales/brands/" target="_blank" class="footer_a" id="hot_search" onmouseover="showghotsearch('hot_search','hot_search_content')" onmouseout="hidehotsearch('hot_search','hot_search_content');">热词搜索</a><div class="pos_a_box" style="display: none;" id="hot_search_content" onmouseover="showghotsearch('hot_search','hot_search_content')" onmouseout="hidehotsearch('hot_search','hot_search_content');">
+<a href="http://www.dangdang.com/sales/brands/a-1.html" target="_blank" >A</a><a href="http://www.dangdang.com/sales/brands/b-1.html" target="_blank" >B</a><a href="http://www.dangdang.com/sales/brands/c-1.html" target="_blank" >C</a><a href="http://www.dangdang.com/sales/brands/d-1.html" target="_blank" >D</a><a href="http://www.dangdang.com/sales/brands/e-1.html" target="_blank" >E</a><a href="http://www.dangdang.com/sales/brands/f-1.html" target="_blank" >F</a><a href="http://www.dangdang.com/sales/brands/g-1.html" target="_blank" >G</a>
+<a href="http://www.dangdang.com/sales/brands/h-1.html" target="_blank" >H</a><a href="http://www.dangdang.com/sales/brands/i-1.html" target="_blank" >I</a><a href="http://www.dangdang.com/sales/brands/j-1.html" target="_blank" >J</a><a href="http://www.dangdang.com/sales/brands/k-1.html" target="_blank" >K</a><a href="http://www.dangdang.com/sales/brands/l-1.html" target="_blank" >L</a><a href="http://www.dangdang.com/sales/brands/m-1.html" target="_blank" >M</a><a href="http://www.dangdang.com/sales/brands/n-1.html" target="_blank" >N</a>
+<a href="http://www.dangdang.com/sales/brands/o-1.html" target="_blank" >O</a><a href="http://www.dangdang.com/sales/brands/p-1.html" target="_blank" >P</a><a href="http://www.dangdang.com/sales/brands/q-1.html" target="_blank" >Q</a><a href="http://www.dangdang.com/sales/brands/r-1.html" target="_blank" >R</a><a href="http://www.dangdang.com/sales/brands/s-1.html" target="_blank" >S</a><a href="http://www.dangdang.com/sales/brands/t-1.html" target="_blank" >T</a><a href="http://www.dangdang.com/sales/brands/u-1.html" target="_blank" >U</a>
+<a href="http://www.dangdang.com/sales/brands/v-1.html" target="_blank" >V</a><a href="http://www.dangdang.com/sales/brands/w-1.html" target="_blank" >W</a><a href="http://www.dangdang.com/sales/brands/x-1.html" target="_blank" >X</a><a href="http://www.dangdang.com/sales/brands/y-1.html" target="_blank" >Y</a><a href="http://www.dangdang.com/sales/brands/z-1.html" target="_blank" >Z</a><a href="http://www.dangdang.com/sales/brands/other-1.html" target="_blank" >0-9</a>
+<i></i></div></div>
+<script>
+    var setTo = null;
+    function showghotsearch(){
+        clearTimeout(setTo);
+        document.getElementById("hot_search_content").style.display="block";
+    }
+    function hidehotsearch(){
+        setTo = setTimeout(function(){
+          document.getElementById("hot_search_content").style.display="none";
+        },100)                        
+    }
+
+$(document).ready(function(){ 
+    $("#__ddnav_sort16").remove();
+}); 
+
+$("#li_label_16").mouseover(function(){
+	$("#li_label_16").addClass("on");
+  $("#li_label_16").css("border-right","2px solid #ff2832");
+  
+});
+
+$("#li_label_16").mouseout(function(){
+	$("#li_label_16").removeClass("on");
+});
+</script>  
+</div>
+		<div class="footer_copyright"><span>Copyright  2004 - 2021 当当网. All Rights Reserved</span><span class="sep">|</span><a href="http://beian.miit.gov.cn" target="_blank" ><span>京ICP备17043473号-1</span></a><a href="http://www.hd315.gov.cn/beian/view.asp?
+
+bianhao=010202001051000098" target="_blank" class="footer_img" rel="nofollow"><img src="http://img60.ddimg.cn/upload_img/00459/index/validate.gif"></a><span>京ICP证041189号</span><span class="sep">|</span><span>出版物经营许可证 新出发京批字第直0673号</span></div>
+	</div>
+</div>
+</div>
+<div id="footer_end"></div>
+<!--CreateDate  2021-05-20 17:00:01-->    <div class="foot_tip_ad">广告</div>
+    <style>
+        .foot_tip_ad { width:40px; height:40px; font:12px/40px "simsun"; text-align:center; color:#fff; background-color:#474747; position:fixed; right:0; bottom:10px;_position:absolute; _bottom:auto;_top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0)));}
+    </style>
+<script src="//static.dangdang.com/js/login/check_snbrowse.js?20210520" type="text/javascript"></script>
+<script  type="text/javascript">login_session.browsePageOperate();</script>
+<script type="text/javascript" src="//click.dangdang.com/js_tracker.js?20210520"></script>
+<script type="text/javascript" src="//databack.dangdang.com/collect.js?20210520"></script>
+<script type="text/javascript" src="//databack.dangdang.com/store.js?20210520"></script>
+
+<!-- 
+5.17.54
+mem
+ --><!-- 
+5.17.54
+mem
+ --><!-- 
+5.17.54
+mem
+ -->        </body>
+    </html>
+    

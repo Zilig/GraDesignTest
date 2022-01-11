@@ -1,0 +1,529 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>北京航空航天大学</title>
+    <meta name="viewport" content="width=device-width,user-scalable=yes">
+    <meta name="renderer" content="webkit"/>
+    <meta name="force-rendering" content="webkit"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+    <script>/*@cc_on window.location.href="http://support.dmeng.net/upgrade-your-browser.html?referrer="+encodeURIComponent(window.location.href); @*/</script>
+    
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/some.css">
+    <link rel="stylesheet" href="../css/news.css">
+    <link rel="stylesheet" href="../css/font-awesome.min.css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="http://apps.bdimg.com/libs/html5shiv/3.7/html5shiv.min.js"></script>
+    <script src="http://apps.bdimg.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script src="../js/polyfill.min.js"></script>
+    <script src="../js/jquery-base.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/skrollr.min.js"></script>
+    <script src="../js/jquery.idcode.js"></script>
+    <script type="text/javascript" src="../js/qrcode.min.js"></script>
+    <script src="../js/lee.min.js"></script>
+    <script src="../js/wow.min.js"></script>
+    <link rel="stylesheet" href="../css/jquery.idcode.css">
+    <script src="../js/jquery.idcode.js"></script>
+    <script src="../js/config.js"></script>
+    <script src="../js/api.js"></script>
+    <script src="../js/vue.min.js"></script>
+    <script src="../js/wx_get_openid.js"></script>
+</head>
+<style>
+    #qrcode img{margin: 0 auto;}
+    @media screen and (max-width: 768px){
+        .n_right>p>span {
+            padding-right: 0px;
+            display: inline-block;
+        }
+    }
+    .n_right table{border: 1px solid #999;}
+    .n_right table tr td{border: 1px solid #999;}
+</style>
+<body style="background:#f3f3f3;">
+    <div class="header"></div>
+    <div class="is_"></div>
+    <!-- banner -->
+    <div class="banner banner_all">
+        <img src="../image/newbanner5.png" alt="">
+    </div>
+    <!-- 新闻通知详情 -->
+    <div class="news-container">
+        <div class="contai_ner" id="details">
+            <template>
+                <div class="row">
+                    <div class="col-xs-3 col-sm-3">
+                        <div class="n_left">
+                            <ul>
+                                <div class="bgcolor">
+                                    <template v-if="cateid == zdy1">就业政策</template>
+                                    <template v-else-if="cateid == zdy2">就业指南</template>
+                                    <template v-else-if="cateid == zdy3">服务指南</template>
+                                    <template v-else-if="cateid == zdy4">下载中心</template>
+                                    <template v-else-if="cateid == zdy5">职业测评</template>
+                                    <template v-else-if="cateid == zdy7">基层就业</template>
+                                    <template v-else-if="cateid == zdy8">考研</template>
+                                    <span></span>
+                                </div>
+
+
+                                <template v-if="cateid == zdy1">
+                                    <li class="gonggao" style="background:#eee;">
+                                        <a :href="'zdylist.html?cateid='+zdy1" class="fcolor">
+                                            <span class="bgcolor"></span>
+                                            就业政策
+                                        </a>
+                                        <span class="hover"></span>
+                                    </li>
+                                </template>
+
+                                <template v-if="cateid == zdy2">
+                                    <li class="gonggao" style="background:#eee;">
+                                        <a :href="'zdylist.html?cateid='+zdy2" class="fcolor">
+                                            <span class="bgcolor"></span>
+                                            就业指南
+                                        </a>
+                                        <span class="hover"></span>
+                                    </li>
+                                </template>
+
+                                <template v-if="cateid == zdy3">
+                                    <li class="gonggao" style="background:#eee;">
+                                        <a :href="'zdylist.html?cateid='+zdy3" class="fcolor">
+                                            <span class="bgcolor"></span>
+                                            服务指南
+                                        </a>
+                                        <span class="hover"></span>
+                                    </li>
+                                </template>
+
+                                <template v-if="cateid == zdy4">
+                                    <li class="gonggao" style="background:#eee;">
+                                        <a :href="'zdylist.html?cateid='+zdy4" class="fcolor">
+                                            <span class="bgcolor"></span>
+                                            下载中心
+                                        </a>
+                                        <span class="hover"></span>
+                                    </li>
+                                </template>
+
+                                <template v-if="cateid == zdy5">
+                                    <li class="gonggao" style="background:#eee;">
+                                        <a :href="'zdylist.html?cateid='+zdy5" class="fcolor">
+                                            <span class="bgcolor"></span>
+                                            职业测评
+                                        </a>
+                                        <span class="hover"></span>
+                                    </li>
+                                </template>
+
+                                <template v-if="cateid == zdy7">
+                                    <li class="gonggao" style="background:#eee;">
+                                        <a :href="'zdylist.html?cateid='+zdy7" class="fcolor">
+                                            <span class="bgcolor"></span>
+                                            基层就业
+                                        </a>
+                                        <span class="hover"></span>
+                                    </li>
+                                </template>
+                                <template v-if="cateid == zdy8">
+                                    <li class="gonggao" style="background:#eee;">
+                                        <a :href="'zdylist.html?cateid='+zdy8" class="fcolor">
+                                            <span class="bgcolor"></span>
+                                            考研
+                                        </a>
+                                        <span class="hover"></span>
+                                    </li>
+                                </template>
+                               
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-xs-9 col-sm-9">
+                        <div class="n_right">
+                            <a href="../index.html" >首页</a>&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;
+                            <a :href="'zdylist.html?cateid='+newsInfo.cate_id">{{newsInfo.cate_id_name}}</a>
+                            <div class="fen">
+                                <p class="share" data-toggle="modal" data-target="#fxModal"> <i class="fa fa-share-square-o"></i> 分享</p>
+                            </div>
+                            <h4>{{newsInfo.title}}</h4>
+                            <p class="fcolor tongji">
+                                <span class="jigou">发布机构：{{newsInfo.author}}</span>
+                                <span class="time">发布时间：{{newsInfo.addtime}}</span>
+                                <span class="num">浏览量：{{newsInfo.views}}</span>
+                            </p>
+                            <div v-html="newsInfo.content"></div>
+                            <div class="fujian" style="margin-bottom:0;">
+                                <p class="fujian0" style="text-align: left;background: #fff;">附件：
+                                    <span>
+                                        <a :href="newsInfo.fujian0_name" target="_blank">{{newsInfo.fujian0_des}}</a>
+                                    </span>
+                                </p>
+                                <p class="fujian1" style="text-align: left;background: #fff;">附件：
+                                    <span>
+                                        <a :href="newsInfo.fujian1_name" target="_blank">{{newsInfo.fujian1_des}}</a>
+                                    </span>
+                                </p>
+                                <p class="fujian2" style="text-align: left;background: #fff;">附件：
+                                    <span>
+                                        <a :href="newsInfo.fujian2_name" target="_blank">{{newsInfo.fujian2_des}}</a>
+                                    </span>
+                                </p>
+                                <p class="fujian3" style="text-align: left;background: #fff;">附件：
+                                    <span>
+                                        <a :href="newsInfo.fujian3_name" target="_blank">{{newsInfo.fujian3_des}}</a>
+                                    </span>
+                                </p>
+                                <p class="fujian4" style="text-align: left;background: #fff;">附件：
+                                    <span>
+                                        <a :href="newsInfo.fujian4_name" target="_blank">{{newsInfo.fujian4_des}}</a>
+                                    </span>
+                                </p>
+                            </div>
+                            <div style="text-align: center;">
+                                <template v-if="wj_id !=''">
+                                    <template v-if="td==false">
+                                        <a class="bgcolor wenjuan" data-toggle="modal" style="width:100px;text-align:center;cursor: pointer;display:block;margin:0 auto 20px;padding:2px 10px;color:#fff;border-radius:3px;">问卷填答
+                                        </a>
+                                    </template>
+                                    <template v-else>
+                                        <template v-if="zai">
+                                            <a class="bgcolor my_answer"  data-toggle="modal" style="width:100px;text-align:center;cursor: pointer;display:inline-block;margin:0 auto 20px;padding:2px 10px;color:#fff;border-radius:3px;">再次填答</a>
+                                        </template>
+                                        <template v-if="fen">
+                                            <a class="see_answer" href="javascript:;" style="border: 1px solid #3F5EB0;width: 107px;text-align: center;cursor: pointer;display: inline-block;padding: 1px 10px;color: #3F5EB0;border-radius: 3px;margin: 0 10px;">查看统计分析</a>
+                                        </template>
+                                        <template v-else>
+                                            <a class="hui_my_answer" href="javascript:void(0);" style="display: block;width: 100px;text-align: center;cursor: pointer;margin: 0px auto 20px;padding: 0px 10px;color: #ffffff;border-radius: 3px;background: #999999;">已填答</a>
+                                        </template>
+                                    </template>
+                                </template>
+                            </div>
+                            <template v-if="prev == null">
+                                <p class="prevArt">上一篇：
+                                    <a href="javascript:void(0);"></a>
+                                    <span class="#eeeeee" style="cursor:not-allowed;">已经是第一篇</span>
+                                </p>
+                            </template>
+                            <template v-else>
+                                <p class="prevArt">上一篇：
+                                    <template v-if="prev.content_url == ''">
+                                        <a :href="'zdydetail.html?cateid='+cateid+'&id='+prev.id" v-html="prev.title"></a>
+                                    </template>
+                                    <template v-else>
+                                        <a :href="prev.content_url" v-html="prev.title"></a>
+                                    </template>
+                                </p>
+                            </template>
+                    
+                            <template v-if="next == null">
+                                <p class="nextArt">下一篇：
+                                    <a href="javascript:void(0);"></a>
+                                    <span class="#eeeeee" style="cursor:not-allowed;">已经是最后一篇</span>
+                                </p>
+                            </template>
+                            <template v-else>
+                                <p class="nextArt">下一篇：
+                                    <template v-if="next.content_url == ''">
+                                        <a :href="'zdydetail.html?cateid='+cateid+'&id='+next.id" v-html="next.title"></a>
+                                    </template>
+                                    <template v-else>
+                                        <a :href="next.content_url" v-html="next.title"></a>
+                                    </template>
+                                </p>
+                            </template>
+                        </div>
+                    </div>
+                </div>
+            </template>
+        </div>
+    </div>
+    <!-- 分享 -->
+    <div class="modal fade" id="fxModal" tabindex="-1" role="dialog">
+        <div class="modal-dialog" style="width: 350px;">
+            <div class="modal-content" style="z-index:1000;top: 100px;padding-bottom: 20px;height: 310px;">
+                <div class="modal-header" style="padding: 0;">
+                    <button type="button" class="close cha" data-dismiss="modal" aria-hidden="true" style="margin: 15px;">×</button>
+                    <h3 style="display: inline-block;margin: 15px;"> <i style="color:#3F5EB0" class="fa fa-wechat"></i> </h3>
+                </div>
+                <div class="modal-bodys">
+                    <div class="main-pop" style="text-align: center;">
+                        <input type="hidden" id="murl" value="" />
+                        <p id="qrcode" style="margin: 20px auto 15px;"></p>
+                        <p style="color: #3F5EB0;">微信扫一扫，分享给更多的人</p>
+                    </div>
+                </div>
+                <div class="modal-footer" style="text-align: center;">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal" aria-hidden="true" style="background-color: #3F5EB0;border-color: #3F5EB0;">知道了</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="toTop bgcolor4">
+        <span class="glyphicon glyphicon-hand-up"></span>
+        TOP
+    </div>
+
+    <!-- 页脚 -->
+    <div class="footer"></div>
+
+</body>
+</html>
+<script>
+    $(function () {
+        $(".header").load("../Public/header.html");
+        $(".footer").load("../Public/footer.html");
+        //分享
+        $(".fen>p").hover(function () {
+            $(this).attr("class", "fcolor");
+        }, function () {
+            $(this).attr("class", "");
+        })
+        var qrcode = new QRCode(document.getElementById("qrcode"), {
+            width : 130,
+            height : 130
+        });
+        $('.share').click(function(){
+            var url = window.location.href;
+            $("#murl").val(url);
+            makeCode();
+            $(".count_pop").fadeIn();
+        })
+        function makeCode () {
+            var murl = $("#murl").val();
+            qrcode.makeCode(murl);
+        }
+
+        //问卷
+        $(".wenjuan").hover(function () {
+            $(this).attr("class", "bgcolor2 wenjuan");
+        }, function () {
+            $(this).attr("class", "bgcolor wenjuan");
+        })
+    })
+
+    var userid = sessionStorage.getItem('userid');
+    var news1 = sessionStorage.getItem('news1');
+    var news2 = sessionStorage.getItem('news2');
+    var news3 = sessionStorage.getItem('news3');
+    var zdy1 = sessionStorage.getItem('zdy1');
+    var zdy2 = sessionStorage.getItem('zdy2');
+    var zdy3 = sessionStorage.getItem('zdy3');
+    var zdy4 = sessionStorage.getItem('zdy4');
+    var zdy5 = sessionStorage.getItem('zdy5');
+    var zdy6 = sessionStorage.getItem('zdy6');
+    var zdy7 = sessionStorage.getItem('zdy7');
+    var zdy8 = sessionStorage.getItem('zdy8');
+    
+	var cateid = $.getUrlParam('cateid');
+	var id = $.getUrlParam('id');
+	var wj_id = 0;
+	var vm = new Vue({
+        el: "#details",
+        data: {
+            newsInfo: {},
+            prev: {},
+            next: {},
+            news1: news1,
+            news2: news2,
+            news3: news3,
+            zdy1: zdy1,
+            zdy2: zdy2,
+            zdy3: zdy3,
+            zdy4: zdy4,
+            zdy5: zdy5,
+            zdy6: zdy6,
+            zdy7:zdy7,
+            zdy8:zdy8,
+            wj_id:'',
+            textContent:'',
+            td:false,
+            fen:false,
+            zai:false,
+            wj_id_info:{},
+        },
+        beforeUpdate: function () {
+            if(cateid == zdy1){
+                $(".xuesheng").eq(3).addClass("active").siblings(".xuesheng").removeClass("active");
+            }else if(cateid == zdy2){
+                $(".xuesheng").eq(4).addClass("active").siblings(".xuesheng").removeClass("active");
+            }else if(cateid == zdy3){
+                $(".xuesheng").eq(5).addClass("active").siblings(".xuesheng").removeClass("active");
+            }else if(cateid == zdy4){
+                $(".xuesheng").eq(6).addClass("active").siblings(".xuesheng").removeClass("active");
+            }
+        },
+        methods: {
+
+        },
+        updated: function () {
+            $(".wenjuan").click(function(){
+                if(vm.wj_id_info.anonymous == 1){
+                    if(!is_wxempty(vm.wj_id)){
+                        http('post','/wenjuan/checkanswer',{"id":vm.wj_id,"userid":userid,'extend':true}, function(e){
+                            if(e.code == "1"){
+                                sessionStorage.setItem('back_url',window.location.href);
+                                window.location.href="../Wenjuan/wenjuan.html?id="+vm.wj_id;
+                            }else{
+                                vm.td=true
+                                if(e.data.seting.analysis==1){
+                                    vm.fen=true;
+                                }
+                                if(e.data.seting.moreanswer==1){
+                                    vm.zai=true;
+                                }
+                            }
+                        });
+                    }else{
+                        LEE.alert("暂无问卷可填答！");
+                    }
+                }else{
+                    if(!is_wxempty(userid)){
+                        if(!is_wxempty(vm.wj_id)){
+                            http('post','/wenjuan/checkanswer',{"id":vm.wj_id,"userid":userid,'extend':true}, function(e){
+                                if(e.code == "1"){
+                                    sessionStorage.setItem('back_url',window.location.href);
+                                    window.location.href="../Wenjuan/wenjuan.html?id="+vm.wj_id;
+                                }else{
+                                    vm.td=true
+                                    if(e.data.seting.analysis==1){
+                                        vm.fen=true;
+                                    }
+                                    if(e.data.seting.moreanswer==1){
+                                        vm.zai=true;
+                                    }
+                                }
+                            });
+                        }else{
+                            LEE.alert("暂无问卷可填答！");
+                        }
+                    }else{
+                        sessionStorage.setItem('back_url',window.location.href);
+                        sessionStorage.setItem('wj_id',vm.wj_id);
+                        // $(".wenjuan").attr("data-target","#stuModal");
+                        // $.idcode.setCode({
+                        //     e	 		: 'idcode',
+                        //     codeType 	: { name : 'follow', len: 4},//len是修改验证码长度的
+                        //     codeTip		: '换个验证码?',
+                        //     inputID		: 'Txtidcode'//验证元素的ID
+                        // });
+                        window.location.href = "https://careert.buaa.edu.cn/index/oauth_buaa?oauth_type=10001";
+                    }
+                }
+                
+            })
+        },
+        filters: {
+            is_wxempty: function (value) {
+                if(value == null || value=="" || value == undefined || value == "0"){
+                    return "暂无数据";
+                }else{
+                    return value;
+                }
+            },
+        },
+        computed:{
+            contentHtml:function(){
+                var val = this.textContent;
+                if(val.indexOf('src="http')> -1){
+                    var newc = val.replace(/src="http/ig,'src="/mobile.php/show/img?url=http')
+                    return newc;
+                }else{
+                    return val;
+                }
+            }
+        },
+        filters: {
+
+        }
+    })
+    $(document).on("click",".my_answer",function(){
+        sessionStorage.setItem('back_url',window.location.href);
+        window.location.href="../Wenjuan/wenjuan.html?id="+vm.wj_id;
+    })
+    $(document).on("click",".see_answer",function(){
+        sessionStorage.setItem('back_url',window.location.href);
+        window.location.href="../Wenjuan/wenjuan_result.html?id="+vm.wj_id;
+    })
+    
+  	//获取详情
+    http('POST', '/Article/detail', {"id":id}, function (e) {
+		// console.log(e)
+		e.data.addtime = timestampToTime(e.data.addtime,1);
+		vm.wj_id = e.data.wj_id;
+        vm.prev = e.data.prev;
+        vm.next = e.data.next;
+        vm.wj_id_info = e.data.wj_id_info;
+        if(is_wxempty(e.data.fujian0)){
+            $(".fujian0").hide();
+        }else{
+            var img1=e.data.fujian0_name;
+            if(img1.indexOf(".jpg") >= 0 || img1.indexOf(".png") >=0) { 
+                e.data.fujian0_name=e.data.fujian0_name+'!y';
+            }
+        }
+        if(is_wxempty(e.data.fujian1)){
+            $(".fujian1").hide();
+        }else{
+            var img2=e.data.fujian1_name;
+            if(img2.indexOf(".jpg") >= 0 || img2.indexOf(".png") >=0) { 
+                e.data.fujian1_name=e.data.fujian1_name+'!y';
+            }
+        }
+        if(is_wxempty(e.data.fujian2)){
+            $(".fujian2").hide();
+        }else{
+            var img3=e.data.fujian2_name;
+            if(img3.indexOf(".jpg") >= 0 || img3.indexOf(".png") >=0) { 
+                e.data.fujian2_name=e.data.fujian2_name+'!y';
+            }
+        }
+        if(is_wxempty(e.data.fujian3)){
+            $(".fujian3").hide();
+        }else{
+            var img4=e.data.fujian3_name;
+            if(img4.indexOf(".jpg") >= 0 || img4.indexOf(".png") >=0) { 
+                e.data.fujian3_name=e.data.fujian3_name+'!y';
+            }
+        }
+        if(is_wxempty(e.data.fujian4)){
+            $(".fujian4").hide();
+        }else{
+            var img5=e.data.fujian4_name;
+            if(img5.indexOf(".jpg") >= 0 || img5.indexOf(".png") >=0) { 
+                e.data.fujian4_name=e.data.fujian4_name+'!y';
+            }
+        }
+        vm.newsInfo = e.data;
+        console.log(e.data)
+        if(is_wxempty(e.data.fujian0) && is_wxempty(e.data.fujian1) && is_wxempty(e.data.fujian2) && is_wxempty(e.data.fujian3) && is_wxempty(e.data.fujian4)){
+            $(".fujian").hide();
+        }
+        var userid = sessionStorage.getItem('userid');
+        //获取问卷答题情况
+        if(!is_wxempty(userid)){ 
+            if(!is_wxempty(e.data.wj_id)){ 
+                http('post','/wenjuan/checkanswer',{"id":e.data.wj_id,"userid":userid,'extend':true}, function(e){
+                    if(e.code == "1"){
+                    }else{
+                        vm.td=true
+                        if(e.data.seting.analysis==1){
+                            vm.fen=true;
+                        }
+                        if(e.data.seting.moreanswer==1){
+                            vm.zai=true;
+                        }
+                    }
+                });
+            }
+        }
+    });
+
+	
+</script>

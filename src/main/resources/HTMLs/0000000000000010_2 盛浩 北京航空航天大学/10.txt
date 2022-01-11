@@ -1,0 +1,1040 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>向锦武-北京航空航天大学</title><META Name="keywords" Content="北京航空航天大学,长江学者,向锦武" />
+<META Name="description" Content="向锦武，1964年4月出生于湖南平江。" />
+
+    <link rel="stylesheet" type="text/css" href="../../css/reset.css">
+    <link rel="stylesheet" type="text/css" href="../../css/common.css">
+    <link rel="stylesheet" type="text/css" href="../../css/header.css">
+    <link rel="stylesheet" type="text/css" href="../../css/xwxq.css">
+    <link rel="stylesheet" type="text/css" href="../../css/footer.css">
+    <script type="text/javascript" src="../../js/bdtxk2.js"></script>
+    <script type="text/javascript" src="../../js/header.js"></script>
+    <link rel="stylesheet" type="text/css" href="../../css/media.css">
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e78475c52555742000000034754 -->
+<link rel="stylesheet" type="text/css" href="../../2020-nry.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1545,'/2020-nry.jsp',1753,1694982928)</script>
+</head>
+
+<body>
+      <!-- header -->
+    <div class="fixehead">
+        <div class="header">
+            <div class="headTop cf">
+                           <script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+ 
+<div class="logo logomorr">
+
+ 
+                    <div class="logoimg1 riye">
+                        <a href="../../index.htm" title="北京航空航天大学" onclick="_addDynClicks(&#34;wbimage&#34;, 1694982928, 36297)"><img src="../../images/header/logo1.png" /></a>
+                        <div class="warp">
+                            <div class="waice">
+                            </div>
+                        </div>
+                    </div>
+                    
+
+                    
+                    
+
+                    <div class="logoimg2 riye">
+                        <a href="../../index.htm" title="北京航空航天大学" onclick="_addDynClicks(&#34;wbimage&#34;, 1694982928, 36285)"><img src="../../images/header/logo2.png" /></a>
+                        <div class="warp">
+                            <div class="waice">
+                            </div>
+                        </div>
+                    </div>
+                    
+
+                    
+                    
+
+
+</div>
+ 
+
+<!-- 1024的时候显示 -->
+<div class="logo logo_1024">
+
+
+
+    <div class="logoimg1 riye ">
+       <a href="../../index.htm" title="北京航空航天大学" onclick="_addDynClicks(&#34;wbimage&#34;, 1694982928, 36284)"><img src="../../images/header/logo1_1024.png" /></a>
+        <div class="warp">
+            <div class="waice">
+            </div>
+        </div>
+    </div>
+    
+
+    
+
+    <div class="logoimg2 riye riye2">
+       <a href="../../index.htm" title="北京航空航天大学" onclick="_addDynClicks(&#34;wbimage&#34;, 1694982928, 36298)"><img src="../../images/header/logo2.png" /></a>
+        <div class="warp">
+            <div class="waice">
+            </div>
+        </div>
+    </div>
+    
+
+    
+</div>
+
+ 
+
+           
+                <div class="headbg head_leftbg fl">
+                    <div class="xiejiao"></div>
+                    <!-- 一级导航左 -->
+                    <ul class="cf">    
+        <li><h6><a href="http://news.buaa.edu.cn" target="_blank" title="北航新闻">北航新闻</a><i class="line "></i> </h6>
+        </li>
+
+        <li><h6><a href="javascript:;" title="北航概况">北航概况</a><i class="line "></i> </h6>
+                <div class="secondnav">
+                        <a href="../../bhgk/xzjy.htm" title="校长寄语">校长寄语</a>
+
+                        <a href="../../bhgk/jrbh.htm" title="今日北航">今日北航</a>
+
+                        <a href="../../bhgk/xrld.htm" title="现任领导">现任领导</a>
+
+                        <a href="../../bhgk/lsyg.htm" title="历史沿革">历史沿革</a>
+
+                        <a href="../../bhgk/bhxl.htm" title="北航校历">北航校历</a>
+
+                        <a href="../1726/2603.htm" title="校园地图">校园地图</a>
+
+                </div>
+
+
+        </li>
+
+        <li><h6><a href="javascript:;" title="机构设置">机构设置</a><i class="line "></i> </h6>
+                <div class="secondnav">
+                        <a href="../../jgsz/yxsz.htm" title="院系设置">院系设置</a>
+
+                        <a href="../../jgsz/dzfw.htm" title="党政服务">党政服务</a>
+
+                </div>
+
+
+        </li>
+
+        <li><h6><a href="javascript:;" title="人才培养">人才培养</a><i class="line none"></i> </h6>
+                <div class="secondnav">
+                        <a href="../../rcpy/szdw/lyys.htm" title="师资队伍">师资队伍</a>
+
+                        <a href="../../rcpy/bksjy.htm" title="本科生教育">本科生教育</a>
+
+                        <a href="../../rcpy/yjsjy.htm" title="研究生教育">研究生教育</a>
+
+                        <a href="../../rcpy/gjxsjy.htm" title="国际学生教育">国际学生教育</a>
+
+                        <a href="../../rcpy/jxjy.htm" title="继续教育">继续教育</a>
+
+                </div>
+
+
+        </li>
+
+
+
+
+</ul>
+                    <!--  -->
+                    <ol><script language="javascript" src="/system/resource/js/openlink.js"></script>    <li><a href="https://ev.buaa.edu.cn/" target="_blank" title="EN" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36428)">EN</a></li>
+    <li><a href="../../index/xs.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36423)">学生</a></li>
+    <li><a href="../../index/jzg.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36424)">教职工</a></li>
+    <li><a href="http://xyh.buaa.edu.cn/" target="_blank" title="校友" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36425)">校友</a></li>
+
+
+
+</ol>
+                </div>
+                <div class="headbg head_rightbg fr">
+                    <div class="xiejiao"></div>
+                    <!-- 一级导航右 -->
+                    <ul class="cf">    
+
+
+
+
+        <li><h6><a href="javascript:;" title="科学研究">科学研究</a><i class=" "></i> </h6>
+                <div class="secondnav">
+                        <a href="../../kxyj2/kyxmgk.htm" title="科研项目概况">科研项目概况</a>
+
+                        <a href="../../kxyj2/kyjd.htm" title="科研基地">科研基地</a>
+
+                        <a href="../../kxyj2/xsqk.htm" title="学术期刊">学术期刊</a>
+
+                </div>
+
+
+        </li>
+
+        <li><h6><a href="javascript:;" title="招生就业">招生就业</a><i class=" "></i> </h6>
+                <div class="secondnav">
+                        <a href="../../zsjy1/bkszs.htm" title="本科生招生">本科生招生</a>
+
+                        <a href="../../zsjy1/yjszs.htm" title="研究生招生">研究生招生</a>
+
+                        <a href="../../zsjy1/gjxszs.htm" title="国际学生招生">国际学生招生</a>
+
+                        <a href="../../zsjy1/zyfz.htm" title="职业发展">职业发展</a>
+
+                </div>
+
+
+        </li>
+
+        <li><h6><a href="http://recruit.buaa.edu.cn" target="_blank" title="招聘引智">招聘引智</a><i class=" "></i> </h6>
+        </li>
+
+        <li><h6><a href="javascript:;" title="全球合作">全球合作</a><i class=" none"></i> </h6>
+                <div class="secondnav">
+                        <a href="../../qqhz1/gnhz.htm" title="国内合作">国内合作</a>
+
+                        <a href="../../qqhz1/gjhz.htm" title="国际合作">国际合作</a>
+
+                </div>
+
+
+        </li>
+</ul>
+                    <!--  -->
+                    <ol>    <li><a href="http://xxgk.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36426)">信息公开</a></li>
+    <li><a href="https://lib.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36427)">图书馆</a></li>
+    <li><a href="https://it.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36503)">智慧门户</a></li>
+</ol>
+                </div>
+
+                <div class="changyonglj"><script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<p>常用链接</p></div>
+                <div class="searchbtn"></div>
+            </div>
+            <!--常用链接内容  -->
+            <div class="changymain cf">
+                <div class="lianjie_left fl">
+                    <div class="formsearch"><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode189994').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey189994").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey189994").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey189994").value = base64.encode(document.getElementById("lucenenewssearchkey189994").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode189994"));
+        return true;
+    } 
+</script>
+<form action="../../2020-ssjg.jsp?wbtreeid=1545" method="post" id="au6a" name="au6a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkey189994" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype189994" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope189994" name="searchScope" value="0">
+<input name="showkeycode" id="showkeycode189994" placeholder="请输入关键字">
+ <input type="submit" class="ssbtm" value="">
+
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+</div>
+                    <div class="lianjie_left_btm">
+                        <div class="mainljol1 fl"><h3>线上服务</h3>
+<ol>
+
+
+    <LI style="width: 19%;"><a href="http://n.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36429)" rel="noreferrer">线上服务大厅</a></li>
+
+
+
+
+    <LI><a href="https://e.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36430)" rel="noreferrer">VPN系统</a></li>
+
+
+
+
+    <LI><a href="https://ucs.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36431)" rel="noreferrer">统一认证</a></li>
+
+
+
+
+    <LI><a href="https://icw.buaa.edu.cn/checkbuaa.aspx" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36432)" rel="noreferrer">财务系统</a></li>
+
+
+
+
+    <LI style="width: 19%;"><a href="../../xxfwdt1/xylxq.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36433)" rel="noreferrer">线下服务大厅</a></li>
+
+
+
+
+    <LI><a href="https://mail.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36434)" rel="noreferrer">邮件系统</a></li>
+
+
+
+
+    <LI><a href="https://sso.buaa.edu.cn/login?TARGET=https%3A%2F%2Foa2.buaa.edu.cn%2Fbh%2FSingleLogin.jsp" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36492)" rel="noreferrer">OA系统</a></li>
+
+
+
+
+    <LI><a href="http://course.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36435)" rel="noreferrer">课程中心</a></li>
+
+
+
+<li style="width: 19%;"> </li>
+
+
+
+
+    <LI><a href="https://card.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36436)" rel="noreferrer">校园卡服务</a></li>
+
+
+
+
+    <LI><a href="https://bhpan.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36437)" rel="noreferrer">北航云盘</a></li>
+
+
+
+
+    <LI><a href="http://i.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36438)" rel="noreferrer">iHome</a></li>
+
+
+
+<li style="width: 19%;"> </li>
+
+
+
+
+    <LI><a href="http://zbcg.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36440)" rel="noreferrer">招标公布</a></li>
+
+
+
+
+    <LI><a href="../../index/CARSI.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 69502)" rel="noreferrer">CARSI</a></li>
+
+
+
+
+ </ol></div>
+                        <div class="mainljol2 fl"><!--div class="fl">
+<h3>更多服务</h3>
+<ol>
+    <LI><a href="../../jgsz/yxsz.htm" target=_blank title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36460)">院系设置</a></li>
+    <LI><a href="../../jgsz/dzfw.htm" target=_blank title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36461)">党政服务</a></li>
+</ol>
+</div -->
+
+<div class="fl">
+<h3>机构服务</h3>
+<ol>
+
+
+    <LI><a href="../../jgsz/yxsz.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36460)">院系设置</a></li>
+
+
+    <LI><a href="../../jgsz/dzfw.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36461)">党政服务</a></li>
+
+
+</ol>
+</div></div>
+                    </div>
+                </div>
+                <div class="lianjie_right fr">    <ul class="cf">
+<li>
+
+
+
+        <a href="http://dsxxjy.buaa.edu.cn/" title="党史学习教育" onclick="_addDynClicks(&#34;wbimage&#34;, 1694982928, 59351)">
+            <img src="../../images/ipic1003.jpg" border="0">
+        </a>  
+        <p>党史学习教育</p>
+
+     
+</li>
+<li>
+
+
+
+        <a href="javascript:;" title="新冠疫情防控" onclick="_addDynClicks(&#34;wbimage&#34;, 1694982928, 36291)">
+            <img src="../../images/20/10/10/1ir40u1t5o/xl-zt01.jpg" border="0">
+        </a>  
+        <p>新冠疫情防控</p>
+
+     
+</li>
+<li>
+
+
+
+        <a href="javascript:;" title="主题教育" onclick="_addDynClicks(&#34;wbimage&#34;, 1694982928, 36277)">
+            <img src="../../images/2020/cy_pic1.png" border="0">
+        </a>  
+        <p>主题教育</p>
+
+     
+</li>
+</ul>
+<!--div class="morezhuanti"><a href="javascript:;">更多专题</a></div --> </div>
+                <div class="changyongclose">
+                 
+                </div>
+            </div>
+            <!--二级页  -->
+            <div class="Secondmavbg">
+               
+            </div>
+        </div>
+    </div>
+    <!-- 移动header -->
+     <div class="ph_fixehead">
+        <div class="ph_head_leftbg"></div>
+        <div class="ph_head_rightbg"></div>
+           
+    <a href="../../index.htm" onclick="_addDynClicks(&#34;wbimage&#34;, 1694982928, 36306)"><img class="logo" src="../../images/ph_head/logo1_1024.png" alt=""></a> 
+
+         <div class="menus">
+            <i></i>
+            
+        </div>
+         <div class="menustkbox"></div>
+        <div class="menusbox">
+            <ul>
+
+<li>
+                    <h3><a href="http://news.buaa.edu.cn">北航新闻</a> <i class="i1"></i> </h3>
+                    
+                </li>
+
+
+<li>
+                    <h3><a>北航概况</a> <i class="i2"></i> </h3>
+                    
+                     <div class="ph_erjinav">
+                        <ol>
+                    <li>
+                     <h3><a href="../../bhgk/xzjy.htm">校长寄语<i class="i1"></i></a> </h3>
+                      </li>
+                    <li>
+                     <h3><a href="../../bhgk/jrbh.htm">今日北航<i class="i1"></i></a> </h3>
+                      </li>
+                    <li>
+                     <h3><a href="../../bhgk/xrld.htm">现任领导<i class="i1"></i></a> </h3>
+                      </li>
+                    <li>
+                     <h3><a href="../../bhgk/lsyg.htm">历史沿革<i class="i1"></i></a> </h3>
+                      </li>
+                    <li>
+                     <h3><a href="../../bhgk/bhxl.htm">北航校历<i class="i1"></i></a> </h3>
+                      </li>
+                    <li>
+                     <h3><a href="../1726/2603.htm">校园地图<i class="i1"></i></a> </h3>
+                      </li>
+</ol>
+                    </div>
+                </li>
+
+
+<li>
+                    <h3><a>机构设置</a> <i class="i2"></i> </h3>
+                    
+                     <div class="ph_erjinav">
+                        <ol>
+                    <li>
+                     <h3><a href="../../jgsz/yxsz.htm">院系设置<i class="i1"></i></a> </h3>
+                      </li>
+                    <li>
+                     <h3><a href="../../jgsz/dzfw.htm">党政服务<i class="i1"></i></a> </h3>
+                      </li>
+</ol>
+                    </div>
+                </li>
+
+
+<li>
+                    <h3><a>人才培养</a> <i class="i2"></i> </h3>
+                    
+                     <div class="ph_erjinav">
+                        <ol>
+                    <li>
+                     <h3><a href="../../rcpy/szdw/lyys.htm">师资队伍<i class="i1"></i></a> </h3>
+                      </li>
+                    <li>
+                     <h3><a href="../../rcpy/bksjy.htm">本科生教育<i class="i1"></i></a> </h3>
+                      </li>
+                    <li>
+                     <h3><a href="../../rcpy/yjsjy.htm">研究生教育<i class="i1"></i></a> </h3>
+                      </li>
+                    <li>
+                     <h3><a href="../../rcpy/gjxsjy.htm">国际学生教育<i class="i1"></i></a> </h3>
+                      </li>
+                    <li>
+                     <h3><a href="../../rcpy/jxjy.htm">继续教育<i class="i1"></i></a> </h3>
+                      </li>
+</ol>
+                    </div>
+                </li>
+
+
+<li>
+                    <h3><a>科学研究</a> <i class="i2"></i> </h3>
+                    
+                     <div class="ph_erjinav">
+                        <ol>
+                    <li>
+                     <h3><a href="../../kxyj2/kyxmgk.htm">科研项目概况<i class="i1"></i></a> </h3>
+                      </li>
+                    <li>
+                     <h3><a href="../../kxyj2/kyjd.htm">科研基地<i class="i1"></i></a> </h3>
+                      </li>
+                    <li>
+                     <h3><a href="../../kxyj2/xsqk.htm">学术期刊<i class="i1"></i></a> </h3>
+                      </li>
+</ol>
+                    </div>
+                </li>
+
+
+<li>
+                    <h3><a>招生就业</a> <i class="i2"></i> </h3>
+                    
+                     <div class="ph_erjinav">
+                        <ol>
+                    <li>
+                     <h3><a href="../../zsjy1/bkszs.htm">本科生招生<i class="i1"></i></a> </h3>
+                      </li>
+                    <li>
+                     <h3><a href="../../zsjy1/yjszs.htm">研究生招生<i class="i1"></i></a> </h3>
+                      </li>
+                    <li>
+                     <h3><a href="../../zsjy1/gjxszs.htm">国际学生招生<i class="i1"></i></a> </h3>
+                      </li>
+                    <li>
+                     <h3><a href="../../zsjy1/zyfz.htm">职业发展<i class="i1"></i></a> </h3>
+                      </li>
+</ol>
+                    </div>
+                </li>
+
+
+<li>
+                    <h3><a href="http://recruit.buaa.edu.cn">招聘引智</a> <i class="i1"></i> </h3>
+                    
+                </li>
+
+
+<li>
+                    <h3><a>全球合作</a> <i class="i2"></i> </h3>
+                    
+                     <div class="ph_erjinav">
+                        <ol>
+                    <li>
+                     <h3><a href="../../qqhz1/gnhz.htm">国内合作<i class="i1"></i></a> </h3>
+                      </li>
+                    <li>
+                     <h3><a href="../../qqhz1/gjhz.htm">国际合作<i class="i1"></i></a> </h3>
+                      </li>
+</ol>
+                    </div>
+                </li>
+
+</ul>
+            <div class="ph_search">
+              <script type="text/javascript">
+    function _nl_ys_check2(){
+        
+        var keyword = document.getElementById('showkeycode190063').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey190063").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey190063").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey190063").value = base64.encode(document.getElementById("lucenenewssearchkey190063").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode190063"));
+        return true;
+    } 
+</script>
+<form action="../../2020-ssjg.jsp?wbtreeid=1545" method="post" id="au12a" name="au12a" onsubmit="return _nl_ys_check2()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkey190063" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype190063" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope190063" name="searchScope" value="0">
+   <input type="text" placeholder="请输入搜索词汇" name="showkeycode" id="showkeycode190063" class="infotext">
+  <input type="submit" class="ph_searchbtn" value="">
+</form>
+
+            </div>
+            <div class="menusbox_btm">
+               <div class="menusbox_btm_nav1 cf">
+<a href="../../index/xs.htm" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36505)">学生</a>
+<a href="../../index/jzg.htm" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36506)">教职工</a>
+<a href="http://xyh.buaa.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36507)">校友</a>
+<a href="https://ev.buaa.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 69580)">English</a>
+</div>
+
+<div class="menusbox_btm_nav2 cf">
+<a href="../../xxfwdt1/xylxq.htm" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36512)">线下服务大厅</a>
+<a href="http://n.buaa.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36510)">线上服务大厅</a>
+<a href="https://e.buaa.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36511)">VPN系统</a>
+<a href="https://sso.buaa.edu.cn/login?TARGET=https%3A%2F%2Foa2.buaa.edu.cn%2Fbh%2FSingleLogin.jsp" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36513)">OA系统</a>
+<a href="../../index/CARSI.htm" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36509)">CARSI</a>
+</div>
+            </div>
+        </div>
+    </div>
+    <!-- 移动header结束 -->
+        <div class="bh_container">
+        <div class="bh_header">
+            <img src="../../images/2020/zst/banner8.png" />
+        </div>
+    </div>
+    
+           <!-- 二级导航 -->
+    <div class="pc_BH_two BH_two">
+        <div class="bulan"></div>
+        <div class="BH_two_nav cf">
+            <div class="BH_two_nav_l">
+                <div class="navtext">
+                    <h2>
+
+
+
+人才培养</h2>
+                    <p>        
+                <a href="../../index.htm">首页</a>
+
+                >
+                <a href="#">人才培养</a>
+
+                >
+                <a href="../../rcpy/szdw/lyys.htm">师资队伍</a>
+
+                >
+                <a href="../../rcpy/szdw/zjxz.htm">长江学者</a>
+
+                >
+                正文
+</p>
+                    <h4>
+
+
+
+<span class=" ">长江学者</span>
+
+
+</h4>
+                </div>
+            </div>
+            <div class="BH_two_nav_r"><ul class="fr ">
+            <li class="hover "> <div class="yiji"><a href="../../rcpy/szdw/lyys.htm" title="师资队伍"><span>师资队伍</span></a> </div>
+                <div class="erji    ">
+                <div class="xj"></div>
+                <div class="btm">
+                        <a href="../../rcpy/szdw/lyys.htm" title="两院院士">两院院士</a>
+
+                        <a href="../../rcpy/szdw/gjjjxms1.htm" title="国家级教学名师">国家级教学名师</a>
+
+                        <a href="../../rcpy/szdw/ldsr.htm" title="立德树人">立德树人</a>
+
+                </div>
+
+                </div>
+
+
+        </li>
+        <li> <div class="yiji"><a href="../../rcpy/bksjy.htm" title="本科生教育"><span>本科生教育</span></a> </div>
+        </li>
+        <li> <div class="yiji"><a href="../../rcpy/yjsjy.htm" title="研究生教育"><span>研究生教育</span></a> </div>
+        </li>
+        <li> <div class="yiji"><a href="../../rcpy/gjxsjy.htm" title="国际学生教育"><span>国际学生教育</span></a> </div>
+        </li>
+        <li> <div class="yiji"><a href="../../rcpy/jxjy.htm" title="继续教育"><span>继续教育</span></a> </div>
+        </li>
+</ul>
+<div class="xsj"></div></div>
+        </div>
+    </div>
+   
+        
+        <div class="ph_twonav">
+        <div class="dqwz">
+                       <label>人才培养</label>
+               <span>师资队伍</span>
+               <span>长江学者</span>
+               <span>正文</span>
+</div>
+        <div class="actsanjiao"></div>
+        <div class="menusbox1">
+           <ul>
+<li><a href="../../rcpy/szdw/lyys.htm">两院院士<i class="i1"></i></a></li>
+<li><a href="../../rcpy/szdw/gjjjxms1.htm">国家级教学名师<i class="i1"></i></a></li>
+<li><a href="../../rcpy/szdw/ldsr.htm">立德树人<i class="i1"></i></a></li>
+</ul>
+        </div>
+    </div>
+         <!-- 内容 -->
+        
+        <div class="bh_container bh_szdw_item1">
+            <div class="zonghelist cf">
+                <div class="zonghe_left">
+                    <div class="gy_xiang_main">
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><LINK href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+<div>
+
+    <div class="title">
+        <h2>向锦武</h2>
+        <p>
+            <span><i class="i1"></i><script>_showDynClicks("wbnews", 1694982928, 1753)</script></span>
+            <span><i class="i2"></i>2016-07-27</span>
+        </p>
+    </div>
+    <div id="vsb_content" class="text"><div class="v_news_content">
+<div>
+ <p class="vsbcontent_img" style="text-align: center;"><img width="300" height="420" id="undefined" src="/__local/C/89/E6/9A441B90B9BABC40D58C16DFA02_E5ADAA69_7A20.jpg" border="0" vspace="0" hspace="0" vwidth="300" vheight="420" vurl="/_vsl/C89E69A441B90B9BABC40D58C16DFA02/E5ADAA69/7A20" vsbhref="vurl" orisrc="/__local/C/89/E6/9A441B90B9BABC40D58C16DFA02_E5ADAA69_7A20.jpg" class="img_vsb_content" style="float: none;"></p>
+</div>
+<div>
+ <p class="vsbcontent_end">向锦武，男，1964年4月生，湖南岳阳人。北京航空航天大学教授，教育部长江学者特聘教授，无人系统研究院总设计师，北京航空航天大学校学术委员会副主任，智能无人飞行系统先进技术工信部重点实验室主任。研究方向为飞行器设计、无人机系统设计等。先后获国家、省部级科技进步奖10项，以第一完成人获国家科技进步一等奖2项；获国务院政府特殊津贴、何梁何利创新奖；授权国家发明专利54项，发表论文210余篇，培养博士后8名、博士28名。</p>
+</div>
+</div></div><div id="div_vote_id"></div>
+    <br /><br />
+                      <div class="shenghe none">
+                            <span style="margin-right: 20px;">审核：<span style="color:red;">审核人参数配置未打开</span></span>
+                            <span>编辑：</span>
+                        </div>
+</div>
+</form>
+</div>
+                </div>
+                <div class="zonghe_right">
+                    <h2>最近新闻</h2>
+                    <script language="javascript" src="/system/resource/js/centerCutImg.js"></script><ul>
+</ul>
+<br /><br /><br />
+
+                </div>
+            </div>
+        </div>
+    </div>
+      <!-- footer -->
+    <div class="maxcontinner pc_footer footerbgcolor">
+        <div class="allfooter maxbox">
+                             <div class="sdiv6btm1"><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p class="p1">版权所有 2014-2021 北京航空航天大学<br /><a href="https://beian.miit.gov.cn" target="_blank" style="color:#fff;">京ICP备05004617-3</a><br />文保网安备案号1101080018</p><p class="p2">地址：北京市海淀区学院路37号<br />邮编：100191<br />电话：82317114</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?8edeba7d3ae859d72148a873531e0fa5";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script></div>
+                    <ul><li>
+    <div>
+        <p><a href="http://jwxt.buaa.edu.cn:8080/ieas2.1" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36441)">本科生教务系统</a></p>
+        <p><a href="http://gsmis.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36442)">研究生教务系统</a></p>
+    </div>
+
+</li>
+<li>
+    <div>
+        <p><a href="https://icw.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36443)">财务系统</a></p>
+        <p><a href="http://10.212.26.73/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36444)">人事系统</a></p>
+        <p><a href="http://teacher.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36445)">教师主页</a></p>
+    </div>
+
+</li>
+<li>
+    <div>
+        <p><a href="https://it.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36446)">智慧门户</a></p>
+        <p><a href="http://zbcg.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36447)">招标公布</a></p>
+    </div>
+</li></ul>
+                    <ol>    <LI><a href="https://news.buaa.edu.cn/" target="_blank" title="新闻网" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36448)">新闻网</a></li>
+    <LI><a href="http://rsc.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36449)">招聘引智</a></li>
+    <LI><a href="http://xyh.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36450)">校友会</a></li>
+    <LI><a href="http://bhuef.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36451)">基金会</a></li>
+    <LI><a href="http://lib.buaa.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36452)">图书馆</a></li>
+    <LI><a href="../../jgsz/yxsz.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36453)">院系设置</a></li>
+    <LI><a href="../../bhgk/bhxl.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36454)">北航校历</a></li>
+    <LI><a href="../1726/2603.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36455)">校园地图</a></li>
+</ol>
+            <div class="sdiv6icon">
+ 
+
+<!--div class="diviconbox">
+    <a  href="https://sso.buaa.edu.cn/login?TARGET=https%3A%2F%2Foa2.buaa.edu.cn%2Fbh%2FSingleLogin.jsp"  title="" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36456)" class="icon1"></a>
+</div -->
+
+    
+    
+
+
+
+
+
+    
+    <div class="diviconbox">
+        <a href="https://mp.weixin.qq.com/s/4_AnXmvi0DcsLTx_dl8r7Q" target="_blank" title="官方微信" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36457)" class="icon2"></a>
+        <div class="hide_show"><img src="../../images/code_wx.png"></div>
+    </div>
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+    
+    
+    <div class="diviconbox">
+        <a href="https://m.weibo.cn/u/5396134858" title="官方微博" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36458)" class="icon3"></a>
+        <div class="hide_show"><img src="../../images/code_wb.png"></div>
+    </div>
+    
+    
+    
+    
+    
+
+
+
+
+
+    
+    
+    
+    <div class="diviconbox">
+        <a href="#" title="北航小程序" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36459)" class="icon4"></a>
+<div class="hide_show hide_show3 hide_show4">
+ <div><img src="../../images/code_xcx.png">
+                            <p>北航小程序</p>
+                        </div>
+                        <div>
+                            <img src="../../images/code_xx.png">
+                            <p>信息北航</p>
+                        </div>
+
+
+</div>
+    </div>
+    
+    
+    
+    
+    
+
+
+
+
+                <div class="diviconbox">
+                    <a href="https://www.buaa.edu.cn/info/1816/6356.htm" class="icon5"></a>
+                    <div class="hide_show hide_show4">
+                    
+                           <div><img src="../../images/code_az.png">
+                            <p>安卓版</p>
+                        </div>
+                        <div>
+                            <img src="../../images/code_ios.png">
+                            <p>IOS版</p>
+                        </div>
+                  
+                    </div>
+                </div>
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+    
+    <!-- 移动端尾部 -->
+             <div class="ph_footer">
+            <div class="ph_foot_top cf">
+               
+<p> 版权所有 2014-2021 北京航空航天大学<br><a href="https://beian.miit.gov.cn" target="_blank" style="color:#fff;">京ICP备05004617-3</a><br>文保网安备案号1101080018 </p> 
+<p> 地址：北京市海淀区学院路37号<br>邮编：100191<br>电话：82317114 </p>
+            </div>
+            <div class="ph_foot_btm">
+                <ul class="cf">
+<li><div>
+<a href="http://jwxt.buaa.edu.cn:8080/ieas2.1" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36441)">本科生教务系统</a>
+<a href="http://gsmis.buaa.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36442)">研究生教务系统</a>
+</div></li>
+
+
+<li><div>
+<a href="https://icw.buaa.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36443)">财务系统</a>
+<a href="http://10.212.26.73/" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36444)">人事系统</a>
+<a href="http://teacher.buaa.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36445)">教师主页</a>
+</div></li>
+
+
+<li><div>
+<a href="https://it.buaa.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36446)">智慧门户</a>
+<a href="http://zbcg.buaa.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36447)">招标公布</a>
+</div></li>
+
+
+
+
+</UL>
+                <div class="ph_foot_nav cf">
+
+<a href="https://news.buaa.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36448)">新闻网</a>
+
+
+<a href="http://rsc.buaa.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36449)">招聘引智</a>
+
+
+<a href="http://xyh.buaa.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36450)">校友会</a>
+
+
+<a href="http://bhuef.buaa.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36451)">基金会</a>
+
+
+<a href="http://lib.buaa.edu.cn/" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36452)">图书馆</a>
+
+
+<a href="../../jgsz/yxsz.htm" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36453)">院系设置</a>
+
+
+<a href="../../bhgk/bhxl.htm" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36454)">北航校历</a>
+
+
+<a href="../1726/2603.htm" onclick="_addDynClicks(&#34;wburl&#34;, 1694982928, 36455)">校园地图</a>
+
+</div>
+            </div>
+        </div>
+        <div class="share">
+            <ul class="cf">
+                        
+                        <li>
+                    <div class="anbtn anbtn1"></div>
+                    <div class="ercode">
+                        <img src="../../images/code_wx.png" alt="">
+                        <div class="sanjiao"></div>
+                    </div>
+                </li>
+   
+                 <li>
+                    <div class="anbtn anbtn2">
+                        <div class="ercode">
+                            <img src="../../images/code_wb.png" alt="">
+                            <div class="sanjiao"></div>
+                        </div>
+                    </div>
+                </li>    
+
+   
+   
+
+   
+   
+    
+    <li>
+                    <div class="anbtn anbtn3">
+                        <div class="ercode">
+                     
+                            <div>
+                                <img src="../../images/code_xcx.png" alt="">
+                                <p>北航小程序</p>
+                            </div>
+                     
+                            <div>
+                                <img src="../../images/code_xx.png" alt="">
+                                <p>信息北航</p>
+                            </div>
+      <div class="sanjiao"></div>
+                        </div>
+                    </div>
+                </li>
+                
+                
+                    <li>
+                     <div class="anbtn anbtn4">
+                        <div class="ercode">
+                     
+                            <div>
+                                <img src="../../image/code_az.png" alt="">
+                                <p>安卓</p>
+                            </div>
+                     
+                            <div>
+                                <img src="../../image/code_ios.png" alt="">
+                                <p>IOS</p>
+                            </div>
+      <div class="sanjiao"></div>
+                        </div>
+                    </div>
+                </li>
+                
+
+            </ul>
+        </div>
+    <!-- 移动端尾部结束 -->
+    <script type="text/javascript" src="../../js/base.js"></script>
+    <script src="../../js/bdtxk2smoove.js"></script>
+    <script src="../../js/laydate/laydate.js"></script>
+    <script>
+        //执行一个laydate实例
+        //直接嵌套显示
+        laydate.render({
+            elem: '#test1'
+            , position: 'static'
+            , ready: function (date) {
+                var len = $('#test1 .layui-laydate-content tr').length;
+                if (len > 0) {
+                    setDiv()
+                    $('#test1 .layui-laydate-content tr').each(function () {
+                        $(this).find('td').each(function () {
+                            $(this).click(function (event) {
+                                setDiv()
+                            })
+                        })
+                    })
+                }
+                $('.laydate-prev-m,.laydate-next-m').click(function () {
+                    setDiv()
+                })
+                $('.laydate-set-ym').append('<div class="dateZZ"></div>');
+            }
+        });
+    </script>
+    <script>
+        $('.myblock').smoove({
+            offset: '-10',
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,1302 @@
+
+<!DOCTYPE html>
+<!--STATUS OK-->
+
+
+ 
+ 
+ 
+ 
+
+
+	
+                    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+
+
+    <head>
+        
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta name="Description" content="百度学术搜索，是一个提供海量中英文文献检索的学术资源搜索平台，涵盖了各类学术期刊、学位、会议论文，旨在为国内外学者提供最好的科研体验。">
+
+                                                                    <script>(function(){window.location.replace('//xueshu.baidu.com/usercenter/paper/show?paperid=9def57ad0794c61056018cb4a35ac2bb&site=xueshu_se');})();</script>
+            <noscript><meta http-equiv="refresh" content="0; url=//xueshu.baidu.com/usercenter/paper/show?paperid=9def57ad0794c61056018cb4a35ac2bb&site=xueshu_se"></noscript>
+        
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="icon" sizes="any" mask href="//www.baidu.com/img/baidu.svg">
+
+        
+<title>
+逃脱大师的失败 - 百度学术
+</title>
+
+
+        
+<style>
+@font-face {font-family: "iconfont";
+  src: url('/r/www/cache/scholar_mid/static/xueshu/iconfont/icomoon.eot?t=1615482094'); /* IE9*/
+  src: url('/r/www/cache/scholar_mid/static/xueshu/iconfont/icomoon.eot?t=1615482094#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('/r/www/cache/scholar_mid/static/xueshu/iconfont/icomoon.woff?t=1615482094') format('woff'), /* chrome, firefox */
+  url('/r/www/cache/scholar_mid/static/xueshu/iconfont/icomoon.ttf?t=1615482094') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('/r/www/cache/scholar_mid/static/xueshu/iconfont/icomoon.svg?t=1615482094#icomoon') format('svg'); /* iOS 4.1- */
+}
+</style>
+    
+    <link rel="stylesheet" href="http://s1.bdstatic.com/r/www/cache/scholar_mid/static/xueshu/css/detail2_1ea244f.css">
+    <style>
+      .sc_share_box .bdshare-button-style0-24 a{
+       background-image: url('http://bdimg.share.baidu.com/static/api/img/share/icons_0_24.png');
+    }
+    </style>
+    
+
+<style>
+    #content_left #leftnav{
+        visibility: hidden;
+    }
+</style>
+
+
+
+        
+<script src="http://s1.bdstatic.com/r/www/cache/scholar_mid/static/xueshu/js/env_8b93174.js"></script>
+<script>
+var name,navigate,bdQid="df94e0e300002de5";
+// 新增固定打点
+var plat = "" || 'pc';
+var from = uaMatch(navigator.userAgent);
+from = from.platformid;
+var bds={
+    se:{},
+    util:{},
+    //结果页js通用数据
+    comm : {
+        domain:"http://www.baidu.com",
+        ubsurl : "http://sclick.baidu.com/w.gif",
+        tn:"SE_baiduxueshu_c1gjeupa",
+        queryEnc:"paperuri%253A%25289def57ad0794c61056018cb4a35ac2bb%2529",
+        queryId:"df94e0e300002de5",
+        ishome : 0,
+        isTransShow: 0,
+        query : "paperuri:(9def57ad0794c61056018cb4a35ac2bb)",
+        queryShow : "",
+        qid : "df94e0e300002de5",
+        cid : "0",
+        sid : "",
+        f : "0",
+        pn : "0",
+        oq : "",
+        rsp : "",
+        sc_f_para : "",
+        stoken : "",
+        serverTime : "1630239735",
+        user : "",
+        username : "",
+        isLogin : "0",
+        loginAction : [],
+        useFavo : "",
+        pinyin : "",
+        favoOn : "",
+        personalData : "",
+        curResultNum:"1",
+        rightResultExist:false,
+        protectNum:0,
+        zxlNum:0,
+        pageNum:parseInt('1')||1,
+        pageSize:parseInt('10')||10,
+        taskTipsShow: 1,
+        subpro: 'xueshu_respage',
+        isSchoolShow: 0,
+        schoolEname: "",
+        resultTn:"SE_baiduxueshu_c1gjeupa",
+        scFrom:"",
+        scAsPara:"",
+        isdetailpage: 1,
+        // topBannerInfo: {
+        //     startDate: "2018\/05\/28",
+        //     endDate: "2018\/10\/11",
+        //     width: "260",
+        //     height: "130",
+        //     id: "jiangxuejin",
+        //     imgUrl: "http:\/\/ps-scholar-static.bj.bcebos.com\/homepage%2Fbaidujiangxuejing.jpeg",
+        //     jumpUrl: "http:\/\/scholarship.baidu.com\/"
+        // },
+        pageBannerInfo: {
+            startDate: "2018\/01\/01",
+			endDate: "2099\/01\/01",
+			id: "checkpage"
+        }
+    }
+};
+
+bds.comm.upn = {"browser":"","ie":"","os":"","win":"","browsertype":"other"};
+
+var selfOpen = window.open;
+eval("var open = selfOpen;");
+
+function G(id){
+    return document.getElementById(id);
+}
+
+function TagQ(tag,obj){
+	return obj.getElementsByTagName(tag);
+}
+
+/**
+* @description 增加sclick统计
+* @function
+* @name c
+* @grammar c(1)
+* @param {Object} q 字段集合
+* @return {Boolean} 当发送成功时返回true
+*/
+function c(q){
+    var p = window.document.location.href, sQ = '', sV = '', mu='', img = window["BD_PS_C" + (new Date()).getTime()] = new Image();
+    for (v in q) {
+        switch (v) {
+            case "title":
+                sV = encodeURIComponent(q[v].replace(/<[^<>]+>/g, ""));
+                break;
+            case "url":
+                sV = escape(q[v]);
+                break;
+            default:
+                sV = q[v];
+        }
+        sQ += "&" + v + "=" + sV;
+    }
+    try{
+        if (("p2" in q)&&G(q["p1"]).getAttribute("mu") && q["fm"]!="pl") {
+            mu= "&mu=" + escape(G(q["p1"]).getAttribute("mu"));
+        }
+    }catch(e){};
+	img.src = "http://sclick.baidu.com/w.gif?q=" + bds.comm.queryEnc + sQ + mu + "&rsv_sid=" + bds.comm.sid + "&cid="+bds.comm.cid+"&qid="+bds.comm.qid+"&t="+new Date().getTime()+"&path="+p;
+    return true;
+}
+
+// 百度统计JS-API部署(http://tongji.baidu.com/open/api/more?p=guide_overview)
+var _hmt = _hmt || [];
+
+/**
+* @description 增加nsclick统计
+* @function
+* @name c
+* @grammar ns_c(1)
+* @param {Object} q 字段集合
+* @return {Boolean} 当发送成功时返回true
+*/
+function ns_c(q){
+	ns_c_xs(q);
+}
+
+/**
+* @description 增加xueshu nsclick统计
+* @function
+* @name c
+* @grammar ns_c(1)
+* @param {Object} q 字段集合
+* @return {Boolean} 当发送成功时返回true
+*/
+
+function ns_c_xs(q){
+    var nsclickHost =  '//nsclick.baidu.com';
+    var nsclickUrl = bds && bds.util && bds.util.domain
+        ? bds.util.domain.get('http:' + nsclickHost)
+        : 'http:' + nsclickHost;
+
+    // uda打点新增固定参数
+    q['bid'] = 1;
+    q['from'] = from;
+    q['plat'] = plat;
+
+    var p = encodeURIComponent(window.document.location.href), sQ = '',wd=bds.comm.queryEnc, sV = '', mu='', img = window["BD_PS_C" + (new Date()).getTime()] = new Image();
+    for (v in q) {
+        switch (v) {
+            case "title":
+                sV = encodeURIComponent(q[v].replace(/<[^<>]+>/g, ""));
+                break;
+            case "url":
+                sV = encodeURIComponent(q[v]);
+                break;
+            default:
+                sV = q[v]
+        }
+        sQ += v + "=" + sV + "&";
+    }
+    mu= "&mu=" + p;
+
+    // mod当前搜索是否为图书馆模式
+    var mod = bds.comm.schoolEname ? '&mod=lib_' + bds.comm.schoolEname : '';
+    //fr是否来自详情页
+    var fr = bds.comm.isdetailpage ? '&fr=detailpage' : '';
+    img.src = nsclickUrl
+        + "/v.gif?pid=201&pj=mp_xueshu&qid=" + bds.comm.qid
+        + "&rsv_sid=" + bds.comm.sid
+        + "&wd=" + wd
+        + "&" + sQ + "f=" + bds.comm.f
+        + "&oq=" + bds.comm.oq
+        + "&rsp=" + bds.comm.rsp
+        + "&path=" + p
+        + "&tn=" + bds.comm.tn
+        + "&t=" + new Date().getTime()
+        + '&pn=' + bds.comm.pn
+        + mod
+        + fr
+        + "&ua=" + navigator.userAgent;
+    return true;
+}
+
+/**
+* @description 为搜索请求添加query，并增加ie参数
+* @function
+* @name setHeadUrl
+* @grammar setHeadUrl(el)
+* @param {Object} el 点击的链接对象
+*/
+function setHeadUrl(el){
+    var word = G("kw").value;
+    word = encodeURIComponent(word);
+    var url = el.href;
+    url = url.replace(new RegExp("(" + el.getAttribute('wdfield') + "=)[^&]*"), '\x241' + word+"&ie=utf-8");
+    el.href = url;
+}
+
+bds.util.getWinWidth = function(){
+    return window.document.documentElement.clientWidth;
+};
+//设置页面主体宽度
+//由于此时tangram还没加载，所以不能使用baidu.dom.addClass/removeClass
+bds.util.setContainerWidth = function(){
+    var c = G('container'),w = G('wrapper'),
+    remove = function(r,o){o.className = o.className.replace(r, '');},
+
+    add = function(cls,o){o.className = (o.className+' '+cls).replace(/^\s+/g, "");},
+    has = function(r,o){return r.test(o.className)};
+    if(bds.util.getWinWidth()<1310){
+        remove(/\bcontainer_l\b/g,c);
+        remove(/\bwrapper_l\b/g,w);
+        if(!has(/\bcontainer_s\b/,c)) add('container_s',c);
+        if(!has(/\bwrapper_s\b/,w)) add('wrapper_s',w);
+    bds.comm.containerSize = "s";
+    }else{
+        remove(/\bcontainer_s\b/g,c);
+        remove(/\bwrapper_s\b/g,w);
+        if(!has(/\bcontainer_l\b/,c)) add('container_l',c);
+        if(!has(/\bwrapper_l\b/,w)) add('wrapper_l',w);
+    bds.comm.containerSize = "l";
+    }
+};
+// ie版本
+bds.util.Ieversion = function() {
+    var ua = navigator.userAgent,
+        iereg = /MSIE (\d+).*/,
+        version = ua.match(iereg);
+
+    if (version && version[1]) {
+        return parseInt(version[1]);
+    }
+    return -1;
+};
+
+//阿拉丁命名空间
+window.A =  bds.aladdin = {
+    ids: [],
+    has: true,
+    list: [],
+    logs: [],
+    loadTimes: []
+};
+
+(function(){
+    var fns = [], isReady = false;
+    var exec = function(fn, thisobj){
+        try{
+            fn.call(thisobj);
+        }catch(e){
+            if(window.debugFlag) throw e;
+        }
+    };
+
+    //在js基础库加载完成后执行fn
+    bds.ready = function(fn){
+        if(typeof fn != 'function') return;
+        if(isReady){exec(fn)}
+        else{fns.push(fn);}
+    };
+
+    //手动触发ready
+    bds.doReady = function(){
+        isReady = true;
+        while(fns.length) exec(fns.shift());
+    };
+
+    //通过json字符串获取对象
+    var getJson = function(jsonString){
+        var result = {};
+        if(jsonString){
+            try{
+                var r = new Function("return " + jsonString)();
+                if(r) result = r;
+            }catch(e){}
+        }
+        return result;
+    },
+
+
+    // 获取当前阿拉丁DOM容器
+    getCurrentAladdin = (function(){
+        var scripts = document.getElementsByTagName("script");
+        return function(){
+            var script = scripts[scripts.length - 1], container = script;
+            while(container){
+                if( container.className ){
+                    if( /(?:^|\s)result(?:-op)?(?:$|\s)/.test(container.className)){
+                        if( tplname = container.getAttribute("tpl") ){
+                            return container;
+                        }
+                    }
+                }
+                container = container.parentNode;
+            }
+        };
+    })(),
+
+    // 筛选出阿拉丁结果
+    getResults = function(){
+        var els = $(".result-op").get().concat( $(".result").get() ),
+        alaEls = {};
+
+        for(var i = 0, name, el; el = els[i]; i++ ){
+            if(name = el.getAttribute("tpl")){
+                if( alaEls[name] ){
+                    alaEls[name].push(el);
+                }else{
+                    alaEls[name] = [el];
+                }
+            }
+        }
+        return alaEls;
+    },
+
+    // 入口事件队列
+    readyedHandlers = [],
+
+    //销毁函数列表，每项内容为
+    //{obj:instance, fn: fn}
+    //每项执行fn后即删除
+    disposeOnceHandlers = [],
+
+    //每项格式同disposeOnceHandlers
+    //每项执行后仍保留
+    //即每次销毁实例时都执行一次
+    disposeAlwaysHandlers = [],
+
+    currentSetupContainer = null,
+
+    // merge在bds.ready前的队列
+    mergeHandlers = [],
+
+    // 阿拉丁实例构造函数
+    Ala = A._Aladdin = function(){
+        this.p1 = 0;
+        this.mu = null;
+    };
+
+    A.merge = function(tplname, fn){
+        mergeHandlers.push({tplname: tplname, fn: fn});
+    };
+
+    // 阿拉丁入口函数
+    A.init = A.setup = function(k, v){
+
+        // 页面可能存在的空 init
+        if( k === undefined || k === null){
+            return;
+        }
+
+        var object, container = currentSetupContainer || getCurrentAladdin();
+        if( !container){
+            return;
+        }
+
+        object = {container: container};
+
+        if(typeof k == "function"){
+            object.handler = k;
+
+        }else if(typeof k == 'object'){
+            object.data = k;
+
+        }else{
+            object.data = {};
+            object.data[k] = v;
+        }
+
+        readyedHandlers.push( object );
+    };
+
+    // 注册每次销毁均执行的函数
+    A.addDisposeHandler = function(item){
+        disposeAlwaysHandlers.push(item);
+    };
+
+    //全局阿拉丁销毁函数，在删除阿拉丁dom节点前调用
+    A.dispose = function(){
+        // 执行阿拉丁实例dispose队列
+        while(disposeOnceHandlers.length){
+            var d = disposeOnceHandlers.shift();
+            exec(d.fn, d.obj);
+        }
+        // 顺序执行销毁函数
+        var handlers = disposeAlwaysHandlers;
+        for(var i=0;i<handlers.length;i++){
+            var d = handlers[i];
+            exec(d.fn, d.obj);
+        }
+    };
+
+    // 遍历执行所有阿拉丁实例
+    bds.ready(function(){
+
+        // 将所有的merge队列转换为setup队列
+        if( mergeHandlers.length ){
+            var results = getResults();
+            for(var i = 0, item; item = mergeHandlers[i]; i++){
+                var els = results[item.tplname];
+                if(els){
+                    for(var j = 0, el; el = els[j]; j++){
+                        currentSetupContainer = el;
+                        item.fn();
+                        currentSetupContainer = null;
+                    }
+                }
+            }
+        }
+
+        // 整理出的每个Aladding JS数据
+        var groupData = [],
+        getGroupData = function(el){
+            if(!isNaN(el.initIndex)){
+                return  groupData[ el.initIndex * 1];
+            }
+            var data = { data:{}, handlers: [], container: el };
+            groupData.push(data);
+            el.initIndex = groupData.length - 1;
+            return data;
+        };
+
+        // 整理setup队列顺序
+        for(var i = 0, item; item = readyedHandlers[i]; i++){
+            var elData = getGroupData(item.container);
+
+            if( item.data ){
+                for(var k in item.data){
+                    if(item.data.hasOwnProperty(k)){
+                        elData.data[k] = item.data[k];
+                    }
+                }
+
+            }else if (item.handler){
+                elData.handlers.push( item.handler );
+            }
+        }
+
+        // 遍历所有的setup
+        for(var i = 0, item; item = groupData[i]; i++){
+            var fn,
+            sTime,
+            eTime,
+            obj = {},
+            ala = new Ala();
+
+            ala.data = item.data;
+            ala.container = item.container;
+            ala._init();
+            A.list.push(ala);
+
+            // 执行setup队列
+            sTime = new Date();
+            while( fn = item.handlers.shift() ){
+                exec(fn, ala);
+                //执行完fn后，如果示例上定义了dispose方法
+                //则将其保存到队列中
+                if(typeof ala.dispose == 'function'){
+                    disposeOnceHandlers.push({
+                        obj:ala,
+                        fn: ala.dispose
+                    });
+                    ala.dispose = null;
+                }
+            }
+            eTime = new Date();
+
+            // 统计执行时间
+            obj = { srcid: ala.srcid };
+            obj.tpl  = ala.container.getAttribute('tpl');
+            obj.time = eTime - sTime;
+            A.loadTimes.push( obj );
+
+            $.each( A._Aladdin.fixs, function(i, f){
+                f.call(ala, ala);
+            });
+        }
+
+    });
+
+    Ala.prototype = {
+
+        //初始化实例属性
+        _init: function() {
+            var attrs = getJson(this.container.getAttribute('data-click'));
+            this.p1 = attrs.p1 || this.container.id;
+            this.mu = attrs.mu || this.container.getAttribute('mu');
+            this.srcid = attrs.rsv_srcid || this.container.getAttribute('srcid');
+        }
+    };
+
+
+})();
+</script>
+<script type="text/javascript">
+																					            																											 // ssl_url_r转的dss0.bdstatic.com/9r-1bjml2gcT8tyhnq这个代理下线，换成这个
+
+
+//https域名转换工具
+bds.util = bds.util || {};
+bds.util.domain = (function(){
+	var list = {
+        "graph.baidu.com": "http://graph.baidu.com",
+		"p.qiao.baidu.com":"http://p.qiao.baidu.com",
+		"vse.baidu.com":"http://vse.baidu.com",
+		"hdpreload.baidu.com":"http://hdpreload.baidu.com",
+		"lcr.open.baidu.com":"http://lcr.open.baidu.com",
+		"kankan.baidu.com":"http://kankan.baidu.com",
+		"xapp.baidu.com":"http://xapp.baidu.com",
+		"dr.dh.baidu.com":"http://dr.dh.baidu.com",
+		"xiaodu.baidu.com":"http://xiaodu.baidu.com",
+		"sensearch.baidu.com":"http://sensearch.baidu.com",
+		"s1.bdstatic.com":"http://s1.bdstatic.com",
+		"olime.baidu.com":"http://olime.baidu.com",
+		"app.baidu.com":"http://app.baidu.com",
+		"i.baidu.com":"http://i.baidu.com",
+		"c.baidu.com":"http://c.baidu.com",
+		"sclick.baidu.com":"http://sclick.baidu.com",
+		"nsclick.baidu.com":"http://nsclick.baidu.com",
+		"sestat.baidu.com":"http://sestat.baidu.com",
+		"eclick.baidu.com":"http://eclick.baidu.com",
+		"api.map.baidu.com":"http://api.map.baidu.com",
+		"ecma.bdimg.com":"http://ecma.bdimg.com",
+		"ecmb.bdimg.com":"http://ecmb.bdimg.com",
+        "t1.baidu.com":"http://t1.baidu.com",
+        "t2.baidu.com":"http://t2.baidu.com",
+        "t3.baidu.com":"http://t3.baidu.com",
+		"t10.baidu.com":"http://t10.baidu.com",
+		"t11.baidu.com":"http://t11.baidu.com",
+		"t12.baidu.com":"http://t12.baidu.com",
+		"i7.baidu.com":"http://i7.baidu.com",
+		"i8.baidu.com":"http://i8.baidu.com",
+		"i9.baidu.com":"http://i9.baidu.com",
+		"b1.bdstatic.com":"http://b1.bdstatic.com",
+		"ss.bdimg.com":"http://ss.bdimg.com",
+		"opendata.baidu.com":"http://opendata.baidu.com",
+		"api.open.baidu.com":"http://api.open.baidu.com",
+		"tag.baidu.com":"http://tag.baidu.com",
+		"f3.baidu.com":"http://f3.baidu.com",
+		"s.share.baidu.com":"http://s.share.baidu.com",
+		"bdimg.share.baidu.com":"http://bdimg.share.baidu.com",
+        "1.su.bdimg.com":"http://1.su.bdimg.com",
+        "2.su.bdimg.com":"http://2.su.bdimg.com",
+        "3.su.bdimg.com":"http://3.su.bdimg.com",
+        "4.su.bdimg.com":"http://4.su.bdimg.com",
+        "5.su.bdimg.com":"http://5.su.bdimg.com",
+        "6.su.bdimg.com":"http://6.su.bdimg.com",
+        "7.su.bdimg.com":"http://7.su.bdimg.com",
+        "8.su.bdimg.com":"http://8.su.bdimg.com",
+        "hiphotos.baidu.com":"http://hiphotos.baidu.com",
+        "xueshu.baidu.com":"http://xueshu.baidu.com",
+        "upload.xueshu.baidu.com":"http://upload.xueshu.baidu.com",
+		"a.xueshu.baidu.com":"http://a.xueshu.baidu.com",
+		"bj.bcebos.com": "https://bj.bcebos.com"
+	};
+	var get = function(url) {
+		// 避免线下测试因数据不全产生异常
+		if (url == null || url.indexOf('http') === -1) {
+			return url;
+		}
+		if(location.protocol === "http:") {
+			return url;
+		}
+		var reg = /^(http[s]?:\/\/)?([^\/]+)(.*)/,
+		matches = url.match(reg);
+		//判断传入参数是域名还是地址，分别做处理
+		url = list.hasOwnProperty(matches[2])&&(list[matches[2]] + matches[3]) || url;
+		return url;
+	},
+	set = function(kdomain,vdomain) {
+		list[kdomain] = vdomain;
+	};
+	return {
+		get : get,
+		set : set
+	}
+})();
+</script>
+
+    </head>
+    <body link="#0000cc" class="">
+
+        
+        <div id="wrapper" class="wrapper_l">
+        
+
+            
+
+            
+<div id="head_wr" class="gj">
+
+
+<div id="head" class="detailpage_head gj">
+    <div class="head_input">
+        <a href="//xueshu.baidu.com/" class="s_logo" onmousedown="return ns_c_xs({'fm':'xueshu','tab':'logo'})">
+                            <div class="s_logo_img" alt="到学术首页" title="到学术首页"></div>
+                    </a>
+        <div class="s_form_wr">
+            <form name="f" id="form" action="/s">
+                <span class="s_ipt_wr gj">
+                    <input name="wd" autocomplete="off" id="kw" class="s_ipt" value="" maxlength="255">
+                </span>
+
+                <div class="sc_adv_search_btn">
+                    <input type="submit" value="百度一下">
+                </div>
+
+                                                                <input type="hidden" name="tn" value="SE_baiduxueshu_c1gjeupa">                                <input type="hidden" name="cl" value="3">                                                                                <input type="hidden" name="ie" value="utf-8">                
+                <input type="hidden" name="bs" value="paperuri:(9def57ad0794c61056018cb4a35ac2bb)">
+                <input type="hidden" name="f" value="8">
+                <input type="hidden" name="rsv_bp" value="1">
+                <input type="hidden" name="rsv_sug2" value="1">
+                <input type="hidden" name="sc_f_para" value="sc_tasktype={firstSimpleSearch}">
+
+                
+                            </form>
+            
+
+
+
+
+
+
+
+<div class="sc_adv_triangle_down gj">
+        <span>高级搜索</span>
+    </div>
+
+<div id="sc_adv">
+<form action="/s" id="sc_adv_frm">
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">包含全部检索词</span>
+        <span><input type="text" placeholder="" data-type="all" data-name="" class="sc_adv_keyword_ipt sc-input sc_adv_keyword1" maxlength="100" value=""></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">包含精确检索词</span>
+        <span><input type="text" placeholder="多个检索词以逗号，分隔" data-type="precise" data-name="" class="sc_adv_keyword_ipt sc-input sc_adv_keyword2" maxlength="100" value=""></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">包含至少一个检索词</span>
+        <span><input type="text" placeholder="多个检索词以逗号，分隔" data-type="or" data-name="" class="sc_adv_keyword_ipt sc-input" maxlength="100" value=""></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">不包含检索词</span>
+        <span><input type="text" placeholder="多个检索词以逗号，分隔" data-type="not" data-name="" class="sc_adv_keyword_ipt sc-input" maxlength="100" value=""></span>
+    </div>
+    <div class="sc_adv_hatr" style="margin-bottom:23px;">
+        <span class="sc_adv_label">出现检索词的位置</span>
+        <span class="sc_adv_keyword_pos">
+            <div class="sc_adv_dropdown_btn">
+                <span class="sc_adv_dropdown_text">
+                                    <a href="javascript:;"  data-name="">文章任何位置</a>
+                                </span>
+                <i class="c-icon c-icon-arrow-down-gray"></i>
+                <div class="sc_adv_dropdown_group sc_adv_dropdown_group1 sc_adv_dropgroup_title" data-index="1">
+                                    <a href="javascript:;"  data-name="intitle">位于文章标题</a>
+                                </div>
+            </div>
+        </span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">作者</span>
+        <span><input type="text" placeholder="请输入作者名字" data-name="author" class="sc_adv_txin sc-input sc_adv_author" maxlength="50" value=""></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">机构</span>
+        <span><input type="text" placeholder="请输入机构名称" data-name="affs" class="sc_adv_txin sc-input sc_adv_affs" maxlength="50" value=""></span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">出版物</span>
+        <span class="sc_adv_jour_conf">
+            <span class="sc_adv_dropdown_btn">
+                <span class="sc_adv_dropdown_text">
+                                        <a href="javascript:;"  data-name="journal" data-holder="请输入期刊名称">期刊</a>
+                                    </span>
+                <i class="c-icon c-icon-arrow-down-gray"></i>
+                <div class="sc_adv_dropdown_group sc_adv_dropgroup_pub" data-index="2">
+                                        <a href="javascript:;" data-name="conference" data-holder="请输入会议名称">会议</a>
+                                    </div>
+            </span>
+            <input type="text" placeholder="请输入期刊名称" data-name="journal" class="sc-input sc_adv_txin sc_adv_pubipt" maxlength="100" value="">
+        </span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">发表时间</span>
+        <span class="sc_adv_year">
+        <input type="text" data-nolog="1" pattern="[0-9]*" size="4" placeholder="年" maxlength="4" name="" class="sc-input sc-input-xmini sc_adv_input_ylo" value="">&nbsp;-&nbsp;<input type="text" data-nolog="1" pattern="[0-9]*" size="4" placeholder="年" maxlength="4" name="" class="sc-input sc-input-xmini sc_adv_input_yhi" value="">
+        </span>
+    </div>
+    <div class="sc_adv_hatr">
+        <span class="sc_adv_label">语言检索范围</span>
+        <span class="sc_adv_dropdown_btn">
+            <span class="sc_adv_dropdown_text sc_adv_lang_sel">
+                <a href="javascript:;" data-id="0">不限</a>
+            </span>
+            <i class="c-icon c-icon-arrow-down-gray"></i>
+            <div class="sc_adv_dropdown_group sc_adv_dropgroup_lang">
+                                <a href="javascript:;" data-id="0" class="sc_adv_lang_hide">不限</a>
+                                <a href="javascript:;" data-id="1">英文</a>
+                                <a href="javascript:;" data-id="2">中文</a>
+                            </div>
+        </span>
+    </div>
+    <span class="sc_adv_wd_hidden"></span>
+    <input type="hidden" name="tn" value="SE_baiduxueshu_c1gjeupa">
+    <input type="hidden" name="cl" value="3">    <input type="hidden" name="bs" value="paperuri:(9def57ad0794c61056018cb4a35ac2bb)">
+    <input type="hidden" name="ie" value="utf-8">
+    <input type="hidden" name="bcp" value="2">
+    <input type="hidden" name="sc_f_para" value="sc_tasktype={firstAdvancedSearch}">
+    <input type="hidden" name="sc_from" value="">
+    <input type="hidden" name="sc_as_para" value="">
+    <span class="sc_adv_sub s_btn_wr"><input type="submit" value="搜索" class="sc_adv_sub_btn s_btn"></span>
+</form>
+</div>
+
+                    </div>
+                    <div id="u" class=" gj xpath-log">
+<span id="setting"><a class="settingicon" href="javascript:;"><i class="iconfont icon-setup">&#xe608;</i></a><div class="menuarrow"><i class="c-icon c-icon-menu-triangle"></i></div><div id="setMenu" class="menuDropList"><div><a id="setpref" href="javascript:;"  onmousedown="return ns_c_xs({'fm':'behs','tab':'setting'})">搜索设置</a><a href="javascript:;" class="feedback" onmousedown="return ns_c_xs({'fm':'behs','tab':'tj_feedback'})">意见反馈</a></div></div></span><a id="lb" href="https://passport.baidu.com/v2/?login&tpl=xueshu&u=http%3A%2F%2Fxueshu.baidu.com%2F" onclick="return false;"  onmousedown="return user_c({'fm':'set','tab':'login'})">登录</a><a href="https://passport.baidu.com/v2/?reg&regType=1&tpl=xueshu&u=http%3A%2F%2Fxueshu.baidu.com%2F"  onmousedown="return user_c({'fm':'set','tab':'reg'})" target="_blank" class="reg">注册</a></div>
+<div id="s_mod_msg" class="s-mod-msg" style="right: 20px;display:none"></div>
+<div class="s-mod-banner">
+    <span class="iconfont icon-xlight s-mod-banner-close">&#xe609;</span>
+    <a href="https://xueshu.baidu.com/usercenter/papercheck/index?site=index_links" target="_blank">【学术君@你】毕业季查重福利升级啦！首单免费不花钱，更有万方7折券限量抢手慢无！快去看看>>></a>
+</div>
+
+
+            </div>
+</div>
+
+    
+</div>
+<div id="left_menu_content" class="LOG_WR gj" data-log="{'actblock':'menu'}">
+    <div class="left_menu_logo">
+        <a href="/">
+                <div class="sologan onlyOn"></div>
+                <i class="iconfont onlyOff logosim">&#xe626;</i>
+        </a>
+    </div>
+    <div class="main_menu_wr">
+        <div class="sch_main_menu">
+                        <div class="menu_listitem">
+                <a href="/" class="active" data-log="{'type':'xueshu_sch'}" target="_blank">
+                    <i class="iconfont i-wx"></i><span>文献</span>
+                </a>
+            </div>
+            <div class="menu_listitem">
+                <a href="https://xueshu.baidu.com/usercenter/data/journal" class="" data-log="{'type':'journal'}">
+                    <i class="iconfont i-qk"></i><span>期刊</span>
+                </a>
+            </div>
+            <div class="menu_listitem dotPromote">
+                <a href="https://xueshu.baidu.com/usercenter/data/authorchannel?cmd=frontpage" data-log="{'type':'authorchannel'}" class="">
+                    <i class="iconfont i-xz"></i><span>学者</span>
+                </a>
+            </div>
+                        <div class="splite-line"></div>
+                        <div class="menu_listitem">
+                <a href="https://xueshu.baidu.com/usercenter/" data-log="{'type':'mymessage'}" class="">
+                    <i class="iconfont i-dy"></i><span>订阅</span><i id="msimsg"></i>
+                </a>
+            </div>
+
+            <div class="menu_listitem">
+                <a href="https://xueshu.baidu.com/usercenter/?tab=collect" data-log="{'type':'mycollect'}" class="">
+                    <i class="iconfont i-sc"></i><span>收藏</span>
+                </a>
+            </div>
+            <div class="menu_listitem dotPapaecheck">
+                <a href="https://xueshu.baidu.com/usercenter/papercheck/index" data-log="{'type':'papaercheck'}" class="">
+                    <i class="iconfont i-lwck"></i><span>论文查重</span>
+                    <em class="dot_tag">优惠</em>
+                    <i class="iconfont redDot">&#xe630;</i>
+                </a>
+            </div>
+            <div class="menu_listitem stanardPapaecheck">
+                <a href="https://xueshu.baidu.com/usercenter/papercheck/index" data-log="{'type':'papaercheck'}" class="">
+                    <i class="iconfont i-lwck"></i><span>论文查重</span>
+                </a>
+            </div>
+
+            <div class="menu_listitem">
+                <a href="https://xueshu.baidu.com/u/biye/?tag=paper" class="" data-log="{'type':'ktfx'}">
+                    <i class="iconfont i-ktfx"></i><span>开题分析</span>
+                </a>
+            </div>
+            <div class="menu_listitem">
+                <a href="https://xueshu.baidu.com/u/ppv" data-log="{'type':'ppv'}" class="">
+                    <i class="iconfont i-dpgm"></i><span>单篇购买</span>
+                </a>
+            </div>
+            <div class="menu_listitem">
+                <a href="https://xueshu.baidu.com/u/paperhelp" data-log="{'type':'paperhelp'}" class="">
+                    <i class="iconfont i-wxhz"></i><span>文献互助</span>
+                </a>
+            </div>
+                        <div class="splite-line"></div>
+                        <div class="menu_listitem">
+                <a href="https://xueshu.baidu.com/u/user" class="" data-log="{'type':'user'}">
+                    <i class="iconfont i-yhzx"></i><span>用户中心</span><i id="ucimsg"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    bds.ready(function() {
+        $('.sch_main_menu a').on('click', function(event) {
+            var btn_tp = $(this).attr('data-log');
+            if (!btn_tp) {
+                return;
+            }
+            btn_tp = btn_tp.replace(/'/g, '"');
+            btn_tp = JSON.parse(btn_tp);
+            ns_c_xs({
+                'fm' : 'as',
+                'act_block': 'left_nav',
+                'button_tp' : btn_tp.type
+            });
+        });
+    });
+</script>
+
+
+
+            
+            <div id="sc_md_s" style="display: none;"></div>
+            <div id="container" class="container_l">
+            <script>
+                bds.util.setContainerWidth();
+                bds.ready(function(){
+                    $(window).on("resize",function(){
+                        bds.util.setContainerWidth();
+                    });
+                    bds.util.setContainerWidth();
+                });
+            </script>
+            
+
+                
+	
+
+
+
+
+
+
+
+
+
+
+
+
+<!--  -->
+<div id="dtl_main" class="xpath-log" data-click="{'fm':'as','longsign':'9def57ad0794c61056018cb4a35ac2bb'}">
+	<div id="dtl_l">
+		<div data-click="{'act_block':'main'}">
+<h3>
+            <a href="http://www.cnki.com.cn/Article/CJFDTotal-JZGR201709030.htm" data-click="{'act_block':'main','button_tp':'title'}" target="_blank" data-link="http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-JZGR201709030.htm">逃脱大师的失败</a>
+    </h3>
+<div class="dtl_subinfo">
+        <div class="source">来自<a target="_blank" href="http://www.cnki.com.cn/Article/CJFDTotal-JZGR201709030.htm" class="c-gray" data-click="{'act_block':'main','button_tp':'from_nm'}" title="知网">知网</a></div>
+        
+    <div class="subinfo_tool">
+        <a class="sc_collect" href="#" target="_blank" data-url="http://www.cnki.com.cn/Article/CJFDTotal-JZGR201709030.htm" data-urlmd="304fea845bdd763c5977e5cabe9c2459" data-click="{'button_tp':'collect'}">
+            <i class="iconfont icon-heart">&#xe601;</i>
+            <span>收藏</span>
+        </a>
+                <a class="sc_q" href="javascript:;" data-link="http://www.cnki.com.cn/Article/CJFDTotal-JZGR201709030.htm" data-sign="cfdc5a432acb8991e299c20a10a11ed5" data-click="{'button_tp':'cite'}">
+            <i class="iconfont icon-cite">&#xe600;</i>
+            <span>引用</span>
+        </a>
+                
+        <a target="_blank" class="sc_batch" href="javascript:;" data-click="{'button_tp':'batch'}"><i class="iconfont icon-piliang">&#xe60a;</i><span>批量引用</span></a>
+        <a href="javascript:;" class="feedback" onmousedown="return ns_c_xs({'fm':'behs','tab':'tj_feedback'})"><i class="iconfont icon-piliang">&#xe69d;</i>报错</a>
+        <a class="sc_share" href="javascript:;" data-link="http://www.cnki.com.cn/Article/CJFDTotal-JZGR201709030.htm" data-sign="cfdc5a432acb8991e299c20a10a11ed5" data-click="{'button_tp':'share'}">
+            <i class="iconfont">&#xe61d;</i>
+            <span>分享</span>
+            <div class="sc_share_box_content">
+                分享至
+            <div class="sc_share_box"></div>
+        </div>
+        </a>
+    </div>
+    
+</div>
+<div class="c_content content_hidden">
+        <div class="author_wr" title="作者">
+        <p class="label">作者</p>
+        <p class="author_text">                                
+        <a href="        
+                    
+/s?wd=author%3A%28%E8%B5%B5%E4%B9%89%E6%B9%98%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}">
+        赵义湘
+        </a>，                                    
+        <a href="        
+                    
+/s?wd=author%3A%28%E8%B5%B5%E9%B2%81%E5%86%9B%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}">
+        赵鲁军
+        </a>，                                    
+        <a href="        
+                    
+/s?wd=author%3A%28%E5%86%AF%E5%A4%A9%E5%86%9B%29%20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson" target="_blank" data-click="{'button_tp':'author'}">
+        冯天军
+        </a>            </p>
+    </div>
+        <div class="abstract_wr" data-shorth="" title="摘要">
+        <p class="label">摘要</p>
+                        <p class="abstract" data-sign="44b664d5e7e94ba91db9337931e5dcf2">约瑟夫号称世界一流的逃脱大师,可以打开任何一把锁.一次,他来到巴西的一个镇上,遇到一名老锁匠,锁匠称他修的锁世界上任何人都打不开.于是,两个人开始了较量.</p>
+        <p class="abstract_more OP_LOG_BTN" data-open="1" data-click="{'button_tp':'abstract_more','fm':'beha'}"><i class="c-icon c-icon-triangle-down-d"></i><span>更多</span></p>
+    </div>
+        <div class="publish_wr" title="出版源">
+        <p class="label">出版源</p>
+        <p class="publish_text">
+        
+    <a href="                    /usercenter/data/journal?cmd=jump&wd=journaluri%3A%284933824d1b2fd09%29%20%E3%80%8A%E5%BB%BA%E7%AD%91%E5%B7%A5%E4%BA%BA%E3%80%8B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dpublish&sort=sc_cited" target="_blank" data-click="{'button_tp':'publish'}" title="《建筑工人》">
+    《建筑工人》
+</a>
+
+                    ,&nbsp;<span>2017</span>
+                            ,&nbsp;<span>38</span>
+                            <span>(09)</span>
+                            :<span>56-56</span>
+                </p>
+    </div>
+            <div class="ref_wr" title="被引量">
+        <p class="label">被引量</p>
+        <p>
+                        <span class="sc_cite_num c-gray">                        0
+    
+            </span>        </p>
+    </div>
+</div>
+</div>
+   		<div class="paper_src_wr">
+
+
+
+
+    
+<div class="paper_src_tab OP_LOG_BTN" data-click="{'fm':'beha','button_tp':'tab'}">
+    <a href="javascript:;" class="src_tabitem tab_cur" data-target="allversion_wr" data-click="{'act_block':'paper_source'}">全部来源</a>
+    <a href="javascript:;" class="src_tabitem" data-target="savelink_wr" data-click="{'act_block':'savelink'}"><i class="c-icon c-icon-hot"></i>免费下载</a>
+<a href="javascript:;" class="src_tabitem" data-target="help_r" data-click="{'act_block':'paperhelp'}"><i class="c-icon c-icon-hot"></i>求助全文</a>
+    <style>.tab-ppv-hide{display:none !important}</style>
+    <a href="javascript:;" class="tab-ppv-hide src_tabitem" style="display:none"  data-target="purchase_wr" data-click="{'act_block':'purchase'}"><i class="c-icon c-icon-hot"></i>付费下载</a>
+</div>
+
+<div class="paper_src_content">
+
+<div id="allversion_wr" class="src_container" data-click="{'act_block':'paper_source'}" style="display:block">
+	<div class="allversion_content">
+
+										<span class="dl_item_span">
+        
+		<a class="dl_item" target="_blank" href="http://www.cnki.com.cn/Article/CJFDTotal-JZGR201709030.htm" data-click="{'button_tp':'down_link','libbuy':'0'}" data-url="http://www.cnki.com.cn/Article/CJFDTotal-JZGR201709030.htm" data-embed="0">
+						<span class="dl_icon"><img src="https://bj.bcebos.com/ps-scholar/xueshu/1582281975/47595/a5d78dd13b7d91cd9e47c2e48aa8c07b.jpg" width="16" height="16"></span>
+						<span class="dl_source">知网</span>
+		</a>
+					</span>
+										<span class="dl_item_span">
+        
+		<a class="dl_item" target="_blank" href="http://d.wanfangdata.com.cn/Periodical/jzgr201709028" data-click="{'button_tp':'down_link','libbuy':'0'}" data-url="http://d.wanfangdata.com.cn/Periodical/jzgr201709028" data-embed="0">
+						<span class="dl_icon"><img src="https://bj.bcebos.com/ps-scholar/xueshu/1582281974/51489/f8a6d5ebf2c1e45c2133f6613912e290.jpg" width="16" height="16"></span>
+						<span class="dl_source">万方</span>
+		</a>
+					</span>
+										<span class="dl_item_span">
+        
+		<a class="dl_item" target="_blank" href="//xueshu.baidu.com/s?wd=paperuri%3A%289def57ad0794c61056018cb4a35ac2bb%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F96840X%2F20179%2F673571499.html&ie=utf-8&sc_us=7909245581765051884" data-click="{'button_tp':'down_link','libbuy':'0'}" data-url="http://www.cqvip.com/QK/96840X/20179/673571499.html" >
+						<span class="dl_icon"><img src="https://bj.bcebos.com/ps-scholar/xueshu/1582281972/72513/ce5cdba2ed92fb593690d8683e2a7402.jpg" width="16" height="16"></span>
+						<span class="dl_source">维普网</span>
+		</a>
+					</span>
+										<span class="dl_item_span">
+        
+		<a class="dl_item" target="_blank" href="http://www.zhangqiaokeyan.com/academic-journal-cn_builders-monthly_thesis/020129824452.html" data-click="{'button_tp':'down_link','libbuy':'0'}" data-url="http://www.zhangqiaokeyan.com/academic-journal-cn_builders-monthly_thesis/020129824452.html" data-embed="0">
+						<span class="dl_icon"><img src="https://bj.bcebos.com/v1/ps-scholar-amis/archived/2020-1/1578562692820/zqkj.png" width="16" height="16"></span>
+						<span class="dl_source">掌桥科研</span>
+		</a>
+					</span>
+	
+		<span class="dl_item_span paper_src_more">
+		<a href="javascript:;" class="dl_item paper_more_btn" data-click="{'button_tp':'down_more','fm':'beha'}">
+			<i class="c-icon c-icon-more"></i>
+			<span class="more_text">查看更多</span>
+		</a>
+	</span>
+
+										<span class="dl_item_span dl_item_more">
+        
+		<a class="dl_item" target="_blank" href="//xueshu.baidu.com/s?wd=paperuri%3A%289def57ad0794c61056018cb4a35ac2bb%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fkns.cnki.net%2FKCMS%2Fdetail%2Fdetail.aspx%3Fdbcode%3DCJFD%26amp%3Bfilename%3DJZGR201709030&ie=utf-8&sc_us=7909245581765051884" data-click="{'button_tp':'down_link','libbuy':'0'}">
+											<i class="c-icon c-icon-link"></i>
+										<span class="dl_source">kns.cnki.net</span>
+					</a>
+		</span>
+										<span class="dl_item_span dl_item_more">
+        
+		<a class="dl_item" target="_blank" href="http://www.ixueshu.com/document/679a46508972abf1adc37d2c33fe3f31318947a18e7f9386.html" data-click="{'button_tp':'down_link','libbuy':'0'}">
+											<i class="c-icon c-icon-link"></i>
+										<span class="dl_source">爱学术</span>
+					</a>
+		</span>
+			</div>
+</div>
+
+<div id="savelink_wr" class="src_container" data-click="{'act_block':'savelink'}">
+            
+    				<span class="dl_item_span">
+
+    
+	<a class="dl_item" target="_blank" href="http://www.ixueshu.com/document/679a46508972abf1adc37d2c33fe3f31318947a18e7f9386.html" data-click="{'button_tp':'link','libbuy':'0'}">
+								<i class="c-icon c-icon-link"></i>
+					
+		<span class="dl_source">爱学术</span>
+	</a>
+		</span>
+            
+    				<span class="dl_item_span">
+
+    
+	<a class="dl_item" target="_blank" href="http://f.wanfangdata.com.cn/download/Periodical_jzgr201709028.aspx" data-click="{'button_tp':'link','libbuy':'0'}">
+								<i class="c-icon c-icon-link"></i>
+					
+		<span class="dl_source">f.wanfangdata.com.cn</span>
+	</a>
+		</span>
+            
+    				<span class="dl_item_span">
+
+    
+	<a class="dl_item" target="_blank" href="http://wenku.baidu.com/view/6b39f20c7f21af45b307e87101f69e314332fab2" data-click="{'button_tp':'link','libbuy':'0'}">
+								<i class="c-icon c-icon-link"></i>
+					
+		<span class="dl_source">百度文库</span>
+	</a>
+		</span>
+            
+    				<span class="dl_item_span">
+
+    
+	<a class="dl_item" target="_blank" href="http://www.cqvip.com/main/confirm.aspx?id=673571499" data-click="{'button_tp':'link','libbuy':'0'}">
+								<i class="c-icon c-icon-link"></i>
+					
+		<span class="dl_source">维普</span>
+	</a>
+		</span>
+</div>
+                                                                <i class="reqdata" style="display:none;" urlmd="304fea845bdd763c5977e5cabe9c2459" url="http://www.cnki.com.cn/Article/CJFDTotal-JZGR201709030.htm" longsign="9def57ad0794c61056018cb4a35ac2bb" diversion="6999476638614290433" allversion="[&quot;http:\/\/www.cnki.com.cn\/Article\/CJFDTotal-JZGR201709030.htm&quot;,&quot;http:\/\/d.wanfangdata.com.cn\/Periodical\/jzgr201709028&quot;,&quot;http:\/\/www.cqvip.com\/QK\/96840X\/20179\/673571499.html&quot;,&quot;http:\/\/www.zhangqiaokeyan.com\/academic-journal-cn_builders-monthly_thesis\/020129824452.html&quot;]"></i>
+
+
+
+<div id="help_r" class="src_container" data-click="{'act_block':'paperhelp'}">
+	<div class="help_content">
+		<p>通过<a href="//xueshu.baidu.com/u/paperhelp" target="_blank" data-click="{'button_tp':'help_link','fm':'beha'}">文献互助</a>平台发起求助，成功后即可免费获取论文全文。</p>
+		<p>您可以选择<strong>百度App</strong>、<strong>微信</strong>扫码或<strong>财富值</strong>支付求助。</p>
+	</div>
+	<a href="javascript:;" target="_blank" class="sc_paperhelp gethelp" data-click="{'button_tp':'help_btn','fm':'beha'}" data-longsign="9def57ad0794c61056018cb4a35ac2bb" data-title="逃脱大师的失败" data-author="赵义湘">
+        <span class="paperhelp_text">我要求助</span>
+    </a>
+</div>
+
+<div id="purchase_wr" class="src_container" data-click="{'act_block':'purchased'}">
+	<div class="purchase_content">
+		<p>我们已与文献出版商建立了直接购买合作。</p>
+		<p class="info1">你可以通过身份认证进行实名认证，认证成功后本次下载的费用将由您所在的图书馆支付</p>
+		<p class="info2">您可以直接购买此文献，1~5分钟即可下载全文。</p>
+
+	</div>
+	<a href="javascript:;" target="_blank" class="sc_bind getbind" data-click="{'button_tp':'bind_btn','fm':'beha'}" data-longsign="9def57ad0794c61056018cb4a35ac2bb" data-title="逃脱大师的失败" data-author="赵义湘">
+        <span>身份认证</span>
+    </a>
+    <a href="javascript:;" target="_blank" class="sc_download getdownload" data-click="{'button_tp':'download_btn','fm':'beha'}" data-longsign="9def57ad0794c61056018cb4a35ac2bb" data-title="逃脱大师的失败" data-author="赵义湘">
+        <span>付费下载</span>
+    </a>
+</div>
+</div>
+</div>
+
+
+   		<div class="list_tab OP_LOG_BTN" data-click="{'fm':'beha','button_tp':'top_tab'}">
+    <p class="list_tab_item rel_tab select" type="related" data-click="{'act_block':'related_recm'}">相似文献</p>
+        </div>
+<div class="relative_content">
+	<div class="con_related" data-click="{'act_block':'related_recm'}"></div>
+	<div class="con_reference" data-click="{'act_block':'reference_recm'}" style="display:none;"></div>
+	<div class="con_citation" data-click="{'act_block':'citation_recm'}" style="display:none;"></div>
+</div>
+<div class="tab_left OP_LOG_BTN" data-click="{'fm':'beha','button_tp':'left_tab'}">
+    <p class="select rel_tab" data-click="{'act_block':'related_recm'}">相似文献</p>
+            <p class="topBtn OP-LOG-BTN" data-click="{'button_tp':'to_top'}">返回顶部</p>
+</div>
+
+<i class="reqdata" style="display:none;" urlmd="304fea845bdd763c5977e5cabe9c2459" url="http://www.cnki.com.cn/Article/CJFDTotal-JZGR201709030.htm" longsign="9def57ad0794c61056018cb4a35ac2bb" diversion="6999476638614290433"></i>
+	</div>
+	
+    <div id="dtl_r">
+    	
+		
+                        	
+<div class="banner_list xpath-log"></div>
+    </div>
+    
+</div>
+
+	
+
+            
+            </div>
+            
+        
+        </div>
+        
+
+        
+	<div class="pagefoot gj xpath-log" data-click="{'act_block':'indexfooter','fm':'beha'}"><div class="footcon footcon-page"><span class="lawinfo"><h4>关于我们</h4><p>百度学术集成海量学术资源，融合人工智能、深度学习、大数据分析等技术，为科研工作者提供全面快捷的学术服务。在这里我们保持学习的态度，不忘初心，砥砺前行。<br><a href="//xueshu.baidu.com/usercenter/show/baiducas?cmd=page" target="_blank" style="color: #38f;">了解更多>></a></p></span><span class="yqLink"><h4>友情链接</h4><div class="innerCont"><a href="https://cloud.baidu.com/" target="_blank"><img src="https://bj.bcebos.com/v1/ps-scholar-amis-standard/2020-11/1606363009781/baiduyun.png" alt="百度云"></a><a href="https://fanyi.baidu.com/?hmsr=1&hmpl=&hmcu=&hmkw=&hmci=" target="_blank"><img src="https://bj.bcebos.com/v1/ps-scholar-amis-standard/2021-5/1621326465289/baidufanyi.png" alt="百度翻译"></a></div></span><span class="contact"><h4>联系我们</h4><div class="innerCont"><a href="http://weibo.com/baiduxueshu" target="_blank"><p class="wb"><span class="qrcode webocode"></span></p></a><p class="wx"><span class="qrcode weixincode"></span></p><a href="mailto:xueshu_support@baidu.com" target="_blank"><p class="help"></p></a></div></span><span class="moreinfo moreinfo-page"><h4>合作与服务</h4><span class="moreinfo_item"> <a href="//xueshu.baidu.com/usercenter/show/baiducas?cmd=journal" target="_blank">期刊合作</a></span><span class="moreinfo_item"> <a href="//xueshu.baidu.com/usercenter/show/baiducas?cmd=library" target="_blank">图书馆合作</a></span><span class="moreinfo_item"> <a href="https://bj.bcebos.com/v1/ps-scholar-amis-standard/archived/2021-4/1617263148292/BaiduScholar-20210401.pdf" target="_blank">下载产品手册</a></span><span class="moreinfo_item"><a href="javascript:;" class="feedback">意见反馈</a></span></span></div><p class="foottext">©2021 Baidu 百度学术声明 <a href="https://www.baidu.com/duty/" target="_blank">使用百度前必读</a></p></div>
+	<div class="batch-container">
+	<div id="citeBlock"></div>
+	<div class="batch-btn-wr">
+		<!-- 线下ubs调研，为后续保留
+			<div class="batch-btn btn-dy">有奖调研
+			<a href="https://iwenjuan.baidu.com/?code=d7ru1g">
+				<img src="https://bj.bcebos.com/v1/ps-scholar-amis-standard/2020-11/1605800371695/130.png" />
+			</a>
+		</div> -->
+		<div class="batch-btn btn-collect">
+			<i class="iconfont icon-piliang">&#xe60a;</i><span>0</span>
+			<p>引用</p>
+		</div>
+		<div class="batch-btn btn-up">
+			<i class="gj-icon-uniE604"></i>
+		</div>
+		<div class="batch-btn-tip">
+			<p>文献可以<span>批量引用</span>啦~<br>欢迎点我试用！<p>
+		</div>
+	</div>
+</div>
+	<div class="subscrbe_bg"></div><div class="subscrbe_wrapper"><i class="s_close iconfont icon-xlight">&#xe609;</i><h1 class="s_title">添加订阅</h1><div class="s_meau"><ul><li class="active" ref="keyword">关键词</li><li ref="journal">期刊</li><li ref="author">学者</li></ul></div><div class="s_tab"><div class="s_tab_item s_tab_keyword"><div class="s_k_input"><label>订阅搜索词</label><input type="text" placeholder="请输入订阅搜索词" name="keyword" autocomplete="on"></div><div class="s_k_list"><label>核心收录</label><div class="s_list_content"></div></div></div><div class="s_tab_item s_tab_journal"><div class="s_j_input"><input type="text" placeholder="正题名/ISSN/CN" name="journal" class="s_input"><i class="iconfont icon-searchlight s_search" type="journal">&#xe60e;</i></div><div class="s_j_list"><div class="list_nocontent"><i class="iconfont icon-file">&#xe616;</i><p>抱歉，没有找到与 应用数学 相关的学术期刊</p></div></div><div class="xs_pager"></div></div><div class="s_tab_item s_tab_author"><div class="s_a_input"><div><input type="text" placeholder="请输入姓名(必填)" name="name" class="s_input"></div><div><input type="text" placeholder="请输入机构" name="institution" class="s_input"></div><i class="iconfont icon-searchlight s_search" type="author">&#xe60e;</i></div><div class="s_a_list"><div class="list_nocontent"><i class="iconfont icon-file">&#xe616;</i><p>抱歉，未搜索到任何学者，请尝试其他搜索</p></div></div><div class="xs_pager"></div></div></div><div class="s_footer"><div class="s_btn s_btn_primary">订阅</div><div class="s_btn">重置</div></div></div><script id="subDialogKeyword" type="text/html">{{each data as item}}<div class="s_list_item"><input class="{{if item[0] === '-1'}}s_checkbox_all{{else}}s_checkbox_item{{/if}}"type="checkbox"name="s_checkbox_value"value="{{item[0]}}"checked="checked"><label for="s_checkbox_value"></label><span>{{ item[1] }}</span></div>{{/each}}
+</script>
+
+<script id="subDialogJournal" type="text/html">
+    {{if list && list.length > 0}}{{each list as item}}<div class="s_list_item subscribe_item" type="2" entity_id="{{ item.entity_id }}" query="{{ item.standard_name }}"><img src="{{ item.cover || 'https://bj.bcebos.com/v1/ps-scholar-amis-standard/2021-6/1624983844457/journal_blank.png'}}"><p>{{ item.standard_name }}</p>{{if item.subscription_id === 0}}<span>订阅</span>{{else}}<span class="done" tag_id="{{item.subscription_id}}">已订阅</span>{{/if}}</div>{{/each}}{{else}}<div class="list_nocontent"><i class="iconfont icon-file">&#xe616;</i><p>抱歉，没有找到与<em>{{query}}</em>相关的学术期刊</p></div>{{/if}}
+</script>
+
+<script id="subDialogAuthor" type="text/html">
+    {{if authorList && authorList.length > 0}}{{each authorList as item}}<div class="s_list_item"><div class="item_l">{{if item.pic}}<img src="{{ item.pic }}" alt="">{{else}}<img src="https://xueshu.baidu.com/lib/static/scholar/cache/homepage/img/default_blue_f694ec6.jpg" alt="">{{/if}}</div><div class="item_c"><p><span>{{ item.author }}</span><span>{{ item.affiliate }}</span></p><p>研究领域：{{each item.research_domain as value key}}{{value}}{{/each}}</p></div><div class="item_r subscribe_item" type="3" entity_id="{{ item.entity_id }}" query="{{ item.author }}">{{if item.subscription_id === 0}}<span>订阅</span>{{else}}<span class="done" tag_id="{{item.subscription_id}}">已订阅</span>{{/if}}</div></div>{{/each}}{{else}}<div class="list_nocontent"><i class="iconfont icon-file">&#xe616;</i><p>抱歉，未搜索到任何学者，请尝试其他搜索</p></div>{{/if}}
+</script>
+
+
+
+	<div style="display:none">
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?43115ae30293b511088d3cbe41ec099c";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+
+
+    </body>
+
+    
+	<script src="https://code.bdstatic.com/npm/clipboard@1.7.1/dist/clipboard.min.js"></script>
+			<script src="http://s1.bdstatic.com/r/www/cache/scholar_mid/static/jquery/jquery-1.10.2.min_65682a2.js"></script>
+        <script type="text/javascript" src="http://s1.bdstatic.com/r/www/cache/scholar_mid/static/xueshu/js/detail2_5e5ab9d.js" charset="utf-8"></script>
+	
+
+
+</html>
+

@@ -1,0 +1,259 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>中法联合实验室第一次管委会召开 张军副校长当选为实验室主任-北京航空航天大学电子版《北航校报》</title>
+<meta name="keywords" content="中法联合实验室第一次管委会召开 张军副校长当选为实验室主任">
+<meta name="description" content="本报讯 4 月22 日，由我校和法国中央理工大学集团、法国国家科研中心联合组建的中法联合实验室第一次管委会在我校召开。怀进鹏校长在开幕词中指出，在中法工程师学院成功运作6 年，即将培养出中">
+<base target="_self">
+<link rel="stylesheet" href="template/01/image/css.css" type="text/css">
+    <SCRIPT src="Public/js/jquery-1.9.1.min.js"></SCRIPT>
+	<SCRIPT src="Public/layer/layer.js"></SCRIPT>
+    
+    <script language="javascript" type="text/javascript">	
+	$(function (){
+	    $('.bodypic img').css('cursor','pointer ');
+        $('.bodypic img').click(function(){
+			var img_url = $(this).attr('src');
+			var img = new Image();
+			img.src = img_url;
+			if(img.complete){
+			    if(img.width > 1000){
+				    var imgwidth = 1000;
+					var imgstylewidth = 'style="width:1000px;"';
+				}else{
+				    var imgwidth = img.width;
+				}
+				
+			}else{
+				img.onload = function(){
+					if(img.width > 1000){
+						var imgwidth = 1000;
+						var imgstylewidth = 'style="width:1000px;"';
+					}else{
+					    var imgwidth = img.width;
+					}
+				};
+			}
+			layer.open({
+			  type: 1,
+			  title: false,
+			  closeBtn: 1,
+			  area: imgwidth+'px',
+			  skin: 'layui-layer-nobg',
+			  shadeClose: true,
+			  content: '<div style="width:"'+imgwidth+'"px;" align="center"><img src="'+img_url+'" '+imgstylewidth+'/></div>'
+			});
+        });
+    });
+    </script>
+    
+<body text="#000000" leftmargin="0" topmargin="0" MARGINWIDTH="0" MARGINHEIGHT="0" BGCOLOR="#E8E8D7">
+<center>  <script language="JavaScript" src="template/01/js/small_inc.js"></script> 
+<script language="JavaScript" src="js/remark.js"></script> <A NAME="top"></A><table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#FF0000"> 
+<tr> <td width="5" HEIGHT="147"></td><td HEIGHT="147"> <TABLE WIDTH="100%"  BORDER="0" CELLSPACING="0" CELLPADDING="0"> 
+<TR> <TD HEIGHT="30" BACKGROUND="template/01/pic/home/menu_bg.jpg"><TABLE WIDTH="95%" BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="0"> 
+<TR> <TD HEIGHT="7"></TD><TD CLASS="white12"></TD><TD></TD></TR> <TR> <TD colspan="2" valign="middle">  <SPAN CLASS="mytime"><B><FONT COLOR="#FFFFFF"><a href=index.php><FONT COLOR="#FFFFFF">北京航空航天大学电子版<!--《北航校报》--></FONT></a> - <a href=index.php?release_id=20093><FONT COLOR="#FFFFFF">第816期</FONT></a>(2011年5月1日) - <a href=index.php?release_id=20093&paper_id=77844><FONT COLOR="#FFFFFF">第02版:综合新闻</FONT></a></FONT></FONT></B></SPAN> 
+</TD>
+  <TD ALIGN="CENTER">
+                              <A ONCLICK=zoomIn(); HREF="javascript:"><IMG 
+            SRC="template/01/pic/images/da.gif" ALIGN=absMiddle 
+            BORDER=0></A>&nbsp;<A ONCLICK=zoomOut(); HREF="javascript:"><IMG SRC="template/01/pic/images/xiao.gif" ALIGN=absMiddle 
+            BORDER=0></A>&nbsp;<A ONCLICK=zoomAct(); HREF="javascript:"><IMG SRC="template/01/pic/images/zc.gif" ALIGN=absMiddle BORDER=0></A>&nbsp;&nbsp;&nbsp;<A HREF="javascript:readtext(434891);"><IMG SRC="template/01/pic/images/ting.gif" ALT="语音播报" WIDTH="16" HEIGHT="16" BORDER="0"></A></TD>
+                </TR> 
+</TABLE></TD></TR> </TABLE><TABLE WIDTH="100%" BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="0">
+  <TR><TD ALIGN="CENTER" >&nbsp;</TD></TR><TR><TD  ALIGN="CENTER" HEIGHT="9"></TD></TR> 
+<TR> <TD HEIGHT="39" ALIGN="CENTER" valign="middle"><h1>中法联合实验室第一次管委会召开 张军副校长当选为实验室主任</h1></TD></TR> 
+ <TR>
+   <TD HEIGHT="29" align="center" VALIGN="middle" CLASS="morebody"></TD>
+ </TR>
+ <TR> <TD HEIGHT="10" VALIGN="top" CLASS="morebody"> 
+<DIV ID="div_body"  style="ZOOM: 100%"><TABLE WIDTH="96%" BORDER="0" CELLSPACING="0" CELLPADDING="1">
+<TR>
+<TD class="neirong" align="left">
+                        <div class="bodypic">
+                            <br>　　本报讯 4 月22 日，由我校和法国中央理工大学集团、法国国家科研中心联合组建的中法联合实验室第一次管委会在我校召开。<br>　　怀进鹏校长在开幕词中指出，在中法工程师学院成功运作6 年，即将培养出中国第一批持有法国以及欧盟认证的工程师学历的毕业生之际，中法联合实验室的成立将为推动中法两国之间的科研合作起到重要作用。<br>　　会上，张军副校长当选为中法联合实验室主任。会议还 批准了中法联合实验室的预算 草案，并评选出了一批高质量 的中法学者间的科研合作项目 进行资助。<br>　　出席会议的单位有北航、 国家科技部国际司欧洲处、里 昂中央理工大学、巴黎中央理 工大学、法国国家科研中心、欧 盟科研理事会等。此次管委会 明确了中法联合实验室的管理 机制以及运行模式，与会代表 们一致认为在中法双方的共同 努力下，中法科研合作将迎接 新的篇章。 （殷传涛）<script type="text/javascript" src="http://ziyuan.cuepa.cn/ad/allarticlebottom.js"></script>
+                        </div>
+</TD></TR></TABLE></DIV></TD></TR> 
+<TR> <TD HEIGHT="34" VALIGN="BOTTOM" CLASS="source"> 供稿：</TD></TR> 
+<TR> <TD HEIGHT="20" CLASS="mylabel" ALIGN="CENTER"> <table width="100%" height="31" border="0" cellpadding="0" cellspacing="0">
+  <form name="form1" method="post" action="setpoint.php">
+    <tr bgcolor="#FF99FF">
+      <td align="center" valign="middle">        验证码：<img src=./admin/lib/makecode.php alt='点击更换图片' onClick="this.src='./admin/lib/makecode.php?'+new Date().getTime();" >
+          <input size=6 name=check_num maxlength="6"><input type="hidden" name="doc_id" value=434891>
+      <input type="submit" name="Submit" value="        我 推 荐 这 篇 文 章        "></td>
+    </tr>
+  </form>
+</table>
+</TD></TR>
+<TR>
+  <TD HEIGHT="20" CLASS="mylabel" ALIGN="CENTER"></TD>
+</TR> 
+</TABLE></td><td width="5" HEIGHT="147"></td></tr><tr><td width="5"></td><td ><TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0"><TR><TD VALIGN="BOTTOM"><TABLE STYLE="BORDER-BOTTOM: #555 1px dashed" CELLSPACING=0 CELLPADDING=6 
+      WIDTH="100%" BORDER=0> <TBODY> <TR BGCOLOR=#d8d9bd> <TD  ALIGN=left BGCOLOR="CED3FF"> 
+<TABLE WIDTH="100%" BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="0"> 
+<TR> <TD WIDTH="62%"><DIV ALIGN="center" CLASS="white12">&nbsp;&nbsp;&nbsp;&nbsp;</DIV></TD><TD CLASS="white12" WIDTH="8%">&nbsp;</TD>
+                        <TD ALIGN="CENTER" WIDTH="30%"><a onClick=zoomIn(); href="javascript:"><img 
+            src="template/01/pic/images/da.gif" align=absMiddle 
+            border=0></a>&nbsp;<a onClick=zoomOut(); href="javascript:"><img src="template/01/pic/images/xiao.gif" align=absMiddle 
+            border=0></a>&nbsp;<a onClick=zoomAct(); href="javascript:"><img src="template/01/pic/images/zc.gif" align=absMiddle border=0></a>&nbsp;&nbsp;&nbsp;<a href="javascript:readtext(434891);"><img src="template/01/pic/images/ting.gif" alt="语音播报" width="16" height="16" border="0"></a></TD>
+                      </TR> 
+</TABLE></TD></TR><TR><TD  ALIGN=left ><TABLE WIDTH="98%"  BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="1">
+  <TR>
+    <TD colspan="2" BGCOLOR="#6BB2E6" ><TABLE WIDTH="100%"  BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#F1F8FE">
+        <TR bgcolor="#6BB2E6">
+          <TD HEIGHT="20" CLASS="black14">&nbsp;本版其他文章
+            <DIV ALIGN="center"></DIV></TD>
+          </TR>
+    </TABLE></TD>
+  </TR>
+  <TR>
+    <TD valign="top" bgcolor="#E8E8D7"><TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" >
+  <TR><TD  HEIGHT=1></TD></TR> 
+ <TR><TD>
+      <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0"  bgcolor="#E8E8D7">
+        <TR  > 
+          <TD WIDTH="16">?</TD>
+          <TD><A HREF="show_more.php?doc_id=434881" target="_self" CLASS="yaowen"> 
+            校领导带队检查基层单位保密资格认证准备工作  
+            </A></TD>
+        </TR></TABLE></TD></TR> 
+<TR><TD BACKGROUND="template/01/image/hengxian.gif"  HEIGHT=1></TD></TR> 
+<TR><TD>
+      <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0"  bgcolor="#E0E0C9">
+        <TR  > 
+          <TD WIDTH="16">?</TD>
+          <TD><A HREF="show_more.php?doc_id=434882" target="_self" CLASS="yaowen"> 
+            怀进鹏校长与学生特别助理座谈 <IMG SRC="./admin/img/pic.gif" BORDER=0 ALT="本文包含图片"> 
+            </A></TD>
+        </TR></TABLE></TD></TR> 
+<TR><TD BACKGROUND="template/01/image/hengxian.gif"  HEIGHT=1></TD></TR> 
+<TR><TD>
+      <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0"  bgcolor="#E8E8D7">
+        <TR  > 
+          <TD WIDTH="16">?</TD>
+          <TD><A HREF="show_more.php?doc_id=434883" target="_self" CLASS="yaowen"> 
+            伊利诺伊大学香槟分校与北航签订合作协议 <IMG SRC="./admin/img/pic.gif" BORDER=0 ALT="本文包含图片"> 
+            </A></TD>
+        </TR></TABLE></TD></TR> 
+<TR><TD BACKGROUND="template/01/image/hengxian.gif"  HEIGHT=1></TD></TR> 
+<TR><TD>
+      <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0"  bgcolor="#E0E0C9">
+        <TR  > 
+          <TD WIDTH="16">?</TD>
+          <TD><A HREF="show_more.php?doc_id=434884" target="_self" CLASS="yaowen"> 
+            北航与台湾成功大学研讨航空航天领域合作  
+            </A></TD>
+        </TR></TABLE></TD></TR> 
+<TR><TD BACKGROUND="template/01/image/hengxian.gif"  HEIGHT=1></TD></TR> 
+<TR><TD>
+      <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0"  bgcolor="#E8E8D7">
+        <TR  > 
+          <TD WIDTH="16">?</TD>
+          <TD><A HREF="show_more.php?doc_id=434885" target="_self" CLASS="yaowen"> 
+            西班牙加泰罗尼亚理工大学校长访问我校  
+            </A></TD>
+        </TR></TABLE></TD></TR> 
+<TR><TD BACKGROUND="template/01/image/hengxian.gif"  HEIGHT=1></TD></TR> 
+<TR><TD>
+      <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0"  bgcolor="#E0E0C9">
+        <TR  > 
+          <TD WIDTH="16">?</TD>
+          <TD><A HREF="show_more.php?doc_id=434886" target="_self" CLASS="yaowen"> 
+            香港中文大学沈祖尧校长访问我校  
+            </A></TD>
+        </TR></TABLE></TD></TR> 
+<TR><TD BACKGROUND="template/01/image/hengxian.gif"  HEIGHT=1></TD></TR> 
+<TR><TD>
+      <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0"  bgcolor="#E8E8D7">
+        <TR  > 
+          <TD WIDTH="16">?</TD>
+          <TD><A HREF="show_more.php?doc_id=434887" target="_self" CLASS="yaowen"> 
+            一次井冈行 一世井冈情 <IMG SRC="./admin/img/pic.gif" BORDER=0 ALT="本文包含图片"> 
+            </A></TD>
+        </TR></TABLE></TD></TR> 
+<TR><TD BACKGROUND="template/01/image/hengxian.gif"  HEIGHT=1></TD></TR> 
+<TR><TD>
+      <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0"  bgcolor="#E0E0C9">
+        <TR  > 
+          <TD WIDTH="16">?</TD>
+          <TD><A HREF="show_more.php?doc_id=434888" target="_self" CLASS="yaowen"> 
+            学校召开沙河校区办学条件工作会研究部署2011级新生进驻校区等工作  
+            </A></TD>
+        </TR></TABLE></TD></TR> 
+<TR><TD BACKGROUND="template/01/image/hengxian.gif"  HEIGHT=1></TD></TR> 
+<TR><TD>
+      <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0"  bgcolor="#E8E8D7">
+        <TR  > 
+          <TD WIDTH="16">?</TD>
+          <TD><A HREF="show_more.php?doc_id=434889" target="_self" CLASS="yaowen"> 
+            北航举办“校园开放日” 搭建高招咨询平台 <IMG SRC="./admin/img/pic.gif" BORDER=0 ALT="本文包含图片"> 
+            </A></TD>
+        </TR></TABLE></TD></TR> 
+<TR><TD BACKGROUND="template/01/image/hengxian.gif"  HEIGHT=1></TD></TR> 
+<TR><TD>
+      <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0"  bgcolor="#E0E0C9">
+        <TR  > 
+          <TD WIDTH="16">?</TD>
+          <TD><A HREF="show_more.php?doc_id=434890" target="_self" CLASS="yaowen"> 
+            沙河校区首届体育文化节拉开序幕 <IMG SRC="./admin/img/pic.gif" BORDER=0 ALT="本文包含图片"> 
+            </A></TD>
+        </TR></TABLE></TD></TR> 
+<TR><TD BACKGROUND="template/01/image/hengxian.gif"  HEIGHT=1></TD></TR> 
+<TR><TD>
+      <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0"  bgcolor="#E8E8D7">
+        <TR  > 
+          <TD WIDTH="16">?</TD>
+          <TD><A HREF="show_more.php?doc_id=434891" target="_self" CLASS="yaowen"> 
+            中法联合实验室第一次管委会召开 张军副校长当选为实验室主任  
+            </A></TD>
+        </TR></TABLE></TD></TR> 
+<TR><TD BACKGROUND="template/01/image/hengxian.gif"  HEIGHT=1></TD></TR> 
+ <TR><TD ALIGN="RIGHT"></TD></TR></TABLE></TD>
+    <TD width="220" align="center" valign="top" bgcolor="#E8E8D7"><A HREF="index.php?release_id=20093&paper_id=77844"><img  alt="本版缩略图" src=http://upfile.cuepa.cn/newspic/_paper/319/20093/53ccc73edebf0a67668717268625f919288132.jpg.jpg.jpg border=0></a></TD>
+  </TR>
+</TABLE>
+    <br>
+    <TABLE WIDTH="98%"  BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="1">
+  <TR>
+    <TD WIDTH="90%" BGCOLOR="#6BB2E6" ><TABLE WIDTH="100%"  BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#F1F8FE">
+        <TR>
+          <TD HEIGHT="20" BGCOLOR="#6BB2E6" CLASS="black14">&nbsp;相关文章
+              <DIV ALIGN="center"></DIV></TD>
+        </TR>
+    </TABLE></TD>
+  </TR>
+  <TR>
+    <TD><TABLE WIDTH="100%"  BORDER="0" CELLSPACING="0" CELLPADDING="2">
+        <TR>
+          <TD WIDTH="78%" BGCOLOR="#FFFFFF">
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" >
+  <TR><TD  HEIGHT=1></TD></TR> 
+ <TR><TD ALIGN="RIGHT"></TD></TR></TABLE></TD>
+        </TR>
+    </TABLE></TD>
+  </TR>
+</TABLE>
+    </TD>
+</TR><TR ><TD  ALIGN=left><TABLE WIDTH="100%"  BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#F1F8FE"> 
+<TR> <TD HEIGHT="24" BGCOLOR="#6BB2E6" CLASS="black14">&nbsp;我有话说</TD></TR> <TR> 
+<TD><TABLE WIDTH="98%"  BORDER="0" ALIGN="center" CELLPADDING="2" CELLSPACING="0"> 
+<TR> <TD WIDTH="78%"> <FORM NAME=frmtg  ENCTYPE="multipart/form-data" ONSUBMIT="return validform(frmtg);"  ACTION=remark.php?doc_id=434891 METHOD=post > 
+<TEXTAREA NAME="content" COLS="50" ROWS="5"></TEXTAREA> <BR>验证码：<img src=./admin/lib/makecode.php alt='点击更换图片' onClick="this.src='./admin/lib/makecode.php?'+new Date().getTime();" > <INPUT SIZE=6 NAME=check_num MAXLENGTH="6"><INPUT TYPE="hidden" NAME="doc_id" VALUE=434891>&nbsp;<INPUT NAME="Submit" TYPE="submit" CLASS="input_date" VALUE="   提   交   "> 
+</FORM><DIV ALIGN="center"><A HREF="#" CLASS="yaowen"></A></DIV></TD></TR> </TABLE></TD></TR> 
+</TABLE></TD></TR><TR ><TD  ALIGN=left><TABLE WIDTH="100%"  BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#6BB2E6"> 
+<TR> <TD WIDTH="90%" BGCOLOR="#6BB2E6" ><TABLE WIDTH="100%"  BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#F1F8FE"> 
+<TR> <TD WIDTH="90%" HEIGHT="24" BGCOLOR="#6BB2E6" CLASS="black14">&nbsp;最新评论</TD><TD WIDTH="10%" BGCOLOR="#6BB2E6"><DIV ALIGN="center"><A HREF="remark.php?doc_id=434891" CLASS="yaowen">查看全部</A></DIV></TD></TR> 
+</TABLE></TD></TR>  </TABLE><BR><TABLE WIDTH="100%"  BORDER="0" ALIGN="center" CELLPADDING="0" CELLSPACING="1" BGCOLOR="#F1F8FE"> 
+<TR> <TD HEIGHT="24" BGCOLOR="#6BB2E6" CLASS="black14">&nbsp;请您注意</TD></TR> <TR> 
+<TD><TABLE WIDTH="98%"  BORDER="0" ALIGN="center" CELLPADDING="2" CELLSPACING="0"> 
+<TR> <TD WIDTH="78%" CLASS="black12"><A HREF="#" CLASS="yaowen"></A>? 经营许可证编号: 
+京B2-20050528<BR /> ? 尊重网上道德，遵守《全国人大常委会关于维护互联网安全的决定》及中华人民共和国其他各项有关法律法规<BR /> ? 
+尊重网上道德，遵守中华人民共和国的各项有关法律法规<BR /> ? 承担一切因您的行为而直接或间接导致的民事或刑事法律责任<BR /> ? 阅读网新闻留言板管理人员有权保留或删除其管辖留言中的任意内容 
+<BR /> ? 您在阅读网留言板发表的作品，阅读网有权在网站内转载或引用<BR /> ? 参与本留言即表明您已经阅读并接受上述条款 </TD></TR> 
+</TABLE></TD></TR> </TABLE></TD></TR></TBODY></TABLE></TD></TR></TABLE></td><td width="5"></td></tr> 
+</table><BR><BR> </center>
+</body>
+</html>

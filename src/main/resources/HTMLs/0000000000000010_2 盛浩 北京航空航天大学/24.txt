@@ -1,0 +1,387 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD><meta name="renderer" content="webkit"><meta http-equiv="X-UA-COMPATIBLE" content="IE=edge,chrome=1"/><TITLE>殷永峰 中文主页 北京航空航天大学教师个人主页系统</TITLE>
+
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="/_ts/zw1/style/css.css"><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script><LINK rel="stylesheet" type="text/css" href="/_ts/zw1/style/font.css"><script language="javascript" type="text/javascript" src="/_ts/zw1/js/select_xuanze.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="/_ts/zw1/_sitegray/_sitegray_d.css" />
+<script language="javascript" src="/_ts/zw1/_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e7847545255554703070002 -->
+<link rel="stylesheet" type="text/css" href="/zw1/index.vsb.css" />
+<META Name="keywords" Content="机载系统，软件测试，软件可靠性，软件安全性，信息安全、嵌入式系统殷永峰," />
+<META Name="description" Content="殷永峰,殷永峰 中文主页,北京航空航天大学教师个人主页系统,殷永峰，博导/副教授，现任软件学院副院长。2013-2020担任航空工业计算机软件北航可靠性管理与测评中心主任，2015-2016公派赴美访问学者。中央网信办/..." />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" ></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1265528587)</script>
+</HEAD>
+<BODY > <div style='display:none;'><img src="/__local/A/3E/A2/E6441A0EA5F96BAB8B8A931855C_029EB7F8_79A7.jpg"  /></div>
+<style type="text/css">
+body{
+            background-image:url(/_ts/zw1/images/teachjjbg.jpg) ; 
+      background-repeat:repeat-y;
+   background-position:left top;
+
+        
+        background-color:#f0f0f0;
+}
+</style>
+
+<DIV class="warper"> 
+<DIV id="leftside">
+<DIV class="logo">
+<P><script> var _tsites_com_view_mode_type_=8;</script>
+<a target="_blank" href="http://shi.buaa.edu.cn"><img border="0" src="/__local/1/D5/36/C837E53F028F25EA1AC65BF4C79_1EB0DF3D_10EC.jpg" title="北京航空航天大学教师个人主页系统" /></a></P></DIV>
+<DIV class="teacherjj">
+<DIV class="photo">
+
+<div style="height: 150px;
+    display: table-cell;
+    vertical-align: middle;">
+<a 
+style="height: 150px;display: table-cell;vertical-align: middle;text-align: center; width: 150px;"><img id="u_u2_8505pic" border="0"/></a></div>
+<script>
+jQuery(document).ready(function(){
+
+	var leftheight = jQuery("#leftside").height();
+	var rightheight = jQuery("#rightside").height();
+	if(leftheight > rightheight){
+		jQuery("#rightside").height(leftheight);
+	}
+	
+});
+</script>
+
+
+<script language='javascript' src='/system/resource/tsites/imagescale.js'></script>
+<script type="text/javascript"> 
+ var u_u2_pic = new ImageScale("u_u2_",150,150,true,true);u_u2_pic.addimg("/__local/6/6B/A6/FC01942822FE5224159409033AB_EC3376C4_9F01.jpg","","殷永峰","8505");
+</script>
+</DIV>
+<DIV class="name">
+  <h1>殷永峰
+(高级工程师)
+   </h1>
+                                                 
+<script language='javascript' src='/system/resource/tsites/tsitesencrypt.js'></script>
+
+ <div class="zan" style="text-align: center;">
+<p style="padding-top:5px;">
+<span><img src="/_ts/zw1/images/zan.png"style="cursor: pointer; vertical-align: bottom;" width="22" height="21"  id="_parise_imgobj_u4"/></span><span style="font-size:16px; color:#FFF; padding-left:5px;" id="_parise_obj_u4" ></span></p></div><script language='javascript' src='/system/resource/tsites/TsitesPraiseUtil.js'></script>
+<script> var _TsitesPraiseUtil_u4= new TsitesPraiseUtil();_TsitesPraiseUtil_u4.setParam({'nodeid':'_parise_obj_u4','iscanclickidobj':'iscanclick_parise_obj_u4','pdtype':'0','imageid':'_parise_imgobj_u4','apptype':'index','sid':'8505','homepageid':15315,'limttype':'allpage','limithour':24,'contentid':0});</script>
+</DIV>
+<div class="jbqk">
+
+  <p>     高级工程师
+    博士生导师
+    硕士生导师
+     </p>
+  <p>主要任职：软件学院副院长，航空工业软件测评中心主任，军兵种软件工程专家组成员，航空工业集团软件质量专家组成员</p>
+  <!--主要任职--> 
+   
+  <!--性别--> 
+  <p>性别：男</p>
+  <!--出生年月--> 
+  <!--毕业院校--> 
+  <p>毕业院校：北京航空航天大学</p>
+  <!--学历--> 
+  <!--学位--> 
+  <p>学位：博士</p>
+  <!--在职信息--> 
+  <!--所在单位--> 
+  <p>所在单位：软件学院</p>
+  <!--入职时间--> 
+  <!--所属院系--> 
+  <!--职务--> 
+  <!--学科--> 
+  <p>学科：软件工程  控制科学与工程  计算机科学与技术  </p>
+  
+  <!--办公地点--> 
+  <!--联系方式--> 
+  <!--email--> 
+  <p>Email：<span _tsites_encrypt_field="_tsites_encrypt_field" id="_tsites_encryp_tsteacher_tsemail" style="display:none;">847645b8f4b091f363f823f25a1ce9ee684925cab5d3bf979241c36e6dd5b2412d553cc45b3010c79507ef796fbb1492fd46afb66df8d4a069a210bb44b6af045a7bbf079ce1a032bf10dd8c07e5c4512bd134824c236a4f1ed8fd0085f19c78dbf9cb66ca743cabdf91165cf0db91b9443508423996a198e249870ec07a806a</span></p>
+
+
+
+
+
+<p>曾获荣誉：</p>
+<p>2020&nbsp;&nbsp;&nbsp;&nbsp;中国航空学会科技奖二等奖</p>
+<p>2021&nbsp;&nbsp;&nbsp;&nbsp;教育部科技进步一等奖</p>
+<p>2011&nbsp;&nbsp;&nbsp;&nbsp;北航“蓝天新星（科研）”</p>
+<p>2010&nbsp;&nbsp;&nbsp;&nbsp;国防科技进步一等奖</p>
+<p>2010&nbsp;&nbsp;&nbsp;&nbsp;国防科技进步二等奖</p>
+<p>2007&nbsp;&nbsp;&nbsp;&nbsp;航空工业集团三等功</p>
+<p>2017&nbsp;&nbsp;&nbsp;&nbsp;四川省科技进步三等奖</p>
+
+</div>
+<DIV class="serchbg" style="margin-left: 26px"><script language='javascript' src='/system/resource/tsites/com/search/tsitesearch.js'></script><script language='javascript' src='/system/resource/js/base64.js'></script><form action="/yinyongfeng/zh_CN/search/138192/search/result.htm" method="post" id="searchform45478" style="display:inline" onsubmit="return (new TsiteSearch()).checkSearch('searchform45478','keyWord_temp');">
+    <input type="hidden" name="tsites_search_content" id="tsites_search_content" value='' /><input type="hidden" name="_tsites_search_current_language_" id="_tsites_search_current_language_" value='zh_CN' />
+    <input  name="keyWord_temp" id="keyWord_temp" value=""type="text" class="inputtext" /> 
+    <input name="submit" type="submit" value="" class="searchbtn" >     
+</form>
+
+
+</DIV></DIV>
+<DIV class="email">访问量：
+<script language='javascript' src='/system/resource/tsites/tsitesclick.js'></script>
+<span id="u9_click"></span><script>(new TsitesClickUtil()).getHomepageClickByType(document.getElementById('u9_click'),0,10,'homepage_total','8505',15315);</script>
+<BR>
+
+<script language='javascript' src='/system/resource/tsites/latestupdatetime.js'></script>
+最后更新时间：<span id="u10_latestupdatetime_year"></span>.<span id="u10_latestupdatetime_month"></span>.<span id="u10_latestupdatetime_day"></span><script>(new TsitesLatestUpdate()).getHomepageLatestUpdateTime(document.getElementById('u10_latestupdatetime_year'),document.getElementById('u10_latestupdatetime_month'),document.getElementById('u10_latestupdatetime_day'),'','8505',15315,0);</script>
+<script>(new TsitesLatestUpdate()).getTeacherHomepageOpenTime(document.getElementById('u10_opentime_year'),document.getElementById('u10_opentime_month'),document.getElementById('u10_opentime_day'),'','8505',15315,0);</script>
+</DIV>
+<DIV class="tzybd" style="margin-left: 26px">
+<a href="/yinyongfeng/zh_CN/tzybd/138192/list/index.htm" target="_blank"  >同专业博导</a>&nbsp;&nbsp;&nbsp;
+
+<a href="/yinyongfeng/zh_CN/tzysd/138192/list/index.htm" target="_blank"  >同专业硕导</a>
+</DIV><div class="email "><div style="width:142px; height:142px; border:5px solid #FFF; background:#FFF;margin-top: 25px;">
+<!-- 下面这个div是二维码容器,ID不能变-->
+<div id="outputu12"></div>
+<!-- 下面是生成二维码调用的JS，不要动-->
+
+<script src="/system/resource/qrcode/js/jquery.qrcode.js"></script>
+<script src="/system/resource/qrcode/js/qrcode.js"></script>
+<script>
+var codeInfo = "" ==""? window.location.href:"";
+jQuery(function(){
+    jQuery('#outputu12').qrcode({
+        text:codeInfo,
+        render: !!document.createElement('canvas').getContext?"canvas":"table",//设置渲染方式  
+        width: 142,     //设置宽度  
+        height: 142,     //设置高度  
+        correctLevel: 2,//纠错等级  
+        background: "#FFFFFF",//背景颜色  
+        foreground: "#000000",//前景颜色  
+        logo:""//图像logo
+    });
+})
+</script>
+</div></div></DIV></DIV>
+<DIV id="rightside">
+<DIV class="nav">
+<DIV class="menu">
+<div style="max-width:80%">    	
+<ul id="nav"  style="visibility:hidden;">
+    	                 <li >
+                    <a href="/yinyongfeng/zh_CN/index/138192/list/index.htm" style="background-color: #df6b57;"> 首页</a>
+                </li> 
+                <li >
+                    <a href="/yinyongfeng/zh_CN/yjgk/138193/list/index.htm" > 研究领域</a>
+                </li> 
+                <li >
+                    <a href="/yinyongfeng/zh_CN/skxx/138194/list/index.htm" > 开授课程</a>
+                </li> 
+                <li >
+                    <a href="/yinyongfeng/zh_CN/kyxm/138195/list/index.htm" > 科研项目</a>
+                </li> 
+                <li >
+                    <a href="/yinyongfeng/zh_CN/lwcg/138196/list/index.htm" > 论文</a>
+                </li> 
+                <li >
+                    <a href="/yinyongfeng/zh_CN/hjxx/138197/list/index.htm" > 荣誉及奖励</a>
+                </li> 
+                <li >
+                    <a href="/yinyongfeng/zh_CN/zhym/138198/list/index.htm" > 招生信息</a>
+                        <ul >
+                                    <li  ><a href="/yinyongfeng/zh_CN/zsxx/138199/list/index.htm">博士生招生 </a></li>    
+                                    <li  ><a href="/yinyongfeng/zh_CN/zsxx/138200/list/index.htm">研究生招生 </a></li>    
+                         </ul>  
+                </li> 
+                <li >
+                    <a href="/yinyongfeng/zh_CN/zhym/138201/list/index.htm" > 学生信息</a>
+                        <ul >
+                                    <li  ><a href="/yinyongfeng/zh_CN/xsxx/138202/list/index.htm">博士研究生 </a></li>    
+                                    <li  ><a href="/yinyongfeng/zh_CN/xsxx/138203/list/index.htm">硕士研究生 </a></li>    
+                                    <li  ><a href="/yinyongfeng/zh_CN/xsxx/138204/list/index.htm">本科生 </a></li>    
+                         </ul>  
+                </li> 
+ </ul>
+</div>
+    <script type="text/javascript">
+$(document).ready(function() { 
+ $('#nav li').hover(function() {
+  $('ul', this).slideDown(200);
+  $(this).children('a:first').addClass("hov");
+ }, function() {
+  $('ul', this).slideUp(100);
+  $(this).children('a:first').removeClass("hov");  
+ });
+});
+</script>
+
+                <div class="teach_topR_qh fl" id="znzwmb3_othernav_div">
+                
+                <ul class="level0">
+                    <li class="select_box fl"  onclick="show_f(null, 'znmb1_other_navul');"><span>其他栏目</span>
+                      <ul class="son_ul fl" id="znmb1_other_navul">                                   
+                            </ul> 
+                        </li>  
+                </ul> 
+        </div>
+        <script type="text/javascript">
+jQuery(document).ready(function(){
+    var totalwidth = jQuery("#nav").width();
+    var allliwidth = 0;
+    var othernavary = new Array();
+    var znmb1_other_navul = jQuery("#znmb1_other_navul")[0];
+    var MenuBar1 = jQuery("#nav");
+    var navliobjlist =  jQuery("#nav > li");
+    for(var i=0;i<navliobjlist.length;i++)
+    {
+        var liobj = navliobjlist.get(i);
+        if(liobj)
+        {
+            var jliobj = jQuery(liobj);
+            var liwidth = jliobj.width();
+            allliwidth+=liwidth;
+            if(allliwidth>=totalwidth)
+            {
+                var templiobj = jliobj[0];      
+                othernavary.push(templiobj);
+                MenuBar1[0].removeChild(jliobj[0]);
+            }
+        }
+    }
+    if(allliwidth<totalwidth)
+    {
+        jQuery("#znzwmb3_othernav_div").css("display","none");
+    }else
+    {
+    for(var i=0;i<othernavary.length;i++)
+    {
+        var tempotherli = jQuery(othernavary[i]);
+        //tempotherli.removeClass("nav_menu-item");
+        tempotherli.addClass("nav_submenu-item");
+        
+        
+        //tempotherli.find("ul").removeClass("nav_submenu");
+        tempotherli.find(" ul").addClass("level2");
+        
+        //tempotherli.find(" ul > li").removeClass("nav_submenu-item");
+        
+        znmb1_other_navul.appendChild(tempotherli[0]);
+    }}
+jQuery("#nav").css("visibility","visible");
+
+});
+</script> 
+<script type="text/javascript">
+$(document).ready(function() { 
+ $('#znmb1_other_navul li').hover(function() {
+  $('ul', this).slideDown(200);
+  $(this).children('a:first').addClass("hov");
+ }, function() {
+  $('ul', this).slideUp(100);
+  $(this).children('a:first').removeClass("hov");  
+ });
+});
+</script>
+  <style>
+  .nav_submenu-item{position:relative;}
+  .level2{right:90px; position:absolute; background:#fff; top:0;display:none;}
+  </style>  
+<DIV class="teach_topR_qh2 fl">
+ 
+<div class="teach_topR_qh2 fl">
+        	<ul>	
+<li class="select_box2 fl">
+                  <a href="#" class="leixin_xz_a f_r" onclick="show_f(null, 'son_ul2');"></a><span><div  style="margin-top:20px;"><img src="/_ts/zw1/images/icon.png"  width="20px" height="20px"></div>
+</span>   
+                               <ul class="son_ul2 fl"> 
+ 
+   <li style="width:90px"><a href="/yinyongfeng/en/index.htm">English</a></li>
+ </ul>
+               
+ </li>
+  </ul>
+        </div></DIV></DIV></DIV>
+<DIV class="content">
+<div class="con_bload">
+<h2>个人简历</h2><p>
+<p style="text-align: left; line-height: 150%; text-indent: 32px;"><span style="line-height: 150%; font-family: 宋体; font-size: 16px;">殷永峰，博导/副教授，现任软件学院副院长。2013-2020担任航空工业计算机软件北航可靠性管理与测评中心主任，2015-2016公派赴美访问学者。中央网信办/国家互联网应急中心项目评审专家、军兵种软件工程专家组成员、航空工业集团软件质量专家组成员、ACM/IEEE/CCF/航空学会/通信学会会员，担任国际期刊编委，以及多个计算机专业期刊审稿人。</span></p><p style="line-height: 150%; text-indent: 28px;"><span style="line-height: 150%; font-family: 宋体; font-size: 16px;">2003</span><span style="line-height: 150%; font-family: 宋体; font-size: 16px;">年留校任教至今，2010.12毕业于北航系统工程专业获工学博士学位，现主要从事软件工程、软件可靠性安全性、嵌入式软件测试验证等方面工作。截止目前，在国内外学术会议及刊物上发表论文50余篇（其中SCIE收录10余篇，EI/ISTP收录30余篇），年均科研经费超千万，已获省部级科技进步一等奖2项、二等奖2项、航空工业个人三等功1项，出版专著3本，申请/授权技术发明专利20余项。作为课题负责人或骨干成员承担了航空基金、预研、重点实验室基金、航天科工基金、技术基础及军内科研项目等10余项研究课题；作为项目负责人，主持完成了40余个型号、共计3000万行代码、累计合同额逾2亿元的软件第三方测试工作，排除了大量潜在的软件缺陷，为提高型号软件质量和可靠性提供了有力保障。此外，以专家身份在软件定型测评宣贯、软件工程化培训及软件测评指导等方面做了大量工作，获得军方机关和工业部门的广泛好评。</span></p><p><br /></p></p>
+</div>
+
+
+    
+<div class="con_bload">
+<h2>社会兼职</h2>
+<ul>
+<li>
+   <p>[1]&nbsp;&nbsp;
+2020.6-至今&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+全国信标委人工智能分委会委员</p></li>
+<li>
+   <p>[2]&nbsp;&nbsp;
+2011.10-至今&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+军兵种软件工程专家组成员</p></li>
+<li>
+   <p>[3]&nbsp;&nbsp;
+2019.12-至今&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+国家互联网应急中心与中国汽研车联网安全联合实验室首批特聘专家</p></li>
+<li>
+   <p>[4]&nbsp;&nbsp;
+2019.11-至今&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+中国航空工业集团公司软件质量管理专家组成员</p></li>
+<li>
+   <p>[5]&nbsp;&nbsp;
+2019.1-至今&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+国家计算机网络应急中心车联网智库专家</p></li>
+<li>
+   <p>[6]&nbsp;&nbsp;
+2014.6-至今&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+LH设计定型审查软件工程技术专家</p></li>
+<li>
+   <p>[7]&nbsp;&nbsp;
+2014.6-至今&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+IEEE、ACM、CCF会员</p></li>
+<li>
+   <p>[8]&nbsp;&nbsp;
+2016.10-至今&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+《Journal of Software Engineering and Applications》编委</p></li>
+</ul></div>
+<div class="con_bload"><h2>研究方向</h2>
+      <li><p>[1]&nbsp;&nbsp; 先进装备软件试验鉴定技术  </p>  </li> 
+      <li><p>[2]&nbsp;&nbsp; 实时嵌入式系统软件可靠性安全性技术  </p>  </li> 
+      <li><p>[3]&nbsp;&nbsp; 装备网络系统信息安全技术  </p>  </li> 
+</div>
+
+
+<div class="con_bload" style="border-bottom: 1px dotted #fff;">
+<h2>团队成员</h2>
+<p>
+
+ <b>航空工业计算机软件北航可靠性管理与测评中心</b>
+  <br/><p>中国航空工业集团公司计算机软件北航可靠性管理与测评中心成立于2000年，依托北航强大的科研实力，测评中心在软件测试及测试工具研发、软件工程化咨询、软件可靠性安全性技术研究、信息安全研究方面处于国内一流水平，特别是机载系统软件测试领域国内领先。测评中心是国内最早系统地开展软件可靠性工程研究的单位之一，拥有软件可靠性、安全性、测试性、软件验证领域一流的科研条件，已通过“总装军用实验室”、DILAC、CNAS、GJB9001C资质认可。目前在职员工75人，年均科研经费3500+万，是国内军用软件试验鉴定领域的主力军，机载系统软件测评领域国内领先，承担了大量的装备软件第三方测试工作，获得了军方和工业部门好评。</p>
+ </p>
+</div>
+
+
+
+
+<script type="text/javascript"> 
+ var u_u21_pic = new ImageScale("u_u21_",130,100,true,true);
+</script>
+</DIV>
+<DIV class="copyright" style="margin-top: 50px; margin-left: 50px; clear: both; border-top: #9e9e9e 1px dotted">
+<UL style="margin-right: 20px">
+<LI style="text-align: center; width: 100%; float: left">版权所有 &nbsp; 2018 北京航空航天大学 &nbsp; 京ICP备05004617-3 &nbsp; 文保网安备案号1101080018 &nbsp; 地址：北京市海淀区学院路37号 &nbsp; 邮编：100083</LI>
+<LI style="text-align: center; width: 100%"><SPAN class="padl50">
+        <a href="javascript:void(0);" title="手机版" onclick="_vsb_multiscreen.setDevice('mobile')">手机版</a>
+&nbsp;&nbsp;
+<script> var _tsites_com_view_mode_type_=8;</script>
+<a href="http://10.254.20.225:8080/system/caslogin.jsp"  target=_blank title="登录" style="margin-right: 45px;">登录</a>
+</SPAN></LI></UL></DIV></DIV>
+<DIV></DIV>
+
+</BODY></HTML>

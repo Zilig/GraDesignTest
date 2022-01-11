@@ -1,0 +1,51 @@
+
+
+
+
+ native communication
+ * https://ssl.gstatic.com is required only on Android and is needed for TalkBack to function properly
+ * Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:
+ * Enable inline JS: add 'unsafe-inline' to default-src
+ -->
+
+
+
+
+
+
+
+
+
+
+
+ X-MOL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

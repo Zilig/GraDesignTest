@@ -1,0 +1,414 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD><meta name="renderer" content="webkit"><meta http-equiv="X-UA-COMPATIBLE" content="IE=edge,chrome=1"/><TITLE>钱浩 中文主页 北京航空航天大学教师个人主页系统</TITLE>
+
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" type="text/css" href="/_ts/zw1/style/css.css"><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script><LINK rel="stylesheet" type="text/css" href="/_ts/zw1/style/font.css"><script language="javascript" type="text/javascript" src="/_ts/zw1/js/select_xuanze.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="/_ts/zw1/_sitegray/_sitegray_d.css" />
+<script language="javascript" src="/_ts/zw1/_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e7847545255554703070002 -->
+<link rel="stylesheet" type="text/css" href="/zw1/index.vsb.css" />
+<META Name="keywords" Content="钱浩," />
+<META Name="description" Content="钱浩,钱浩 中文主页,北京航空航天大学教师个人主页系统,钱浩，男，1985年2月出生于安徽合肥，博士，硕士生导师。2007年6月毕业于北京航空航天大学自动化科学与电气工程学院电气工程专业，获得工学学士学位，2013..." />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" ></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1265528587)</script>
+</HEAD>
+<BODY > <div style='display:none;'><img src="/__local/4/71/FD/C1F59CE9711283E8021E8894B33_824D3754_4663.jpg"  /></div>
+<style type="text/css">
+body{
+            background-image:url(/_ts/zw1/images/teachjjbg.jpg) ; 
+      background-repeat:repeat-y;
+   background-position:left top;
+
+        
+        background-color:#f0f0f0;
+}
+</style>
+
+<DIV class="warper"> 
+<DIV id="leftside">
+<DIV class="logo">
+<P><script> var _tsites_com_view_mode_type_=8;</script>
+<a target="_blank" href="http://shi.buaa.edu.cn"><img border="0" src="/__local/1/D5/36/C837E53F028F25EA1AC65BF4C79_1EB0DF3D_10EC.jpg" title="北京航空航天大学教师个人主页系统" /></a></P></DIV>
+<DIV class="teacherjj">
+<DIV class="photo">
+
+<div style="height: 150px;
+    display: table-cell;
+    vertical-align: middle;">
+<a 
+style="height: 150px;display: table-cell;vertical-align: middle;text-align: center; width: 150px;"><img id="u_u2_2155pic" border="0"/></a></div>
+<script>
+jQuery(document).ready(function(){
+
+	var leftheight = jQuery("#leftside").height();
+	var rightheight = jQuery("#rightside").height();
+	if(leftheight > rightheight){
+		jQuery("#rightside").height(leftheight);
+	}
+	
+});
+</script>
+
+
+<script language='javascript' src='/system/resource/tsites/imagescale.js'></script>
+<script type="text/javascript"> 
+ var u_u2_pic = new ImageScale("u_u2_",150,150,true,true);u_u2_pic.addimg("/__local/4/71/FD/C1F59CE9711283E8021E8894B33_824D3754_4663.jpg","","钱浩","2155");
+</script>
+</DIV>
+<DIV class="name">
+  <h1>钱浩
+(副研究员（自然科学）)
+   </h1>
+                                                 
+<script language='javascript' src='/system/resource/tsites/tsitesencrypt.js'></script>
+
+ <div class="zan" style="text-align: center;">
+<p style="padding-top:5px;">
+<span><img src="/_ts/zw1/images/zan.png"style="cursor: pointer; vertical-align: bottom;" width="22" height="21"  id="_parise_imgobj_u4"/></span><span style="font-size:16px; color:#FFF; padding-left:5px;" id="_parise_obj_u4" ></span></p></div><script language='javascript' src='/system/resource/tsites/TsitesPraiseUtil.js'></script>
+<script> var _TsitesPraiseUtil_u4= new TsitesPraiseUtil();_TsitesPraiseUtil_u4.setParam({'nodeid':'_parise_obj_u4','iscanclickidobj':'iscanclick_parise_obj_u4','pdtype':'0','imageid':'_parise_imgobj_u4','apptype':'index','sid':'2155','homepageid':2975,'limttype':'allpage','limithour':24,'contentid':0});</script>
+</DIV>
+<div class="jbqk">
+
+  <p>     副研究员（自然科学）
+    硕士生导师
+     </p>
+   
+  <!--性别--> 
+  <p>性别：男</p>
+  <!--出生年月--> 
+  <p>出生年月：1985-02-11</p>
+  <!--毕业院校--> 
+  <p>毕业院校：北京航空航天大学</p>
+  <!--学历--> 
+  <!--学位--> 
+  <p>学位：博士</p>
+  <!--在职信息--> 
+  <!--所在单位--> 
+  <p>所在单位：无人系统研究院</p>
+  <!--入职时间--> 
+  <!--所属院系--> 
+  <!--职务--> 
+  <!--学科--> 
+  <p>学科：电机与电器  </p>
+  
+  <!--办公地点--> 
+  <p>办公地点：无人机楼509</p>
+  <!--联系方式--> 
+  <p>联系方式：010-82317391</p>
+  <!--email--> 
+  <p>Email：<span _tsites_encrypt_field="_tsites_encrypt_field" id="_tsites_encryp_tsteacher_tsemail" style="display:none;">33b8d9e993c18f4bde17cfacb52114f49c66079b8b0eeb1bb2ee876d4b71c15f527ce85090eb564e5ae4c7d26742589b6b2c553f22c20c0bcd4135e03321276bd39ea6aa158341e094a3a36835756d8009b761ba7b9dd780e123dff9ba8bdf86c1a76d9922b5576286dbd2e832ccb375fe46c020ec171dfeb493fcf3de68cd82</span></p>
+
+
+
+
+
+
+</div>
+<DIV class="serchbg" style="margin-left: 26px"><script language='javascript' src='/system/resource/tsites/com/search/tsitesearch.js'></script><script language='javascript' src='/system/resource/js/base64.js'></script><form action="/qianhao/zh_CN/search/13383/search/result.htm" method="post" id="searchform45478" style="display:inline" onsubmit="return (new TsiteSearch()).checkSearch('searchform45478','keyWord_temp');">
+    <input type="hidden" name="tsites_search_content" id="tsites_search_content" value='' /><input type="hidden" name="_tsites_search_current_language_" id="_tsites_search_current_language_" value='zh_CN' />
+    <input  name="keyWord_temp" id="keyWord_temp" value=""type="text" class="inputtext" /> 
+    <input name="submit" type="submit" value="" class="searchbtn" >     
+</form>
+
+
+</DIV></DIV>
+<DIV class="email">访问量：
+<script language='javascript' src='/system/resource/tsites/tsitesclick.js'></script>
+<span id="u9_click"></span><script>(new TsitesClickUtil()).getHomepageClickByType(document.getElementById('u9_click'),0,10,'homepage_total','2155',2975);</script>
+<BR>
+
+<script language='javascript' src='/system/resource/tsites/latestupdatetime.js'></script>
+最后更新时间：<span id="u10_latestupdatetime_year"></span>.<span id="u10_latestupdatetime_month"></span>.<span id="u10_latestupdatetime_day"></span><script>(new TsitesLatestUpdate()).getHomepageLatestUpdateTime(document.getElementById('u10_latestupdatetime_year'),document.getElementById('u10_latestupdatetime_month'),document.getElementById('u10_latestupdatetime_day'),'','2155',2975,0);</script>
+<script>(new TsitesLatestUpdate()).getTeacherHomepageOpenTime(document.getElementById('u10_opentime_year'),document.getElementById('u10_opentime_month'),document.getElementById('u10_opentime_day'),'','2155',2975,0);</script>
+</DIV>
+<DIV class="tzybd" style="margin-left: 26px">
+&nbsp;&nbsp;&nbsp;
+
+<a href="/qianhao/zh_CN/tzysd/13383/list/index.htm" target="_blank"  >同专业硕导</a>
+</DIV><div class="email "><div style="width:142px; height:142px; border:5px solid #FFF; background:#FFF;margin-top: 25px;">
+<!-- 下面这个div是二维码容器,ID不能变-->
+<div id="outputu12"></div>
+<!-- 下面是生成二维码调用的JS，不要动-->
+
+<script src="/system/resource/qrcode/js/jquery.qrcode.js"></script>
+<script src="/system/resource/qrcode/js/qrcode.js"></script>
+<script>
+var codeInfo = "" ==""? window.location.href:"";
+jQuery(function(){
+    jQuery('#outputu12').qrcode({
+        text:codeInfo,
+        render: !!document.createElement('canvas').getContext?"canvas":"table",//设置渲染方式  
+        width: 142,     //设置宽度  
+        height: 142,     //设置高度  
+        correctLevel: 2,//纠错等级  
+        background: "#ffffff",//背景颜色  
+        foreground: "#000000",//前景颜色  
+        logo:""//图像logo
+    });
+})
+</script>
+</div></div></DIV></DIV>
+<DIV id="rightside">
+<DIV class="nav">
+<DIV class="menu">
+<div style="max-width:80%">    	
+<ul id="nav"  style="visibility:hidden;">
+    	                 <li >
+                    <a href="/qianhao/zh_CN/index/13383/list/index.htm" style="background-color: #df6b57;"> 首页</a>
+                </li> 
+                <li >
+                    <a href="/qianhao/zh_CN/yjgk/13384/list/index.htm" > 研究领域</a>
+                </li> 
+                <li >
+                    <a href="/qianhao/zh_CN/skxx/13385/list/index.htm" > 开授课程</a>
+                </li> 
+                <li >
+                    <a href="/qianhao/zh_CN/kyxm/13386/list/index.htm" > 科研项目</a>
+                </li> 
+                <li >
+                    <a href="/qianhao/zh_CN/lwcg/13387/list/index.htm" > 论文</a>
+                </li> 
+                <li >
+                    <a href="/qianhao/zh_CN/hjxx/13388/list/index.htm" > 荣誉及奖励</a>
+                </li> 
+                <li >
+                    <a href="/qianhao/zh_CN/zhym/13389/list/index.htm" > 招生信息</a>
+                        <ul >
+                                    <li  ><a href="/qianhao/zh_CN/zsxx/13390/list/index.htm">博士生招生 </a></li>    
+                                    <li  ><a href="/qianhao/zh_CN/zsxx/13391/list/index.htm">研究生招生 </a></li>    
+                         </ul>  
+                </li> 
+                <li >
+                    <a href="/qianhao/zh_CN/zhym/13392/list/index.htm" > 学生信息</a>
+                        <ul >
+                                    <li  ><a href="/qianhao/zh_CN/xsxx/13393/list/index.htm">博士研究生 </a></li>    
+                                    <li  ><a href="/qianhao/zh_CN/xsxx/13394/list/index.htm">硕士研究生 </a></li>    
+                                    <li  ><a href="/qianhao/zh_CN/xsxx/13395/list/index.htm">本科生 </a></li>    
+                         </ul>  
+                </li> 
+ </ul>
+</div>
+    <script type="text/javascript">
+$(document).ready(function() { 
+ $('#nav li').hover(function() {
+  $('ul', this).slideDown(200);
+  $(this).children('a:first').addClass("hov");
+ }, function() {
+  $('ul', this).slideUp(100);
+  $(this).children('a:first').removeClass("hov");  
+ });
+});
+</script>
+
+                <div class="teach_topR_qh fl" id="znzwmb3_othernav_div">
+                
+                <ul class="level0">
+                    <li class="select_box fl"  onclick="show_f(null, 'znmb1_other_navul');"><span>其他栏目</span>
+                      <ul class="son_ul fl" id="znmb1_other_navul">                                   
+                            </ul> 
+                        </li>  
+                </ul> 
+        </div>
+        <script type="text/javascript">
+jQuery(document).ready(function(){
+    var totalwidth = jQuery("#nav").width();
+    var allliwidth = 0;
+    var othernavary = new Array();
+    var znmb1_other_navul = jQuery("#znmb1_other_navul")[0];
+    var MenuBar1 = jQuery("#nav");
+    var navliobjlist =  jQuery("#nav > li");
+    for(var i=0;i<navliobjlist.length;i++)
+    {
+        var liobj = navliobjlist.get(i);
+        if(liobj)
+        {
+            var jliobj = jQuery(liobj);
+            var liwidth = jliobj.width();
+            allliwidth+=liwidth;
+            if(allliwidth>=totalwidth)
+            {
+                var templiobj = jliobj[0];      
+                othernavary.push(templiobj);
+                MenuBar1[0].removeChild(jliobj[0]);
+            }
+        }
+    }
+    if(allliwidth<totalwidth)
+    {
+        jQuery("#znzwmb3_othernav_div").css("display","none");
+    }else
+    {
+    for(var i=0;i<othernavary.length;i++)
+    {
+        var tempotherli = jQuery(othernavary[i]);
+        //tempotherli.removeClass("nav_menu-item");
+        tempotherli.addClass("nav_submenu-item");
+        
+        
+        //tempotherli.find("ul").removeClass("nav_submenu");
+        tempotherli.find(" ul").addClass("level2");
+        
+        //tempotherli.find(" ul > li").removeClass("nav_submenu-item");
+        
+        znmb1_other_navul.appendChild(tempotherli[0]);
+    }}
+jQuery("#nav").css("visibility","visible");
+
+});
+</script> 
+<script type="text/javascript">
+$(document).ready(function() { 
+ $('#znmb1_other_navul li').hover(function() {
+  $('ul', this).slideDown(200);
+  $(this).children('a:first').addClass("hov");
+ }, function() {
+  $('ul', this).slideUp(100);
+  $(this).children('a:first').removeClass("hov");  
+ });
+});
+</script>
+  <style>
+  .nav_submenu-item{position:relative;}
+  .level2{right:90px; position:absolute; background:#fff; top:0;display:none;}
+  </style>  
+<DIV class="teach_topR_qh2 fl">
+ 
+<div class="teach_topR_qh2 fl">
+        	<ul>	
+<li class="select_box2 fl">
+                  <a href="#" class="leixin_xz_a f_r" onclick="show_f(null, 'son_ul2');"></a><span><div  style="margin-top:20px;"><img src="/_ts/zw1/images/icon.png"  width="20px" height="20px"></div>
+</span>   
+                               <ul class="son_ul2 fl"> 
+ 
+   <li style="width:90px"><a href="/qianhao/en/index.htm">English</a></li>
+ </ul>
+               
+ </li>
+  </ul>
+        </div></DIV></DIV></DIV>
+<DIV class="content">
+<div class="con_bload">
+<h2>个人简历</h2><p>
+<p>钱浩，男，1985年2月出生于安徽合肥，博士，硕士生导师。2007年6月毕业于北京航空航天大学自动化科学与电气工程学院电气工程专业，获得工学学士学位，2013年6月毕业于北京航空航天大学自动化科学与电气工程学院电机与电器专业，获得工学博士学位。2013年07月至2016年01月，在北京航空航天大学机械工程流动站从事博士后研究。2016年1月至今在北京航空航天大学无人系统研究院工作。2018年入选北京航空航天大学青年拔尖人才支持计划。</p><p>主要研究领域为特种永磁电机设计及驱动控制。近年来，发表SCI/EI学术论文20余篇，获申请/授权国家发明专利5项，主持和参与国家自然科学基金、国家重点研发计划等纵向、横向科研项目近20项。<br /></p></p>
+</div>
+
+<div class="con_bload">
+  <h2>教育经历</h2>
+  <p>[1] 
+   &nbsp;&nbsp;2007.9-2013.6
+  </p>
+  <p>
+      北京航空航天大学
+    &nbsp;|&nbsp;
+    电机与电气
+    &nbsp;|&nbsp;
+     博士学位
+    &nbsp;|&nbsp;
+    博士研究生毕业
+    </p>
+    <p>[2] 
+   &nbsp;&nbsp;2003.9-2007.6
+  </p>
+  <p>
+      北京航空航天大学
+    &nbsp;|&nbsp;
+    电气工程及其自动化
+    &nbsp;|&nbsp;
+     学士学位
+    &nbsp;|&nbsp;
+    大学本科毕业
+    </p>
+  </div>
+<div class="con_bload"><h2>工作经历</h2>
+
+                       <p>[1]         
+                       &nbsp;&nbsp;2018.9-至今
+                       </p><p>
+				北京航空航天大学
+	          		&nbsp;|&nbsp;
+				无人系统研究院新能源动力技术研究中心
+	          		&nbsp;|&nbsp;
+				主任
+	          		&nbsp;|&nbsp;
+				在职
+				
+			<br/>
+  </p>                       
+                           <p>[2]         
+                       &nbsp;&nbsp;2016.1-2018.8
+                       </p><p>
+				北京航空航天大学
+	          		&nbsp;|&nbsp;
+				无人系统研究院新能源动力技术研究中心
+	          		&nbsp;|&nbsp;
+				讲师
+			<br/>
+  </p>                       
+                           <p>[3]         
+                       &nbsp;&nbsp;2013.7-2016.1
+                       </p><p>
+				北京航空航天大学
+	          		&nbsp;|&nbsp;
+				机械工程博士后流动站
+	          		&nbsp;|&nbsp;
+				博士后
+			<br/>
+  </p>                       
+                           <p>[4]         
+                       &nbsp;&nbsp;2007.6-2015.3
+                       </p><p>
+				中国人民解放军空军
+	          		&nbsp;|&nbsp;
+				工程师
+			<br/>
+  </p>                       
+    </div>
+    
+<div class="con_bload">
+<h2>社会兼职</h2>
+<ul>
+<li>
+   <p>[1]&nbsp;&nbsp;
+IEEE Member</p></li>
+<li>
+   <p>[2]&nbsp;&nbsp;
+2019.10-至今&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+中国航空学会电气工程专业委员会青年委员</p></li>
+<li>
+   <p>[3]&nbsp;&nbsp;
+中国航空学会机电分会青年工作委员会副总干事</p></li>
+</ul></div>
+<div class="con_bload"><h2>研究方向</h2>
+      <li><p>[1]&nbsp;&nbsp; 特种永磁电机设计  </p>  </li> 
+      <li><p>[2]&nbsp;&nbsp; 电机驱动控制  </p>  </li> 
+      <li><p>[3]&nbsp;&nbsp; 机载油电混合发电系统  </p>  </li> 
+      <li><p>[4]&nbsp;&nbsp; 航空电推进系统  </p>  </li> 
+</div>
+
+
+
+
+
+
+
+<script type="text/javascript"> 
+ var u_u21_pic = new ImageScale("u_u21_",130,100,true,true);
+</script>
+</DIV>
+<DIV class="copyright" style="margin-top: 50px; margin-left: 50px; clear: both; border-top: #9e9e9e 1px dotted">
+<UL style="margin-right: 20px">
+<LI style="text-align: center; width: 100%; float: left">版权所有 &nbsp; 2018 北京航空航天大学 &nbsp; 京ICP备05004617-3 &nbsp; 文保网安备案号1101080018 &nbsp; 地址：北京市海淀区学院路37号 &nbsp; 邮编：100083</LI>
+<LI style="text-align: center; width: 100%"><SPAN class="padl50">
+        <a href="javascript:void(0);" title="手机版" onclick="_vsb_multiscreen.setDevice('mobile')">手机版</a>
+&nbsp;&nbsp;
+<script> var _tsites_com_view_mode_type_=8;</script>
+<a href="http://10.254.20.225:8080/system/caslogin.jsp"  target=_blank title="登录" style="margin-right: 45px;">登录</a>
+</SPAN></LI></UL></DIV></DIV>
+<DIV></DIV>
+
+</BODY></HTML>

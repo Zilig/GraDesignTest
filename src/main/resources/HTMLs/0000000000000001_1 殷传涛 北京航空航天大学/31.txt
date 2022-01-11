@@ -1,0 +1,1317 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1">
+        <!--[if IE 8]> 
+            <meta http-equiv="X-UA-Compatible" content="IE=8" />
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	
+    
+    陈辉
+
+
+</title><link rel="stylesheet" type="text/css" href="/css/globa.css" /><link href="/css/jquery.autocomplete.css" rel="stylesheet" type="text/css" /><link href="/scripts/asyncbox/skins/ZCMS/asyncbox.css" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/css/base.css" /><link rel="stylesheet" type="text/css" href="/css/itemBase.css" /><link rel="stylesheet" type="text/css" href="/css/selectDefault.css" /><link rel="stylesheet" type="text/css" href="/css/style.css" />
+    <script type="text/javascript" src="/scripts/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/scripts/libextentions.min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.easyselectbox.min.js"></script>
+    <script type="text/javascript" src="/scripts/common.min.js"></script>
+    <script type="text/javascript" src="/scripts/searchexpression.yui.js"></script>
+    <script type="text/javascript" src="/scripts/searchrelativesubject.min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.belatedPNG.min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.autocomplete.min.js"></script>
+    <script type="text/javascript" src="/scripts/asyncbox/AsyncBox.v1.4.js"></script>
+    <script type="text/javascript" src="/scripts/AnHuiAddAttention.js"></script>
+    <script type="text/javascript" src="/scripts/common.js"></script><!--下拉框、复选框等-->
+
+    <!--[if IE 6]>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("img[src$='.png']").fixPng();
+        });
+    </script>
+    <![endif]-->
+    
+    <link type="text/css" href="/css/search.css" rel="stylesheet" />
+    <link type="text/css" href="/css/object.css" rel="stylesheet" />
+    <script type="text/javascript" src="/scripts/json2.min.js"></script>
+    
+</head>
+<body>
+   <div id="all">
+    <div class="header">
+    	<div class="content clr">
+        	<!--顶部部分开始-->
+            <div class="top">
+            	<div class="fl top_left"><a href="/ServiceSourceLinkList.aspx?cid=4">企业门户群集</a> | <a href="/ServiceSourceLinkList.aspx?cid=12">产业门户群集</a> | <a href="/ServiceSourceLinkList.aspx?cid=13">县域门户群集</a></div>
+                <div class="fr top_right" id="loginLoading">
+                    正在加载，请稍候...
+                </div>
+            </div>
+            <!--顶部部分结束-->
+            <div class="wfull clr">
+                <div class="wfull mt10 fl">
+                    <!--logo部分开始-->
+                    <div class="logo fl"><img src="/images/logo.png"/></div>
+                    <!--logo部分结束-->
+                    <!--搜索栏部分开始-->
+                    
+<div class="search mt20 fr">
+    <!--关键词开始-->
+    <div class="word">
+        <div class="word_bg fl" id="searchDiv">
+            <a searchType="article" class="current" href="javascript:void(0);"><span>文献检索</span></a>
+            <!--<tt class="fl">|</tt>-->
+            <a searchType="website" class="" href="javascript:void(0);"><span>站内检索</span></a>
+        </div>
+    </div>
+    <!--搜索文本框开始-->
+    <div class="search_box clr">
+        <div class="search_text clr">
+            <div class="fl" id="selSearType">
+                <div class="rule-single-select">
+                <select id="articleSearchType">
+                    <option value="-1">全部</option>
+                    <option value="1">期刊文章</option><option value="2">学位论文</option><option value="3">会议</option><option value="4">专利</option><option value="5">标准</option><option value="6">成果</option><option value="7">专著</option><option value="8">产品</option><option value="9">科技报告</option><option value="10">政策法规</option><option value="99">引文</option>
+                </select>
+            </div>
+            </div>
+            <input type="hidden" id="searchType" value="article" />
+            <input class="input fl" type="text" placeholder="请输入需要的文字" onkeydown="search_enterKeydown(event);" id="txtMainSearchType"/>
+            <input class="search-btn fr" type="button" id="btnMainSearchType" value="点击检索" name=""/>
+        </div>
+        <div class="search_adv fr" id="seniorSearchBox">
+            <a href="javascript:void(0);" onclick="onidshow('pagesearch-factor')">高级检索</a>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    //初始化
+    $(function () {
+        var request = g_getUrlParms();
+        var searchType = request["type"];
+        var artType = request["artType"];
+        if (searchType != undefined || searchType != '') {
+            $('#searchDiv>a').removeClass('current');
+            switchBindSearchType(searchType);
+        }
+        if (artType && artType != "Articles") {
+            $("#articleSearchType").val(artType);
+            var text = $("#articleSearchType").find("option[value='" + artType + "']").html();
+            $(".select-items").find("li:selected").removeClass("selected");
+            $(".select-items").find("li:contains('" + text + "')").addClass("selected");
+            $(".select-tit span").html(text);
+            $(".search-term span").prepend("文献类型=" + text + "；");
+        }
+        else {
+            $(".search-term span").prepend("文献类型=全部；");
+        }
+        bindSearchKeys();
+        $('#searchDiv>a').click(function () {
+            $('#searchDiv>a').attr('class', '');
+            $('#searchType').val($(this).attr('searchType'));
+            $(this).addClass('current');
+            var searchType = $('#searchType').val();
+            if (searchType == "article") {
+                $("#seniorSearchBox").show();
+            }
+            else if (searchType == "website") {
+                $("#seniorSearchBox").hide();
+            }
+            switchBindSearchType(searchType);
+            bindSearchKeys();
+        });
+        //简单检索
+        $("#btnMainSearchType").on("click", function () {
+            search();
+        });
+
+        //绑定自动补全
+        bindAutoComplete();
+    });
+
+    function switchBindSearchType(searchType) {
+        switch (searchType) {
+            case "article":
+                $('#searchDiv>a[searchType="article"]').addClass('short current');
+                $('#searchType').val('article');
+                $('#selSearType').show();
+                $('#txtMainSearchType').css('width', '220px');
+                break;
+            case "website":
+                $('#searchDiv>a[searchType="website"]').addClass('short current');
+                $('#searchType').val('website');
+                $('#selSearType').hide();
+                $('#txtMainSearchType').css('width', '330px');
+                break;
+            default:
+                $('#searchDiv>a[searchType="article"]').addClass('short current');
+                $('#searchType').val('article');
+                break;
+        }
+    }
+
+    function bindSearchKeys() {
+        var request = g_getUrlParms();
+        var searchKeys = request["key"];
+        if (searchKeys) {
+            var uvalue = searchKeys.match(/U=[^\[]*/i);
+            if (uvalue) {
+                var value = uvalue[0].split('=');
+                var searchvalue = value[1].replace(/(0x005b)/g, "[").replace(/(0x005d)/g, "]").replace(/(0x005a)/g, "=").replace(/(‘)/g, "'").replace(/(’)/g, "'").replace(/(\“)/g, "\"").replace(/(\”)/g, "\"");
+                $("#txtMainSearchType").val(searchvalue); //检索框赋值
+            } else {
+                
+            }
+        } else {
+            
+        }
+    }
+
+    //自动补全方法
+    function bindAutoComplete() {
+        var searchType = $('#searchType').val();
+        if (searchType == "website")
+            return;
+        $("#txtMainSearchType").AutoComplete({
+            'data': "/ajax/AutoCompleteHandler.ashx",
+            "ajaxParams": function () {
+                var type = "articles";
+                if ($("#hifOutObjectType").val()) {
+                    type = $("#hifOutObjectType").val();
+                }
+                return { "objtype": type.toLowerCase() };
+            },
+            'ajaxDataType': 'json',
+            'width': 'auto', //490
+            'itemHeight': 25,
+            'leftOffset': -6,
+            'maxItems': 30,
+            'maxHeight': 232,
+            'beforeLoadDataHandler': function (keyword) {
+                return keyword.length >= 2;
+            },
+            'onerror': function (msg) { alert(msg); },
+            "afterSelectedHandler": function () {
+                search();
+            }
+        });
+    }
+
+    //简单检索表达式
+    function search() {
+        var searType = $('#searchType').val();
+        var type = "";
+        type = $('#articleSearchType option').eq($('.select-items > ul > li[class="selected"]').index()).val();
+        var value = $("#txtMainSearchType").val().replace(/(\;|\,|\<|\>)/g, "").replace(/(\))/g, "）").replace(/(\()/g, "（").replace(/(\[)/g, "0x005b").replace(/(\])/g, "0x005d").replace(/(\')/g, "‘").replace(/(\')/g, "’").replace(/(\")/g, "“").replace(/(\")/g, "”").replace(/(\=)/g, "0x005a");
+        var key = "U";
+        if (value == "" || $("#txtMainSearchType").hasClass('watermark')) {
+            alert("请输入检索条件");
+            return false;
+        } else {
+            if (searType == 'article') {
+                geturl(type, key + "=" + value);
+            }
+            else {
+                location.href = '/websearch.aspx?type=website&keywords=' + value;
+            }
+        }
+    }
+    function geturl(type, str, searType, rf, index) {
+        var url = "", key = "";
+        if (str) {
+            str = encodeURIComponent(str);
+            key = "?key=" + str;
+        }
+        if (type && type != "-1") {
+            artType = encodeURIComponent(rf);
+            if (key.indexOf("?") != -1) {
+                key += "&artType=" + type;
+            } else {
+                key += "?artType=" + type;
+            }
+        }
+        if (rf) {
+            rf = encodeURIComponent(rf);
+            if (key.indexOf("?") != -1) {
+                key += "&rf=" + rf;
+            } else {
+                key += "?rf=" + rf;
+            }
+        }
+        if (index) {
+            if (key.indexOf("?") != -1) {
+                key += "&uf=" + index;
+            } else {
+                key += "?uf=" + index;
+            }
+        }
+        if (key.length > 1000) {
+            alert("检索表达式位数超出");
+            return false;
+        }
+        url = "/zk/search.aspx?";
+        switch (searType) {
+            case "Writer":
+                url = "/writer/writersearch.aspx";
+                break; //人物
+            case "Organ":
+                url = "/organ/organsearch.aspx";
+                break; //机构
+            case "Subject":
+                url = "/subject/subjectsearch.aspx";
+                break; //主题
+            case "Journal":
+                url = "/journal/journalsearch.aspx";
+                break; //期刊
+            case "Fund":
+                url = "/fund/fundsearch.aspx";
+                break; //资助
+            case "Domain":
+                url = "/domain/domainsearch.aspx";
+                break; //学科
+            case "Area":
+                url = "/area/areasearch.aspx";
+                break; //地区
+            case "Articles":
+                url = "/zk/search.aspx";
+                break; //文献
+            default:
+                url = "/zk/search.aspx";
+                break;
+        }
+        location.href = url + key;
+    }
+
+    //回车检索
+    function search_enterKeydown(event) {
+        var e = $.event.fix(event);
+        if (e.keyCode === 13) {
+            search();
+        }
+    }
+
+    //URL参数获取
+    function GetQueryString(name) {
+        var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+        var r = decodeURIComponent(window.location.search.substr(1)).match(reg);
+        if (r != null) return unescape(r[2]); return null;
+    }
+</script>
+
+                    <!--搜索栏部分结束-->
+                </div>
+                
+                    <!--导航部分 开始-->
+                    <div class="wfull mt10 fl">
+    	                <div class="content nav">
+                            <div class="pr" style="z-index:100;">
+                                <ul class="clr" id="navUL">
+                                    <li navMark="index">
+                                        <a href="/Index.aspx">平台首页</a>
+                                    </li>                             
+                                    <li navMark="newsCenter">
+                                        <a href="/Newscenter.aspx">动态要文</a>
+                                        <div class="sun_nav" style="display:;">
+                                            <ul class="clr">
+                                                
+            	                                        <li><a href="/newscenter.aspx?nt=1" title="科技动态">科技动态</a></li>
+                                                    
+            	                                        <li><a href="/newscenter.aspx?nt=2" title="工作动态">工作动态</a></li>
+                                                    
+            	                                        <li><a href="/newscenter.aspx?nt=3" title="通知公告">通知公告</a></li>
+                                                    
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li navMark="sourceLink">
+                                        <a href="/SourceLinkList.aspx">科技资源</a>
+                                        <div class="sun_nav" style="display:;">
+                                            <ul class="clr">
+                                                
+            	                                        <li><a href="/SourceLinkList.aspx?cid=27" title="高新技术企业">高新技术...</a></li>
+                                                    
+            	                                        <li><a href="/SourceLinkList.aspx?cid=28" title="院士博士工作站">院士博士...</a></li>
+                                                    
+            	                                        <li><a href="/SourceLinkList.aspx?cid=29" title="工程技术研究中心">工程技术...</a></li>
+                                                    
+            	                                        <li><a href="/SourceLinkList.aspx?cid=5" title="高校">高校</a></li>
+                                                    
+            	                                        <li><a href="/SourceLinkList.aspx?cid=6" title="众创空间">众创空间</a></li>
+                                                    
+            	                                        <li><a href="/SourceLinkList.aspx?cid=9" title="科研院所及产业院所">科研院所...</a></li>
+                                                    
+            	                                        <li><a href="/SourceLinkList.aspx?cid=33" title="重点实验室">重点实验...</a></li>
+                                                    
+            	                                        <li><a href="/SourceLinkList.aspx?cid=34" title="孵化器">孵化器</a></li>
+                                                    
+                                            </ul>
+                                        </div>
+                                    </li>      
+                                    <li navMark="business">
+                                        <a href="/BusinessList.aspx">情报服务</a>
+                                        <div class="sun_nav" style="display:;">
+                                            <ul class="clr">
+                                                
+            	                                        <li><a href="/BusinessList.aspx?cid=2" title="科技查新">科技查新</a></li>
+                                                    
+            	                                        <li><a href="/BusinessList.aspx?cid=1" title="科技统计">科技统计</a></li>
+                                                    
+            	                                        <li><a href="/BusinessList.aspx?cid=3" title="科技宣传">科技宣传</a></li>
+                                                    
+            	                                        <li><a href="/BusinessList.aspx?cid=4" title="论文查重">论文查重</a></li>
+                                                    
+            	                                        <li><a href="/BusinessList.aspx?cid=5" title="战略研究">战略研究</a></li>
+                                                    
+            	                                        <li><a href="/BusinessList.aspx?cid=6" title="全文检索">全文检索</a></li>
+                                                    
+            	                                        <li><a href="/BusinessList.aspx?cid=7" title="科技评估">科技评估</a></li>
+                                                    
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li navMark="hotwriter"><a href="/writer/HotWriter.aspx">领域专家</a></li>
+                                    <li navMark="hotorgan"><a href="/organ/HotOrgan.aspx">机构推荐</a></li>
+                                    <li navMark="hotsubject"> <a href="/subject/HotSubject.aspx">热门主题</a></li>
+                                    <li navMark="selfLink"><a href="/SelfSourceLinkList.aspx">自建数据库</a></li>
+                                    <li navMark="serviceLink"> <a href="/ServiceSourceLinkList.aspx">科技文献地区服务站</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!--导航部分 结束-->
+                
+            </div>
+        </div>
+        <!--logo导航部分结束-->
+    </div>
+    
+    
+    
+    <div id="body">
+        
+    
+<input type="hidden" name="hfldSearchConditionValue" id="hfldSearchConditionValue" value="WCC=100000007068995" autocomplete="off"/>
+<input type="hidden" name="hfldRelField" id="hfldRelField"  value="" autocomplete="off"/>
+<input type="hidden" name="hfldRelFieldValue" id="hfldRelFieldValue"  value="" autocomplete="off"/>
+<input type="hidden" name="hfldFilterValue" id="hfldFilterValue"  value="" autocomplete="off"/>
+<input type="hidden" name="hfldObjectType" id="hfldObjectType" value="articles" autocomplete="off"/>
+    
+<div class="m-part object-intro">
+    <dl class='object-writer' ><dt><h1>陈辉</h1></dt> <dd class='object-index'><span>作品数：<a href='/writer/article.aspx?id=100000007068995' id='zkfwcount'>15</a></span><span>被引量：81</span><span>H指数：5</span></dd><dd class='object-op'><a href="javascript:void(0);" onclick="GetParms($('.object-intro dl dt h1').html(),'Writer')"><b class="op-ico gz"></b>加关注<span class="gz-box" style="display:none;"><span class="gz-arrow"></span><span class="gz-close" onclick="$('.gz-box').hide();"></span><span class="gz-intro">用中文期刊手机助手扫描关注</span><span class="gz-pic"><img src="/ajax/QRCodeHandler.ashx?qrstr=OBJ%7cWriter%7c100000007068995" height="114px" alt=""></span></span></a><span id='bdshare' class='bdshare_t bds_tools get-codes-bdshare baidufx'><span><span class='bds_more' style='display: block; width: 67px; height: 29px; background: url(/images/share.gif) no-repeat!important; padding: 0;'></span></span></span><a href='/writer/report.aspx?id=100000007068995'><b class='op-ico bg'></b>导出分析报告</a></dd><dd class='line'><strong>供职机构：</strong><span>北京航空航天大学中法工程师学院</span><a class='more' href='/writer/organ.aspx?id=100000007068995'>更多&gt;&gt;</a></dd><dd class='line'><strong>发文主题：</strong><span>学历教育</span><span>高等工程教育</span><span>北航</span><span>篡改定位</span><span>视频水印算法</span><a class='more' href='/writer/subject.aspx?id=100000007068995'>更多&gt;&gt;</a></dd><dd class='line'><strong>发文领域：</strong><span>文化科学</span><span>自动化与计算机技术</span><span>水利工程</span><span>一般工业技术</span><a class='more' href='/writer/domain.aspx?id=100000007068995'>更多&gt;&gt;</a></dd><dd class='line'><strong>发文期刊：</strong><span>《商情》</span><span>《中国大学教学》</span><span>《北京航空航天大学学报：社会科学版》</span><span>《中国科教创新导刊》</span><a class='more' href='/writer/journal.aspx?id=100000007068995'>更多&gt;&gt;</a></dd><dd class='line'><strong>所获基金：</strong><span>“十一五”国家科技支撑计划</span><span>吉林省教育科学“十二五”规划课题</span><a class='more' href='/writer/fund.aspx?id=100000007068995'>更多&gt;&gt;</a></dd></dl>
+    <div id="content_content_ObjectDetailSummary_IsShow" class="object-min-graph">
+        <a href="/writer/atlas.aspx?id=100000007068995"></a>
+            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="objectDetailSummaryFalsh"
+                codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab"
+                width="180" height="200">
+                <param name="movie" value="/flash/graphic.swf" />
+                <param name="quality" value="high" />
+                <param value="opaque" name="wmode" />
+                <param name="flashVars" value="dType=9&amp;treeUrl=/flashdata/ly_data_tree.html&amp;offx=1&amp;offy=-1&amp;dataUrl=%2fflashdata%2fly_data_360.aspx%3fcid%3d100000007068995%26tid%3d6%26cname%3d%e9%99%88%e8%be%89%26sn%3d1%2c1%2c1%2c1%2c1%2c1%2c1&amp;drawWidth=&amp;drawHeight=&amp;Zoom=1.2&amp;ShowZoom=0" />
+                <param name="allowScriptAccess" value="sameDomain" />
+                <embed src="/flash/graphic.swf" quality="high" width="180" height="200"
+                    name="objectDetailSummaryFalsh" align="middle" wmode="opaque" play="true" loop="false"
+                    quality="high" allowscriptaccess="sameDomain" type="application/x-shockwave-flash"
+                    pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars='dType=9&amp;treeUrl=/flashdata/ly_data_tree.html&amp;offx=1&amp;offy=-1&amp;dataUrl=%2fflashdata%2fly_data_360.aspx%3fcid%3d100000007068995%26tid%3d6%26cname%3d%e9%99%88%e8%be%89%26sn%3d1%2c1%2c1%2c1%2c1%2c1%2c1&amp;drawWidth=&amp;drawHeight=&amp;Zoom=1.2&amp;ShowZoom=0'>
+                </embed>
+            </object>
+        
+    </div>
+</div>
+<input type="hidden" name="ctl00$ctl00$content$content$ObjectDetailSummary$hidObjectDetailSummary" id="hidObjectDetailSummary" value="0" />
+<script type="text/javascript">
+    $(function () {
+        if ($("#hidObjectDetailSummary").val() == "1") {
+            $(".object-area").css("padding-left", "0");
+        }
+    });
+</script>
+<script type="text/javascript" src="/scripts/AnHuiAddAttention.js"></script>
+    <div class="m-part object-detail">
+        
+	<div class="object-select">
+        <ul><li class='current'><a href='/writer/article.aspx?id=100000007068995'>发表作品</a></li><li class=''><a href='/writer/organ.aspx?id=100000007068995'>供职机构</a></li><li class=''><a href='/writer/writer.aspx?id=100000007068995'>相关作者</a></li><li class=''><a href='/writer/journal.aspx?id=100000007068995'>发文期刊</a></li><li class=''><a href='/writer/subject.aspx?id=100000007068995'>发文主题</a></li><li class=''><a href='/writer/fund.aspx?id=100000007068995'>所获基金</a></li><li class=''><a href='/writer/domain.aspx?id=100000007068995'>发文领域</a></li><li class=''><a href='/writer/atlas.aspx?id=100000007068995'>360°网络图</a></li><li class=''><a href='/writer/report.aspx?id=100000007068995'>分析报告</a></li></ul>
+    </div>
+
+        <div class="left-cluster">
+            
+<script type="text/javascript" src="/scripts/rightclustertools.min.js"></script>
+<div class="search-refine" id="resultAdd">
+    
+<div class="refine-item">
+    <div class="sel">
+        <select name="dropResultAdd">
+            <option value="0#T" selected="selected">题名</option>
+            <option value="0#A">作者</option>
+            <option value="0#S">机构</option>
+            <option value="0#J">刊名</option>
+            <option value="0#K">关键词</option>
+            <option value="0#R">文摘</option>
+            <option value="0#U">任意字段</option>
+        </select>
+    </div>
+    <div class="input">
+        <input type="text" name="txtResultAdd" />
+    </div>
+</div>
+<div class="refine-item">
+    <div class="sel">
+       <select name="dropResultAdd">
+            <option value="0#A" selected="selected">作者</option>
+            <option value="0#T">题名</option>
+            <option value="0#S">机构</option>
+            <option value="0#J">刊名</option>
+            <option value="0#K">关键词</option>
+            <option value="0#R">文摘</option>
+            <option value="0#U">任意字段</option>
+        </select>
+    </div>
+    <div class="input">
+        <input type="text" name="txtResultAdd" />
+    </div>
+</div>
+    <div id="content_content_DetailLeftCluster1_yearRange" class="refine-item">
+        <div class="t">
+            <select name="dropStartYear" id="dropStartYear">
+	<option value="1989">1989</option>
+	<option value="1990">1990</option>
+	<option value="1991">1991</option>
+	<option value="1992">1992</option>
+	<option value="1993">1993</option>
+	<option value="1994">1994</option>
+	<option value="1995">1995</option>
+	<option value="1996">1996</option>
+	<option value="1997">1997</option>
+	<option value="1998">1998</option>
+	<option value="1999">1999</option>
+	<option value="2000">2000</option>
+	<option value="2001">2001</option>
+	<option value="2002">2002</option>
+	<option value="2003">2003</option>
+	<option value="2004">2004</option>
+	<option value="2005">2005</option>
+	<option value="2006">2006</option>
+	<option value="2007">2007</option>
+	<option value="2008">2008</option>
+	<option value="2009">2009</option>
+	<option value="2010">2010</option>
+	<option value="2011">2011</option>
+	<option value="2012">2012</option>
+	<option value="2013">2013</option>
+	<option value="2014">2014</option>
+	<option value="2015">2015</option>
+	<option value="2016">2016</option>
+	<option value="2017">2017</option>
+	<option value="2018">2018</option>
+	<option value="2019">2019</option>
+	<option value="2020">2020</option>
+	<option value="2021">2021</option>
+</select>
+        </div>
+        <span>-</span>
+        <div class="t">
+            <select name="dropEndYear" id="dropEndYear">
+	<option value="2021">2021</option>
+	<option value="2020">2020</option>
+	<option value="2019">2019</option>
+	<option value="2018">2018</option>
+	<option value="2017">2017</option>
+	<option value="2016">2016</option>
+	<option value="2015">2015</option>
+	<option value="2014">2014</option>
+	<option value="2013">2013</option>
+	<option value="2012">2012</option>
+	<option value="2011">2011</option>
+	<option value="2010">2010</option>
+	<option value="2009">2009</option>
+	<option value="2008">2008</option>
+	<option value="2007">2007</option>
+	<option value="2006">2006</option>
+	<option value="2005">2005</option>
+	<option value="2004">2004</option>
+	<option value="2003">2003</option>
+	<option value="2002">2002</option>
+	<option value="2001">2001</option>
+	<option value="2000">2000</option>
+	<option value="1999">1999</option>
+	<option value="1998">1998</option>
+	<option value="1997">1997</option>
+	<option value="1996">1996</option>
+	<option value="1995">1995</option>
+	<option value="1994">1994</option>
+	<option value="1993">1993</option>
+	<option value="1992">1992</option>
+	<option value="1991">1991</option>
+	<option value="1990">1990</option>
+	<option value="1989">1989</option>
+</select>
+        </div>
+    </div>
+    <div class="refine-submit">
+        <a href="javascript:void(0)" onclick="g_resultAdd();" class="submit">在结果中检索</a>
+    </div>
+</div>
+<div class="cluster" id="searchReport">
+    <h2>检索结果分析</h2>
+    
+                    <div id="content_content_DetailLeftCluster1_DetailRelationCluster1_detailrelationcluster" class="cluster-group">
+    <h3>署名顺序<tt><a class="open" href="javascript:void(0)"></a></tt></h3>
+    <div class="list">
+        <ul>
+            <li><input type='radio' value='0' name='radDetailRelationCluster' checked >全部</li><li><input type='radio' value='1' name='radDetailRelationCluster'  >第一作者</li>
+        </ul>
+    </div>
+</div>
+
+                
+    <div id="content_content_DetailLeftCluster1_typecluster" class="cluster-group">
+        <h3 class="patent">文献类型<tt><a class="close" href="javascript:void(0)"></a></tt></h3>
+        <div class="list">
+            <ul style=''><li title='期刊文章'><tt>15篇</tt><input type='checkbox' autocomplete='off' value='AType=1#期刊文章' dataitem='type#1'><span>期刊文章</span></li><li title='学位论文'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='AType=2#学位论文' dataitem='type#2'><span>学位论文</span></li><li title='专利'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='AType=4#专利' dataitem='type#4'><span>专利</span></li><li title='会议'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='AType=3#会议' dataitem='type#3'><span>会议</span></li></ul>
+        </div>
+    </div>
+    
+    <div id="content_content_DetailLeftCluster1_rangecluster" class="cluster-group">
+        <h3 class="range">期刊收录<tt><a class="close" href="javascript:void(0)"></a></tt></h3>
+        <div class="list">
+            <ul style='height:118px'><li title='北大核心期刊（2011版）'><tt>7篇</tt><input type='checkbox' autocomplete='off' value='QK=bdhx2011#北大核心期刊（2011版）' dataitem='range#bdhx2011'><span>北大核心期刊...</span></li><li title='中国人文社科核心期刊'><tt>7篇</tt><input type='checkbox' autocomplete='off' value='QK=rwskhx#中国人文社科核心期刊' dataitem='range#rwskhx'><span>中国人文社科...</span></li><li title='中文社会科学引文索引-来源（2012-2013）'><tt>6篇</tt><input type='checkbox' autocomplete='off' value='QK=cssci2012_2013#中文社会科学引文索引-来源（2012-2013）' dataitem='range#cssci2012_2013'><span>中文社会科学...</span></li><li title='中国科学引文数据库（2011-2012）'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='QK=cscd2011_2012#中国科学引文数据库（2011-2012）' dataitem='range#cscd2011_2012'><span>中国科学引文...</span></li><li title='中文社会科学引文索引-来源（2014-2016）'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='QK=cssci2014_2016#中文社会科学引文索引-来源（2014-2016）' dataitem='range#cssci2014_2016'><span>中文社会科学...</span></li><li title='中国科技核心期刊'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='QK=zgkjhx#中国科技核心期刊' dataitem='range#zgkjhx'><span>中国科技核心...</span></li><li title='北大核心期刊（2008版）'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='QK=bdhx2008#北大核心期刊（2008版）' dataitem='range#bdhx2008'><span>北大核心期刊...</span></li><li title='北大核心期刊（2014版）'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='QK=bdhx2014#北大核心期刊（2014版）' dataitem='range#bdhx2014'><span>北大核心期刊...</span></li><li title='化学文摘（网络版）'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='QK=cas#化学文摘（网络版）' dataitem='range#cas'><span>化学文摘（网...</span></li><li title='ProQeust数据库'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='QK=csa-proqeust#ProQeust数据库' dataitem='range#csa-proqeust'><span>ProQeu...</span></li><li title='哥白尼索引'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='QK=ic#哥白尼索引' dataitem='range#ic'><span>哥白尼索引</span></li><li title='国家哲学社会科学学术期刊数据库'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='QK=nssd#国家哲学社会科学学术期刊数据库' dataitem='range#nssd'><span>国家哲学社会...</span></li></ul>
+        </div>
+    </div>
+    
+    
+    
+    
+    <div id="content_content_DetailLeftCluster1_classcluster" class="cluster-group">
+        <h3 class="domain">学科<tt><a class="close" href="javascript:void(0)"></a></tt></h3>
+        <div class="list">
+            <ul class='level0' style=''><li title='文化科学'><tt>14篇</tt><input type='checkbox' autocomplete='off' value='ZY=261#文化科学' dataitem='classids_s#261'><a class='show' href='javascript:void(0)'></a><span>文化科学</span></li><li title='自动化与计算机技术'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='ZY=21#自动化与计算机技术' dataitem='classids_s#21'><a class='show' href='javascript:void(0)'></a><span>自动化与计算...</span></li><li title='水利工程'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='ZY=23#水利工程' dataitem='classids_s#23'><a class='show' href='javascript:void(0)'></a><span>水利工程</span></li><li title='一般工业技术'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='ZY=257#一般工业技术' dataitem='classids_s#257'><a class='show' href='javascript:void(0)'></a><span>一般工业技术</span></li></ul>
+        </div>
+    </div>
+    
+    
+    
+    <div id="content_content_DetailLeftCluster1_subjectcluster" class="cluster-group">
+        <h3 class="subject">主题<tt><a class="close" href="javascript:void(0)"></a></tt></h3>
+        <div class="list">
+            <ul style='height:118px'><li title='教育'><tt>9篇</tt><input type='checkbox' autocomplete='off' value='SCC=4864472#教育' dataitem='subjectids_s#4864472'><span>教育</span></li><li title='学历教育'><tt>5篇</tt><input type='checkbox' autocomplete='off' value='SCC=710931#学历教育' dataitem='subjectids_s#710931'><span>学历教育</span></li><li title='工程教育'><tt>5篇</tt><input type='checkbox' autocomplete='off' value='SCC=6030660#工程教育' dataitem='subjectids_s#6030660'><span>工程教育</span></li><li title='高等工程教育'><tt>4篇</tt><input type='checkbox' autocomplete='off' value='SCC=6997028#高等工程教育' dataitem='subjectids_s#6997028'><span>高等工程教育</span></li><li title='办学'><tt>4篇</tt><input type='checkbox' autocomplete='off' value='SCC=7392862#办学' dataitem='subjectids_s#7392862'><span>办学</span></li><li title='北航'><tt>3篇</tt><input type='checkbox' autocomplete='off' value='SCC=7442488#北航' dataitem='subjectids_s#7442488'><span>北航</span></li><li title='视频'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='SCC=2173185#视频' dataitem='subjectids_s#2173185'><span>视频</span></li><li title='视频水印'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='SCC=2175545#视频水印' dataitem='subjectids_s#2175545'><span>视频水印</span></li><li title='视频水印算法'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='SCC=2175549#视频水印算法' dataitem='subjectids_s#2175549'><span>视频水印算法</span></li><li title='水印'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='SCC=2382324#水印' dataitem='subjectids_s#2382324'><span>水印</span></li><li title='水印算法'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='SCC=2382453#水印算法' dataitem='subjectids_s#2382453'><span>水印算法</span></li><li title='中外合作办学'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='SCC=3310920#中外合作办学' dataitem='subjectids_s#3310920'><span>中外合作办学</span></li><li title='工程师教育'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='SCC=6032279#工程师教育' dataitem='subjectids_s#6032279'><span>工程师教育</span></li><li title='合作办学'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='SCC=6457247#合作办学' dataitem='subjectids_s#6457247'><span>合作办学</span></li><li title='高等教育'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='SCC=6997338#高等教育' dataitem='subjectids_s#6997338'><span>高等教育</span></li><li title='篡改'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='SCC=9231211#篡改' dataitem='subjectids_s#9231211'><span>篡改</span></li><li title='篡改定位'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='SCC=9231213#篡改定位' dataitem='subjectids_s#9231213'><span>篡改定位</span></li><li title='代理'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='SCC=28584#代理' dataitem='subjectids_s#28584'><span>代理</span></li><li title='单点'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='SCC=44072#单点' dataitem='subjectids_s#44072'><span>单点</span></li><li title='单点登录'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='SCC=44119#单点登录' dataitem='subjectids_s#44119'><span>单点登录</span></li></ul>
+        </div>
+    </div>
+    <div id="content_content_DetailLeftCluster1_organcluster" class="cluster-group">
+        <h3 class="organ">机构<tt><a class="close" href="javascript:void(0)"></a></tt></h3>
+        <div class="list">
+            <ul class='level0' style=''><li title='北京航空航天大学'><tt>20篇</tt><input type='checkbox' autocomplete='off' value='OCC=1553#北京航空航天大学' dataitem='organids_s#1553'><a class='show' href='javascript:void(0)'></a><span>北京航空航天...</span></li><li title='吉林农业科技学院'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='OCC=1013#吉林农业科技学院' dataitem='organids_s#1013'><a class='show' href='javascript:void(0)'></a><span>吉林农业科技...</span></li><li title='中国地质大学（北京）'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='OCC=2543#中国地质大学（北京）' dataitem='organids_s#2543'><a class='show' href='javascript:void(0)'></a><span>中国地质大学...</span></li><li title='南水北调中线干线工程建设管理局'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='OCC=90347#南水北调中线干线工程建设管理局' dataitem='organids_s#90347'><a class='show' href='javascript:void(0)'></a><span>南水北调中线...</span></li></ul>
+        </div>
+    </div>
+    <div id="content_content_DetailLeftCluster1_writercluster" class="cluster-group">
+        <h3 class="writer">作者<tt><a class="close" href="javascript:void(0)"></a></tt></h3>
+        <div class="list">
+            <ul style='height:118px'><li title='陈辉'><tt>20篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000007068995#陈辉' dataitem='writerids_s#100000007068995'><span>陈辉</span></li><li title='于黎明'><tt>10篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000002665243#于黎明' dataitem='writerids_s#100000002665243'><span>于黎明</span></li><li title='熊璋'><tt>8篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000004974961#熊璋' dataitem='writerids_s#100000004974961'><span>熊璋</span></li><li title='徐平'><tt>6篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000006561825#徐平' dataitem='writerids_s#100000006561825'><span>徐平</span></li><li title='殷传涛'><tt>5篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000007626920#殷传涛' dataitem='writerids_s#100000007626920'><span>殷传涛</span></li><li title='王乐梅'><tt>5篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000008562434#王乐梅' dataitem='writerids_s#100000008562434'><span>王乐梅</span></li><li title='张莉'><tt>3篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000020509714#张莉' dataitem='writerids_s#100000020509714'><span>张莉</span></li><li title='萨日娜'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000001514773#萨日娜' dataitem='writerids_s#100000001514773'><span>萨日娜</span></li><li title='张巍'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000002011279#张巍' dataitem='writerids_s#100000002011279'><span>张巍</span></li><li title='张澎'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000004727187#张澎' dataitem='writerids_s#100000004727187'><span>张澎</span></li><li title='蒲菊华'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000012275666#蒲菊华' dataitem='writerids_s#100000012275666'><span>蒲菊华</span></li><li title='曾骁'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000029252512#曾骁' dataitem='writerids_s#100000029252512'><span>曾骁</span></li><li title='段斐'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000031177111#段斐' dataitem='writerids_s#100000031177111'><span>段斐</span></li><li title='李超'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000001274056#李超' dataitem='writerids_s#100000001274056'><span>李超</span></li><li title='田原'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000002344424#田原' dataitem='writerids_s#100000002344424'><span>田原</span></li><li title='陈熙'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000002562468#陈熙' dataitem='writerids_s#100000002562468'><span>陈熙</span></li><li title='罗辛'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000003279562#罗辛' dataitem='writerids_s#100000003279562'><span>罗辛</span></li><li title='侯召成'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000003586723#侯召成' dataitem='writerids_s#100000003586723'><span>侯召成</span></li><li title='程波'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000005074542#程波' dataitem='writerids_s#100000005074542'><span>程波</span></li><li title='翟宜峰'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='WCC=100000005090323#翟宜峰' dataitem='writerids_s#100000005090323'><span>翟宜峰</span></li></ul>
+        </div>
+    </div>
+    
+    <div id="content_content_DetailLeftCluster1_mediacluster" class="cluster-group">
+        <h3 class="media">期刊<tt><a class="close" href="javascript:void(0)"></a></tt></h3>
+        <div class="list">
+            <ul style='height:118px'><li title='高等工程教育研究'><tt>7篇</tt><input type='checkbox' autocomplete='off' value='MCC=2742#高等工程教育研究' dataitem='mediaid#2742'><span>高等工程教育...</span></li><li title='中国大学教学'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='MCC=2147#中国大学教学' dataitem='mediaid#2147'><span>中国大学教学</span></li><li title='北京航空航天大学学报：社会科学版'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='MCC=4295#北京航空航天大学学报：社会科学版' dataitem='mediaid#4295'><span>北京航空航天...</span></li><li title='中国教育技术装备'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='MCC=7492#中国教育技术装备' dataitem='mediaid#7492'><span>中国教育技术...</span></li><li title='南水北调与水利科技'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='MCC=15260#南水北调与水利科技' dataitem='mediaid#15260'><span>南水北调与水...</span></li><li title='中国图象图形学报'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='MCC=17157#中国图象图形学报' dataitem='mediaid#17157'><span>中国图象图形...</span></li><li title='中国科教创新导刊'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='MCC=19686#中国科教创新导刊' dataitem='mediaid#19686'><span>中国科教创新...</span></li><li title='商情'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='MCC=20724#商情' dataitem='mediaid#20724'><span>商情</span></li><li title='工业和信息化教育'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='MCC=24073#工业和信息化教育' dataitem='mediaid#24073'><span>工业和信息化...</span></li></ul>
+        </div>
+    </div>
+    
+    <!--默认不显示，只有作品才需要显示-->
+    <div id="content_content_DetailLeftCluster1_yearcluster" class="cluster-group">
+        <h3 class="year">年份 <tt><a class="close" href="javascript:void(0)"></a></tt>
+        </h3>
+        <div class="list">
+            <ul style='height:118px'><li title='2016'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='YY=2016#2016' dataitem='years#2016'><span>2016</span></li><li title='2014'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='YY=2014#2014' dataitem='years#2014'><span>2014</span></li><li title='2013'><tt>8篇</tt><input type='checkbox' autocomplete='off' value='YY=2013#2013' dataitem='years#2013'><span>2013</span></li><li title='2012'><tt>2篇</tt><input type='checkbox' autocomplete='off' value='YY=2012#2012' dataitem='years#2012'><span>2012</span></li><li title='2011'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='YY=2011#2011' dataitem='years#2011'><span>2011</span></li><li title='2010'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='YY=2010#2010' dataitem='years#2010'><span>2010</span></li><li title='2008'><tt>4篇</tt><input type='checkbox' autocomplete='off' value='YY=2008#2008' dataitem='years#2008'><span>2008</span></li><li title='2007'><tt>1篇</tt><input type='checkbox' autocomplete='off' value='YY=2007#2007' dataitem='years#2007'><span>2007</span></li></ul>
+            <input type="hidden" id="hidFaCountJsonData" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 ,4 ,0,1 ,1 ,2 ,8 ,2 ,0,1 ,0,0,0,0,0"/>
+            <input type="hidden" id="hidYearJsonData" value="1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021"/>
+        </div>
+    </div>
+    <div id="content_content_DetailLeftCluster1_bycountcluster" class="cluster-group" style="display:none;">
+        <h3 class="zkbycount">
+            被引<tt><a class="close" href="javascript:void(0)"></a></tt></h3>
+        <div class="list">
+            
+            <input type="hidden" id="hidByCountJsonData" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,9,3,5,71,2,0,5,0,0,0,0,0"/>
+        </div>
+    </div>
+    
+</div>
+
+        </div>
+        <div class="search-result">
+            <div class="search-top clear">
+                
+                
+<div class="search-count">共 <i class="yellow" id="searchzkfwcount"><img src="/images/zoomloader.gif"/></i> 条 记 录，以下是1-10</div>
+<script type="text/javascript">
+    $(document).ready(function() {
+        var recordcounts = "20";
+        var showrecordcounts = "20";
+        if ($("#zkfwcount").html()) {
+            showrecordcounts = formatNum($("#zkfwcount").html().trim());
+        }
+         
+        var isshowrecordcount = "True";
+        var islastpage = "False";
+        if (isshowrecordcount == "True") {
+            $("#searchzkfwcount").html(showrecordcounts);
+            if (islastpage == "True" && recordcounts != showrecordcounts) {
+                $("#divLimited").show();
+                $("#spanLimitedCount").html(parseInt(showrecordcounts.replace(",", "")) - parseInt(recordcounts.replace(",", "")));
+            }
+        } else {
+            $("#searchzkfwcount").html(recordcounts);
+        }
+    });
+</script>
+            </div>
+            <div class="search-year-graph"></div>
+            <div class="search-op" id="searchop">
+                
+<script type="text/javascript" src="/scripts/selectedexport.min.js"></script>
+<div class="search-op-sel">
+    <input type="hidden" name="hfldSelectedIds" id="hfldSelectedIds" value="" autocomplete="off" />
+      <a href="javascript:void(0)" onclick="g_selectedAll();">全选</a><a href="javascript:void(0)" onclick="g_clearAll();">清除</a><a href="javascript:void(0)" onclick="g_exportList();">导出</a>
+</div>
+                
+<div class="search-op-more"><a href="javascript:void(0);" onclick="g_articleBy();">参考文献</a><a href="javascript:void(0);" onclick="g_articleRef();">引证文献</a><a href="javascript:void(0);" onclick="g_refertrace();">引用追踪</a></div>
+                <div class="search-op-show">
+                    <span>视图：</span>
+                    <span class="sel">
+                        <select name="dropListStyle" id="dropListStyle">
+	<option selected="selected" value="0">文摘列表</option>
+	<option value="1">标题列表</option>
+	<option value="2">详细列表</option>
+</select>
+                    </span>
+                </div>
+                <div class="search-op-sort">
+                    <span>排序：</span>
+                    <span class="sel">
+                        <select name="dropSort" id="dropSort">
+	<option selected="selected" value="0">相关度排序</option>
+	<option value="1">被引量排序</option>
+	<option value="2">时效排序</option>
+</select>
+                    </span>
+                </div>
+            </div>
+            <div class='search-result-list abstract-list'><dl class=''><dt><a class='title btnTitle' href='/article/detail.aspx?id=45425847' target='_blank' index='0'>法国工程师学历教育解读——基于工业革命和社会变革分析</a><span class='cited'><a href='/zk/search.aspx?bcount=3&strIds=45425847&sType=by' class='yellow'>被引量：3</a></span></dt><dd class='sel'><input type='checkbox' name='vcubeid' value='45425847' bycount='3' autocomplete='off' /></dd><dd class='source permissinshow'></dd><dd class='paper-preview permissinimg'><img alt='' title="该篇文章暂无全文" src='/images/no-full-text.gif'></dd><dd class='hide3'><span class='media qk'><b class='type_text'>期刊文章</b><a href='/journal/summary.aspx?gch=81475X'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=J%3d%5b%e5%8c%97%e4%ba%ac%e8%88%aa%e7%a9%ba%e8%88%aa%e5%a4%a9%e5%a4%a7%e5%ad%a6%e5%ad%a6%e6%8a%a5%ef%bc%9a%e7%a4%be%e4%bc%9a%e7%a7%91%e5%ad%a6%e7%89%88%5d' title='北京航空航天大学学报：社会科学版'>《北京航空航天大学学报：社会科学版》</a>2013年第2期106-111,共6页</span><span class='writer'><a href='/writer/article.aspx?id=100000002665243' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e4%ba%8e%e9%bb%8e%e6%98%8e%5d' title='于黎明'>于黎明</a>&nbsp;<a href='/writer/article.aspx?id=100000007068995' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e9%99%88%e8%be%89%5d' title='陈辉'>陈辉</a>&nbsp;<a href='/writer/article.aspx?id=100000008562434' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e7%8e%8b%e4%b9%90%e6%a2%85%5d' title='王乐梅'>王乐梅</a>&nbsp;<a href='/writer/article.aspx?id=100000002011279' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e5%bc%a0%e5%b7%8d%5d' title='张巍'>张巍</a>&nbsp;</span></dd><dd class='hide2 hide3'><span class='fund'>基金项目：北京航空航天大学重点教改课题资助项目（431650）</span></dd><dd  class='hide2 hide3'><span class='abstract'>以历史观和发展观透视法国3-程师学历教育的产生与发展。对于成长于第一次工业革命、成熟于第二次工业革命、变革于第三次工业革命的法国工程师学历教育，以关键历史事件包括拿破仑帝国、法国工程师职衔委员会设立、博洛尼亚宣言等剖析...</span></dd><dd class='hide3'><span class='subject'>关键词：<a href='/zk/search.aspx?key=K%3d%5b%e6%b3%95%e5%9b%bd%e5%b7%a5%e7%a8%8b%e6%95%99%e8%82%b2%5d' title='法国工程教育'>法国工程教育</a>&nbsp;<a href='/zk/search.aspx?key=K%3d%5b%e5%b7%a5%e7%a8%8b%e5%b8%88%e5%ad%a6%e5%8e%86%e6%95%99%e8%82%b2%5d' title='工程师学历教育'>工程师学历教育</a>&nbsp;<a href='/zk/search.aspx?key=K%3d%5b%e6%b3%95%e5%9b%bd%e9%ab%98%e7%ad%89%e6%95%99%e8%82%b2%e4%bd%93%e5%88%b6%5d' title='法国高等教育体制'>法国高等教育体制</a>&nbsp;<a href='/zk/search.aspx?key=K%3d%5b%e6%b3%95%e5%9b%bd%e5%ad%a6%e4%bd%8d%e5%88%b6%e5%ba%a6%5d' title='法国学位制度'>法国学位制度</a>&nbsp;<a href='/subject/article.aspx?id=8792742'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5b%e5%8d%9a%e6%b4%9b%e5%b0%bc%e4%ba%9a%e8%bf%9b%e7%a8%8b%5d' title='博洛尼亚进程'>博洛尼亚进程</a>&nbsp;</span></dd></dl><dl class=''><dt><a class='title btnTitle' href='/article/detail.aspx?id=37506560' target='_blank' index='1'>我国发展工程师学历教育的必要性与可行性</a><span class='cited'><a href='/zk/search.aspx?bcount=3&strIds=37506560&sType=by' class='yellow'>被引量：3</a></span></dt><dd class='sel'><input type='checkbox' name='vcubeid' value='37506560' bycount='3' autocomplete='off' /></dd><dd class='source permissinshow'></dd><dd class='paper-preview permissinimg'><img alt='' title="该篇文章暂无全文" src='/images/no-full-text.gif'></dd><dd class='hide3'><span class='media qk'><b class='type_text'>期刊文章</b><a href='/journal/summary.aspx?gch=82134A'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=J%3d%5b%e4%b8%ad%e5%9b%bd%e6%95%99%e8%82%b2%e6%8a%80%e6%9c%af%e8%a3%85%e5%a4%87%5d' title='中国教育技术装备'>《中国教育技术装备》</a>2011年第12期 11-12,共2页</span><span class='writer'><a href='/writer/article.aspx?id=100000007068995' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e9%99%88%e8%be%89%5d' title='陈辉'>陈辉</a>&nbsp;<a href='/writer/article.aspx?id=100000020509714' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e5%bc%a0%e8%8e%89%5d' title='张莉'>张莉</a>&nbsp;<a href='/writer/article.aspx?id=100000002344424' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e7%94%b0%e5%8e%9f%5d' title='田原'>田原</a>&nbsp;</span></dd><dd  class='hide2 hide3'><span class='abstract'>在分析我国工程师现状及工程教育体制的基础上,详细介绍法国工程师培养制度,重点探究我国发展工程师学历教育的必要性与可行性。</span></dd><dd class='hide3'><span class='subject'>关键词：<a href='/zk/search.aspx?key=K%3d%5b%e5%b7%a5%e7%a8%8b%e5%b8%88%5d' title='工程师'>工程师</a>&nbsp;<a href='/subject/article.aspx?id=710931'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5b%e5%ad%a6%e5%8e%86%e6%95%99%e8%82%b2%5d' title='学历教育'>学历教育</a>&nbsp;<a href='/subject/article.aspx?id=4871095'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5b%e6%95%99%e8%82%b2%e4%bd%93%e7%b3%bb%5d' title='教育体系'>教育体系</a>&nbsp;</span></dd></dl><dl class=''><dt><a class='title btnTitle' href='/article/detail.aspx?id=49155603' target='_blank' index='2'>通用工程师毕业生去向解析———基于北航中法工程师学院的案例</a><span class='cited'><a href='/zk/search.aspx?bcount=2&strIds=49155603&sType=by' class='yellow'>被引量：2</a></span></dt><dd class='sel'><input type='checkbox' name='vcubeid' value='49155603' bycount='2' autocomplete='off' /></dd><dd class='source permissinshow'></dd><dd class='paper-preview permissinimg'><img alt='' title="该篇文章暂无全文" src='/images/no-full-text.gif'></dd><dd class='hide3'><span class='media qk'><b class='type_text'>期刊文章</b><a href='/journal/summary.aspx?gch=90463X'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=J%3d%5b%e9%ab%98%e7%ad%89%e5%b7%a5%e7%a8%8b%e6%95%99%e8%82%b2%e7%a0%94%e7%a9%b6%5d' title='高等工程教育研究'>《高等工程教育研究》</a>2014年第2期35-42,共8页</span><span class='writer'><a href='/writer/article.aspx?id=100000002665243' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e4%ba%8e%e9%bb%8e%e6%98%8e%5d' title='于黎明'>于黎明</a>&nbsp;<a href='/writer/article.aspx?id=100000001514773' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e8%90%a8%e6%97%a5%e5%a8%9c%5d' title='萨日娜'>萨日娜</a>&nbsp;<a href='/writer/article.aspx?id=100000031177111' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e6%ae%b5%e6%96%90%5d' title='段斐'>段斐</a>&nbsp;<a href='/writer/article.aspx?id=100000007068995' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e9%99%88%e8%be%89%5d' title='陈辉'>陈辉</a>&nbsp;<a href='/writer/article.aspx?id=100000006561825' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e5%be%90%e5%b9%b3%5d' title='徐平'>徐平</a>&nbsp;</span></dd><dd class='hide2 hide3'><span class='fund'>特别感谢：就职于中国商用飞机有限公司的首届毕业生郭天鹏,跟踪收集了毕业生就业的最新信息.</span></dd><dd  class='hide2 hide3'><span class='abstract'>毕业生去向是表征高等教育机构培养特色和办学质量的关键指标之一。北航中法工程师学院经过九年的办学实践，形成了中法两国高等工程教育融合的国际通用工程师培养模式，为社会输送了首批持有法国和欧洲认证的工程师学历证书和北航硕士...</span></dd><dd class='hide3'><span class='subject'>关键词：<a href='/zk/search.aspx?key=K%3d%5b%e9%80%9a%e7%94%a8%e5%b7%a5%e7%a8%8b%e5%b8%88%5d' title='通用工程师'>通用工程师</a>&nbsp;<a href='/subject/article.aspx?id=7489728'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5b%e6%af%95%e4%b8%9a%e7%94%9f%5d' title='毕业生'>毕业生</a>&nbsp;<a href='/subject/article.aspx?id=5080954'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5b%e5%b0%b1%e4%b8%9a%5d' title='就业'>就业</a>&nbsp;<a href='/subject/article.aspx?id=3310920'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5b%e4%b8%ad%e5%a4%96%e5%90%88%e4%bd%9c%e5%8a%9e%e5%ad%a6%5d' title='中外合作办学'>中外合作办学</a>&nbsp;</span></dd></dl><dl class=''><dt><a class='title btnTitle' href='/article/detail.aspx?id=43986045' target='_blank' index='3'>国际通用工程师培养模式探索实践——以北航中法工程师学院为例</a><span class='cited'><a href='/zk/search.aspx?bcount=5&strIds=43986045&sType=by' class='yellow'>被引量：5</a></span></dt><dd class='sel'><input type='checkbox' name='vcubeid' value='43986045' bycount='5' autocomplete='off' /></dd><dd class='source permissinshow'></dd><dd class='paper-preview permissinimg'><img alt='' title="该篇文章暂无全文" src='/images/no-full-text.gif'></dd><dd class='hide3'><span class='media qk'><b class='type_text'>期刊文章</b><a href='/journal/summary.aspx?gch=91372A'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=J%3d%5b%e4%b8%ad%e5%9b%bd%e5%a4%a7%e5%ad%a6%e6%95%99%e5%ad%a6%5d' title='中国大学教学'>《中国大学教学》</a>2012年第11期21-23,共3页</span><span class='writer'><a href='/writer/article.aspx?id=100000004974961' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e7%86%8a%e7%92%8b%5d' title='熊璋'>熊璋</a>&nbsp;<a href='/writer/article.aspx?id=100000002665243' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e4%ba%8e%e9%bb%8e%e6%98%8e%5d' title='于黎明'>于黎明</a>&nbsp;<a href='/writer/article.aspx?id=100000007068995' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e9%99%88%e8%be%89%5d' title='陈辉'>陈辉</a>&nbsp;</span></dd><dd  class='hide2 hide3'><span class='abstract'>本文以北航中法工程师学院为例，系统分析、研究与实践了高等工程教育改革中的国际化精英人才培养模式。通过融合中法两国工程师培养教育，定位于国际通用工程师培养，坚持以学生为本、以融合为手段和国内外企业深度合作，构建适合于本...</span></dd><dd class='hide3'><span class='subject'>关键词：<a href='/zk/search.aspx?key=K%3d%5b%e5%9b%bd%e9%99%85%e5%8c%96%5d' title='国际化'>国际化</a>&nbsp;<a href='/zk/search.aspx?key=K%3d%5b%e9%80%9a%e7%94%a8%e5%b7%a5%e7%a8%8b%e5%b8%88%5d' title='通用工程师'>通用工程师</a>&nbsp;<a href='/subject/article.aspx?id=6997030'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5b%e9%ab%98%e7%ad%89%e5%b7%a5%e7%a8%8b%e6%95%99%e8%82%b2%e6%94%b9%e9%9d%a9%5d' title='高等工程教育改革'>高等工程教育改革</a>&nbsp;<a href='/zk/search.aspx?key=K%3d%5b%e4%ba%ba%e6%89%8d%e5%9f%b9%e5%85%bb%e6%a8%a1%e5%bc%8f%5d' title='人才培养模式'>人才培养模式</a>&nbsp;</span></dd></dl><dl class=''><dt><a class='title btnTitle' href='/article/detail.aspx?id=34795243' target='_blank' index='4'>用于内容认证的半脆弱可逆视频水印算法</a><span class='cited'><a href='/zk/search.aspx?bcount=9&strIds=34795243&sType=by' class='yellow'>被引量：9</a></span></dt><dd class='sel'><input type='checkbox' name='vcubeid' value='34795243' bycount='9' autocomplete='off' /></dd><dd class='source permissinshow'></dd><dd class='paper-preview permissinimg'><img alt='' title="该篇文章暂无全文" src='/images/no-full-text.gif'></dd><dd class='hide3'><span class='media qk'><b class='type_text'>期刊文章</b><a href='/journal/summary.aspx?gch=90287A'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=J%3d%5b%e4%b8%ad%e5%9b%bd%e5%9b%be%e8%b1%a1%e5%9b%be%e5%bd%a2%e5%ad%a6%e6%8a%a5%5d' title='中国图象图形学报'>《中国图象图形学报》</a>2010年第8期1189-1195,共7页</span><span class='writer'><a href='/writer/article.aspx?id=100000029252512' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e6%9b%be%e9%aa%81%5d' title='曾骁'>曾骁</a>&nbsp;<a href='/writer/article.aspx?id=100000009763492' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e9%99%88%e7%9c%9f%e5%8b%87%5d' title='陈真勇'>陈真勇</a>&nbsp;<a href='/writer/article.aspx?id=100000011361589' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e8%8c%83%e5%9b%b4%5d' title='范围'>范围</a>&nbsp;<a href='/writer/article.aspx?id=100000007068995' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e9%99%88%e8%be%89%5d' title='陈辉'>陈辉</a>&nbsp;<a href='/writer/article.aspx?id=100000004974961' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e7%86%8a%e7%92%8b%5d' title='熊璋'>熊璋</a>&nbsp;</span></dd><dd  class='hide2 hide3'><span class='abstract'>提出了一种运用哈希函数进行MPEG-4内容认证的半脆弱可逆视频水印算法。在YUV视频进行MPEG-4编码的I帧中嵌入两个水印，一个运用哈希函数进行内容完整性验证并嵌入帧序号进行帧间篡改定位，另一个基于直流系数和低频系数用于帧内篡改定...</span></dd><dd class='hide3'><span class='subject'>关键词：<a href='/subject/article.aspx?id=2175545'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5b%e8%a7%86%e9%a2%91%e6%b0%b4%e5%8d%b0%5d' title='视频水印'>视频水印</a>&nbsp;<a href='/subject/article.aspx?id=8712365'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5bMPEG-4%5d' title='MPEG-4'>MPEG-4</a>&nbsp;<a href='/subject/article.aspx?id=7382338'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5b%e5%8d%8a%e8%84%86%e5%bc%b1%5d' title='半脆弱'>半脆弱</a>&nbsp;<a href='/subject/article.aspx?id=5240422'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5b%e5%8f%af%e9%80%86%5d' title='可逆'>可逆</a>&nbsp;<a href='/subject/article.aspx?id=9231213'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5b%e7%af%a1%e6%94%b9%e5%ae%9a%e4%bd%8d%5d' title='篡改定位'>篡改定位</a>&nbsp;</span></dd></dl><dl class=''><dt><a class='title btnTitle' href='/article/detail.aspx?id=669249955' target='_blank' index='5'>三螺旋模型的本科生创新体系探究</a><span class='cited'><a href='/zk/search.aspx?bcount=5&strIds=669249955&sType=by' class='yellow'>被引量：5</a></span></dt><dd class='sel'><input type='checkbox' name='vcubeid' value='669249955' bycount='5' autocomplete='off' /></dd><dd class='source permissinshow'></dd><dd class='paper-preview permissinimg'><img alt='' title="该篇文章暂无全文" src='/images/no-full-text.gif'></dd><dd class='hide3'><span class='media qk'><b class='type_text'>期刊文章</b><a href='/journal/summary.aspx?gch=90463X'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=J%3d%5b%e9%ab%98%e7%ad%89%e5%b7%a5%e7%a8%8b%e6%95%99%e8%82%b2%e7%a0%94%e7%a9%b6%5d' title='高等工程教育研究'>《高等工程教育研究》</a>2016年第3期127-130,共4页</span><span class='writer'><a href='/writer/article.aspx?id=100000005074542' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e7%a8%8b%e6%b3%a2%5d' title='程波'>程波</a>&nbsp;<a href='/writer/article.aspx?id=100000007068995' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e9%99%88%e8%be%89%5d' title='陈辉'>陈辉</a>&nbsp;<a href='/writer/article.aspx?id=100000007764335' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e7%ba%aa%e4%b8%80%e9%b9%8f%5d' title='纪一鹏'>纪一鹏</a>&nbsp;<a href='/zk/search.aspx?key=A%3d%5b%e6%9d%8e%e6%b4%8b%e9%a2%80%5d' title='李洋颀'>李洋颀</a><a href='/writer/article.aspx?id=100000011863949' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e5%bc%a0%e6%89%80%e9%b9%8f%5d' title='张所鹏'>张所鹏</a>&nbsp;</span></dd><dd  class='hide2 hide3'><span class='abstract'>随着时代的发展,各高校愈发重视对本科生创新能力的培养。本文提出了基于＂高校-实验室-学生＂三螺旋模型的本科生创新体系,并通过问卷调查研究影响该模型的主要因素,利用因子分析等方法进行统计检验,为高校开展创新实践活动、构建本科...</span></dd><dd class='hide3'><span class='subject'>关键词：<a href='/zk/search.aspx?key=K%3d%5b%e6%9c%ac%e7%a7%91%e7%94%9f%e5%88%9b%e6%96%b0%e4%bd%93%e7%b3%bb%5d' title='本科生创新体系'>本科生创新体系</a>&nbsp;<a href='/subject/article.aspx?id=1768047'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5b%e4%b8%89%e8%9e%ba%e6%97%8b%e7%90%86%e8%ae%ba%5d' title='三螺旋理论'>三螺旋理论</a>&nbsp;<a href='/zk/search.aspx?key=K%3d%5b%e5%9b%a0%e5%ad%90%e5%88%86%e6%9e%90%5d' title='因子分析'>因子分析</a>&nbsp;</span></dd></dl><dl class=''><dt><a class='title btnTitle' href='/article/detail.aspx?id=00003HCIMNDO8JD06FBO3ILZ' target='_blank' index='6'>一种基于Soft-MCU策略的视频会议系统</a><span class='cited'></span></dt><dd class='sel'><input type='checkbox' name='vcubeid' value='00003HCIMNDO8JD06FBO3ILZ' bycount='0' autocomplete='off' /></dd><dd class='source permissinshow'><a href='javascript:void(0);' class='btnTitle btnIsView' onclick='showdown("Rtma8t+uowZfP5Sc2+Rn80gxy/OzsO3or1Gmw6biOmc6+QcQ9+VkXw4Dk0523ZIX")'><img src='/images/btn-down.png' alt='' /></a></dd><dd class='paper-preview permissinimg'><img alt='' title="该篇文章暂无全文" src='/images/no-full-text.gif'></dd><dd class='hide3'><span class='media qk'><b class='type_text'>专利</b><a href='/journal/summary.aspx?gch='  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=J%3d%5bCN101335869%5d' title='CN101335869'>《CN101335869》</a></span><span class='writer'><a href='/writer/article.aspx?id=100000029252512' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e6%9b%be%e9%aa%81%5d' title='曾骁'>曾骁</a>&nbsp;<a href='/writer/article.aspx?id=100000001274056' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e6%9d%8e%e8%b6%85%5d' title='李超'>李超</a>&nbsp;<a href='/writer/article.aspx?id=100000007068995' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e9%99%88%e8%be%89%5d' title='陈辉'>陈辉</a>&nbsp;<a href='/writer/article.aspx?id=100000006102773' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e9%83%ad%e5%bc%8b%5d' title='郭弋'>郭弋</a>&nbsp;<a href='/writer/article.aspx?id=100000004974961' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e7%86%8a%e7%92%8b%5d' title='熊璋'>熊璋</a>&nbsp;</span></dd><dd  class='hide2 hide3'><span class='abstract'>一种基于Soft-MCU策略的视频会议系统,包括服务器、视频会议终端BHU-ICT、计算机 终端和视频通信系统程序,其中视频会议终端BHU-ICT由数字摄像机、麦克风、音视频编码器 组成。数字摄像机和麦克风分别与音视频编码器相连,编码器、服务...</span></dd><dd class='hide3'></dd></dl><dl class=''><dt><a class='title btnTitle' href='/article/detail.aspx?id=45473241' target='_blank' index='7'>高等工程教育发展趋势分析与国际化办学探索</a><span class='cited'><a href='/zk/search.aspx?bcount=28&strIds=45473241&sType=by' class='yellow'>被引量：28</a></span></dt><dd class='sel'><input type='checkbox' name='vcubeid' value='45473241' bycount='28' autocomplete='off' /></dd><dd class='source permissinshow'></dd><dd class='paper-preview permissinimg'><img alt='' title="该篇文章暂无全文" src='/images/no-full-text.gif'></dd><dd class='hide3'><span class='media qk'><b class='type_text'>期刊文章</b><a href='/journal/summary.aspx?gch=90463X'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=J%3d%5b%e9%ab%98%e7%ad%89%e5%b7%a5%e7%a8%8b%e6%95%99%e8%82%b2%e7%a0%94%e7%a9%b6%5d' title='高等工程教育研究'>《高等工程教育研究》</a>2013年第2期41-52,共12页</span><span class='writer'><a href='/writer/article.aspx?id=100000002665243' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e4%ba%8e%e9%bb%8e%e6%98%8e%5d' title='于黎明'>于黎明</a>&nbsp;<a href='/writer/article.aspx?id=100000007626920' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e6%ae%b7%e4%bc%a0%e6%b6%9b%5d' title='殷传涛'>殷传涛</a>&nbsp;<a href='/writer/article.aspx?id=100000007068995' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e9%99%88%e8%be%89%5d' title='陈辉'>陈辉</a>&nbsp;<a href='/writer/article.aspx?id=100000008562434' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e7%8e%8b%e4%b9%90%e6%a2%85%5d' title='王乐梅'>王乐梅</a>&nbsp;<a href='/writer/article.aspx?id=100000004727187' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e5%bc%a0%e6%be%8e%5d' title='张澎'>张澎</a>&nbsp;<a href='/writer/article.aspx?id=100000001514773' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e8%90%a8%e6%97%a5%e5%a8%9c%5d' title='萨日娜'>萨日娜</a>&nbsp;</span></dd><dd  class='hide2 hide3'><span class='abstract'>全球经济一体化促使高等工程教育向国际化、多元化、协同化等方向发展。本文在分析高等工程教育发展趋势的基础上，围绕国际化办学阐述了根植于本土培养国际化工程师人才的环境要素，并以北航中法工程师学院为例，从工程师学历教育国际...</span></dd><dd class='hide3'><span class='subject'>关键词：<a href='/subject/article.aspx?id=6997028'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5b%e9%ab%98%e7%ad%89%e5%b7%a5%e7%a8%8b%e6%95%99%e8%82%b2%5d' title='高等工程教育'>高等工程教育</a>&nbsp;<a href='/subject/article.aspx?id=6308429'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5b%e5%9b%bd%e9%99%85%e5%8c%96%e5%8a%9e%e5%ad%a6%5d' title='国际化办学'>国际化办学</a>&nbsp;<a href='/zk/search.aspx?key=K%3d%5b%e9%80%9a%e7%94%a8%e5%b7%a5%e7%a8%8b%e5%b8%88%5d' title='通用工程师'>通用工程师</a>&nbsp;<a href='/zk/search.aspx?key=K%3d%5b%e5%9f%b9%e5%85%bb%e7%8e%af%e5%a2%83%e8%a6%81%e7%b4%a0%5d' title='培养环境要素'>培养环境要素</a>&nbsp;</span></dd></dl><dl class=''><dt><a class='title btnTitle' href='/article/detail.aspx?id=28230013' target='_blank' index='8'>基于工作流的南水北调中线运营调度建管系统设计与实现</a><span class='cited'><a href='/zk/search.aspx?bcount=3&strIds=28230013&sType=by' class='yellow'>被引量：3</a></span></dt><dd class='sel'><input type='checkbox' name='vcubeid' value='28230013' bycount='3' autocomplete='off' /></dd><dd class='source permissinshow'></dd><dd class='paper-preview permissinimg'><img alt='' title="该篇文章暂无全文" src='/images/no-full-text.gif'></dd><dd class='hide3'><span class='media qk'><b class='type_text'>期刊文章</b><a href='/journal/summary.aspx?gch=87011X'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=J%3d%5b%e5%8d%97%e6%b0%b4%e5%8c%97%e8%b0%83%e4%b8%8e%e6%b0%b4%e5%88%a9%e7%a7%91%e6%8a%80%5d' title='南水北调与水利科技'>《南水北调与水利科技》</a>2008年第5期 4-7,共4页</span><span class='writer'><a href='/writer/article.aspx?id=100000005090323' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e7%bf%9f%e5%ae%9c%e5%b3%b0%5d' title='翟宜峰'>翟宜峰</a>&nbsp;<a href='/writer/article.aspx?id=100000004974961' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e7%86%8a%e7%92%8b%5d' title='熊璋'>熊璋</a>&nbsp;<a href='/writer/article.aspx?id=100000003586723' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e4%be%af%e5%8f%ac%e6%88%90%5d' title='侯召成'>侯召成</a>&nbsp;<a href='/writer/article.aspx?id=100000007068995' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e9%99%88%e8%be%89%5d' title='陈辉'>陈辉</a>&nbsp;<a href='/writer/article.aspx?id=100000012275666' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e8%92%b2%e8%8f%8a%e5%8d%8e%5d' title='蒲菊华'>蒲菊华</a>&nbsp;</span></dd><dd class='hide2 hide3'><span class='fund'>“十一五”国家科技支撑计划重大项目（2006BAB04A13）</span></dd><dd  class='hide2 hide3'><span class='abstract'>介绍了工作流概况和参考模型，阐述了基于WEB工作流管理系统的优势和特点，在充分分析南水北调中线运营调度建设的功能需求及业务流程的基础上，结合J2EE技术、符合MVC设计模式的Struts框架以及数据持久化层的Hibernate框架，设计并实...</span></dd><dd class='hide3'><span class='subject'>关键词：<a href='/subject/article.aspx?id=4825563'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5b%e5%8d%97%e6%b0%b4%e5%8c%97%e8%b0%83%5d' title='南水北调'>南水北调</a>&nbsp;<a href='/subject/article.aspx?id=6054726'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5b%e5%b7%a5%e4%bd%9c%e6%b5%81%5d' title='工作流'>工作流</a>&nbsp;<a href='/subject/article.aspx?id=7529579'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5bMVC%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f%5d' title='MVC设计模式'>MVC设计模式</a>&nbsp;<a href='/subject/article.aspx?id=100006476'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5bSTRUTS%5d' title='STRUTS'>STRUTS</a>&nbsp;<a href='/subject/article.aspx?id=8522162'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5bHIBERNATE%5d' title='HIBERNATE'>HIBERNATE</a>&nbsp;</span></dd></dl><dl class=''><dt><a class='title btnTitle' href='/article/detail.aspx?id=48137966' target='_blank' index='9'>基于团队精神培养的工程师综合素质培养研究与实践</a><span class='cited'><a href='/zk/search.aspx?bcount=4&strIds=48137966&sType=by' class='yellow'>被引量：4</a></span></dt><dd class='sel'><input type='checkbox' name='vcubeid' value='48137966' bycount='4' autocomplete='off' /></dd><dd class='source permissinshow'></dd><dd class='paper-preview permissinimg'><img alt='' title="该篇文章暂无全文" src='/images/no-full-text.gif'></dd><dd class='hide3'><span class='media qk'><b class='type_text'>期刊文章</b><a href='/journal/summary.aspx?gch=90463X'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=J%3d%5b%e9%ab%98%e7%ad%89%e5%b7%a5%e7%a8%8b%e6%95%99%e8%82%b2%e7%a0%94%e7%a9%b6%5d' title='高等工程教育研究'>《高等工程教育研究》</a>2013年第6期103-108,共6页</span><span class='writer'><a href='/writer/article.aspx?id=100000008562434' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e7%8e%8b%e4%b9%90%e6%a2%85%5d' title='王乐梅'>王乐梅</a>&nbsp;<a href='/writer/article.aspx?id=100000007068995' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e9%99%88%e8%be%89%5d' title='陈辉'>陈辉</a>&nbsp;<a href='/writer/article.aspx?id=100000004974961' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e7%86%8a%e7%92%8b%5d' title='熊璋'>熊璋</a>&nbsp;<a href='/writer/article.aspx?id=100000002665243' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e4%ba%8e%e9%bb%8e%e6%98%8e%5d' title='于黎明'>于黎明</a>&nbsp;<a href='/writer/article.aspx?id=100000006561825' target='_blank' ><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=A%3d%5b%e5%be%90%e5%b9%b3%5d' title='徐平'>徐平</a>&nbsp;</span></dd><dd  class='hide2 hide3'><span class='abstract'>随着社会的进步和经济的发展，工程师的内涵和外延逐步扩大，对于工程师的综合素质也相应提出了更高的要求。本文分析未来工程师应具备的能力和目标以及工程师应具备的综合素质，研究法国工程师培养中团队精神与工程师综合素质的关系，...</span></dd><dd class='hide3'><span class='subject'>关键词：<a href='/subject/article.aspx?id=2729339'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5b%e5%9b%a2%e9%98%9f%e7%b2%be%e7%a5%9e%5d' title='团队精神'>团队精神</a>&nbsp;<a href='/zk/search.aspx?key=K%3d%5b%e7%bb%bc%e5%90%88%e7%b4%a0%e8%b4%a8%5d' title='综合素质'>综合素质</a>&nbsp;<a href='/subject/article.aspx?id=6032279'  target='_blank'><b class='type_ico_id'></b></a><a href='/zk/search.aspx?key=K%3d%5b%e5%b7%a5%e7%a8%8b%e5%b8%88%e6%95%99%e8%82%b2%5d' title='工程师教育'>工程师教育</a>&nbsp;</span></dd></dl></div>
+            <div class="limited" id="divLimited" style="display:none;">由于版权政策及相关保密法规原因，<span id="spanLimitedCount"><img src="/images/zoomloader.gif"/></span>条结果未予显示。</div>
+            <div class="search-op no-border">
+                
+<script type="text/javascript" src="/scripts/selectedexport.min.js"></script>
+<div class="search-op-sel">
+    <input type="hidden" name="hfldSelectedIds" id="hfldSelectedIds" value="" autocomplete="off" />
+      <a href="javascript:void(0)" onclick="g_selectedAll();">全选</a><a href="javascript:void(0)" onclick="g_clearAll();">清除</a><a href="javascript:void(0)" onclick="g_exportList();">导出</a>
+</div>
+                <script src="/scripts/pager.min.js" type="text/javascript">
+
+</script><div class="pages">
+	<input type='hidden' id='hidPageSize' value='10'/><input type='hidden' id='hidPageIndex' value='1'/><input type='hidden' id='hidRecordCount' value='20'/><span class='total'>共2页</span><span class="page"><a>&lt;</a><span class="page-num"><a class="current">1</a><a href="javascript:void(g_GetGotoPage(&#39;2&#39;))">2</a></span><a href="javascript:void(g_GetGotoPage(&#39;2&#39;))">&gt;</a></span>
+</div>
+            </div>
+        </div>
+    </div>
+    
+ <link href="/css/jquery.jqzoom.css" media="all" rel="stylesheet" type="text/css" />
+<div class="layer-box download" id="downloadlayer" style="display:none">
+    <div class="close"><a onclick="closedown()" href="javascript:void(0)"><img src="/images/layer-close.png" width="21" height="21" alt="" /></a></div>
+    <h5 class="layer-title">下载全文</h5>
+    <div id="downloadinfo"></div>
+</div>
+<form name="wxTransfer" method="post">
+<input type="hidden" name="lid" value="" />
+<input type="hidden" name="sip" value="" />
+<input type="hidden" name="date" value="" />
+<input type="hidden" name="co" value="" />
+<input type="hidden" name="Title_C" value="" />
+<input type="hidden" name="Writers" value="" />
+<input type="hidden" name="Name_C" value="" />
+<input type="hidden" name="Num" value="" />
+<input type="hidden" name="Years" value="" />
+<input type="hidden" name="Volumn" value="" />
+<input type="hidden" name="GCH" value="" />
+<input type="hidden" name="Vol" value="" />
+<input type="hidden" name="BookID" value="" />
+<input type="hidden" name="SubjectNum" value="" />
+<input type="hidden" name="SpecialNum" value="" />
+<input type="hidden" name="mirrorName" value="" />
+<input type="hidden" name="UserID" value="" />
+<input type="hidden" name="UserName" value="" />
+<input type="hidden" name="sourceID" value="" />
+</form>
+<script type="text/javascript" src="/scripts/json2.min.js"></script>
+<script type="text/javascript" src="/scripts/echarts.js"></script>
+<script type="text/javascript" src="/scripts/articlesearch.min.js"></script>
+<script type="text/javascript" src="/scripts/articledown.min.js"></script>
+<script type="text/javascript" src="/scripts/jquery.lazyload.min.js"></script>
+<script type="text/javascript" src="/scripts/jquery.jqzoom-core.min.js"></script>
+<script type="text/javascript" src="/scripts/transfer.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("img[name='paperpreview']").lazyload();
+        var windowWidth = $(window).width();
+        $('.jqzoom').jqzoom({
+            zoomType: 'standard',
+            alwaysOn: false,
+            zoomWidth:windowWidth>1300? 800:580,
+            zoomHeight: 300,
+            preloadImages: false,
+            position: 'left'
+        });
+        $(".jqzoom").hover(function () {
+            $(this).parents("dl").css("z-index", "11").siblings().css("z-index", "0");
+        }, function () {
+            $(".search-result-list").find("dl").removeAttr("style");
+        });
+    });
+</script>
+
+
+    <div class="tools">
+        
+<a class="tools-btn" href="javascript:void(0)" id="btnRetrieveReport">检索报告</a>
+<a class="tools-btn" href="javascript:void(0)" id="btnGoToCompare">对象比较</a>
+<a class="tools-btn" href="javascript:void(0)" id="btnClusterTool" >聚类工具<span id="selectNumber" class="sel-num" style="display:none;">0</span></a>
+<div class="cluster-selected" id="divClusterTool" style="display:none;">
+        <input type="hidden" name="selectCondition" id="selectCondition" value=""  autocomplete="off"/>
+        <ul id="cplist" class="cluster-selected-list">
+        </ul>
+        <div class="submit">
+        <a id="submitExecute" href="javascript:void(0)" class="submit-btn">执行</a> <a id="hideCondition" href="javascript:void(0)" class="clear-btn">隐藏</a><a id="clearAllCondition" href="javascript:void(0)" class="clear-btn">清空</a>
+        </div>
+</div>
+<a class="tools-btn" href="javascript:void(0)"  id="backtop">返回顶部</a>
+    </div>
+
+    </div>
+    <div class="export-msg">
+    </div>
+    <script id="bdshare_js" data="type=tools&uid=0" type="text/javascript"></script>
+    
+    <script type="text/javascript">
+        $(function () {
+            //隐藏对象比较按钮
+            $("#btnGoToCompare").hide();
+            $("#bdshare_js").attr("src", "http://bdimg.share.baidu.com/static/js/bds_s_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000));
+            //控制对象下的对象 右边进度条的样式
+            //$(".search-result-list dl").css("min-height","100px");
+            //for (var i = 0; i < 10; i++) {
+            //    $(".sort-about").eq(i).css("height", $(".sort-about").parent().eq(i).innerHeight());
+            //}
+        })
+    </script>
+
+    <div class="layer-bg" style="display: none;"></div>
+    
+<script type="text/javascript" src="/scripts/login.yui.js"></script>
+<script type="text/javascript" src="/scripts/des.js"></script>
+<div class="layer-box login" id="divLoginBox" style="display: none;">
+    <div class="close"><a href="javascript:void(0);" id="btnLoginClose">
+        <img src="/images/layer-close.png" width="21" height="21" alt="" title="关闭" /></a></div>
+    <h5 class="layer-title">用户登录</h5>
+    <div class="layer-cnt">
+        <div class="search-list adv-object">
+            <div class="login-alert" id="divLoginError"></div>
+            <div class="sinput">
+                <div class="input"><span class="user-ico"></span>
+                    <input type="text" id="txtLUsername" name="txtLUsername" maxlength="20"></div>
+            </div>
+            <div class="sinput">
+                <div class="input"><span class="psw-ico"></span>
+                    <input type="password" id="txtLPassword" name="txtLPassword" maxlength="20"></div>
+            </div>
+            <div class="sinput">
+                <div class="input" style="width:60%;float:left;padding-left:0">
+                    <input type="text" class="" placeholder="验证码" id="ValidCode" name="ValidCode" style="width:auto" />
+                </div>
+                <img class="validCode" id="validCode_img" onclick='$(this).attr("src", "/ajax/getauthcode.ashx?key=Login_ValidCode&random=" + Math.random() * 1000 );'
+                                     style="cursor: pointer;  height:36px; width:30%; margin-left:5px; float:left" />
+            </div>
+            <div class="submit">
+                <input type="button" value="登录" onclick="return normalLogin(loginAfter)" name="" class="btn-s">
+            </div>
+            <div class="sinput">
+                <span class="regist"><a href="/user/register.aspx">注册新用户</a></span><span class="forget"><a href="/user/getbackpassword.aspx">忘记密码</a></span>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $(function () {
+        $("#validCode_img").trigger("click");
+    })
+</script>
+    
+
+<div class="layer-box advance" style="display:none" id="objectsearch-factor">
+    <div class="close"><a href="javascript:void(0);" onclick="onidclose('objectsearch-factor')">
+        <img src="/images/layer-close.png" width="21" height="21" alt="" /></a></div>
+    <h5 class="layer-title"><a href="javascript:void(0);" onclick="isshowclose('pagesearch-factor','objectsearch-factor')">基本检索</a><a class="current" href="javascript:void(0);" onclick="isshowclose('objectsearch-factor','pagesearch-factor')">检索式检索</a></h5>
+    <div class="layer-cnt"  id="object-factor">
+            <div class="format-intro">
+            	<p><strong>检索规则说明：</strong>AND代表“并且”；OR代表“或者”；NOT代表“不包含”；(注意必须大写,运算符两边需空一格)</p>
+                <p><strong>检 索 范 例 ：</strong>范例一： (K=图书馆学 OR K=情报学) AND A=范并思&#12288;&#12288;&#12288;&#12288;范例二：J=计算机应用与软件 AND (U=C++ OR U=Basic) NOT M=Visual</p>
+                <textarea class="input-area" name="" cols="" rows="" id="searchusercontent"></textarea>
+            </div>
+            <h6 class="layer-cnt-h">时间限定
+            </h6>
+            <div class="filter" id="re_searchtimefilter">
+                <strong>
+                    <input name="radresearhtime" type="radio" value="1" checked="checked"/>时间：</strong>
+                <div class="t">
+                    <select name="re_dropAiStartTime" id="re_dropAiStartTime">
+	<option value="1989">1989</option>
+	<option value="1990">1990</option>
+	<option value="1991">1991</option>
+	<option value="1992">1992</option>
+	<option value="1993">1993</option>
+	<option value="1994">1994</option>
+	<option value="1995">1995</option>
+	<option value="1996">1996</option>
+	<option value="1997">1997</option>
+	<option value="1998">1998</option>
+	<option value="1999">1999</option>
+	<option value="2000">2000</option>
+	<option value="2001">2001</option>
+	<option value="2002">2002</option>
+	<option value="2003">2003</option>
+	<option value="2004">2004</option>
+	<option value="2005">2005</option>
+	<option value="2006">2006</option>
+	<option value="2007">2007</option>
+	<option value="2008">2008</option>
+	<option value="2009">2009</option>
+	<option value="2010">2010</option>
+	<option value="2011">2011</option>
+	<option value="2012">2012</option>
+	<option value="2013">2013</option>
+	<option value="2014">2014</option>
+	<option value="2015">2015</option>
+	<option value="2016">2016</option>
+	<option value="2017">2017</option>
+	<option value="2018">2018</option>
+	<option value="2019">2019</option>
+	<option value="2020">2020</option>
+	<option value="2021">2021</option>
+</select>
+                </div>
+                <span>-</span>
+                <div class="t">
+                      <select name="re_dropAiEndTime" id="re_dropAiEndTime">
+	<option value="2021">2021</option>
+	<option value="2020">2020</option>
+	<option value="2019">2019</option>
+	<option value="2018">2018</option>
+	<option value="2017">2017</option>
+	<option value="2016">2016</option>
+	<option value="2015">2015</option>
+	<option value="2014">2014</option>
+	<option value="2013">2013</option>
+	<option value="2012">2012</option>
+	<option value="2011">2011</option>
+	<option value="2010">2010</option>
+	<option value="2009">2009</option>
+	<option value="2008">2008</option>
+	<option value="2007">2007</option>
+	<option value="2006">2006</option>
+	<option value="2005">2005</option>
+	<option value="2004">2004</option>
+	<option value="2003">2003</option>
+	<option value="2002">2002</option>
+	<option value="2001">2001</option>
+	<option value="2000">2000</option>
+	<option value="1999">1999</option>
+	<option value="1998">1998</option>
+	<option value="1997">1997</option>
+	<option value="1996">1996</option>
+	<option value="1995">1995</option>
+	<option value="1994">1994</option>
+	<option value="1993">1993</option>
+	<option value="1992">1992</option>
+	<option value="1991">1991</option>
+	<option value="1990">1990</option>
+	<option value="1989">1989</option>
+</select>
+                </div>
+                <strong style="margin-left: 40px;">
+                    <input name="radresearhtime" type="radio" value="2" />更新时间：</strong>
+                <div class="sel">
+                    <select id="re_searchtimeupdatefilter" class="endtime">
+                        <option value="1">一个月内</option>
+                        <option value="2">三个月内</option>
+                        <option value="3">半年内</option>
+                        <option value="4">一年内</option>
+                        <option value="5">当年内</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="submit">
+                <input type="button" value="检索" onclick="RetrievalSearchExpression()" name="" class="btn-s" />
+                <input value="取消" type="reset" class="btn-c" onclick="onidclose('objectsearch-factor')" />
+            </div>
+    </div>
+</div>
+
+
+<div class="layer-box advance" id="pagesearch-factor" style="display: none">
+    <div class="close"><a href="javascript:void(0);" onclick="onidclose('pagesearch-factor')">
+        <img src="/images/layer-close.png" width="21" height="21" alt="" /></a></div>
+    <h5 class="layer-title"><a href="javascript:void(0);" class="current" onclick="isshowclose('pagesearch-factor','objectsearch-factor')">基本检索</a>
+        <a href="javascript:void(0);" onclick="isshowclose('objectsearch-factor','pagesearch-factor')">检索式检索</a></h5>
+    <div class="layer-cnt">
+        <div>
+            <div class="search-list adv-object"  id="basic-factor">
+                <div class="sinput-top">
+                    <div class="sel">
+                        <input id="hidAikey1" type="hidden" value="M"/>
+                        <select id="Select11" value="M">
+                             <option value="U">U=任意字段</option>
+                            <option value="M" selected="selected">M=题名/关键词</option> 
+                            <option value="T">T=题名</option>
+                            <option value="K">K=关键词</option>
+                            <option value="R">R=文摘</option>
+                            <option value="A">A=作者</option>
+                            <option value="F">F=第一作者</option>
+                            <option value="S">S=机构</option>
+                            <option value="J">J=刊名</option>
+                            <option value="C">C=分类号</option>
+                            <option value="Y">Y=参考文献</option>
+                            <option value="Z">Z=作者简介</option>
+                            <option value="I">I=基金资助</option>
+                             <option value="L">L=栏目信息</option>
+                        </select>
+                    </div>
+                    <div class="input">
+                        <input type="text" id="Text3" name="txtSearchArticles">
+                         <span class="in-sel">
+                             <input id="hidAijq1" type="hidden" value="%"/>
+                         <select id="Select25" value="%">
+                             <option value="&" class="exact">精确</option>
+                              <option value="%" selected="selected">模糊</option>
+                         </select>
+                        </span>
+                    </div>
+                    
+                </div>
+                <div class="sinput">
+                    <div class="s">
+                         <select id="Select13">
+                            <option value="*" selected="selected">与</option>
+                            <option value="+">或</option>
+                            <option value="!">非</option>
+                       </select>
+                    </div>
+                    <div class="sel">
+                       <select id="Select12" value="A">
+                            <option value="U">U=任意字段</option>
+                            <option value="M">M=题名/关键词</option> 
+                            <option value="T">T=题名</option>
+                            <option value="K">K=关键词</option>
+                            <option value="R">R=文摘</option>
+                            <option value="A" selected="selected">A=作者</option>
+                            <option value="F">F=第一作者</option>
+                            <option value="S">S=机构</option>
+                            <option value="J">J=刊名</option>
+                            <option value="C">C=分类号</option>
+                            <option value="Y">Y=参考文献</option>
+                            <option value="Z">Z=作者简介</option>
+                            <option value="I">I=基金资助</option>
+                             <option value="L">L=栏目信息</option>
+                        </select>
+                    </div>
+                    <div class="input">
+                        <input type="text" id="Text4" name="txtSearchArticles">
+                         <span class="in-sel">
+                         <select id="Select26" value="%">
+                             <option value="&" class="exact" >精确</option>
+                              <option value="%" selected="selected">模糊</option>
+                         </select>
+                        </span>
+                    </div>
+                    
+                </div>
+                <div class="sinput" style="display: none">
+                    <div class="s">
+                        <input id="hidAigx3" type="hidden" value="*"/>
+                        <select id="Select14">
+                            <option value="*" selected="selected">与</option>
+                            <option value="+">或</option>
+                            <option value="!">非</option>
+                       </select>
+                    </div>
+                    <div class="sel">
+                       <select id="Select15" value="C">
+                             <option value="U">U=任意字段</option>
+                            <option value="M">M=题名/关键词</option> 
+                            <option value="T">T=题名</option>
+                            <option value="K">K=关键词</option>
+                            <option value="R">R=文摘</option>
+                            <option value="A">A=作者</option>
+                            <option value="F">F=第一作者</option>
+                            <option value="S">S=机构</option>
+                            <option value="J">J=刊名</option>
+                            <option value="C" selected="selected">C=分类号</option>
+                            <option value="Y">Y=参考文献</option>
+                            <option value="Z">Z=作者简介</option>
+                            <option value="I">I=基金资助</option>
+                             <option value="L">L=栏目信息</option>
+                        </select>
+                    </div>
+                    <div class="input">
+                        <input type="text" id="Text5" name="txtSearchArticles">
+                         <span class="in-sel">
+                         <select id="Select27" value="%">
+                             <option value="&" class="exact">精确</option>
+                              <option value="%" selected="selected">模糊</option>
+                         </select>
+                        </span>
+                    </div>
+                    
+                </div>
+                <div class="sinput" style="display: none">
+                    <div class="s">
+                       <select id="Select17">
+                            <option value="*" selected="selected">与</option>
+                            <option value="+">或</option>
+                            <option value="!">非</option>
+                       </select>
+                    </div>
+                    <div class="sel">
+                         <select id="Select16" value="S">
+                            <option value="U">U=任意字段</option>
+                            <option value="M">M=题名/关键词</option> 
+                            <option value="T">T=题名</option>
+                            <option value="K">K=关键词</option>
+                            <option value="R">R=文摘</option>
+                            <option value="A">A=作者</option>
+                            <option value="F">F=第一作者</option>
+                            <option value="S" selected="selected">S=机构</option>
+                            <option value="J">J=刊名</option>
+                            <option value="C">C=分类号</option>
+                            <option value="Y">Y=参考文献</option>
+                            <option value="Z">Z=作者简介</option>
+                            <option value="I">I=基金资助</option>
+                             <option value="L">L=栏目信息</option>
+                        </select>
+                    </div>
+                    <div class="input">
+                        <input type="text" id="Text6" name="txtSearchArticles">
+                         <span class="in-sel">
+                         <select id="Select28" value="%">
+                             <option value="&" class="exact">精确</option>
+                              <option value="%" selected="selected">模糊</option>
+                         </select>
+                        </span>
+                    </div>
+                    
+                </div>
+                <div class="sinput" style="display: none">
+                    <div class="s">
+                        <select id="Select18">
+                            <option value="*" selected="selected">与</option>
+                            <option value="+">或</option>
+                            <option value="!">非</option>
+                       </select>
+                    </div>
+                    <div class="sel">
+                         <select id="Select19" value="J">
+                           <option value="U">U=任意字段</option>
+                            <option value="M">M=题名/关键词</option> 
+                            <option value="T">T=题名</option>
+                            <option value="K">K=关键词</option>
+                            <option value="R">R=文摘</option>
+                            <option value="A">A=作者</option>
+                            <option value="F">F=第一作者</option>
+                            <option value="S">S=机构</option>
+                            <option value="J" selected="selected">J=刊名</option>
+                            <option value="C">C=分类号</option>
+                            <option value="Y">Y=参考文献</option>
+                            <option value="Z">Z=作者简介</option>
+                            <option value="I">I=基金资助</option>
+                             <option value="L">L=栏目信息</option>
+                        </select>
+                    </div>
+                    <div class="input">
+                        <input type="text" id="Text7" name="txtSearchArticles" >
+                        <span class="in-sel">
+                         <select id="Select29" value="%">
+                             <option value="&" class="exact">精确</option>
+                              <option value="%" selected="selected">模糊</option>
+                         </select>
+                        </span></div>
+                    
+                </div>
+                <div class="sel-op">
+                <input type="button" class="add" onclick="addsearchitem('basic-factor')"><input type="button" class="cut" onclick="cutsearchitem('basic-factor')">
+            </div>
+            </div>
+            <h6 class="layer-cnt-h">时间限定
+            </h6>
+            <div class="filter" id="basic_searchtimefilter">
+                <strong>
+                    <input name="radsearhtime" type="radio" value="1" checked="checked"/>时间：</strong>
+                <div class="t">
+                    <select name="basic_dropAiStartTime" id="basic_dropAiStartTime">
+	<option value="1989">1989</option>
+	<option value="1990">1990</option>
+	<option value="1991">1991</option>
+	<option value="1992">1992</option>
+	<option value="1993">1993</option>
+	<option value="1994">1994</option>
+	<option value="1995">1995</option>
+	<option value="1996">1996</option>
+	<option value="1997">1997</option>
+	<option value="1998">1998</option>
+	<option value="1999">1999</option>
+	<option value="2000">2000</option>
+	<option value="2001">2001</option>
+	<option value="2002">2002</option>
+	<option value="2003">2003</option>
+	<option value="2004">2004</option>
+	<option value="2005">2005</option>
+	<option value="2006">2006</option>
+	<option value="2007">2007</option>
+	<option value="2008">2008</option>
+	<option value="2009">2009</option>
+	<option value="2010">2010</option>
+	<option value="2011">2011</option>
+	<option value="2012">2012</option>
+	<option value="2013">2013</option>
+	<option value="2014">2014</option>
+	<option value="2015">2015</option>
+	<option value="2016">2016</option>
+	<option value="2017">2017</option>
+	<option value="2018">2018</option>
+	<option value="2019">2019</option>
+	<option value="2020">2020</option>
+	<option value="2021">2021</option>
+</select>
+                </div>
+                <span>-</span>
+                <div class="t">
+                      <select name="basic_dropAiEndTime" id="basic_dropAiEndTime">
+	<option value="2021">2021</option>
+	<option value="2020">2020</option>
+	<option value="2019">2019</option>
+	<option value="2018">2018</option>
+	<option value="2017">2017</option>
+	<option value="2016">2016</option>
+	<option value="2015">2015</option>
+	<option value="2014">2014</option>
+	<option value="2013">2013</option>
+	<option value="2012">2012</option>
+	<option value="2011">2011</option>
+	<option value="2010">2010</option>
+	<option value="2009">2009</option>
+	<option value="2008">2008</option>
+	<option value="2007">2007</option>
+	<option value="2006">2006</option>
+	<option value="2005">2005</option>
+	<option value="2004">2004</option>
+	<option value="2003">2003</option>
+	<option value="2002">2002</option>
+	<option value="2001">2001</option>
+	<option value="2000">2000</option>
+	<option value="1999">1999</option>
+	<option value="1998">1998</option>
+	<option value="1997">1997</option>
+	<option value="1996">1996</option>
+	<option value="1995">1995</option>
+	<option value="1994">1994</option>
+	<option value="1993">1993</option>
+	<option value="1992">1992</option>
+	<option value="1991">1991</option>
+	<option value="1990">1990</option>
+	<option value="1989">1989</option>
+</select>
+                </div>
+                <strong style="margin-left: 40px;">
+                    <input name="radsearhtime" type="radio" value="2" />更新时间：</strong>
+                <div class="sel">
+                    <select id="basic_searchtimeupdatefilter" class="endtime">
+                        <option value="1">一个月内</option>
+                        <option value="2">三个月内</option>
+                        <option value="3">半年内</option>
+                        <option value="4">一年内</option>
+                        <option value="5">当年内</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="submit">
+                <input type="button" value="检索" onclick="RetrievalBasicExpression('basic-factor')" name="" class="btn-s"><input value="取消" type="reset" class="btn-c" onclick="    onidclose('pagesearch-factor')">
+            </div>
+        </div>
+    </div>
+</div>
+
+    <!--底部版权部分开始-->
+    <div class="wfull clr">
+        <div class="footer">
+        	<div class="content">
+                <p><span>单位地址： 山西省长治市威远门中路28号</span><span>邮　　编： 046000</span> <span>电　　话： (0355)-2174000</span><span>传　　真： (0355)-2174000</span></p>
+                <p>
+                    <script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/06/120/0000/41024050/CA061200000410240500001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+                    <span>版权所有：长治市科技情报研究所</span><span>技术支持：重庆维普资讯有限公司</span>
+                    <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=50019002500403"><img src="/images/ghs.png" style="margin-right:3px;"><span>渝公网安备 50019002500403号</span></a>
+                </p>
+            </div>
+        </div>
+    </div>
+    </div>
+    
+    
+    <style>
+        .new_box *{
+           font-family:微软雅黑 !important; 
+           color:inherit !important;
+        }
+    </style>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#loginLoading").load("/user/loginheader.aspx?" + Math.random());
+        });
+    </script>
+    <script type="text/javascript">
+        $(function () {
+            $("#aFloatTools_Show").click(function () {
+                $('#divFloatToolsView').animate({ width: 'show', opacity: 'show' }, 100, function () { $('#divFloatToolsView').show(); });
+                $('#aFloatTools_Show').hide();
+                $('#aFloatTools_Hide').show();
+            });
+            $("#aFloatTools_Hide").click(function () {
+                $('#divFloatToolsView').animate({ width: 'hide', opacity: 'hide' }, 100, function () { $('#divFloatToolsView').hide(); });
+                $('#aFloatTools_Show').show();
+                $('#aFloatTools_Hide').hide();
+            });
+        });
+    </script>
+    
+    <input id="hifBaseLog" type="hidden" value="Ozs7NjsxMDAwMDAwMDcwNjg5OTU7L3dyaXRlci9hcnRpY2xlLmFzcHg="/>
+    <script type="text/javascript">
+        $(function () {
+            $("#loginLoading").load("/user/loginheader.aspx?" + Math.random());
+            $('#navUL>li[navMark="' + $('#PageNavMark').val() + '"]').addClass('nav_hover');
+
+            $(".showGuestBook").click(function () {
+                var result = checkUserLogin(showGuestBook);
+            });
+        });
+
+        function showGuestBook() {
+            asyncbox.open({
+                url: '/guestbook.aspx',
+                title: '参考咨询',
+                width: 576,
+                height: 400,
+                btnsbar: $.btn.CANCEL
+            });
+        }
+    </script>
+</body>
+</html>

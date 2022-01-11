@@ -1,0 +1,325 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=1200">
+
+<meta name="Description" content="">
+		<title>殷传涛-北航中法工程师学院</title><META Name="keywords" Content="学科网站,殷传涛" />
+<META Name="description" Content="副院长（副教授）" />
+
+		<link rel="stylesheet" href="../../css/common.css" />
+		<link rel="stylesheet" href="../../css/two-stage.css" />
+		<link rel="stylesheet" href="../../css/style.css" />
+	<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e78475c52555742000000034754 -->
+<link rel="stylesheet" type="text/css" href="../../teaching-fayu-detalis.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1968,'/teaching-fayu-detalis.jsp',4610,1302343303)</script>
+</head>
+	<body>
+    <div class="gcsxy_top">
+        <div class="gcsxy_top_cont clearfix">
+            <a href="../../index.htm" class="gcsxy_logo fl">
+                <img src="../../images/logo.jpg" />
+            </a>
+            <div class="gcsxy_yuyan fr">
+                <div class="yuyan_cont clearfix">
+                    
+
+
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<script language="javascript" src="/system/resource/js/ajax.js"></script><script language="javascript">_getBatchClickTimes('null',1302343303,'wbnews','u0')</script>
+<link rel="stylesheet" Content-type="text/css" href="/system/resource/style/component/news/content/format2.css"><script>function seeContenta0(contentid,size,displayid){	document.getElementById(contentid).innerHTML = '[';	for(var i=0;i<=size;i++){		var allcontentid = contentid+(i+1);		if(allcontentid==displayid){			document.getElementById(contentid).innerHTML += " <span id='"+allcontentid+"' name='"+allcontentid+"'  >"+(i+1)+"</span> ";			document.getElementById(displayid).style.display = 'block';		}else{			document.getElementById(contentid).innerHTML += " <span style='cursor:pointer' id='"+allcontentid+"' name='"+allcontentid+"' onclick=seeContenta0('"+contentid+"','"+size+"','"+allcontentid+"')  >"+(i+1)+"</span> ";			document.getElementById(allcontentid).style.display = 'none';		}	}	document.getElementById(contentid).innerHTML += ']';}</script>
+<script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<script>_addDynClicks('wbnews',1302343303,4630)</script>
+<a href="javascript:;" class="fl weixin" style="display:none;">
+	<span class="weixi-m"></span>
+</a>
+<a href="http://ecpknfr.buaa.edu.cn/" class="fr">Fran&ccedil;ais</a>
+<a href="http://ecpknen.buaa.edu.cn/" class="fr">English</a>
+<a href="http://ecpkn.buaa.edu.cn/" class="yuyan_active fr">中文</a>
+                </div>
+                <div class="bhzf_so">
+                    <script type="text/javascript">
+    function _nl_ys_check() {
+
+        var keyword = document.getElementById('showkeycode149848').value;
+        if (keyword == null || keyword == "") {
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if (window.toFF == 1) {
+            document.getElementById("lucenenewssearchkey149848").value = Simplized(keyword);
+        } else {
+            document.getElementById("lucenenewssearchkey149848").value = keyword;
+        }
+        var base64 = new Base64();
+        document.getElementById("lucenenewssearchkey149848").value = base64.encode(document.getElementById("lucenenewssearchkey149848").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode149848"));
+        return true;
+    } 
+</script>
+<form action="../../searchlist.jsp?wbtreeid=1968" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkey149848" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype149848" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope149848" name="searchScope" value="1">
+<input name="showkeycode" placeholder="请输入检索内容" class="txt" id="showkeycode149848" type="text">
+<input type="submit" class="sub" value="">
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="gcsxy_nav">
+        <div class="gcsxy_nav_cont">
+            <ul class="bhzf_navC">
+                	<li class="fl"><a href="../../index.htm">首页</a></li>
+	    <li class="fl">
+		<a href="../../xygk/xyjj.htm">学院概况</a>
+		<div class="nav_drop_down">
+		    <a href="../../xygk/xyjj.htm">学院简介</a>
+		    <a href="../../xygk/xcsp.htm">宣传视频</a>
+		    <a href="../../xygk/ccfz.htm">传承发展</a>
+		    <a href="../../xygk/yzjy.htm">院长寄语</a>
+		    <a href="../../xygk/zzjg.htm">组织机构</a>
+		    <a href="../../xygk/zylgjt.htm">中央理工集团</a>
+		    <a href="../../xygk/hzhb.htm">合作伙伴</a>
+		    <a href="../../xygk/yxxy.htm">优秀校友</a>
+		    <a href="../../xygk/lxwm.htm">联系我们</a>
+		</div>
+	    </li>
+	    <li class="fl">
+		<a href="../../rcpy1/pymb.htm">人才培养</a>
+		<div class="nav_drop_down">
+		    <a href="../../rcpy1/pymb.htm">培养目标</a>
+		    <a href="../../rcpy1/pyms.htm">培养模式</a>
+		    <a href="../../rcpy1/pyts.htm">培养特色</a>
+		    <a href="../../rcpy1/xlxw.htm">学历学位</a>
+		    <a href="../../rcpy1/zsjy.htm">招生就业</a>
+		    <a href="../../rcpy1/fyjx.htm">法语教学</a>
+		    <a href="../../rcpy1/xqhz.htm">校企合作</a>
+		</div>
+	    </li>
+	    <li class="fl">
+		<a href="../../kxyj1/kygk.htm">科学研究</a>
+		<div class="nav_drop_down">
+		    <a href="../../kxyj1/kygk.htm">科研概况</a>
+		    <a href="../../kxyj1/jxkysys.htm">教学科研实验室</a>
+		    <a href="../../kxyj1/zflhsys.htm">中法联合实验室</a>
+		    <a href="../../kxyj1/zffxkxygcsys.htm">中法风险科学与工程实验室</a>
+		</div>
+	    </li>
+	    <li class="fl">
+		<a href="../../gjhz/xsgjjl.htm">国际合作</a>
+		<div class="nav_drop_down">
+		    <a href="../../gjhz/xsgjjl.htm">学生国际交流</a>
+		    <a href="../../gjhz/jsgjjl.htm">教师国际交流</a>
+		    <a href="../../gjhz/xmxxfx.htm">项目信息分享</a>
+		    <a href="../../gjhz/qt.htm">其他</a>
+		</div>
+	    </li>
+	    <li class="fl current">
+		<a href="../../szdw/szgc.htm">师资队伍</a>
+		<div class="nav_drop_down">
+		    <a href="../../szdw/szgc.htm">师资构成</a>
+		    <a href="../../szdw/fyjx.htm">法语教学</a>
+		    <a href="../../szdw/zyjx.htm">专业教学</a>
+		    <a href="../../szdw/syjx.htm">实验教学</a>
+		    <a href="../../szdw/wysd.htm">外院硕导</a>
+		    <a href="../../szdw/zpxx.htm">招聘信息</a>
+		</div>
+	    </li>
+	    <li class="fl">
+		<a href="../../zffc/xysh.htm">中法风采</a>
+		<div class="nav_drop_down">
+		    <a href="../../zffc/xysh.htm">校园生活</a>
+		    <a href="../../zffc/stzz.htm">社团组织</a>
+		    <a href="../../zffc/lxs.htm">留学生</a>
+		    <a href="../../zffc/zfrfc.htm">中法人风采</a>
+		    <a href="../../zffc/mtsdzf.htm">媒体上的中法</a>
+		</div>
+	    </li>
+	    <li class="fl">
+		<a href="../../jcdj/djhd.htm">基层党建</a>
+		<div class="nav_drop_down">
+		    <a href="../../jcdj/djhd.htm">党建活动</a>
+		    <a href="../../jcdj/dygf.htm">党员规范</a>
+		    <a href="../../jcdj/gztz.htm">工作通知</a>
+		    <a href="../../jcdj/xxnr.htm">学习内容</a>
+		</div>
+	    </li>
+
+            </ul>
+        </div>
+    </div>
+<style>
+.b1{background: url(../../images/szdw.jpg) no-repeat center top;}
+</style>
+
+		<div class="banner-s b1"></div>
+		<div class="bhzf-content clearfix">
+			<div class="content-nav">
+				<p class="nav-title">    
+    
+    
+    
+    
+	师资队伍
+    
+    
+    
+</p>
+				<ul class="nav_list">   
+					                <li>
+                	<a href="../../szdw/szgc.htm"><p class="nav_list_t">师资构成</p></a>
+			
+                </li>
+                <li>
+                	<a href="../../szdw/fyjx.htm"><p class="nav_list_t">法语教学</p></a>
+			
+                </li>
+                <li class="current">
+                	<a href="../../szdw/zyjx.htm"><p class="nav_list_t">专业教学</p></a>
+			
+                </li>
+                <li>
+                	<a href="../../szdw/syjx.htm"><p class="nav_list_t">实验教学</p></a>
+			
+                </li>
+                <li>
+                	<a href="../../szdw/wysd.htm"><p class="nav_list_t">外院硕导</p></a>
+			
+                </li>
+                <li>
+                	<a href="../../szdw/zpxx.htm"><p class="nav_list_t">招聘信息</p></a>
+			
+                </li>
+
+				</ul>
+			</div>
+			<div class="content-r fr">
+				<div class="content-title clearfix">
+					<span class="fl title-txt">
+
+
+
+	专业教学
+</span>
+					<div class="con fr"><span>当前位置：</span>
+                        <a href="../../index.htm">首页</a>
+                >
+                <a href="../../szdw.htm">师资队伍</a>
+                >
+                <a href="../../szdw/zyjx.htm">专业教学</a>
+                >
+                正文
+</div>
+				</div>
+				<div class="fayu-detalis-cont">
+                	
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><link rel="stylesheet" Content-type="text/css" href="/system/resource/style/component/news/content/format2.css"><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+<dl class="fayu-list clearfix">
+    <dt class="fl"><img src="/__local/2/61/E3/55E3B5D84EE1E4F8CF8B5C755C6_25A23E57_13B6D.png" /></dt>
+    <dd class="fr">
+        <p class="fayu-title">殷传涛</p>
+        <div class="fayu-detalis">
+                        <p class="clearfix">
+				<span class="fl"></span><span class="fl geyan">副院长（副教授）</span>
+				<span class="fl geyan" style="display:none;">职责：</span><br />
+				<span class="fl geyan" style="display:none;">职称：</span><br />
+				<span class="fl geyan" style="display:none;">电话：</span><br />
+				<span class="fl geyan" style="display:none;">办公地点：</span>
+			</p>
+        </div>
+    </dd>
+</dl>
+<div class="Teacher-profile">
+    <p class="Teacher-profile-title">简介</p>
+    <div id="vsb_content_2"><div class="v_news_content">
+<div>
+ <p class="vsbcontent_start"> &nbsp;</p>
+ <p> &nbsp;</p>
+ <p><strong>1</strong><strong>、基本信息</strong></p>
+ <p>姓名：殷传涛</p>
+ <p>职务：副院长，ITR中方负责人，PIC负责人</p>
+ <p>职称：副教授</p>
+ <p>办公地点：411室</p>
+ <p>电话：82316629</p>
+ <p>电子邮件：chuantao.yin@buaa.edu.cn</p>
+ <p><strong>2</strong><strong>、教育背景：</strong></p>
+ <p>1999年进入西南交通大学计算机与通信工程学院学习，2001被学校公派至法国巴黎中央理工大学（Ecole Centrale Paris）学习，于2003年同时获得巴黎中央理工大学工程师学位及西南交通大学学士学位。2006年获西南交通大学通信与信息系统硕士学位，同年9月赴法国里昂中央理工大学（Ecole Centrale de Lyon）攻读博士学位，2010年1月顺利获得该校的计算机科学与技术专业博士学位。</p>
+ <p><strong>3</strong><strong>、工作经历：</strong></p>
+ <p>自2010年8月起，在北京航空航天大学中法工程师学院担任青年骨干教师从事科研和教学工作，主持和参加自然科学基金项目、国家“863”主题项目、国际国家科技合作项目等多项科研课题，发表论文10余篇。2014年里尔中央理工大学和2015年里昂中央理工大学访问学者。人工智能学会智能交互专委会委员。</p>
+ <p><strong>4</strong><strong>、主讲课程：</strong></p>
+ <p>讲授“软件工程”课程，曾讲授“电子学实验”、“人机交互”、“计算机游戏设计”等课程。</p>
+ <p><strong>5</strong><strong>、研究领域方向：</strong></p>
+ <p>智慧城市、智慧学习、教育数据挖掘等。</p>
+ <p><strong>6</strong><strong>、代表性研究成果（论文、论著、专利等）</strong></p>
+ <p>[1].Zhang B, Yin C, David B, et al.Facilitating professionals' work-based learning with context-aware mobilesystem[J]. Science of Computer Programming, 2016. (SCI)</p>
+ <p>[2].Wang C, David B, Chalon R, Yin C. Dynamic road lane management study: ASmart City application[J]. Transportation Research Part E: Logistics andTransportation Review, 2016, 89: 272-287. (SCI)</p>
+ <p>[3].Zhang B, Yin C, David B, et al.A context‐aware mobile system for work‐based learning[J]. ComputerApplications in Engineering Education, 2015. (SCI)</p>
+ <p>[4].Yin C, Xiong Z, Chen H, et al.A literature survey on smart cities[J]. Science China Information Sciences,2015, 58(10): 1-18. (SCI)</p>
+ <p>[5].Yin C, Zhang B, David B, et al. A hierarchical ontology context model forwork-based learning[J]. Frontiers of Computer Science, 2015, 9(3): 466-473.(SCI)</p>
+ <p>[6].Yin C, Zhu S, Chen H, et al. A method for community detection of complexnetworks based on hierarchical clustering[J]. International Journal ofDistributed Sensor Networks, 2015, 2015: 137. (SCI)</p>
+ <p>[7].Jing G Q, Luo Q, Wang Z, et Yin C. 1170.Micro-analysis of lateral ballast resistance of seismiccharacteristics[J]. Journal of Vibroengineering, 2014, 16(1). (SCI)</p>
+ <p>[8].Li J, Rong W, Yin C, et al.Dependency Aware Business Process Analysis for ServiceIdentification[C]//Asia-Pacific Services Computing Conference. SpringerInternational Publishing, 2015: 137-152. (EI)</p>
+ <p>[9].Yin C, Zhang B, David B, et al. Design and Case Study of WoBaLearn--AWork-Based Learning System[C]//2014 IEEE 14th International Conference onAdvanced Learning Technologies. IEEE, 2014: 77-79. (EI)</p>
+ <p>[10]. Zhang B, Yin C, David B, etal.A Framework of Context-AwareMobile Learning System for Professionals[C]//2013 IEEE 13th InternationalConference on Advanced Learning Technologies. 2013. (EI)</p>
+ <p>[11]. 《智慧城市》，科学出版社，ISBN: 9787030429605,第1版，2016年7月4日出版.（参与编写）</p>
+ <p>[12]. 《法国工程师教育》，科学出版社，ISBN:9787030357502,第1版，2013年1月6日出版.（参与编写）</p>
+ <p><strong>7</strong><strong>、获奖情况：</strong></p>
+ <p class="vsbcontent_end">2013年度北京航空航天大学优秀共产党员</p>
+</div>
+</div></div>
+</div>
+</form>
+
+
+					
+				</div>
+			</div>
+		</div>
+		<div class="bhzf-footer">
+			<div class="bhzf-footerC">
+				
+
+
+
+
+<script language="javascript" src="/system/resource/js/ajax.js"></script><script language="javascript">_getBatchClickTimes('null',1302343303,'wbnews','u9')</script>
+<link rel="stylesheet" Content-type="text/css" href="/system/resource/style/component/news/content/format2.css"><script>function seeContenta9(contentid,size,displayid){	document.getElementById(contentid).innerHTML = '[';	for(var i=0;i<=size;i++){		var allcontentid = contentid+(i+1);		if(allcontentid==displayid){			document.getElementById(contentid).innerHTML += " <span id='"+allcontentid+"' name='"+allcontentid+"'  >"+(i+1)+"</span> ";			document.getElementById(displayid).style.display = 'block';		}else{			document.getElementById(contentid).innerHTML += " <span style='cursor:pointer' id='"+allcontentid+"' name='"+allcontentid+"' onclick=seeContenta9('"+contentid+"','"+size+"','"+allcontentid+"')  >"+(i+1)+"</span> ";			document.getElementById(allcontentid).style.display = 'none';		}	}	document.getElementById(contentid).innerHTML += ']';}</script>
+
+<script>_addDynClicks('wbnews',1302343303,4630)</script>
+<div class="bhzf-xinxi">
+<p class="bhzf-xinxi-t1">地址：海淀区学院路37号 北京航空航天大学2号楼中法工程师学院</p>
+<p class="bhzf-xinxi-t2">邮编：100191</p>
+<p class="bhzf-xinxi-t3">电话/传真：010-8233 9307 / 010-8233 8123</p>
+
+</div>
+<div class="bhzf-banquan">
+<p>
+	<select name="jumpMenu" id="jumpMenu" onchange="javascript:location.href=this.value;"> 
+	<option value="javascript;:">站点资源</option> 
+	<option value="#">教学系统网站链接</option> 
+	<option value="http://10.200.21.61:7001/ieas2.1/welcome">教务管理系统入口</option> 
+	<option value="http://bjzy.buaa.edu.cn">北京卓越联盟</option> 
+	<!--<option value="/system/go.jsp?treeid=1998&apptype=treetemp&urltype=tree.TreeTempUrl">法研中心</option>-->
+	<option value="http://cref.buaa.edu.cn">法研中心</option> 
+	<option value="/system/go.jsp?treeid=1999&apptype=treetemp&urltype=tree.TreeTempUrl">多媒体平台</option> 
+	</select>
+	
+	<a href="http://ecpkn.buaa.edu.cn/contact.jsp?urltype=tree.TreeTempUrl&wbtreeid=1945">联系我们</a>
+	<a href="http://ecpkn.buaa.edu.cn/campus-life2.jsp?urltype=tree.TreeTempUrl&wbtreeid=1985">其他链接</a>
+</p>
+<p class="banquan">版权所有 2013 北京航空航天大学    京ICP备05004617-3</p>
+</div>
+			</div>
+		</div>
+		<script type="text/javascript" src="../../js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="../../js/style.js"></script>
+	</body>
+</html>

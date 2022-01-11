@@ -1,0 +1,241 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>北京航空航天大学计算机学院高性能图形工作站采购比价结果公示-北京航空航天大学-招标采购管理中心</title><META Name="keywords" Content="北京航空航天大学-招标采购管理中心" />
+
+<link rel="stylesheet" href="../../css/style.css" type="text/css">
+<link rel="stylesheet" href="../../css/publice.css" type="text/css">
+<script type="text/javascript" src="../../js/bdtxk.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e78475c52555742000000034754 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|mobile|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1150,'/content.jsp',18701,1467176955)</script>
+</head>
+<body>
+<!--top s-->    
+<div class="topWrap clearfix">
+    <div class="topDiv">
+        
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<div class="logo">
+<a href="../../index.htm"><img src="../../images/logo.png"></a>
+</div>
+        <div class="topR fr">
+           
+            <script type="text/javascript">
+    function _nl_ys_check_2(){
+        
+        var keyword = document.getElementById('showkeycode205599_2').value;
+        if(keyword==null||keyword==""){
+            alert("请输入关键字搜索");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey205599").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey205599").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey205599").value = base64.encode(document.getElementById("lucenenewssearchkey205599").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode205599_2"));
+        return true;
+    } 
+    function submitForm()
+    {
+        document.getElementById("au1a").submit();
+    }
+</script>
+<script type="text/javascript">
+				function test3()
+				{
+					var tempStr=document.getElementById('showkeycode205599_2').value;
+					if(tempStr=="请输入关键字搜索")
+					{
+						document.getElementById('showkeycode205599_2').value="";
+					}
+				}
+				function test4()
+				{
+					var tempStr=document.getElementById('showkeycode205599_2').value;
+					if(tempStr=="")
+					{
+						document.getElementById('showkeycode205599_2').value="请输入关键字搜索";
+					}
+				}
+			</script>
+<div class="Search">
+<form action="../../ssjg.jsp?wbtreeid=1150" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check_2()">
+ <input type="hidden" id="lucenenewssearchkey205599" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype205599" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope205599" name="searchScope" value="1">
+ <input type="text" value="请输入关键字搜索" name="showkeycode" class="search_text" onfocus="test3()" onblur="test4()" id="showkeycode205599_2" />
+                <div class="fdj fr"> <input type="submit" class="button pngFix" value="" style="cursor: hand"></div>
+</form>
+</div><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+
+            
+        </div>
+    </div>
+</div>
+<!--nav-->
+<div class="navWrap  clearfix">
+    <div class="nav">
+    <ul>
+           
+        <li class="mainmenu">
+            <a href="../../index.htm">网站首页</a>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../zxjj.htm">中心简介</a>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../jgsz.htm">机构设置</a>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../gzdt.htm">工作动态</a>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../cggg.htm">采购公告</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl>
+                    <dd><a href="../../cggg/gc.htm">工程</a></dd>
+                    <dd><a href="../../cggg/hw.htm">货物</a></dd>
+                    <dd><a href="../../cggg/fw.htm">服务</a></dd>
+            </dl>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../cjgg.htm">成交公告</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl>
+                    <dd><a href="../../cjgg/gc.htm">工程</a></dd>
+                    <dd><a href="../../cjgg/hw.htm">货物</a></dd>
+                    <dd><a href="../../cjgg/fw.htm">服务</a></dd>
+            </dl>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../gzzd.htm">规章制度</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl>
+                    <dd><a href="../../gzzd/gjflfg.htm">国家法律法规</a></dd>
+                    <dd><a href="../../gzzd/xxgzzd.htm">学校规章制度</a></dd>
+            </dl>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../ywlc.htm">业务流程</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl>
+                    <dd><a href="../../ywlc/gccg.htm">工程采购</a></dd>
+                    <dd><a href="../../ywlc/hwcg.htm">货物采购</a></dd>
+                    <dd><a href="../../ywlc/fwcg.htm">服务采购</a></dd>
+            </dl>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../xzfw.htm">下载服务</a>
+            <!--如果是导航字数很多，则加上 class="chang"，否则去掉即可-->
+            <dl>
+                    <dd><a href="../../xzfw/cgsq.htm">采购申请</a></dd>
+                    <dd><a href="../../xzfw/jkbb.htm">进口报备</a></dd>
+                    <dd><a href="../../xzfw/jkms.htm">进口免税</a></dd>
+                    <dd><a href="../../xzfw/zfjc.htm">政府集采</a></dd>
+                    <dd><a href="../../xzfw/hwht.htm">货物合同</a></dd>
+                    <dd><a href="../../xzfw/tbbm.htm">投标报名</a></dd>
+            </dl>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../pgt.htm">曝光台</a>
+        </li>
+     
+       
+        <li class="mainmenu">
+            <a href="../../lxwm.htm">联系我们</a>
+        </li>
+     
+     
+    </ul>
+</div>
+</div>
+<script type="text/javascript">
+
+    $(".mainmenu dl").hide();
+
+</script>
+    <!--banner-->
+   
+<!--main--> 
+<div class="mainWrap clearfix">
+    <div class="main_tit">
+        <div class="main_titT main_titTa">
+            <img src="../../img/bri_icon1.png">
+
+<a href="../../index.htm">网站首页</a>>
+<a href="../../j_b_jgs.htm">竞（比）价公示</a>>
+<a href="../../j_b_jgs/hwcggs.htm">货物采购公示</a>>
+<a href="" class="cur">正文</a>
+        </div>
+</div>
+
+    
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+<div class="main_content">
+<div class="main_contit">
+         
+   <h2>北京航空航天大学计算机学院高性能图形工作站采购比价结果公示</h2>
+            <p>作者： 　时间：2021-02-02  　点击数：<script>_showDynClicks("wbnews", 1467176955, 18701)</script></p>
+        </div>
+    <div class="main_conDiv" id="vsb_content"><div class="v_news_content">
+<p class="noticeTitle" style="text-align:center;text-indent:43px;line-height:150%"><strong><span style="font-size:21px;line-height:150%;color:black">北京航空航天大学计算机学院高性能图形工作站</span></strong><strong><span style="font-size:21px;line-height: 150%;color:black">采购比价结果公示</span></strong></p><p style="text-indent:32px;line-height:150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 北京航空航天大学计算机学院高性能图形工作站</span><span style="color:black">采购项目由</span><span style="color:black">项目负责人通过比价方式采购，现将比价过程及结果公示如下：</span></p><p style="margin-left:40px;line-height: 150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; 1.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="color:black">采购名称：高性能图形工作站</span></p><p style="margin-left:40px;line-height: 150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; 2.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="color:black">使用人：盛浩</span></p><p style="margin-left:40px;line-height: 150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; 3.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="color:black">采购项目负责人：盛浩</span></p><p style="margin-left:40px;line-height: 150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; 4.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="color:black">采购项目比价概况：本课题组需采购一台高性能图形工作站，通过电话咨询比价三家供应商最终选择价格比较低的商家成交</span></p><p style="margin-left:40px;line-height: 150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; 5.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="color:black">比价结果详情：</span></p><table style="margin-left:40px;"><tbody><tr class="firstRow" style="height:25px"><td rowspan="2" width="30" style="border: 1px solid windowtext; padding: 0px 7px; word-break: break-all;"><p style="text-align:center"><span style="font-size:14px">序号</span></p></td><td rowspan="2" width="160" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:14px">供应商（全称）</span></p></td><td rowspan="2" width="110" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:14px">供应商联系方式</span></p></td><td rowspan="2" width="90" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:14px">报价（万元）</span></p></td><td rowspan="2" width="50" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:14px">数量</span></p></td><td rowspan="1" colspan="3" width="190" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:14px">主要产品情况</span></p></td></tr><tr style="height:25px"><td width="60" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px; word-break: break-all;">品牌</td><td width="60" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">型号</td><td width="70" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">性能指标</td></tr><tr style="height:30px"><td width="30" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px; word-break: break-all;">1</td><td width="160" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">南京博斐特信息科技有限公司</td><td width="110" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">13970895368</td><td width="90" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">8.7</td><td width="50" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">1</td><td width="60" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">定制</td><td width="60" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">super micro 7865SL</td><td width="70" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">内存128g，固态硬盘512g</td></tr><tr style="height:30px"><td width="30" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px; word-break: break-all;">2</td><td width="160" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">上海格莱殷智能科技中心</td><td width="110" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">17701806077</td><td width="90" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">9</td><td width="50" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">1</td><td width="60" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">定制</td><td width="60" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">super micro 7865SL</td><td width="70" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">内存128g，固态硬盘512g</td></tr><tr style="height:30px"><td width="30" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px; word-break: break-all;">3</td><td width="160" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">北京荣华永旺商贸中心</td><td width="110" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">13146760061</td><td width="90" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">9.3</td><td width="50" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">1</td><td width="60" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">定制</td><td width="60" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">super micro 7865SL</td><td width="70" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px; word-break: break-all;">内存128g，固态硬盘512g</td></tr></tbody></table><p style="margin-left:40px;line-height: 150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; 确定成交结果单位：南京博斐特信息科技有限公司</span></p><p style="margin-left:40px;line-height: 150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; 确定成交报价：8.7 万元</span></p><p style="margin-left:40px;line-height: 150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; 公示期从2021年02月02日起至2021年02月05日止。</span></p><p style="margin-left:40px;line-height: 150%"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; 各供应商或者其他利害关系人对本项目的过程及结果有异议的，可在公示期内以书面形式（包括联系人、地址、联系电话）将意见反馈至北京航空航天大学 计算机学院，监督人:吕卫锋，联系电话：010-82338423，邮箱：lujing@buaa.edu.cn 。</span></p><p style="text-indent:392px;float:right;line-height:150%"><span style="text-decoration: none;float:right;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2021年02月02日</span></p><p>&nbsp;</p><p><br /></p>
+</div><div id="div_vote_id"></div>
+    
+    <p>
+        <UL style="list-style-type:none;"> 
+            <li>附件【<a href="/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1467176955&wbfileid=5108302" target="_blank">技术需求.docx</a>】已下载<span id="nattach5108302"><script language="javascript">getClickTimes(5108302,1467176955,"wbnewsfile","attach")</script></span>次</li>
+        </UL>
+    </p>
+</div>
+    <div class="main_art">
+      <ul>
+                <li><lable>上一篇：</lable><a href="18702.htm">北京航空航天大学电子信息工程学院连接器模块等电子元器件采购比价结果公示</a></li>
+                <li><lable>下一篇：</lable><a href="18700.htm">北京航空航天大学航空科学与工程学院电力电缆铜线胶布采购比价结果公示</a></li>
+            </ul>
+  </div>
+</div>
+   
+   
+</form>
+
+
+
+</div>
+<!--foot-->
+<div class="footWrap"><div class="footDiv_one">
+
+          版权所有 2018 &nbsp;&nbsp;北京航空航天大学招标采购管理中心 &nbsp; &nbsp;地址：北京市海淀区学院路37号&nbsp; &nbsp;邮编：100083
+   
+    </div></div>
+
+</body>
+</html>

@@ -1,0 +1,623 @@
+<!doctype html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+    <title>北航计算机应用技术专业导师介绍：殷传涛_北京航空航天大学导师介绍_考研帮（kaoyan.com）</title>
+    <meta name="keywords" content="北航,计算机应用技术,导师介绍 ">
+    <meta name="description" content="">
+    <link href="//img.kaoyan.com/global/style/header.css" rel="stylesheet">
+<link href="//img.kaoyan.com/school/style/school.css" rel="stylesheet">
+    <link rel="shortcut icon" href="//www.kaoyan.com/favicon.ico"/>
+<script type="text/javascript" src="//cbjs.baidu.com/js/m.js"></script>
+    <base target="_self"/>
+    <script type="text/javascript">var artID='1192594',artSID='24',artBBS='2';</script>
+</head>
+<body>
+<div class="kyHd">
+    <div class="kyTop">
+        <script src="//img.kaoyan.com/www/header-yz.js" type="text/javascript"></script>
+        <script src="//img.kaoyan.com/www/headera.js" type="text/javascript"></script>
+    </div>
+</div>
+<link rel="stylesheet" href="//img.kaoyan.com/css/pc/adsys/style.css">
+<div class="schoolTop">
+    <div class="w1000 topbanner">
+        <div class="logo">
+            <a href="http://yz.kaoyan.com/buaa/" title="北京航空航天大学"><img src="//img.kaoyan.com/school/logo/buaa_logo.png" alt="北京航空航天大学" /></a>
+        </div>
+    </div>
+</div>
+<div class="schoolNav">
+    <ul class="nav">
+        <li><a href="//yz.kaoyan.com/buaa/" title="北京航空航天大学首页">院校首页</a></li>
+        <li><a href="//yz.kaoyan.com/buaa/zixun/" title="北京航空航天大学院校资讯">院校资讯</a></li>
+        <li><a href="//yz.kaoyan.com/buaa/daoshi/" title="北京航空航天大学导师介绍">导师介绍</a></li>
+        <li><a href="//yz.kaoyan.com/buaa/zhaosheng/" title="北京航空航天大学招生信息">招生信息</a></li>
+        <li><a href="//yz.kaoyan.com/buaa/fushi/" title="北京航空航天大学考研复试">考研复试</a></li>
+        <li><a href="//yz.kaoyan.com/buaa/tiaoji/" title="北京航空航天大学考研调剂">考研调剂</a></li>
+        <li><a href="//yz.kaoyan.com/buaa/wenda/" title="北京航空航天大学考研问答">考研问答</a></li>
+        <li><a href="//yz.kaoyan.com/buaa/jingyan/" title="北京航空航天大学考研经验">考研经验</a></li>
+        <li><a href="//yz.kaoyan.com/buaa/ziliao/" title="北京航空航天大学考研资料">考研资料</a></li>
+                <li><a href="//bbs.kaoyan.com/f91p1" rel='nofollow' title="北京航空航天大学考研论坛" target="_blank">考研论坛</a></li>
+            </ul>
+</div>
+<div class="schoolPst">
+    <div class="tlAd">
+<script type="text/javascript">BAIDU_CLB_fillSlot("850679");</script>
+</div>
+    <div class="positionDiv">
+        <div class="position"><a href="//yz.kaoyan.com/" title="研招网">研招网</a> &gt; <a href="http://www.kaoyan.com/beijing/" target='_self'>北京研招网</a> &gt; <a href="http://yz.kaoyan.com/buaa/" target='_self'>北京航空航天大学</a> &gt; <a href="http://yz.kaoyan.com/buaa/daoshi/" target='_self'>导师介绍</a>
+<script type='text/javascript'>var GAKEY="/北京研招网/北京航空航天大学/导师介绍/北航计算机应用技术专业导师介绍：殷传涛";</script>
+</div>
+        <div class="search">
+    <form>    
+       <input type="text" class="searchInput" id="bdcsMain" placeholder="请输入关键词">
+       <input type="submit" class="searchBtn" id="bdcsMain" value="搜索" />
+    </form> 
+    </div>
+    
+    <script type="text/javascript">(function(){document.write(unescape('%3Cdiv id="bdcs"%3E%3C/div%3E'));var bdcs = document.createElement('script');bdcs.type = 'text/javascript';bdcs.async = true;bdcs.src = '//znsv.baidu.com/customer_search/api/js?sid=4208867248830815163' + '&plate_url=' + encodeURIComponent(window.location.href) + '&t=' + Math.ceil(new Date()/3600000);var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(bdcs, s);})();</script>
+    
+    </div>
+</div>
+<div class="waper">
+    <div class="w1000">
+        <div class="main">
+            <div class="article">
+                <h1 class="articleTitle">北航计算机应用技术专业导师介绍：殷传涛</h1>
+                <div class="articleInfo">
+
+    <div class="detail_commit"><img src="//img.kybimg.com/bang/images/m/icon_down.png" style="background: white;" class="commit_icon" alt=""> <p class="detail_commit_in">►个人简介姓名：殷传涛性别：男出生年份：1982职称：讲师院系：中法工程师学院首次聘任导师时间：2012现聘任导师一级学科名称：计算机科学与技术</p></div>
+    <div class="tags_warp">
+      <div style="float: left;"><p class="icon_auth">作者</p><p class="c_auth">佚名</p></div>
+      <div class="icon_ey_warp"><img src="//img.kybimg.com/bang/images/m/icon_ey.png" class="icon_ey" alt=""><i class="detail_hits"></i>次阅读</div>
+      <div class="outer_utime">2015-07-14</div>
+     </div>
+                    <!-- qq分享 start -->
+                    <div class="qqShare">
+    <script type="text/javascript">
+    	document.write('<iframe src="http://open.qzone.qq.com/like?url=http%3A%2F%2Fuser.qzone.qq.com%2F348759&amp;width=100&amp;height=21&amp;type=button_num" class="vm" allowtransparency="true" scrolling="no" border="0" frameborder="0" style="width:120px;height:22px;vertical-align: middle;border:none;overflow:hidden;"></iframe>')
+    </script>
+</div>
+                    <!-- qq分享 end -->
+                </div>
+                <script type="text/javascript">BAIDU_CLB_fillSlot("2521247");</script>
+<input type="hidden" id="art_type" value="0"> 
+                <div class="articleCon">
+                    <p>
+	　　<strong><strong><strong>►</strong></strong>个人简介</strong><br />
+	　　姓名：殷传涛<br />
+	　　性别：男<br />
+	　　出生年份：1982<br />
+	　　职称：讲师<br />
+	　　院系：中法工程师学院<br />
+	　　首次聘任导师时间：2012<br />
+	　　现聘任导师一级学科名称：计算机科学与技术<br />
+	　　现聘任导师二级学科名称：计算机应用技术<br />
+	　　主要研究方向及特色：多年来主要从事移动学习、人机交互、增强现实、移动服务、学习理论、资源管理和用户体验等方面的研究工作，并在相关领域的国际会议与期刊中发表10余篇学术论文。<br />
+	<br />
+	　　<strong><strong>►</strong></strong><strong>联系方式</strong><br />
+	　　电子信箱：chuantao.yin@buaa.edu.cn<br />
+	　　办公电话：010-82316629<br />
+	　　办公地点：北京市海淀区学院路37号北京航空航天大学教学区2号楼410<br />
+	　　通信地址：北京市海淀区学院路37号北京航空航天大学中法工程师学院<br />
+	<br />
+	　　<strong><strong><strong>►</strong></strong>学习及工作经历</strong><br />
+	　　1999年进入西南交通大学通信工程系，2001被学校公派至法国巴黎中央理工大学（Ecole Centrale Paris）学习，于2003年同时获得巴黎中央理工大学工程师学位及西南交通大学学士学位。2006年获西南交通大学通信与信息系统专业硕士学位，同年9月被国家留学基金委通过&ldquo;法国五所中央理工大学博士生项目&rdquo;公派至法国里昂中央理工大学（Ecole Centrale de Lyon）攻读博士学位，于2010年1月顺利获得该校的计算机科学与技术专业博士学位。2010年8月起，作为海外优秀人才引入北京航空航天大学中法工程师学院担任青年骨干教师从事科研和教学工作,参与国家&ldquo;863&rdquo;、国际科技合作项目、海外优秀人才等多项科研项目。<br />
+	<br />
+	　　<strong><strong><strong>►</strong></strong>人才培养方面</strong><br />
+	　　讲授本科二年级《电子学实验》，1门次共72学时；参与讲授研究生一年级《计算机游戏设计》2门次共80学时；参与讲授研究生二年级《信息系统》2门次共32学时、《软件工程》1门次共16学时、《人机交互》1门次共16学时。指导本科生毕业设计共4组17人；指导硕士生共2人；协助指导联合培养博士生2人。指导冯如杯项目1组共4人，SRTP项目3组12人，ESTA项目2组8人。赴深圳指导学生暑期实习2批次共33人。主持校级研究生教改基金重点项目1项；主持校一般教改项目1项。参与《CTI工程师教育认证指南》、《法国工程师教育》两本书的编写工作。<br />
+	<br />
+	　　<strong><strong>►</strong></strong><strong>科学研究</strong><br />
+	　　参与863重点项目&ldquo;智慧城市（一期）&rdquo;项目；参与国家国际科技合作专项项目&ldquo;大飞机全生命周期数据活化与网络服务技术联合研发&rdquo;项目（2010），以及&ldquo;智慧城市与云计算：数据密集型处理与现代服务技术联合研发&rdquo;项目（2011）；参与完成&ldquo;智慧宝安&rdquo;规划项目。主持&ldquo;海外回国优秀人才&rdquo;基金1项；主持&ldquo;唯实&rdquo;基金1项；主持&ldquo;领航基金物联网专项&rdquo;基金1项。主持&ldquo;**会议总务子系统&rdquo;项目的研制。发表学术论文2篇；参与《Handbook of Mobile Learning》一书的编写工作。<br />
+	<br />
+	　　<strong><strong><strong>►</strong></strong>学院工作</strong><br />
+	　　辅助院长的教学事务处理工作；负责学院机房和网络设备的管理工作；担任两个班的班主任工作；负责&ldquo;中法教育合作联盟&rdquo;和北京市&ldquo;卓越工程师教育培养计划&rdquo;高校联盟的成立筹备工作，先后组织举办5次相关工作会议。组织&ldquo;2010智慧城市-中法信息学术研讨会&rdquo;、&ldquo;2011巴黎智慧城市学术研讨会&rdquo;和&ldquo;北航-中央理工学术研讨会智慧城市分会&rdquo;等三次国际学术研讨会。邀请法国专家来华访问1次，授课1门，联合培养博士生2人。</p>
+                </div>
+            </div>
+
+            <div class="tPage">
+                
+            </div>
+            <!--文章 底部 考研学堂 start （删除一个数学2521245，time:080312）-->
+       <!--  <div class="adsys_yzlb_text">
+            <div class="headers">
+                <script type="text/javascript">BAIDU_CLB_fillSlot("2521237");</script>
+                <script type="text/javascript">BAIDU_CLB_fillSlot("2521236");</script>
+            </div>
+            <div class="content">
+                <div class="item">              
+                    <table cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td rowspan="3">
+                                <div class="left" style="height: 89px;">
+                                    <img src="//img.kaoyan.com/www/images/icon01.png" alt="" style="margin:6px auto 14px;">
+                                    <span>会员班</span>
+                                </div>  
+                            </td>
+                        </tr>
+                        <script type="text/javascript">BAIDU_CLB_fillSlot("2521238");</script>
+                        <script type="text/javascript">BAIDU_CLB_fillSlot("2521239");</script>
+                        
+                        <tr>
+                            <td rowspan="4">
+                                <div class="left">
+                                    <img src="//img.kaoyan.com/www/images/icon02.png" alt="">
+                                    <span>专业课</span>
+                                </div>  
+                            </td>
+                        </tr>
+                        <script type="text/javascript">BAIDU_CLB_fillSlot("2521241");</script>
+                        <script type="text/javascript">BAIDU_CLB_fillSlot("2521242");</script>
+                        <script type="text/javascript">BAIDU_CLB_fillSlot("2521245");</script>
+                    
+                    </table>
+
+                </div>
+                
+            </div>
+        </div> -->
+        <!-- 营销QQ唤起 start -->
+    
+   <!--  <script charset="utf-8" src="//wpa.b.qq.com/cgi/wpa.php"></script>
+    <script>
+    
+        BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 4006572008, selector: 'J_tegaoke01'});
+        BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 4006572008, selector: 'J_tegaoke02'});
+        BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 4006572008, selector: 'J_tegaoke03'});
+        BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 4006572008, selector: 'J_tegaoke04'});
+        BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 4006572008, selector: 'J_tegaoke05'});
+        BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 4006572008, selector: 'J_tegaoke06'});
+        BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 4006572008, selector: 'J_tegaoke07'});
+        BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 4006572008, selector: 'J_tegaoke08'});
+        BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 4006572008, selector: 'J_tegaoke09'});
+        BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 4006572008, selector: 'J_tegaoke10'});
+    
+    </script>
+     -->
+    <!-- 营销QQ唤起 end -->
+
+        <!--文章 底部 考研学堂 end-->
+            <!-- 文章分享 start -->
+            <div class="share mb20 clear">                   
+    <div id="shareBtn">
+        <span class="fl">分享：</span><div class="bdsharebuttonbox"><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_more" data-cmd="more"></a>
+        </div>
+    </div>
+</div>
+            <!-- 文章分享 end -->
+            <div class="mt20">
+                <div class="finalTitle"><strong>北京航空航天大学相关信息：</strong></div>
+                <ul class="list">
+                                        <li><a href="http://yz.kaoyan.com/buaa/daoshi/55a49f455e815.html" title="北航计算机应用技术专业导师介绍：徐同阁" target="_blank">北航计算机应用技术专业导师介绍：徐同阁</a></li>
+                                        <li><a href="http://yz.kaoyan.com/buaa/daoshi/55a49def7303a.html" title="北航计算机应用技术专业导师介绍：吴壮志" target="_blank">北航计算机应用技术专业导师介绍：吴壮志</a></li>
+                                        <li><a href="http://yz.kaoyan.com/buaa/daoshi/55a49c8c8c744.html" title="北航计算机应用技术专业导师介绍：王静远" target="_blank">北航计算机应用技术专业导师介绍：王静远</a></li>
+                                        <li><a href="http://yz.kaoyan.com/buaa/daoshi/55a49b4dc2b26.html" title="北航计算机应用技术专业导师介绍：唐发根" target="_blank">北航计算机应用技术专业导师介绍：唐发根</a></li>
+                                        <li><a href="http://yz.kaoyan.com/buaa/daoshi/55a4995b436ad.html" title="北航计算机应用技术专业导师介绍：宋萌" target="_blank">北航计算机应用技术专业导师介绍：宋萌</a></li>
+                                        <li><a href="http://yz.kaoyan.com/buaa/daoshi/55a4982f01d76.html" title="北航计算机应用技术专业导师介绍：盛浩" target="_blank">北航计算机应用技术专业导师介绍：盛浩</a></li>
+                                        <li><a href="http://yz.kaoyan.com/buaa/daoshi/55a4895fe1bbe.html" title="北航计算机应用技术专业导师介绍：荣文戈" target="_blank">北航计算机应用技术专业导师介绍：荣文戈</a></li>
+                                        <li><a href="http://yz.kaoyan.com/buaa/daoshi/55a4888c8a45d.html" title="北航计算机应用技术专业导师介绍：任爱华" target="_blank">北航计算机应用技术专业导师介绍：任爱华</a></li>
+                                        <li><a href="http://yz.kaoyan.com/buaa/daoshi/55a48790a5bc5.html" title="北航计算机应用技术专业导师介绍：蒲菊华" target="_blank">北航计算机应用技术专业导师介绍：蒲菊华</a></li>
+                                        <li><a href="http://yz.kaoyan.com/buaa/daoshi/55a486bfbff4e.html" title="北航计算机应用技术专业导师介绍：彭绯" target="_blank">北航计算机应用技术专业导师介绍：彭绯</a></li>
+                                    </ul>
+                <p class="mt10"><a href="http://yz.kaoyan.com/buaa/" title="" class="sgrayBtn">返回北京航空航天大学<i class="backUniversity"></i></a></p>
+            </div>
+            <div class="mtpt20">
+                                <div class="finalTitle">
+                    <strong>北京航空航天大学论坛新帖：</strong><a href="//bbs.kaoyan.com/f91p1" rel="nofollow" title="北京航空航天大学考研论坛"  class="smore"  target="_blank">更多</a>
+                </div>
+                <ul class="list">
+                    <li><span>2021-03-26</span><a target='_blank' href='http://bbs.kaoyan.com/t3319888p1' rel='nofollow'>北航自动化考研资料自动控制原理课件（电子版）</a></li><li><span>2021-03-25</span><a target='_blank' href='http://bbs.kaoyan.com/t8337866p1' rel='nofollow'>2018北航教育学611真题回忆</a></li><li><span>2021-03-25</span><a target='_blank' href='http://bbs.kaoyan.com/t7024623p1' rel='nofollow'>北航7系考研经验</a></li><li><span>2021-03-25</span><a target='_blank' href='http://bbs.kaoyan.com/t5900392p1' rel='nofollow'>2015北航7系考研过程真情讲述，只为给学弟们一点帮助。</a></li><li><span>2021-03-02</span><a target='_blank' href='http://bbs.kaoyan.com/t5549227p1' rel='nofollow'>北航机械工程学院专业课资料无私分享啦~~~</a></li><li><span>2021-02-26</span><a target='_blank' href='http://bbs.kaoyan.com/t5953124p1' rel='nofollow'>2015年北航管工981回忆版试题</a></li><li><span>2021-02-05</span><a target='_blank' href='http://bbs.kaoyan.com/t3319896p1' rel='nofollow'>北航自动化考研数电课件（电子版）</a></li><li><span>2021-01-10</span><a target='_blank' href='http://bbs.kaoyan.com/t7992498p1' rel='nofollow'>2017北航外国语言学及应用语言学经验帖</a></li><li><span>2020-09-26</span><a target='_blank' href='http://bbs.kaoyan.com/t7863785p1' rel='nofollow'>北航法学 经验贴</a></li><li><span>2020-07-30</span><a target='_blank' href='http://bbs.kaoyan.com/t7585656p1' rel='nofollow'>北京航空航天大学2017年981管理科学与工程回忆版考试内容</a></li>
+                </ul>
+                <p class="mt10">
+                    <a href="//bbs.kaoyan.com/f91p1" rel="nofollow" title="北京航空航天大学考研论坛" class="sgrayBtn"  target="_blank">北京航空航天大学考研论坛<i class="backBbs"></i></a>
+                </p>
+                            </div>
+
+            <div class="uyanComment">
+                <!-- UY BEGIN -->
+                <div id="uyan_frame"></div>
+                <!-- UY END -->
+            </div>
+            <div class="subTitle mt40"><strong class="subTitleName">考研帮最新资讯</strong><a href="//www.kaoyan.com/update/" class="smore"  target="_blank">更多</a></div>
+            <ul class="list list320  f12 mb20">
+                <!--part_28397--><li><a href="https://www.kaoyan.com/https://www.kaoyan.com/baokao/zexiao/60a38838ac704.html" title="关于跨专业考研，你想要的都在这了！" target="_blank">关于跨专业考研，你想要的都在这了！</a></li>
+<li><a href="https://www.kaoyan.com/https://www.kaoyan.com/https://www.kaoyan.com/https://www.kaoyan.com/yingyu/j" title="四六级VS考研英语，能同时复习吗？" target="_blank">四六级VS考研英语，能同时复习吗？</a></li>
+<li><a href="https://www.kaoyan.com/https://www.kaoyan.com/https://www.kaoyan.com/beikao/jingyan/60a246be623cd.ht" title="如何第一时间获取最新考研资讯？这几大信息获取渠道一定要知道！" target="_blank">如何第一时间获取最新考研资讯？这几大信息获取渠道一定要知道！</a></li>
+<li><a href="https://www.kaoyan.com/https://www.kaoyan.com/https://www.kaoyan.com/beikao/jingyan/60a2460d90b95.ht" title="考研一定要早起吗？为什么有人熬夜打游戏还能上岸？" target="_blank">考研一定要早起吗？为什么有人熬夜打游戏还能上岸？</a></li>
+<li><a href="https://www.kaoyan.com/https://www.kaoyan.com/https://www.kaoyan.com/https://www.kaoyan.com/yingyu/j" title="考研英语首轮复习之重：单词、语法怎么学更高效？" target="_blank">考研英语首轮复习之重：单词、语法怎么学更高效？</a></li>
+<li><a href="https://yz.kaoyan.com/https://yz.kaoyan.com/https://yz.kaoyan.com/https://yz.kaoyan.com/https://yz.k" title="2021年中国科学院过程工程研究所大学生夏令营（第一批）优秀营员名单" target="_blank">2021年中国科学院过程工程研究所大学生夏令营（第一批）优秀营员名单</a></li>
+<li><a href="https://yz.kaoyan.com/https://yz.kaoyan.com/https://yz.kaoyan.com/https://yz.kaoyan.com/https://yz.k" title="2021年中国科学院声学研究所“东海之声”大学生夏令营招募通知" target="_blank">2021年中国科学院声学研究所“东海之声”大学生夏令营招募通知</a></li>
+<li><a href="https://yz.kaoyan.com/https://yz.kaoyan.com/https://yz.kaoyan.com/https://yz.kaoyan.com/https://yz.k" title="2021年中国人民大学统计学院关于举办“2021年全国优秀大学生夏令营”活动的通知" target="_blank">2021年中国人民大学统计学院关于举办“2021年全国优秀大学生夏令营”活动的通知</a></li>
+<li><a href="https://yz.kaoyan.com/https://yz.kaoyan.com/https://yz.kaoyan.com/https://yz.kaoyan.com/https://yz.k" title="2021年北京师范大学生命科学学院优秀大学生暑期夏令营通知" target="_blank">2021年北京师范大学生命科学学院优秀大学生暑期夏令营通知</a></li>
+<li><a href="https://yz.kaoyan.com/https://yz.kaoyan.com/https://yz.kaoyan.com/https://yz.kaoyan.com/https://yz.k" title="2021年上海财经大学关于通过夏令营接收2022年优秀应届本科毕业生免试攻读研究生的通知" target="_blank">2021年上海财经大学关于通过夏令营接收2022年优秀应届本科毕业生免试攻读研究生的通知</a></li>
+
+            </ul>
+        </div>
+        <div class="sider">
+            <div class="sBox">
+<script type="text/javascript">BAIDU_CLB_fillSlot("916118");</script>
+</div>
+            <div class="sBox">
+                <ul class="finalQuick">
+                    <li><a href="//yz.kaoyan.com/buaa/baolubi/" title="北京航空航天大学报录比">北京航空航天大学报录比</a></li>
+                    <li><a href="//yz.kaoyan.com/buaa/shumu/" title="北京航空航天大学参考书目">北京航空航天大学参考书目</a></li>
+                    <li><a href="//yz.kaoyan.com/buaa/dagang/" title="北京航空航天大学考研大纲">北京航空航天大学考研大纲</a></li>
+                    <li><a href="//yz.kaoyan.com/buaa/ziliao/" title="北京航空航天大学考研资料">北京航空航天大学考研资料</a></li>
+                </ul>
+            </div>
+            <!-- 广告系统 start -->
+<!-- <div class="adsys_wrap"> -->
+    <!--轮播图 start-->
+<!--     <div class="adsys_slider">
+        <div class="adsys_bigpic">
+            <a href="#" target="_blank">
+                <span></span>
+                <img src="" alt="">
+            </a>
+        </div>
+        <div class="adsys_thumb_list">
+            <ul class="clearfix">
+                <li><script type="text/javascript">BAIDU_CLB_fillSlot("2521222");</script></li>
+                <li><script type="text/javascript">BAIDU_CLB_fillSlot("2521223");</script></li>
+                <li><script type="text/javascript">BAIDU_CLB_fillSlot("2521224");</script></li>
+                <li><script type="text/javascript">BAIDU_CLB_fillSlot("2521227");</script></li>
+                <li><script type="text/javascript">BAIDU_CLB_fillSlot("2521229");</script></li>
+                <li><script type="text/javascript">BAIDU_CLB_fillSlot("2521232");</script></li>
+                <li><script type="text/javascript">BAIDU_CLB_fillSlot("2521233");</script></li>
+                <li><script type="text/javascript">BAIDU_CLB_fillSlot("2521234");</script></li>
+            </ul>
+        </div>
+    </div> -->
+    <!--轮播图 end-->
+
+<!-- </div>
+<script type="text/javascript">BAIDU_CLB_fillSlot("2521235");</script> -->
+<!-- 广告系统 end -->
+            <div class="sBox">
+                <p class="rTitle">北京航空航天大学热点文章</p>
+                <ul class="slist">
+                    <!--part_27050--><li><a href="http://yz.kaoyan.com/buaa/fenshuxian/5e6074b6cdac2.html" title="2020年北京航空航天大学考研复试分数线" target="_blank">2020年北京航空航天大学考研复试分数线</a></li>
+<li><a href="http://yz.kaoyan.com/buaa/jianzhang/" title="考研招生简章" target="_blank">考研招生简章</a></li>
+<li><a href="http://yz.kaoyan.com/buaa/zhuanye/" title="考研专业目录" target="_blank">考研专业目录</a></li>
+<li><a href="http://yz.kaoyan.com/buaa/shumu/" title="考研参考书目" target="_blank">考研参考书目</a></li>
+<li><a href="http://yz.kaoyan.com/buaa/fenshuxian/" title="考研分数线" target="_blank">考研分数线</a></li>
+<li><a href="http://yz.kaoyan.com/buaa/baolubi/" title="考研报录比" target="_blank">考研报录比</a></li>
+<li><a href="http://yz.kaoyan.com/buaa/dagang/" title="考研大纲汇总" target="_blank">考研大纲汇总</a></li>
+<li><a href="http://yz.kaoyan.com/buaa/jingyan/" title="考研经验汇总" target="_blank">考研经验汇总</a></li>
+
+                </ul>
+            </div>
+            <div class="sBox">
+                                <p class="rTitle">北京航空航天大学热门话题<a href="//bbs.kaoyan.com/f91p1" rel="nofollow" class="smore" target="_blank">进入北京航空航天大学论坛</a></p>
+                <ul class="slist" id="finalBbsList">
+                    <li><span>2021-05-18</span><a target='_blank' href='http://bbs.kaoyan.com/t10315873p1' rel='nofollow'>2021年北京航空航天大学431金融专硕411分学霸复习经验</a></li><li><span>2021-05-18</span><a target='_blank' href='http://bbs.kaoyan.com/t10284609p1' rel='nofollow'>2021北京航空航天大学基础医学701成功上岸啦！</a></li><li><span>2021-05-18</span><a target='_blank' href='http://bbs.kaoyan.com/t10315765p1' rel='nofollow'>北航2021非全日研究生考研交流贴</a></li><li><span>2021-05-18</span><a target='_blank' href='http://bbs.kaoyan.com/t10292062p1' rel='nofollow'>22年考研进！ 学长在线答疑~ 复习资 料</a></li><li><span>2021-05-17</span><a target='_blank' href='http://bbs.kaoyan.com/t10314833p1' rel='nofollow'>求北航高等教育学 学长 学姐</a></li><li><span>2021-05-17</span><a target='_blank' href='http://bbs.kaoyan.com/t10309588p1' rel='nofollow'>学长学姐在线答疑，北航信息汇总</a></li><li><span>2021-05-17</span><a target='_blank' href='http://bbs.kaoyan.com/t10315262p1' rel='nofollow'>北京航空航天大学各专业历年考研真题、答案、内部笔记</a></li>
+                </ul>
+                            </div>
+            <div class="adsys_wrap" style="margin-bottom:20px">
+            <!--文字块 start-->
+            <!--<div class="adsys_text_line_list">
+                <div class="hd">
+                    推荐课程
+                    <script type="text/javascript">BAIDU_CLB_fillSlot("2521220");</script>
+                </div>
+                <div class="bd">
+                    <div class="mod">
+                        <p>
+                            <script type="text/javascript">BAIDU_CLB_fillSlot("2521199");</script>
+                            <script type="text/javascript">BAIDU_CLB_fillSlot("2521202");</script> 
+                            <script type="text/javascript">BAIDU_CLB_fillSlot("2521203");</script>
+                        </p>
+                        <p>
+                            <script type="text/javascript">BAIDU_CLB_fillSlot("2521205");</script>
+                            <script type="text/javascript">BAIDU_CLB_fillSlot("2521206");</script> 
+                            <script type="text/javascript">BAIDU_CLB_fillSlot("2521207");</script>
+                        </p>
+                    </div>
+                          <script type="text/javascript">BAIDU_CLB_fillSlot("2521196");</script>
+                    <p class="notic">课程预告，帮学堂出品</p>
+                    <ul>
+                      <script type="text/javascript">BAIDU_CLB_fillSlot("2521208");</script>
+                      <script type="text/javascript">BAIDU_CLB_fillSlot("2521209");</script> 
+                      <script type="text/javascript">BAIDU_CLB_fillSlot("2521213");</script>                      
+                      <script type="text/javascript">BAIDU_CLB_fillSlot("2521216");</script>
+                      <script type="text/javascript">BAIDU_CLB_fillSlot("2521218");</script>
+                    </ul>
+                          <script type="text/javascript">BAIDU_CLB_fillSlot("2521197");</script>
+                </div>
+            </div>-->
+            <!--文字块 end-->
+            <!--<script type="text/javascript">BAIDU_CLB_fillSlot("2521221");</script>-->
+        </div>
+            <div class="sBox">
+                <p class="rTitle">考研帮地方站</p>
+                <script src="//img.kaoyan.com/www/areasite.js" type="text/javascript"></script>
+            </div>
+
+            <!-- 广告系统 start -->
+        <!-- <div class="adsys_wrap" style="margin-bottom:20px"> -->
+            <!--图文2张图 start-->
+            <!-- <div class="adsys_pic_text_two">
+                <div class="adsys_pic_list">
+                    <ul class="clearfix">
+                        <script type="text/javascript">BAIDU_CLB_fillSlot("2521171");</script>
+                        <script type="text/javascript">BAIDU_CLB_fillSlot("2521172");</script>
+                    </ul>
+                </div>
+                <div class="adsys_txt_list clearfix">
+                    <script type="text/javascript">BAIDU_CLB_fillSlot("2521175");</script>
+                    <script type="text/javascript">BAIDU_CLB_fillSlot("2521185");</script>
+                    <script type="text/javascript">BAIDU_CLB_fillSlot("2521186");</script>
+                    <script type="text/javascript">BAIDU_CLB_fillSlot("2521187");</script>
+                    <script type="text/javascript">BAIDU_CLB_fillSlot("2521189");</script>
+                    <script type="text/javascript">BAIDU_CLB_fillSlot("2521191");</script>
+                    <script type="text/javascript">BAIDU_CLB_fillSlot("2521192");</script>
+                    <script type="text/javascript">BAIDU_CLB_fillSlot("2521193");</script>
+                </div>
+            </div> -->
+            <!--图文2张图 end-->
+           <!--  <script type="text/javascript">BAIDU_CLB_fillSlot("2521195");</script>
+        </div> -->
+        <!-- 广告系统 end -->
+
+<style>
+  .right-side-all {
+    width: 377px;
+    padding: 23px 12px 0 0;
+    box-sizing: border-box;
+  }
+
+  .right-side-title {
+    width: 98px;
+    height: 21px;
+    font-size: 14px;
+    font-family: MicrosoftYaHei;
+    color: rgba(0, 0, 0, 0.6);
+    line-height: 21px;
+    margin-bottom: 10px;
+  }
+
+  .right-side-count-down {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+  }
+
+  .right-side-count-text {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+  }
+
+  .right-side-count-text {
+    font-size: 14px;
+    font-family: MicrosoftYaHei-Bold, MicrosoftYaHei;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.8);
+    line-height: 21px;
+  }
+
+  .right-side-text {
+    font-size: 14px;
+    font-family: Helvetica;
+    color: rgba(0, 0, 0, 0.8);
+    line-height: 21px;
+  }
+
+  /* .count-day {
+    display: block;
+    width: 37px;
+    height: 40px;
+    background: url("http://img.kybimg.com/bang/images/pc/attractPc/count-down.png");
+    margin: 0 5px;
+    font-size: 24px;
+    font-family: Helvetica;
+    color: #FFFFFF;
+    line-height: 45px;
+    text-align: center;
+  } */
+
+  .right-side-text {
+    text-align: center;
+  }
+
+  .right-img {
+    width: 100%;
+    /* height: 339px; */  
+}
+
+  .right-qcode {
+    width: 265px;
+    height: 200px;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .qcode-box {
+    position: relative;
+  }
+
+  .bottom-text {
+    position: absolute;
+    left: 50%;
+    text-align: center;
+    bottom: 30px;
+    margin-left: -175px;
+    color: rgba(0, 0, 0, 0.6);
+    font-size: .65rem;
+    width: 100%;
+  }
+  
+  .bottom-qrcode {
+    position: absolute;
+    top: 30px;
+    left: 50%;
+    margin-left: -45.5px;
+  }
+</style>
+  <div class="right-side-all">
+    <p class="right-side-title">你可能会关心：</p>
+    <div class="right-count-down">
+      <p class="right-side-count-text">
+        <span class="school-name">查看目标大学</span>的更多信息
+      </p>
+    </div>
+    <p class="right-side-text">
+      分数线、报录比、招生简章 <br>
+       一个都不能错过
+    </p>
+    <img src="http://img.kybimg.com/bang/images/pc/attractPc/school.png" alt="" class="right-img">
+    <img src="http://img.kybimg.com/bang/images/pc/attractPc/qcode.png" alt="" class="right-qcode">
+    <div class="qcode-box" style="display:none;">
+      <div id="right-side-qrcode" class="bottom-qrcode"></div>
+      <p class= "bottom-text">手机扫描二维码下载APP</p>
+      <img src="http://img.kybimg.com/bang/images/pc/attractPc/qcode-bg.png" alt="" class="right-qcode">
+    </div>
+  </div>
+  <script src="http://img.kaoyan.com/js/jquery/jquery-2.1.4.min.js"></script>
+  <script src="http://img.kaoyan.com/js/jquery.qcode.min.js"></script>
+  <script>
+    $(document).ready(function(){
+      let title = $(".logo a").attr("title");
+      $(".school-name").html(title)
+      let titleCon = $('title').html();
+      let sourcePosition = "";
+      let sourceLeft = ""
+      if ($('#right-side-qrcode')[0]) {
+        sourcePosition = "QR_articlebeikao";
+      }
+      // let allUrlLocation = "http://img.kybimg.com/bangxuetang/play/down_kyb.html?source=" + sourcePosition + "_" + titleCon;
+      // $('#right-side-qrcode').qrcode({
+      //   render: "canvas", //也可以替换为table
+      //   width: 91,
+      //   height: 91,
+      //   text: allUrlLocation
+      // });    
+})
+    function getQueryString(name){
+          var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+          var r = window.location.search.substr(1).match(reg);
+          if(r!=null)return  unescape(r[2]); return null;
+        }
+  </script>
+        </div><!--右侧结束-->
+    </div>
+</div>
+<p class="clearFooter"></p>
+<div class="footer">
+    <a href="//bang.kaoyan.com/" rel="nofollow" target="_blank" class="qrcode">
+        <img id="old-image" src="http://img.kybimg.com/home/images/qrcode_kyb.png">
+      <div id="bottom-qrcode" style="display: none;"></div>
+        <span>下载考研帮app</span>
+    </a>
+    <script src="//img.kaoyan.com/www/footera.js" type="text/javascript"></script>
+    - <a href="//www.kaoyan.com/sitemap/">网站地图</a> - <a href="//www.kaoyan.com/yzsitemap/">院校地图</a> - <a href="//www.kaoyan.com/update/">最新更新</a> - <a href="//www.kaoyan.com/jianzhang/">2021考研招生简章</a> - <a href="//www.kaoyan.com/dagang/">2021考研大纲</a>
+    <script src="//img.kaoyan.com/www/footerb.js" type="text/javascript"></script>
+    <p class="fGray">
+        <a key="553dfde758725379d18af4fa" logo_size="83x30" logo_type="business" href="//www.anquan.org" rel="nofollow">
+            <script src="//static.anquan.org/static/outer/js/aq_auth.js"></script>
+        </a>
+    </p>
+</div>
+
+<!--二维码 start-->
+
+ <style type="text/css">
+    .floatQrcode{position:fixed; bottom:10px; left:50%; width:150px; margin-left:-665px; padding-top:20px; z-index:1;}
+    .floatQrcode .close{position:absolute; right:0; top:0; font-size:14px;}
+    .floatQrcode img{width:100%;}
+    .float-box{
+      width: 100%;
+      height: 227px;
+      background: url("http//img.kybimg.com/home/images/float-bg.png");
+    }
+    .float-text {
+      text-align: center;
+      word-break: break-all;
+      font-size: 12;
+    }
+    </style>
+  <div class="floatQrcode" id="J_floatQrcode">
+    <span class="close" id="J_floatQrcode_close">&times; 关闭</span>
+    <img class="left-img" src="http://img.kybimg.com/home/images/qrcode_18th.png?v=2" alt="">
+    <div class="float-box" style="display: none;">
+      <div id="float-left"></div>
+      <p class="float-text">扫码下载考研帮APP下资料、找研友更快</p>
+    </div>
+</div>
+<script>
+var oFloat = document.getElementById('J_floatQrcode'),
+    oClose = document.getElementById('J_floatQrcode_close');
+
+oClose.onclick = function(){
+    oFloat.style.display = 'none';
+}
+</script>
+
+<!--二维码 end-->
+<script src="//img.kaoyan.com/js/statistics/kycommon_pc.js"></script>
+<script type='text/javascript' src='//img.kaoyan.com/global/js/gcc.js'></script>
+<script type="text/javascript">
+    BAIDU_CLB_fillSlot("2459243");
+</script>
+<script type="text/javascript">
+    BAIDU_CLB_fillSlot("2459206");
+</script>
+<script src="//img.kaoyan.com/home/js/jquery.1.9.1.min.js"></script>
+<script src="//img.kaoyan.com/js/jquery.qcode.min.js"></script>
+  <script>
+    if(getParam("arguments")=="test"){
+      $("#old-image").hide();
+      $("#bottom-qrcode").show();
+      $(".left-img").hide();
+      $(".float-box").show();
+      let titleCon = encodeURIComponent(document.title);
+      let urlLocation = encodeURIComponent(window.location.href);
+      let sourcePosition = "";
+      let sourceLeft = ""
+      let sourceSide = ""
+      if ($('#bottom-qrcode')[0]) {
+        sourcePosition = "QR_bottom";
+      }
+      if ($('#bottom-qrcode')[0]) {
+        sourceLeft = "QR_leftfloat";
+      }
+      if ($('#right-side-qrcode')[0]) {
+        sourceSide = $('#right-side-qrcode').attr("data-source");
+      }
+      let allUrlLocation = "http://img.kybimg.com/bangxuetang/play/down_kyb.html?source=" + sourcePosition;
+      let leftLocation = "http://img.kybimg.com/bangxuetang/play/down_kyb.html?source=" + sourceLeft;
+      $('#bottom-qrcode').qrcode({
+        render: "canvas", //也可以替换为table
+        width: 91,
+        height: 91,
+        text: allUrlLocation
+      });
+      $('#float-left').qrcode({
+        render: "canvas", //也可以替换为table
+        width: 91,
+        height: 91,
+        text: leftLocation
+      });
+    }
+    function getParam(name) {
+            var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+            var r = window.location.search.substr(1).match(reg);
+            if (r != null) return decodeURI(r[2]); return null;
+        }  
+</script>
+<script src="//img.kybimg.com/bangxuetang/js/advertise/kyAdvatise.js"></script>
+<script type="text/javascript" src="//img.kaoyan.com/school/js/jquery.1.9.1.min.js"></script>
+<script src="//img.kaoyan.com/js/app/pc/adsys/index.js"></script>
+<script>
+if($('.guideList')[0]){
+    var NTKF_PARAM = {
+       siteid:"kf_9172", 
+       settingid:"kf_9172_1458267725423"
+    }
+}
+</script>
+<script type="text/javascript" src="//dl.ntalker.com/js/xn6/ntkfstat.js?siteid=kf_9172" charset="utf-8"></script>
+<script type="text/javascript" src="//img.kaoyan.com/school/js/yz.school.packed.js"></script>
+</body>
+</html>
